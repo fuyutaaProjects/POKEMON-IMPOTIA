@@ -1,0 +1,19 @@
+{
+  "id": 129,
+  "dbSymbol": "corail_dense",
+  "icon": "794",
+  "price": 1500,
+  "socket": 6,
+  "position": 0,
+  "isBattleUsable": true,
+  "isMapUsable": true,
+  "isLimited": true,
+  "isHoldable": false,
+  "flingPower": 30,
+  "klass": "StatusRateHealItem",
+  "loyaltyMalus": 0,
+  "hpRate": 0.5,
+  "statusList": [
+    "DEATH"
+  ]
+}

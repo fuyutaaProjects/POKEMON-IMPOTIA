@@ -1,0 +1,27 @@
+================================Erreur de script================================
+Message :
+uninitialized constant Game_Character::TGrass
+
+Type : NameError
+Script : 00100 BubblewalkPlugin.rb (user)
+Ligne : 16
+Date : 15/02/2024 00:32:36
+Game Version : 256
+Logiciel : Pokémon SDK 26.22
+===================================Backtraces===================================
+[14] : 00100 BubblewalkPlugin.rb (user) | ligne 16 <class:Game_Character>
+[13] : 00100 BubblewalkPlugin.rb (user) | ligne 1 <top (required)>
+[12] : ScriptLoad.rb (PSDK) | ligne 88 require
+[11] : ScriptLoad.rb (PSDK) | ligne 88 load_scripts
+[10] : ScriptLoad.rb (PSDK) | ligne 85 each
+[9] : ScriptLoad.rb (PSDK) | ligne 85 load_scripts
+[8] : ScriptLoad.rb (PSDK) | ligne 76 load_vscode_scripts
+[7] : ScriptLoad.rb (PSDK) | ligne 42 start
+[6] : tools/GameLoader/50_load_game_uncompiled.rb (PSDK) | ligne 7 <top (required)>
+[5] : ScriptLoad.rb (PSDK) | ligne 190 require
+[4] : ScriptLoad.rb (PSDK) | ligne 190 load_tool
+[3] : tools/GameLoader/Z_load_uncompiled.rb (PSDK) | ligne 16 <top (required)>
+[2] : ScriptLoad.rb (PSDK) | ligne 190 require
+[1] : ScriptLoad.rb (PSDK) | ligne 190 load_tool
+[0] : Game.rb (RMXP) | ligne 11 <main>
+===================================Fin du log===================================

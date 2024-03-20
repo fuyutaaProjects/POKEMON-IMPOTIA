@@ -1,0 +1,186 @@
+--- !ruby/object:RPG::Map
+tileset_id: 16
+width: 20
+height: 15
+autoplay_bgm: false
+bgm: !ruby/object:RPG::AudioFile
+  name: ''
+  volume: 100
+  pitch: 100
+autoplay_bgs: false
+bgs: !ruby/object:RPG::AudioFile
+  name: ''
+  volume: 80
+  pitch: 100
+encounter_list: []
+encounter_step: 30
+data: !ruby/object:Table
+  data: |
+    init 20 15 3
+    z = 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 506 506 506 506 506 506 506 505 505 505 505 505 467 0 0 0
+    0 0 0 0 506 506 506 506 506 506 506 505 505 505 505 505 467 0 0 0
+    0 0 0 0 506 506 505 505 506 506 506 505 505 505 505 505 467 0 0 0
+    0 0 0 0 506 506 505 505 505 506 506 505 505 505 505 505 467 0 0 0
+    0 0 0 0 506 506 505 505 505 506 506 505 505 505 505 505 467 0 0 0
+    0 0 0 0 506 506 506 506 506 506 506 505 505 505 505 505 467 0 0 0
+    0 0 0 0 506 506 506 505 505 505 505 505 505 505 505 505 467 0 0 0
+    0 0 0 0 506 506 506 506 506 506 506 506 506 506 506 506 467 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    z = 1
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 392 392 392 392 392 392 392 392 392 392 392 392 0 0 0 0
+    0 0 0 0 400 400 400 400 400 400 400 400 400 400 400 400 0 0 0 0
+    0 0 0 0 0 0 467 467 784 785 620 507 507 467 467 467 467 0 0 0
+    0 0 0 0 0 0 507 507 792 793 628 507 507 507 507 507 467 0 0 0
+    0 0 0 0 0 507 0 0 638 507 507 507 507 507 507 507 507 0 0 0
+    0 0 0 0 507 507 0 0 0 507 507 507 507 507 507 507 507 507 0 0
+    0 0 0 0 0 0 0 0 0 507 507 507 507 507 507 507 507 507 0 0
+    0 0 0 0 0 0 507 507 507 507 507 507 507 507 507 507 507 507 0 0
+    0 0 0 0 0 0 507 507 507 507 507 507 507 507 507 507 507 0 0 0
+    0 0 0 0 0 0 507 507 507 507 507 507 507 507 507 507 467 0 0 0
+    0 0 0 0 0 0 467 467 467 507 507 507 507 467 467 467 467 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    z = 2
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 848 848 848 848 848 848 848 848 848 848 848 848 848 848 0 0 0
+    0 0 0 848 507 507 507 507 507 507 507 507 507 507 507 507 848 0 0 0
+    0 0 507 848 507 507 507 507 507 507 507 507 507 507 507 507 848 0 0 0
+    0 0 507 848 507 507 507 507 507 507 507 507 507 507 507 507 848 0 0 0
+    0 0 0 848 507 507 507 507 507 507 507 507 507 507 507 507 848 0 0 0
+    0 0 507 848 507 507 0 0 639 507 507 507 507 507 507 507 848 0 0 0
+    0 0 507 848 507 507 0 0 647 507 507 507 507 507 507 507 848 0 0 0
+    0 0 507 848 0 0 0 0 0 507 507 507 507 507 507 507 848 0 0 0
+    0 0 0 848 0 0 0 507 507 507 507 507 507 507 507 507 848 0 0 0
+    0 0 0 848 0 0 507 507 507 507 507 507 507 507 507 0 848 0 0 0
+    0 0 0 848 0 507 507 507 835 836 837 507 507 507 0 0 848 0 0 0
+    0 0 0 848 848 848 848 848 848 848 848 848 848 848 848 848 848 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+events:
+  1: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 26
+        - 19
+        - 21
+        - 2
+        - 0
+        indent: 0
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 1
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: EV001
+    y: 11
+    x: 9
+    id: 1
+  2: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 'J''ai vendu tout ce que j''avais pour investir dans une '
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 'nouvelle cryptomonnaie, elle va exploser et je '
+        indent: 0
+        code: 401
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          cG91cnJhaXMgbSdhY2hldGVyIHVuZSB2aWxsYSDDoCBaZXBoeXJpb24h
+        indent: 0
+        code: 401
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: nerd_2_walk
+        pattern: 0
+        tile_id: 0
+        direction: 8
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: EV002
+    y: 6
+    x: 8
+    id: 2

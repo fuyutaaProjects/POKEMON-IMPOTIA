@@ -1,0 +1,124 @@
+--- !ruby/object:RPG::Map
+tileset_id: 16
+width: 20
+height: 15
+autoplay_bgm: false
+bgm: !ruby/object:RPG::AudioFile
+  name: ''
+  volume: 100
+  pitch: 100
+autoplay_bgs: false
+bgs: !ruby/object:RPG::AudioFile
+  name: ''
+  volume: 80
+  pitch: 100
+encounter_list: []
+encounter_step: 30
+data: !ruby/object:Table
+  data: |
+    init 20 15 3
+    z = 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 392 0 392 0 0 0 0
+    0 0 0 0 0 0 400 0 0 0 0 0 0 400 0 400 0 0 0 0
+    0 0 0 0 0 0 512 513 514 505 505 505 506 506 506 506 467 0 0 0
+    0 0 0 0 522 522 522 521 522 505 505 505 506 506 505 505 467 0 0 0
+    0 0 0 0 522 522 522 522 522 505 505 505 505 506 506 505 467 0 0 0
+    0 0 0 0 522 522 522 522 522 505 505 505 505 506 506 505 467 0 0 0
+    0 0 0 0 522 522 522 522 522 505 505 505 505 506 506 505 467 0 0 0
+    0 0 0 0 506 506 506 505 505 505 505 505 505 505 505 505 467 0 0 0
+    0 0 0 0 506 506 506 505 505 505 505 505 505 505 505 505 467 0 0 0
+    0 0 0 0 506 506 506 506 506 506 506 506 506 506 506 506 467 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    z = 1
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 392 392 392 392 392 392 392 392 392 392 392 392 0 0 0 0
+    0 0 0 0 400 400 712 400 400 400 400 400 400 0 400 0 0 0 0 0
+    0 0 0 0 0 0 467 467 467 467 467 467 467 0 467 0 467 0 0 0
+    0 0 0 0 0 0 467 467 737 467 467 467 467 467 467 467 467 0 0 0
+    0 0 0 0 0 0 467 467 737 467 632 633 634 0 0 467 467 0 0 0
+    0 0 0 0 0 0 467 467 737 467 640 641 642 0 0 467 467 0 0 0
+    0 0 0 0 0 0 467 467 745 467 648 649 650 0 0 467 467 0 0 0
+    0 0 0 0 0 0 467 467 467 467 467 467 467 467 467 467 467 0 0 0
+    0 0 0 0 620 0 788 467 467 467 467 467 467 467 467 467 467 0 0 0
+    0 0 0 0 628 0 796 467 467 467 467 686 687 467 467 467 467 0 0 0
+    0 0 0 0 0 0 467 467 467 467 467 467 467 467 467 467 467 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    z = 2
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 848 848 848 848 848 848 848 848 848 848 848 848 848 848 0 0 0
+    0 0 0 848 0 0 635 0 583 0 507 0 0 0 0 0 848 0 0 0
+    0 0 0 848 715 716 643 713 729 808 541 542 538 786 787 0 848 0 0 0
+    0 0 0 848 723 724 720 721 737 816 549 550 546 794 795 0 848 0 0 0
+    0 0 0 848 0 0 0 0 0 0 0 0 0 0 0 0 848 0 0 0
+    0 0 0 848 0 0 0 0 0 0 555 556 639 0 0 0 848 0 0 0
+    0 0 0 848 725 0 0 0 0 0 563 564 647 0 0 0 848 0 0 0
+    0 0 0 848 0 0 0 0 0 0 638 638 0 0 0 0 848 0 0 0
+    0 0 0 848 0 0 0 0 0 0 646 646 0 0 0 0 848 0 0 0
+    0 0 0 848 0 0 0 0 0 0 0 0 0 0 0 0 848 0 0 0
+    0 0 0 848 0 0 0 0 827 828 829 0 0 0 0 0 848 0 0 0
+    0 0 0 848 848 848 848 848 848 848 848 848 848 848 848 848 848 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+events:
+  1: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 26
+        - 58
+        - 33
+        - 2
+        - 0
+        indent: 0
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 1
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: EV001
+    y: 11
+    x: 9
+    id: 1

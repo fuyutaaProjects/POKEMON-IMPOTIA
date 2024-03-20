@@ -1,0 +1,334 @@
+---
+38: !ruby/object:RPG::MapInfo
+  scroll_x: 640
+  name: PA H RR1
+  expanded: false
+  order: 40
+  scroll_y: 240
+  parent_id: 33
+27: !ruby/object:RPG::MapInfo
+  scroll_x: 640
+  name: Player House
+  expanded: false
+  order: 29
+  scroll_y: 467
+  parent_id: 26
+5: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: !binary |-
+    Q2VudHJlIFBva8OpbW9u
+  expanded: false
+  order: 3
+  scroll_y: 240
+  parent_id: 14
+16: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP016
+  expanded: false
+  order: 16
+  scroll_y: 240
+  parent_id: 8
+33: !ruby/object:RPG::MapInfo
+  scroll_x: 1503
+  name: Port Avalon
+  expanded: true
+  order: 37
+  scroll_y: 1717
+  parent_id: 0
+11: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP011
+  expanded: false
+  order: 14
+  scroll_y: 240
+  parent_id: 8
+22: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP022
+  expanded: false
+  order: 22
+  scroll_y: 240
+  parent_id: 8
+44: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: DEBUG ROOM
+  expanded: false
+  order: 26
+  scroll_y: 240
+  parent_id: 14
+39: !ruby/object:RPG::MapInfo
+  scroll_x: 640
+  name: PA H YR1
+  expanded: false
+  order: 41
+  scroll_y: 240
+  parent_id: 33
+28: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: House GRbot
+  expanded: false
+  order: 30
+  scroll_y: 240
+  parent_id: 26
+6: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: Grotte de Glace
+  expanded: false
+  order: 6
+  scroll_y: 240
+  parent_id: 2
+17: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP017
+  expanded: false
+  order: 17
+  scroll_y: 240
+  parent_id: 8
+34: !ruby/object:RPG::MapInfo
+  scroll_x: 1600
+  name: SYLVEBRUME
+  expanded: false
+  order: 46
+  scroll_y: 1154
+  parent_id: 0
+45: !ruby/object:RPG::MapInfo
+  scroll_x: 480
+  name: R1 H GR1
+  expanded: false
+  order: 36
+  scroll_y: 492
+  parent_id: 42
+1: !ruby/object:RPG::MapInfo
+  scroll_x: 432
+  name: !binary |-
+    Rm9yw6p0IGRlIFDDqWhhaXNzZS1kZS1DYXM=
+  expanded: false
+  order: 11
+  scroll_y: 615
+  parent_id: 14
+12: !ruby/object:RPG::MapInfo
+  scroll_x: 1102
+  name: Village nord
+  expanded: false
+  order: 8
+  scroll_y: 240
+  parent_id: 9
+23: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP023
+  expanded: false
+  order: 23
+  scroll_y: 240
+  parent_id: 8
+40: !ruby/object:RPG::MapInfo
+  scroll_x: 640
+  name: PA H RR2
+  expanded: false
+  order: 42
+  scroll_y: 240
+  parent_id: 33
+29: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: House PRTleft
+  expanded: false
+  order: 31
+  scroll_y: 240
+  parent_id: 26
+7: !ruby/object:RPG::MapInfo
+  scroll_x: 640
+  name: Mer
+  expanded: false
+  order: 7
+  scroll_y: 640
+  parent_id: 9
+18: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP018
+  expanded: false
+  order: 18
+  scroll_y: 240
+  parent_id: 8
+46: !ruby/object:RPG::MapInfo
+  scroll_x: 1231
+  name: Cave Sous-marine
+  expanded: false
+  order: 47
+  scroll_y: 1218
+  parent_id: 0
+35: !ruby/object:RPG::MapInfo
+  scroll_x: 908
+  name: Route 02
+  expanded: false
+  order: 45
+  scroll_y: 459
+  parent_id: 0
+2: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: Grotte de l'Aissay
+  expanded: false
+  order: 5
+  scroll_y: 320
+  parent_id: 9
+13: !ruby/object:RPG::MapInfo
+  scroll_x: 800
+  name: Village PSDK Est
+  expanded: false
+  order: 9
+  scroll_y: 574
+  parent_id: 9
+24: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP024
+  expanded: false
+  order: 24
+  scroll_y: 240
+  parent_id: 8
+41: !ruby/object:RPG::MapInfo
+  scroll_x: 640
+  name: PA H PR2
+  expanded: false
+  order: 43
+  scroll_y: 240
+  parent_id: 33
+30: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: House PR1droite
+  expanded: false
+  order: 32
+  scroll_y: 240
+  parent_id: 26
+8: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: Buffer
+  expanded: false
+  order: 12
+  scroll_y: 240
+  parent_id: 14
+19: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP019
+  expanded: false
+  order: 19
+  scroll_y: 240
+  parent_id: 8
+36: !ruby/object:RPG::MapInfo
+  scroll_x: 640
+  name: PA H BR1
+  expanded: false
+  order: 38
+  scroll_y: 240
+  parent_id: 33
+3: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: Player's House
+  expanded: false
+  order: 10
+  scroll_y: 240
+  parent_id: 9
+14: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: PSDK .25.0
+  expanded: true
+  order: 1
+  scroll_y: 240
+  parent_id: 0
+25: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP025
+  expanded: false
+  order: 25
+  scroll_y: 240
+  parent_id: 8
+47: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: !binary |-
+    Q2VudHJlIFBva8OpbW9u
+  expanded: false
+  order: 44
+  scroll_y: 240
+  parent_id: 33
+42: !ruby/object:RPG::MapInfo
+  scroll_x: 752
+  name: Route 01
+  expanded: false
+  order: 35
+  scroll_y: 555
+  parent_id: 0
+31: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: House PRT2enhaut
+  expanded: false
+  order: 33
+  scroll_y: 240
+  parent_id: 26
+9: !ruby/object:RPG::MapInfo
+  scroll_x: 592
+  name: !binary |-
+    VmlsbGFnZSBQw6loYWlzc2UtZGUtQ2Fz
+  expanded: false
+  order: 4
+  scroll_y: 711
+  parent_id: 14
+20: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP020
+  expanded: false
+  order: 20
+  scroll_y: 240
+  parent_id: 8
+37: !ruby/object:RPG::MapInfo
+  scroll_x: 640
+  name: PA H GR1
+  expanded: false
+  order: 39
+  scroll_y: 240
+  parent_id: 33
+26: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: Oasisville
+  expanded: false
+  order: 28
+  scroll_y: 986
+  parent_id: 0
+4: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: Start
+  expanded: false
+  order: 2
+  scroll_y: 240
+  parent_id: 14
+15: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP015
+  expanded: false
+  order: 15
+  scroll_y: 240
+  parent_id: 8
+43: !ruby/object:RPG::MapInfo
+  scroll_x: 800
+  name: Mermesa
+  expanded: false
+  order: 27
+  scroll_y: 1132
+  parent_id: 0
+32: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: House GR
+  expanded: false
+  order: 34
+  scroll_y: 240
+  parent_id: 26
+10: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: message_test
+  expanded: false
+  order: 13
+  scroll_y: 240
+  parent_id: 8
+21: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: MAP021
+  expanded: false
+  order: 21
+  scroll_y: 240
+  parent_id: 8

@@ -1,0 +1,75 @@
+{
+  "klass": "Specie",
+  "id": 790,
+  "dbSymbol": "cosmoem",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.1,
+      "weight": 999.9,
+      "type1": "fairy",
+      "type2": "fire",
+      "baseHp": 62,
+      "baseAtk": 58,
+      "baseDfe": 58,
+      "baseSpd": 84,
+      "baseAts": 88,
+      "baseDfs": 100,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 2,
+      "evolutions": [
+        {
+          "dbSymbol": "lunala",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 53
+            },
+            {
+              "type": "dayNight",
+              "value": 0
+            }
+          ]
+        }
+      ],
+      "experienceType": 2,
+      "baseExperience": 140,
+      "baseLoyalty": 1,
+      "catchRate": 45,
+      "femaleRate": -1,
+      "breedGroups": [
+        15,
+        15
+      ],
+      "hatchSteps": 30720,
+      "babyDbSymbol": "__undef__",
+      "babyForm": 0,
+      "itemHeld": [],
+      "abilities": [
+        "sturdy",
+        "sturdy",
+        "sturdy"
+      ],
+      "frontOffsetY": 16,
+      "resources": {
+        "icon": "Maskoleil",
+        "iconShiny": "",
+        "front": "Maskoleil",
+        "frontShiny": "790",
+        "back": "790",
+        "backShiny": "790",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}

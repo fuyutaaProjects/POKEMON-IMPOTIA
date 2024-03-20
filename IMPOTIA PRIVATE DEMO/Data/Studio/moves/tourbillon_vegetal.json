@@ -1,0 +1,52 @@
+{
+  "klass": "Move",
+  "id": 721,
+  "dbSymbol": "tourbillon_vegetal",
+  "mapUse": 0,
+  "battleEngineMethod": "s_basic",
+  "type": "grass",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 15,
+  "category": "special",
+  "movecriticalRate": 1,
+  "priority": 0,
+  "isAuthentic": false,
+  "isBallistics": false,
+  "isBite": false,
+  "isBlocable": false,
+  "isCharge": false,
+  "isDance": false,
+  "isDirect": false,
+  "isDistance": false,
+  "isEffectChance": false,
+  "isGravity": false,
+  "isHeal": false,
+  "isKingRockUtility": false,
+  "isMagicCoatAffected": false,
+  "isMental": false,
+  "isMirrorMove": false,
+  "isNonSkyBattle": false,
+  "isPowder": false,
+  "isPulse": false,
+  "isPunch": false,
+  "isRecharge": false,
+  "isSnatchable": false,
+  "isSoundAttack": false,
+  "isUnfreeze": false,
+  "battleEngineAimedTarget": "adjacent_all_pokemon",
+  "battleStageMod": [
+    {
+      "battleStage": "ATS_STAGE",
+      "modificator": -1
+    },
+    {
+      "battleStage": "DFS_STAGE",
+      "modificator": -1
+    }
+  ],
+  "moveStatus": [],
+  "effectChance": 40,
+  "isSlicingAttack": false,
+  "isWind": false
+}
