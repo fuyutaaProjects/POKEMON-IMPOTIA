@@ -1,16 +1,58 @@
 {
-    "activeFile": "",
+    "activeFile": "Maps/Oasisville.tmx",
     "expandedProjectPaths": [
+        ".",
+        "Maps",
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Maps/Oasisville.tmx": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 796,
-                "y": 500.66666666666674
+                "x": 653.3333333333333,
+                "y": 420
             }
+        },
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Maps/019 Exterior.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 29,
+            "viewCenter": {
+                "x": 1249.3333333333333,
+                "y": 1738
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/TECH-Animations.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/TECH-Assets.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/TECH-Buildings.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/TECH-Misc..tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/TECH-Mounts.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/TECH-Nature.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/TECH-borders.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/passages.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/systemtags.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/animations.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Tilesets/buildings.tsx": {
             "scaleInDock": 1
@@ -37,10 +79,17 @@
             "scaleInDock": 1
         }
     },
+    "frame.defaultDuration": 700,
+    "last.imagePath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/Assets",
     "openFiles": [
+        "Maps/Oasisville.tmx",
+        "Tilesets/animations.tsx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/Oasisville.tmx"
-    ]
+        "Tilesets/animations.tsx",
+        "Maps/Oasisville.tmx",
+        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Maps/019 Exterior.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
 }
