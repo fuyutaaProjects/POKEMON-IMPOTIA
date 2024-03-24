@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Oasisville.tmx",
+    "activeFile": "Maps/rules_terrain_basics.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
@@ -16,16 +16,16 @@
             "scale": 1,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 869.5,
-                "y": 595
+                "x": 815,
+                "y": 828.5
             }
         },
         "Maps/rules_animations.tmx": {
             "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 224.25,
-                "y": 83
+                "x": 3200,
+                "y": 3199.75
             }
         },
         "Maps/rules_assets.tmx": {
@@ -40,16 +40,16 @@
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 989,
-                "y": 414
+                "x": 960,
+                "y": 641
             }
         },
         "Maps/rules_terrain_basics.tmx": {
-            "scale": 1,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 820.5,
-                "y": 760
+                "x": 419.33333333333326,
+                "y": 518.6666666666666
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -291,22 +291,23 @@
         "Maps/Oasisville.tmx",
         "Maps/rules_terrain_basics.tmx",
         "Maps/rules_nature.tmx",
-        "Maps/rules_animations.tmx"
+        "Maps/rules_animations.tmx",
+        "Tilesets/animations.tsx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/005 River.tmx",
+        "Maps/Oasisville.tmx",
+        "Tilesets/animations.tsx",
         "Maps/rules_animations.tmx",
         "Maps/rules_nature.tmx",
         "Maps/rules_terrain_basics.tmx",
-        "Maps/Oasisville.tmx",
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/005 River.tmx",
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/003 Hub.tmx",
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/017 BattleArena.tmx",
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/019 Exterior.tmx",
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/010 CyclingRoad.tmx",
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/009 Tundra.tmx",
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/011 RocketHQ.tmx",
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/021 Basement.tmx"
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/011 RocketHQ.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
