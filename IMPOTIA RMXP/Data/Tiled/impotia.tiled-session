@@ -1,18 +1,27 @@
 {
     "activeFile": "Maps/Oasisville.tmx",
+    "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        ".",
         "Maps",
+        ".",
         "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Maps/Oasisville.tmx": {
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 653.3333333333333,
-                "y": 420
+                "x": 788,
+                "y": 595.3333333333333
+            }
+        },
+        "Maps/rules_assets.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 640,
+                "y": 639.75
             }
         },
         "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Maps/019 Exterior.tmx": {
@@ -83,10 +92,12 @@
     "last.imagePath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/Assets",
     "openFiles": [
         "Maps/Oasisville.tmx",
-        "Tilesets/animations.tsx"
+        "Tilesets/animations.tsx",
+        "Maps/rules_assets.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/rules_assets.tmx",
         "Tilesets/animations.tsx",
         "Maps/Oasisville.tmx",
         "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Maps/019 Exterior.tmx"
