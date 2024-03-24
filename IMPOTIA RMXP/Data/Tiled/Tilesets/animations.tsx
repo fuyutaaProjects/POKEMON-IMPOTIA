@@ -6522,89 +6522,177 @@
  <tile id="10781">
   <animation>
    <frame tileid="10781" duration="1000"/>
-   <frame tileid="10787" duration="1000"/>
-   <frame tileid="10793" duration="1000"/>
-   <frame tileid="10799" duration="700"/>
+   <frame tileid="10791" duration="1000"/>
+   <frame tileid="10801" duration="1000"/>
+   <frame tileid="10811" duration="700"/>
   </animation>
  </tile>
- <tile id="10783">
+ <tile id="10782">
   <animation>
-   <frame tileid="10783" duration="1000"/>
-   <frame tileid="10789" duration="1000"/>
-   <frame tileid="10795" duration="1000"/>
-   <frame tileid="10801" duration="700"/>
+   <frame tileid="10782" duration="1000"/>
+   <frame tileid="10792" duration="1000"/>
+   <frame tileid="10802" duration="1000"/>
+   <frame tileid="10812" duration="700"/>
   </animation>
  </tile>
  <tile id="10784">
   <animation>
    <frame tileid="10784" duration="1000"/>
-   <frame tileid="10790" duration="1000"/>
-   <frame tileid="10796" duration="1000"/>
-   <frame tileid="10802" duration="700"/>
+   <frame tileid="10794" duration="1000"/>
+   <frame tileid="10804" duration="1000"/>
+   <frame tileid="10814" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10785">
+  <animation>
+   <frame tileid="10785" duration="1000"/>
+   <frame tileid="10795" duration="1000"/>
+   <frame tileid="10805" duration="1000"/>
+   <frame tileid="10815" duration="700"/>
   </animation>
  </tile>
  <tile id="10786">
   <animation>
    <frame tileid="10786" duration="1000"/>
-   <frame tileid="10792" duration="1000"/>
+   <frame tileid="10796" duration="1000"/>
+   <frame tileid="10806" duration="1000"/>
+   <frame tileid="10816" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10787">
+  <animation>
+   <frame tileid="10787" duration="1000"/>
+   <frame tileid="10797" duration="1000"/>
+   <frame tileid="10807" duration="1000"/>
+   <frame tileid="10817" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10788">
+  <animation>
+   <frame tileid="10788" duration="1000"/>
    <frame tileid="10798" duration="1000"/>
-   <frame tileid="10804" duration="700"/>
+   <frame tileid="10808" duration="1000"/>
+   <frame tileid="10818" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10789">
+  <animation>
+   <frame tileid="10789" duration="1000"/>
+   <frame tileid="10799" duration="1000"/>
+   <frame tileid="10809" duration="1000"/>
+   <frame tileid="10819" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10790">
+  <animation>
+   <frame tileid="10790" duration="1000"/>
+   <frame tileid="10800" duration="1000"/>
+   <frame tileid="10810" duration="1000"/>
+   <frame tileid="10820" duration="700"/>
   </animation>
  </tile>
  <tile id="10879">
   <animation>
    <frame tileid="10879" duration="1000"/>
-   <frame tileid="10885" duration="1000"/>
-   <frame tileid="10891" duration="1000"/>
-   <frame tileid="10897" duration="700"/>
+   <frame tileid="10889" duration="1000"/>
+   <frame tileid="10899" duration="1000"/>
+   <frame tileid="10909" duration="700"/>
   </animation>
  </tile>
- <tile id="10881">
+ <tile id="10880">
   <animation>
-   <frame tileid="10881" duration="1000"/>
-   <frame tileid="10887" duration="1000"/>
-   <frame tileid="10893" duration="1000"/>
-   <frame tileid="10899" duration="700"/>
+   <frame tileid="10880" duration="1000"/>
+   <frame tileid="10890" duration="1000"/>
+   <frame tileid="10900" duration="1000"/>
+   <frame tileid="10910" duration="700"/>
   </animation>
  </tile>
  <tile id="10882">
   <animation>
    <frame tileid="10882" duration="1000"/>
-   <frame tileid="10888" duration="1000"/>
-   <frame tileid="10894" duration="1000"/>
-   <frame tileid="10900" duration="700"/>
+   <frame tileid="10892" duration="1000"/>
+   <frame tileid="10902" duration="1000"/>
+   <frame tileid="10912" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10883">
+  <animation>
+   <frame tileid="10883" duration="1000"/>
+   <frame tileid="10893" duration="1000"/>
+   <frame tileid="10903" duration="1000"/>
+   <frame tileid="10913" duration="700"/>
   </animation>
  </tile>
  <tile id="10884">
   <animation>
    <frame tileid="10884" duration="1000"/>
-   <frame tileid="10890" duration="1000"/>
-   <frame tileid="10890" duration="1000"/>
-   <frame tileid="10902" duration="700"/>
+   <frame tileid="10894" duration="1000"/>
+   <frame tileid="10904" duration="1000"/>
+   <frame tileid="10914" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10885">
+  <animation>
+   <frame tileid="10885" duration="1000"/>
+   <frame tileid="10895" duration="1000"/>
+   <frame tileid="10905" duration="1000"/>
+   <frame tileid="10915" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10887">
+  <animation>
+   <frame tileid="10887" duration="1000"/>
+   <frame tileid="10897" duration="1000"/>
+   <frame tileid="10907" duration="1000"/>
+   <frame tileid="10917" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10888">
+  <animation>
+   <frame tileid="10888" duration="1000"/>
+   <frame tileid="10898" duration="1000"/>
+   <frame tileid="10908" duration="1000"/>
+   <frame tileid="10918" duration="700"/>
   </animation>
  </tile>
  <tile id="10977">
   <animation>
    <frame tileid="10977" duration="1000"/>
-   <frame tileid="10983" duration="1000"/>
-   <frame tileid="10989" duration="1000"/>
-   <frame tileid="10995" duration="700"/>
+   <frame tileid="10987" duration="1000"/>
+   <frame tileid="10997" duration="1000"/>
+   <frame tileid="11007" duration="700"/>
   </animation>
  </tile>
  <tile id="10978">
   <animation>
    <frame tileid="10978" duration="1000"/>
-   <frame tileid="10984" duration="1000"/>
-   <frame tileid="10990" duration="1000"/>
-   <frame tileid="10996" duration="700"/>
+   <frame tileid="10988" duration="1000"/>
+   <frame tileid="10998" duration="1000"/>
+   <frame tileid="11008" duration="700"/>
   </animation>
  </tile>
  <tile id="10979">
   <animation>
    <frame tileid="10979" duration="1000"/>
-   <frame tileid="10985" duration="1000"/>
+   <frame tileid="10989" duration="1000"/>
+   <frame tileid="10999" duration="1000"/>
+   <frame tileid="11009" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10980">
+  <animation>
+   <frame tileid="10980" duration="1000"/>
+   <frame tileid="10990" duration="1000"/>
+   <frame tileid="11000" duration="1000"/>
+   <frame tileid="11010" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="10981">
+  <animation>
+   <frame tileid="10981" duration="1000"/>
    <frame tileid="10991" duration="1000"/>
-   <frame tileid="10997" duration="700"/>
+   <frame tileid="11001" duration="1000"/>
+   <frame tileid="11011" duration="700"/>
   </animation>
  </tile>
 </tileset>

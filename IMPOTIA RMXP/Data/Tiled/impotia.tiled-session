@@ -1,28 +1,222 @@
 {
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
     "activeFile": "Maps/Oasisville.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
-        ".",
-        "Tilesets"
+        "Tilesets",
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Maps/Oasisville.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 6,
+            "scale": 1,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 788,
-                "y": 595.3333333333333
+                "x": 869.5,
+                "y": 595
+            }
+        },
+        "Maps/rules_animations.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 224.25,
+                "y": 83
             }
         },
         "Maps/rules_assets.tmx": {
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 640,
-                "y": 639.75
+                "x": 551.5,
+                "y": 522
             }
+        },
+        "Maps/rules_nature.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 989,
+                "y": 414
+            }
+        },
+        "Maps/rules_terrain_basics.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 820.5,
+                "y": 760
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
+            "scale": 0.51025390625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 632.0382775119618,
+                "y": 407.6401913875598
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/003 Hub.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1036.5,
+                "y": 1139
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/005 River.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1068.75,
+                "y": 1243
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/009 Tundra.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1046.3333333333333,
+                "y": 599.3333333333333
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/010 CyclingRoad.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1113.6666666666665,
+                "y": 596.6666666666666
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/011 RocketHQ.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1152.6666666666667,
+                "y": 1420
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/012 Elevator 2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 401.66666666666663,
+                "y": 514
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/013 Labo.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 957.9999999999999,
+                "y": 705.3333333333333
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/014 Library.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1193,
+                "y": 608
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/017 BattleArena.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 670.3333333333333,
+                "y": 714
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/018 Wifi.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 609.25,
+                "y": 546
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/019 Exterior.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1107.5,
+                "y": 1315
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/020 Route.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 583.3333333333333,
+                "y": 946.6666666666665
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/021 Basement.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1171.3333333333333,
+                "y": 1596
+            }
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Animations.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Assets.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Battle.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Buildings.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Caves.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Elevator.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-HQ.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Hub.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Library.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Misc..tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Mounts.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-Nature.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-SYS-Wifi.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH-borders.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH_Basement.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/TECH_Lab.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/passages.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Tilesets/systemtags.tsx": {
+            "scaleInDock": 1
         },
         "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Maps/019 Exterior.tmx": {
             "scale": 1.5,
@@ -90,17 +284,29 @@
     },
     "frame.defaultDuration": 700,
     "last.imagePath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/Assets",
+    "map.height": 200,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 200,
     "openFiles": [
         "Maps/Oasisville.tmx",
-        "Tilesets/animations.tsx",
-        "Maps/rules_assets.tmx"
+        "Maps/rules_terrain_basics.tmx",
+        "Maps/rules_nature.tmx",
+        "Maps/rules_animations.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rules_assets.tmx",
-        "Tilesets/animations.tsx",
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/005 River.tmx",
+        "Maps/rules_animations.tmx",
+        "Maps/rules_nature.tmx",
+        "Maps/rules_terrain_basics.tmx",
         "Maps/Oasisville.tmx",
-        "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Maps/019 Exterior.tmx"
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/003 Hub.tmx",
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/017 BattleArena.tmx",
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/019 Exterior.tmx",
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/010 CyclingRoad.tmx",
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/009 Tundra.tmx",
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/011 RocketHQ.tmx",
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/021 Basement.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
