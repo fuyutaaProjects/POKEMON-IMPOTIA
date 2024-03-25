@@ -7,17 +7,17 @@
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
-        ".",
-        "Tilesets"
+        "Tilesets",
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Maps/Oasisville.tmx": {
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 845,
-                "y": 575
+                "x": 1112,
+                "y": 1097.5
             }
         },
         "Maps/rules_animations.tmx": {
@@ -32,8 +32,8 @@
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 551.5,
-                "y": 522
+                "x": 550,
+                "y": 521
             }
         },
         "Maps/rules_nature.tmx": {
@@ -45,11 +45,11 @@
             }
         },
         "Maps/rules_terrain_basics.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 2,
+            "scale": 1.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1536,
-                "y": 630
+                "x": 3200,
+                "y": 3199.6666666666665
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -288,12 +288,14 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 200,
     "openFiles": [
-        "Maps/Oasisville.tmx"
+        "Maps/Oasisville.tmx",
+        "Maps/rules_terrain_basics.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/Oasisville.tmx",
         "Maps/rules_terrain_basics.tmx",
+        "Maps/Oasisville.tmx",
+        "Maps/rules_assets.tmx",
         "Tilesets/animations.tsx",
         "Maps/rules_animations.tmx",
         "Maps/rules_nature.tmx",
@@ -302,8 +304,7 @@
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/017 BattleArena.tmx",
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/019 Exterior.tmx",
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/010 CyclingRoad.tmx",
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/009 Tundra.tmx",
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/011 RocketHQ.tmx"
+        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/009 Tundra.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
