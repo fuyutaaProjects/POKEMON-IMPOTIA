@@ -3,29 +3,29 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/rules_terrain_basics.tmx",
+    "activeFile": "Maps/Oasisville.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
-        "Tilesets",
-        "."
+        ".",
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Maps/Oasisville.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 28,
+            "scale": 2,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 875.3333333333333,
-                "y": 662.6666666666666
+                "x": 845,
+                "y": 575
             }
         },
         "Maps/rules_animations.tmx": {
             "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 223.75,
-                "y": 82.5
+                "x": 9.5,
+                "y": -46
             }
         },
         "Maps/rules_assets.tmx": {
@@ -37,19 +37,19 @@
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 0.5,
+            "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 987,
-                "y": 410
+                "x": 1483,
+                "y": 471
             }
         },
         "Maps/rules_terrain_basics.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 0,
+            "scale": 0.5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 811.3333333333333,
-                "y": 646.6666666666666
+                "x": 1536,
+                "y": 630
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -288,19 +288,15 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 200,
     "openFiles": [
-        "Maps/Oasisville.tmx",
-        "Maps/rules_terrain_basics.tmx",
-        "Maps/rules_nature.tmx",
-        "Maps/rules_animations.tmx",
-        "Tilesets/animations.tsx"
+        "Maps/Oasisville.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
         "Maps/Oasisville.tmx",
+        "Maps/rules_terrain_basics.tmx",
         "Tilesets/animations.tsx",
         "Maps/rules_animations.tmx",
         "Maps/rules_nature.tmx",
-        "Maps/rules_terrain_basics.tmx",
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/005 River.tmx",
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/003 Hub.tmx",
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/017 BattleArena.tmx",
