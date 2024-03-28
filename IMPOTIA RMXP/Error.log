@@ -1,27 +1,45 @@
 ================================Erreur de script================================
 Message :
-uninitialized constant Game_Character::TGrass
+undefined method `get_character' for #<Game_Player:0x0e740200>
 
-Type : NameError
-Script : 00100 BubblewalkPlugin.rb (user)
-Ligne : 16
-Date : 15/02/2024 00:32:36
+Type : NoMethodError
+Script : (eval) (RMXP)
+Ligne : 1
+Date : 28/03/2024 14:19:48
 Game Version : 256
-Logiciel : Pokémon SDK 26.22
+Logiciel : Pokémon SDK 26.23
+Script used by eval command : 
+get_character(-1).find_path(to: [31,19])
+
 ===================================Backtraces===================================
-[14] : 00100 BubblewalkPlugin.rb (user) | ligne 16 <class:Game_Character>
-[13] : 00100 BubblewalkPlugin.rb (user) | ligne 1 <top (required)>
-[12] : ScriptLoad.rb (PSDK) | ligne 88 require
-[11] : ScriptLoad.rb (PSDK) | ligne 88 load_scripts
-[10] : ScriptLoad.rb (PSDK) | ligne 85 each
-[9] : ScriptLoad.rb (PSDK) | ligne 85 load_scripts
-[8] : ScriptLoad.rb (PSDK) | ligne 76 load_vscode_scripts
-[7] : ScriptLoad.rb (PSDK) | ligne 42 start
-[6] : tools/GameLoader/50_load_game_uncompiled.rb (PSDK) | ligne 7 <top (required)>
-[5] : ScriptLoad.rb (PSDK) | ligne 190 require
-[4] : ScriptLoad.rb (PSDK) | ligne 190 load_tool
+[29] : (eval) (RMXP) | ligne 1 eval_script
+[28] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3346 eval
+[27] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3346 eval_script
+[26] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3336 move_type_custom_special
+[25] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3197 move_type_custon_exec_command
+[24] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3172 move_type_custom
+[23] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 2763 force_move_route
+[22] : 00600_Script_RMXP.rb (PSDK) | ligne 1747 command_209
+[21] : 00600_Script_RMXP.rb (PSDK) | ligne 1068 execute_command
+[20] : 00600_Script_RMXP.rb (PSDK) | ligne 948 update
+[19] : 00600_Script_RMXP.rb (PSDK) | ligne 929 loop
+[18] : 00600_Script_RMXP.rb (PSDK) | ligne 929 update
+[17] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7791 auto_transfert_update
+[16] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7789 loop
+[15] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7789 auto_transfert_update
+[14] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7664 update
+[13] : 00700_Ajout_PSDK.rb (PSDK) | ligne 191 times
+[12] : 00700_Ajout_PSDK.rb (PSDK) | ligne 191 run
+[11] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7664 update
+[10] : 01450_Systems_00000_General_00003_GamePlay__Base.rb (PSDK) | ligne 229 main_process
+[9] : 01450_Systems_00000_General_00003_GamePlay__Base.rb (PSDK) | ligne 140 main
+[8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
+[7] : tools/GameLoader/3_load_extensions.rb (PSDK) | ligne 46 rgss_main
+[6] : tools/GameLoader/50_load_game_uncompiled.rb (PSDK) | ligne 48 <top (required)>
+[5] : ScriptLoad.rb (PSDK) | ligne 194 require
+[4] : ScriptLoad.rb (PSDK) | ligne 194 load_tool
 [3] : tools/GameLoader/Z_load_uncompiled.rb (PSDK) | ligne 16 <top (required)>
-[2] : ScriptLoad.rb (PSDK) | ligne 190 require
-[1] : ScriptLoad.rb (PSDK) | ligne 190 load_tool
+[2] : ScriptLoad.rb (PSDK) | ligne 194 require
+[1] : ScriptLoad.rb (PSDK) | ligne 194 load_tool
 [0] : Game.rb (RMXP) | ligne 11 <main>
 ===================================Fin du log===================================

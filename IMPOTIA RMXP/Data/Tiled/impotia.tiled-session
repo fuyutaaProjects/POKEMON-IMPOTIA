@@ -3,21 +3,21 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Oasisville.tmx",
+    "activeFile": "Maps/rules_terrain_basics.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
-        "Tilesets",
-        "."
+        ".",
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Maps/Oasisville.tmx": {
-            "scale": 2,
+            "scale": 3,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 904.5,
-                "y": 793
+                "x": 748.1666666666667,
+                "y": 495.33333333333326
             }
         },
         "Maps/rules_animations.tmx": {
@@ -48,8 +48,8 @@
             "scale": 3,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1286.8333333333333,
-                "y": 820.3333333333333
+                "x": 3199.333333333333,
+                "y": 3199
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -288,7 +288,6 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 200,
     "openFiles": [
-        "Maps/Oasisville.tmx",
         "Maps/rules_terrain_basics.tmx"
     ],
     "project": "impotia.tiled-project",
