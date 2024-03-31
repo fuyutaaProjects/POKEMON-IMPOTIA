@@ -1,25 +1,24 @@
 ================================Erreur de script================================
 Message :
-undefined method `get_character' for #<Game_Player:0x0e740200>
+undefined local variable or method `turn_down' for #<Interpreter:0x0ebd5bf0>
 
-Type : NoMethodError
+Type : NameError
 Script : (eval) (RMXP)
-Ligne : 1
-Date : 28/03/2024 14:19:48
+Ligne : 3
+Date : 31/03/2024 11:58:52
 Game Version : 256
 Logiciel : Pokémon SDK 26.23
 Script used by eval command : 
-get_character(-1).find_path(to: [31,19])
+find_path(to: [33, 18])
+wait_event(11)
+turn_down
+
 
 ===================================Backtraces===================================
-[29] : (eval) (RMXP) | ligne 1 eval_script
-[28] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3346 eval
-[27] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3346 eval_script
-[26] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3336 move_type_custom_special
-[25] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3197 move_type_custon_exec_command
-[24] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3172 move_type_custom
-[23] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 2763 force_move_route
-[22] : 00600_Script_RMXP.rb (PSDK) | ligne 1747 command_209
+[25] : (eval) (RMXP) | ligne 3 eval_script
+[24] : 00600_Script_RMXP.rb (PSDK) | ligne 2093 eval
+[23] : 00600_Script_RMXP.rb (PSDK) | ligne 2093 eval_script
+[22] : 00600_Script_RMXP.rb (PSDK) | ligne 2084 command_355
 [21] : 00600_Script_RMXP.rb (PSDK) | ligne 1068 execute_command
 [20] : 00600_Script_RMXP.rb (PSDK) | ligne 948 update
 [19] : 00600_Script_RMXP.rb (PSDK) | ligne 929 loop
