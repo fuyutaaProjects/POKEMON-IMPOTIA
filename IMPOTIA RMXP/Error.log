@@ -1,29 +1,26 @@
 ================================Erreur de script================================
 Message :
-undefined local variable or method `turn_down' for #<Interpreter:0x0ebd5bf0>
+undefined method `wait_event' for #<Game_Player:0x0eab4d20>
 
-Type : NameError
+Type : NoMethodError
 Script : (eval) (RMXP)
-Ligne : 3
-Date : 31/03/2024 11:58:52
+Ligne : 1
+Date : 02/04/2024 10:11:23
 Game Version : 256
 Logiciel : Pokémon SDK 26.23
 Script used by eval command : 
-find_path(to: [33, 18])
-wait_event(11)
-turn_down
-
+wait_event(-1)
 
 ===================================Backtraces===================================
-[25] : (eval) (RMXP) | ligne 3 eval_script
-[24] : 00600_Script_RMXP.rb (PSDK) | ligne 2093 eval
-[23] : 00600_Script_RMXP.rb (PSDK) | ligne 2093 eval_script
-[22] : 00600_Script_RMXP.rb (PSDK) | ligne 2084 command_355
-[21] : 00600_Script_RMXP.rb (PSDK) | ligne 1068 execute_command
-[20] : 00600_Script_RMXP.rb (PSDK) | ligne 948 update
-[19] : 00600_Script_RMXP.rb (PSDK) | ligne 929 loop
-[18] : 00600_Script_RMXP.rb (PSDK) | ligne 929 update
-[17] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7791 auto_transfert_update
+[25] : (eval) (RMXP) | ligne 1 eval_script
+[24] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3346 eval
+[23] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3346 eval_script
+[22] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3336 move_type_custom_special
+[21] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3197 move_type_custon_exec_command
+[20] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 3172 move_type_custom
+[19] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 2996 update
+[18] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 4972 update
+[17] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7792 auto_transfert_update
 [16] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7789 loop
 [15] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7789 auto_transfert_update
 [14] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7664 update
