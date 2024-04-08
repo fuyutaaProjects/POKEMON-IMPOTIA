@@ -3,21 +3,44 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Oasisville.tmx",
+    "activeFile": "",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
+        "PNG to tmx",
         "Tilesets",
-        "Maps",
-        "."
+        ".",
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "C:/Users/Nakoru/Downloads/ImgtTmx-Mario1-1/Mario1-1/mario1-1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 397.5,
+                "y": 101
+            }
+        },
+        "C:/Users/Nakoru/Downloads/ImgtTmx-Mario1-1/Mario1-1/untitled.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Nakoru/Downloads/Mario1-1/mario1-1.tmx": {
+            "scale": 0.31339917452830185,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1695.9202295282444,
+                "y": 108.48784158788396
+            }
+        },
+        "C:/Users/Nakoru/Downloads/Mario1-1/untitled.tsx": {
+            "scaleInDock": 1
+        },
         "Maps/Oasisville.tmx": {
             "scale": 1.5,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1133.6666666666665,
-                "y": 600.6666666666666
+                "x": 1025,
+                "y": 716.6666666666666
             }
         },
         "Maps/rules_animations.tmx": {
@@ -48,8 +71,8 @@
             "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 3199.333333333333,
-                "y": 3199.333333333333
+                "x": 3198,
+                "y": 3197.333333333333
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -253,6 +276,38 @@
         "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/systemtags.tsx": {
             "scaleInDock": 1
         },
+        "PNG to tmx/grotte.tmx": {
+            "scale": 0.39143518518518516,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 737.0313424009463,
+                "y": 431.74452986398586
+            }
+        },
+        "PNG to tmx/grotte_rochtherme.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 478,
+                "y": 523
+            }
+        },
+        "PNG to tmx/grotterochtherme.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PNG to tmx/rochtherme32.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1749,
+                "y": 932
+            }
+        },
+        "PNG to tmx/untitled.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
         "Tilesets/animations.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -283,28 +338,27 @@
         }
     },
     "frame.defaultDuration": 700,
-    "last.imagePath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/Assets",
+    "last.externalTilesetPath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/PNG to tmx",
+    "last.imagePath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/PNG to tmx",
     "map.height": 200,
     "map.lastUsedFormat": "tmx",
     "map.width": 200,
     "openFiles": [
-        "Maps/rules_terrain_basics.tmx",
-        "Maps/Oasisville.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
         "Maps/rules_terrain_basics.tmx",
         "Maps/Oasisville.tmx",
+        "PNG to tmx/grotte.tmx",
+        "PNG to tmx/rochtherme32.tmx",
+        "PNG to tmx/grotterochtherme.tsx",
+        "C:/Users/Nakoru/Downloads/Mario1-1/mario1-1.tmx",
+        "PNG to tmx/untitled.tsx",
+        "PNG to tmx/grotte_rochtherme.tmx",
+        "C:/Users/Nakoru/Downloads/ImgtTmx-Mario1-1/Mario1-1/mario1-1.tmx",
         "Maps/rules_assets.tmx",
         "Tilesets/animations.tsx",
-        "Maps/rules_animations.tmx",
-        "Maps/rules_nature.tmx",
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/005 River.tmx",
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/003 Hub.tmx",
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/017 BattleArena.tmx",
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/019 Exterior.tmx",
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/010 CyclingRoad.tmx",
-        "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/009 Tundra.tmx"
+        "Maps/rules_animations.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
