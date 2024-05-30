@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "gliscor",
+          "form": 0,
           "conditions": [
             {
               "type": "itemHold",
@@ -32,9 +34,7 @@
               "type": "dayNight",
               "value": 0
             }
-          ],
-          "dbSymbol": "gliscor",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 3,
@@ -58,96 +58,96 @@
       "frontOffsetY": 22,
       "resources": {
         "icon": "207",
-        "iconShiny": "",
+        "iconShiny": "207",
         "front": "207",
-        "frontF": "207f",
+        "frontF": "207",
         "frontShiny": "207",
-        "frontShinyF": "207f",
+        "frontShinyF": "207",
         "back": "207",
-        "backF": "207f",
+        "backF": "207",
         "backShiny": "207",
-        "backShinyF": "207f",
+        "backShinyF": "207",
         "footprint": "207",
-        "character": "207_0",
-        "characterShiny": "207s_0",
+        "character": "207",
+        "characterShiny": "207",
         "cry": "207cry.ogg",
-        "hasFemale": true
+        "hasFemale": false
       },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_sting"
+          "move": "poison_sting",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "harden"
+          "move": "harden",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "acrobatics"
+          "move": "acrobatics",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "slash"
+          "move": "slash",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "u_turn"
+          "move": "u_turn",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "screech"
+          "move": "screech",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "sky_uppercut"
+          "move": "sky_uppercut",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "guillotine"
+          "move": "guillotine",
+          "level": 55
         },
         {
           "klass": "TutorLearnableMove",

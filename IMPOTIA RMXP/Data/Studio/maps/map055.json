@@ -3,8 +3,6 @@
   "id": 55,
   "dbSymbol": "map055",
   "stepsAverage": 30,
-  "bgm": "",
-  "bgs": "",
   "tiledFilename": "rm_55_grotte_rochtherme",
   "mtime": 1712753313045,
   "sha1": "607c13992f8f4ba9c323c1517fb4ede370db501b",
@@ -23870,5 +23868,15 @@
       [],
       []
     ]
+  },
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }

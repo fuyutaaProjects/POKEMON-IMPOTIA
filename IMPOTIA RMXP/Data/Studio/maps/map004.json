@@ -3,9 +3,17 @@
   "id": 4,
   "dbSymbol": "map004",
   "stepsAverage": 30,
-  "bgm": "",
-  "bgs": "",
+  "tiledFilename": "",
   "mtime": 1,
   "sha1": "",
-  "tiledFilename": ""
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 80,
+    "pitch": 100
+  }
 }

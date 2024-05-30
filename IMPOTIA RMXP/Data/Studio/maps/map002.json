@@ -3,9 +3,17 @@
   "id": 2,
   "dbSymbol": "map002",
   "stepsAverage": 30,
-  "bgm": "01 Glittering Cave.ogg",
-  "bgs": "",
+  "tiledFilename": "",
   "mtime": 1,
   "sha1": "",
-  "tiledFilename": ""
+  "bgm": {
+    "name": "01 Glittering Cave.ogg",
+    "volume": 80,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 80,
+    "pitch": 100
+  }
 }

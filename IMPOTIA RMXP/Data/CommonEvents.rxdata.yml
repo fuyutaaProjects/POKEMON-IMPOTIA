@@ -7629,7 +7629,7 @@
     code: 108
   - !ruby/object:RPG::EventCommand
     parameters:
-    - extend_data = [:necrozma, [:lunala]]
+    - extend_data = [:necrozma, [:solatyr]]
     indent: 0
     code: 355
   - !ruby/object:RPG::EventCommand

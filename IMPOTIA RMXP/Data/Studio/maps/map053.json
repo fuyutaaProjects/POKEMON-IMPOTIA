@@ -3,8 +3,6 @@
   "id": 53,
   "dbSymbol": "map053",
   "stepsAverage": 30,
-  "bgm": "",
-  "bgs": "",
   "tiledFilename": "rm_53_pok__shop_pa",
   "mtime": 1712753314283,
   "sha1": "dc377a66a3022f4b20bd6e59f9ddca23abeda1fb",
@@ -1036,5 +1034,15 @@
       [],
       []
     ]
+  },
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }

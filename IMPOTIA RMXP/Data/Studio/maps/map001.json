@@ -3,9 +3,17 @@
   "id": 1,
   "dbSymbol": "map001",
   "stepsAverage": 30,
-  "bgm": "14 Santalune Forest",
-  "bgs": "",
+  "tiledFilename": "",
   "mtime": 1,
   "sha1": "",
-  "tiledFilename": ""
+  "bgm": {
+    "name": "14 Santalune Forest",
+    "volume": 80,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 80,
+    "pitch": 100
+  }
 }

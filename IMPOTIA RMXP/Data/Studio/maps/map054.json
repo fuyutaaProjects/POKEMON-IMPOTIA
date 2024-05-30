@@ -3,8 +3,6 @@
   "id": 54,
   "dbSymbol": "map054",
   "stepsAverage": 30,
-  "bgm": "",
-  "bgs": "",
   "tiledFilename": "rm_54_route_03",
   "mtime": 1712755154358,
   "sha1": "b477aab981cfc29a087e5bcab8d8185a2315a176",
@@ -11155,5 +11153,15 @@
       [],
       []
     ]
+  },
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }

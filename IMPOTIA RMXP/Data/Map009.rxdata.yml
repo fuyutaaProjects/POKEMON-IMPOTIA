@@ -930,7 +930,7 @@ events:
       walk_anime: true
       move_speed: 3
       through: false
-    name: Psyduck daycare
+    name: Bagicien daycare
     y: 8
     x: 15
     id: 16
@@ -976,7 +976,7 @@ events:
       walk_anime: true
       move_speed: 3
       through: false
-    name: Dugtrio daycare
+    name: Demolien daycare
     y: 7
     x: 20
     id: 17
@@ -1003,17 +1003,17 @@ events:
         code: 401
       - !ruby/object:RPG::EventCommand
         parameters:
-        - add_rename_pokemon(:pikachu, 15)
+        - add_rename_pokemon(:amprise, 15)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - add_rename_pokemon(:meowth, 15)
+        - add_rename_pokemon(:hibours, 15)
         indent: 0
         code: 655
       - !ruby/object:RPG::EventCommand
         parameters:
-        - add_rename_pokemon(:mew, 15)
+        - add_rename_pokemon(:songita, 15)
         indent: 0
         code: 655
       - !ruby/object:RPG::EventCommand

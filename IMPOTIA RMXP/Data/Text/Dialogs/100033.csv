@@ -23,7 +23,7 @@ SP. DEF,Déf. Spé.,Dif. Sp.,Sp.-Vert.,Def. Esp.,특수방어,とくぼう
 [VAR NUM3(0000)],[VAR NUM3(0000)],[VAR NUM3(0000)],[VAR NUM3(0000)],[VAR NUM3(0000)],[VAR NUM3(0000)],[VAR NUM3(0000)]
 SPEED,Vitesse,Velocità,Initiative,Velocidad,스피드,すばやさ
 [VAR NUM3(0000)],[VAR NUM3(0000)],[VAR NUM3(0000)],[VAR NUM3(0000)],[VAR NUM3(0000)],[VAR NUM3(0000)],[VAR NUM3(0000)]
-NATURE,Nature,Natura,Wesen,Naturaleza,성격,せいかく
+NATURE,nature,natura,Wesen,naturaleza,성격,せいかく
 [VAR ITEM1(0000)],[VAR ITEM1(0000)],[VAR ITEM1(0000)],[VAR ITEM1(0000)],[VAR ITEM1(0000)],[VAR ITEM1(0000)],[VAR ITEM1(0000)]
 ABILITY,Talent,Abilità,Fähigkeit,Habilidad,특성,とくせい
 [VAR ABILITY(0000)],[VAR ABILITY(0000)],[VAR ABILITY(0000)],[VAR ABILITY(0000)],[VAR ABILITY(0000)],[VAR ABILITY(0000)],[VAR ABILITY(0000)]
@@ -143,7 +143,7 @@ TMs & HMs,CT & CS,MT e MN,TM & VM,MT y MO,기술머신,わざマシン
 [VAR MOVE(0000)],[VAR MOVE(0000)],[VAR MOVE(0000)],[VAR MOVE(0000)],[VAR MOVE(0000)],[VAR MOVE(0000)],[VAR MOVE(0000)]
 Ability,Talent,Abilità,Fähigkeit,Habilidad,특성,とくせい
 [VAR ABILITY(0000)],[VAR ABILITY(0000)],[VAR ABILITY(0000)],[VAR ABILITY(0000)],[VAR ABILITY(0000)],[VAR ABILITY(0000)],[VAR ABILITY(0000)]
-Nature,Nature,Natura,Wesen,Naturaleza,성격,せいかく
+nature,nature,natura,Wesen,naturaleza,성격,せいかく
 [VAR ITEM1(0000)],[VAR ITEM1(0000)],[VAR ITEM1(0000)],[VAR ITEM1(0000)],[VAR ITEM1(0000)],[VAR ITEM1(0000)],[VAR ITEM1(0000)]
 Gender,Sexe,Sesso,Geschlecht,Sexo,성별,せいべつ
 ♂,♂,♂,♂,♂,♂,♂
@@ -163,7 +163,7 @@ Choose Type 1.,Choisissez le premier type du Pokémon recherché.,Scegli il prim
 Choose Type 2.,Choisissez le second type du Pokémon recherché.,Scegli il secondo tipo.,Wähle Typ 2.,Elige el Tipo 2.,타입2를 선택해 주십시오,タイプ2を　えらんでください
 Choose the first letter of the move.,Choisissez la première lettre du nom d’une capacité apprise par le Pokémon recherché.,Scegli la prima lettera del nome della mossa da cercare.,Gib den Anfangsbuchstaben der gewünschten Attacke ein.,Introduce la inicial del movimiento.,기술 이름의 첫 글자를 선택해 주십시오,わざの　なまえの かしらもじを　えらんでください
 You can check whether any Pokémon can use the selected TM or HM.,Sélectionnez une CS ou une CT utilisable par le Pokémon recherché.,Scegli una MT o una MN per cercare i Pokémon che possono usare la mossa corrispondente.,"Suche nach Pokémon, auf die eine bestimmte TM/VM angewendet werden kann.",Comprueba qué Pokémon puede utilizar una determinada MT o MO.,선택한 기술머신을 포켓몬이 쓸 수 있는지 체크합니다,えらんだ　わざマシンを　ポケモンが つかえるかどうか　しらべます
-Please choose a Nature.,Choisissez la nature du Pokémon recherché.,Scegli la natura del Pokémon.,Wähle das gewünschte Wesen.,Elige la naturaleza del Pokémon.,포켓몬의 성격을 선택해 주십시오.,ポケモンの せいかくを　えらんでください
+Please choose a nature.,Choisissez la nature du Pokémon recherché.,Scegli la natura del Pokémon.,Wähle das gewünschte Wesen.,Elige la naturaleza del Pokémon.,포켓몬의 성격을 선택해 주십시오.,ポケモンの せいかくを　えらんでください
 Please choose the first letter of an Ability.,Saisissez la première lettre du nom du talent possédé par le Pokémon recherché.,Scegli la prima lettera del nome dell’abilità.,Gib den Anfangsbuchstaben der gewünschten Fähigkeit ein.,Introduce la inicial de la habilidad que buscas.,포켓몬 특성의 첫 글자를 선택해 주십시오,ポケモンの　とくせいの かしらもじを　えらんでください
 Please choose a gender.,Choisissez le sexe du Pokémon recherché.,Scegli il sesso del Pokémon.,Wähle das Geschlecht des Pokémon aus.,Elige el sexo del Pokémon.,포켓몬의 성별을 선택해 주십시오.,ポケモンの　せいべつを えらんでください
 You can check Pokémon with items.,Choisissez si le Pokémon recherché tient un objet ou non.,Cerca i Pokémon con o senza uno strumento.,"Wähle, ob bei der Suche ausschließlich Pokémon mit oder ohne Items berücksichtigt werden sollen.",Comprueba qué Pokémon lleva algún objeto.,물건을 지니고 있는 포켓몬을 체크할 수 있습니다,もちものを　もっている　ポケモンを しらべることが　できます

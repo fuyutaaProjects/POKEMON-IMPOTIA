@@ -23,7 +23,7 @@
       "evDfs": 0,
       "evolutions": [
         {
-          "dbSymbol": "dewgong",
+          "dbSymbol": "arcanguy",
           "form": 0,
           "conditions": [
             {
@@ -63,14 +63,14 @@
       "frontOffsetY": 25,
       "resources": {
         "icon": "Valanguy",
-        "iconShiny": "Valanguy_Sh",
+        "iconShiny": "Valanguy",
         "front": "Valanguy",
-        "frontShiny": "086",
-        "back": "086",
-        "backShiny": "086",
-        "footprint": "086",
-        "character": "086_0",
-        "characterShiny": "086s_0",
+        "frontShiny": "Valanguy",
+        "back": "Valanguy",
+        "backShiny": "Valanguy",
+        "footprint": "Valanguy",
+        "character": "Valanguy",
+        "characterShiny": "Valanguy",
         "cry": "086cry.ogg",
         "hasFemale": false
       },

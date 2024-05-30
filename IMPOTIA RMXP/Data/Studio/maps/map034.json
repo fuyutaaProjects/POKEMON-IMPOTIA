@@ -3,8 +3,6 @@
   "id": 34,
   "dbSymbol": "map034",
   "stepsAverage": 30,
-  "bgm": "",
-  "bgs": "",
   "tiledFilename": "rm_34_sylvebrume",
   "mtime": 1712753313327,
   "sha1": "27980305f749275e19aac018f7f2fb320b9e7eb3",
@@ -23232,5 +23230,15 @@
       [],
       []
     ]
+  },
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }

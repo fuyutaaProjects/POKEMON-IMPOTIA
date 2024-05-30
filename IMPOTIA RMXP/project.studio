@@ -1,6 +1,36 @@
 {
   "title": "IMPOTIA PRIVATE DEMO",
-  "studioVersion": "2.0.3",
+  "studioVersion": "2.2.0",
   "iconPath": "project_icon.png",
-  "isTiledMode": true
+  "isTiledMode": true,
+  "languagesTranslation": [
+    {
+      "code": "fr",
+      "name": "French"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italian"
+    },
+    {
+      "code": "de",
+      "name": "German"
+    },
+    {
+      "code": "es",
+      "name": "Spanish"
+    },
+    {
+      "code": "ko",
+      "name": "Korean"
+    },
+    {
+      "code": "kana",
+      "name": "Japanese"
+    }
+  ]
 }

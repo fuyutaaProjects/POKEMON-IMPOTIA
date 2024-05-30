@@ -3,8 +3,6 @@
   "id": 42,
   "dbSymbol": "map042",
   "stepsAverage": 7,
-  "bgm": "Unending Road - Atelier Ryza.ogg",
-  "bgs": "",
   "tiledFilename": "rm_42_route_01",
   "mtime": 1713183275783,
   "sha1": "a7a07a24607e497c7ae0146d12229429ec7b9815",
@@ -16161,5 +16159,15 @@
         0
       ]
     ]
+  },
+  "bgm": {
+    "name": "Unending Road - Atelier Ryza.ogg",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }

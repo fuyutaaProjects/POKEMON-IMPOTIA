@@ -3,8 +3,6 @@
   "id": 58,
   "dbSymbol": "map058",
   "stepsAverage": 30,
-  "bgm": "pki_oasisville.ogg",
-  "bgs": "",
   "tiledFilename": "Oasisville",
   "mtime": 1713089086794,
   "sha1": "2dd8bb3536dac224a325ac9fd9efc438e3c29c4f",
@@ -16322,5 +16320,15 @@
         0
       ]
     ]
+  },
+  "bgm": {
+    "name": "pki_oasisville.ogg",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }

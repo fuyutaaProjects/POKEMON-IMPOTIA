@@ -3,9 +3,17 @@
   "id": 6,
   "dbSymbol": "map006",
   "stepsAverage": 30,
-  "bgm": "13 Cave of Origin",
-  "bgs": "",
+  "tiledFilename": "",
   "mtime": 1,
   "sha1": "",
-  "tiledFilename": ""
+  "bgm": {
+    "name": "13 Cave of Origin",
+    "volume": 80,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 80,
+    "pitch": 100
+  }
 }

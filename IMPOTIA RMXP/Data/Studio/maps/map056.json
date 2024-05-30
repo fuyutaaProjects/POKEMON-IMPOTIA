@@ -3,8 +3,6 @@
   "id": 56,
   "dbSymbol": "map056",
   "stepsAverage": 30,
-  "bgm": "",
-  "bgs": "",
   "tiledFilename": "rm_56_verdentia",
   "mtime": 1712754032591,
   "sha1": "4682b67ef3fb42c500d820e8ddf09eeb7d369881",
@@ -28650,5 +28648,15 @@
       [],
       []
     ]
+  },
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }

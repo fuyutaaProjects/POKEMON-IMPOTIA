@@ -1023,7 +1023,7 @@ events:
       walk_anime: true
       move_speed: 3
       through: false
-    name: Parasect
+    name: Vileaect
     y: 15
     x: 18
     id: 19
@@ -1182,7 +1182,7 @@ events:
       walk_anime: true
       move_speed: 3
       through: false
-    name: Onix
+    name: Sabluscade
     y: 6
     x: 8
     id: 20
@@ -1573,7 +1573,7 @@ events:
         parameters:
         - 5, 31 \C[2]Daniel le Ruinemaniac :\C[0] Si je rentre donc "$wild_battle.add_roaming_pokemon(5,
           0, :id => 151, :level => 20)" dans une commande script, le joueur aura 1
-          chance sur 5 de rencontrer \C[3]Mew\C[0], de niveau 20 quand il marchera
+          chance sur 5 de rencontrer \C[3]Songita\C[0], de niveau 20 quand il marchera
           dans les hautes herbes.
         indent: 2
         code: 101

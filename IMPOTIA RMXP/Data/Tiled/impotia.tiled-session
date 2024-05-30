@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/rm_59_oasisville_interiors.tmx",
+    "activeFile": "Maps/rm_33_port_avalon.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Tilesets",
         "Maps",
         ".",
-        "PNG to tmx"
+        "PNG to tmx",
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -39,8 +39,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1076.6666666666667,
-                "y": 583.9999999999999
+                "x": 1230.6666666666665,
+                "y": 265.3333333333333
             }
         },
         "Maps/rm_15_map015.tmx": {
@@ -60,11 +60,11 @@
             }
         },
         "Maps/rm_33_port_avalon.tmx": {
-            "scale": 0.75,
+            "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 805.9999999999999,
-                "y": 1226.6666666666665
+                "x": 776,
+                "y": 940
             }
         },
         "Maps/rm_3_player_s_house.tmx": {
@@ -91,6 +91,22 @@
                 "y": 464
             }
         },
+        "Maps/rm_46_cave_sous_marine.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1571.75,
+                "y": 1600
+            }
+        },
+        "Maps/rm_47_centre_pok__mon_pa.tmx": {
+            "scale": 1.661015625,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 312.45943276421616,
+                "y": 268.5104181364941
+            }
+        },
         "Maps/rm_48_bar_avalons.tmx": {
             "scale": 2,
             "selectedLayer": 2,
@@ -105,6 +121,14 @@
             "viewCenter": {
                 "x": 456.99999999999994,
                 "y": 406.66666666666663
+            }
+        },
+        "Maps/rm_50_centre_pok__mon_debugroom.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 362.99999999999994,
+                "y": 271.33333333333337
             }
         },
         "Maps/rm_54_route_03.tmx": {
@@ -143,8 +167,16 @@
             "scale": 0.33,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 2578.787878787879,
-                "y": 1315.151515151515
+                "x": 2574.242424242424,
+                "y": 1312.1212121212122
+            }
+        },
+        "Maps/rm_5_centre_pok__mon.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 320,
+                "y": 239.5
             }
         },
         "Maps/rules_animations.tmx": {
@@ -518,6 +550,9 @@
         "Tilesets/tropical_big_mix.tsx": {
             "scaleInDock": 1
         },
+        "Tilesets/underwater_cave.tsx": {
+            "scaleInDock": 1
+        },
         "Tilesets/verdentia.tsx": {
             "scaleInDock": 1
         },
@@ -532,22 +567,25 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 200,
     "openFiles": [
-        "Maps/rm_59_oasisville_interiors.tmx"
+        "Maps/rm_5_centre_pok__mon.tmx",
+        "Maps/rm_46_cave_sous_marine.tmx",
+        "Maps/Oasisville.tmx",
+        "Maps/rm_33_port_avalon.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/rm_5_centre_pok__mon.tmx",
+        "Maps/rm_46_cave_sous_marine.tmx",
+        "Maps/Oasisville.tmx",
+        "Maps/rm_33_port_avalon.tmx",
+        "Maps/rm_47_centre_pok__mon_pa.tmx",
+        "Maps/rm_50_centre_pok__mon_debugroom.tmx",
         "Maps/rm_59_oasisville_interiors.tmx",
         "Maps/rm_15_map015.tmx",
         "Maps/rm_3_player_s_house.tmx",
-        "Maps/Oasisville.tmx",
         "Maps/rm_42_route_01.tmx",
         "Maps/rm_45_r1_h_gr1.tmx",
-        "Tilesets/animations.tsx",
-        "Maps/rm_33_port_avalon.tmx",
-        "P:/PSDK FOLDERS/DEMO WITH SAVE/Data/Tiled/Maps/005 River.tmx",
-        "Maps/rm_58_oasisville.tmx",
-        "P:/PSDK FOLDERS/DEMO WITH SAVE/Data/Tiled/Maps/007 Cave.tmx",
-        "P:/PSDK FOLDERS/DEMO WITH SAVE/Data/Tiled/Maps/019 Exterior.tmx"
+        "Tilesets/animations.tsx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }

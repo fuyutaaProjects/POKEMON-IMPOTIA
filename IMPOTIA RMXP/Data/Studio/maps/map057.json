@@ -3,8 +3,6 @@
   "id": 57,
   "dbSymbol": "map057",
   "stepsAverage": 30,
-  "bgm": "",
-  "bgs": "",
   "tiledFilename": "rm_57_foret_arboreon",
   "mtime": 1712754310684,
   "sha1": "367bc5d30ca0d3acb7827bc2105445a14a849015",
@@ -15929,5 +15927,15 @@
       [],
       []
     ]
+  },
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }

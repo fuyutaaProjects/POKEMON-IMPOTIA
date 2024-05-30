@@ -705,27 +705,27 @@ events:
       list:
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:poliwrath, 40)
+        - ajouter_pokemon(:rodeursan, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:charmeleon, 40)
+        - ajouter_pokemon(:sonorette, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:nidoking, 40)
+        - ajouter_pokemon(:chtuage, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:growlithe, 40)
+        - ajouter_pokemon(:pandoux, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:kadabra, 40)
+        - ajouter_pokemon(:kadpeion, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
@@ -782,27 +782,27 @@ events:
       list:
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:weedle, 40)
+        - ajouter_pokemon(:miltap, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:raticate, 40)
+        - ajouter_pokemon(:wombrat, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:psyduck, 40)
+        - ajouter_pokemon(:bagicien, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:muk, 40)
+        - ajouter_pokemon(:fioloxik, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:dewgong, 40)
+        - ajouter_pokemon(:arcanguy, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
@@ -1122,7 +1122,7 @@ events:
       list:
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:poliwrath, 40)
+        - ajouter_pokemon(:rodeursan, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
@@ -1548,7 +1548,7 @@ events:
         code: 121
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:poliwrath, 40)
+        - ajouter_pokemon(:rodeursan, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand

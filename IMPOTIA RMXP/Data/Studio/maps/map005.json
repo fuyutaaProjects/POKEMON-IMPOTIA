@@ -3,9 +3,17 @@
   "id": 5,
   "dbSymbol": "map005",
   "stepsAverage": 30,
-  "bgm": "24 Pokemon Center.ogg",
-  "bgs": "",
+  "tiledFilename": "",
   "mtime": 1,
   "sha1": "",
-  "tiledFilename": ""
+  "bgm": {
+    "name": "24 Pokemon Center.ogg",
+    "volume": 80,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 80,
+    "pitch": 100
+  }
 }

@@ -3,8 +3,6 @@
   "id": 35,
   "dbSymbol": "map035",
   "stepsAverage": 7,
-  "bgm": "PKI_-_Route_01.mp3",
-  "bgs": "",
   "tiledFilename": "rm_35_route_02",
   "mtime": 1712753313880,
   "sha1": "dc4a51c6726fdbdaf013e221567b67bf56621cb2",
@@ -13132,5 +13130,15 @@
       [],
       []
     ]
+  },
+  "bgm": {
+    "name": "PKI_-_Route_01.mp3",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }

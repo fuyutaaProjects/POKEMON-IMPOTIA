@@ -3,8 +3,6 @@
   "id": 48,
   "dbSymbol": "map048",
   "stepsAverage": 30,
-  "bgm": "",
-  "bgs": "",
   "tiledFilename": "rm_48_bar_avalons",
   "mtime": 1712919220620,
   "sha1": "f84d5c38c98c6d62cc711430ab21cb9a306921b0",
@@ -2044,5 +2042,15 @@
       [],
       []
     ]
+  },
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }

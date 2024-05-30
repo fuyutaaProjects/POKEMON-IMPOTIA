@@ -3,8 +3,6 @@
   "id": 45,
   "dbSymbol": "map045",
   "stepsAverage": 30,
-  "bgm": "",
-  "bgs": "",
   "tiledFilename": "rm_45_r1_h_gr1",
   "mtime": 1713183319537,
   "sha1": "901103ca5835af9ed81edd73f7e214684b2b2b4d",
@@ -1937,5 +1935,15 @@
       [],
       []
     ]
+  },
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
   }
 }
