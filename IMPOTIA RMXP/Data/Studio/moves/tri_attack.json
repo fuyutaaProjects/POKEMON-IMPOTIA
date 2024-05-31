@@ -3,7 +3,7 @@
   "id": 161,
   "dbSymbol": "tri_attack",
   "mapUse": 0,
-  "battleEngineMethod": "s_tri_attack",
+  "battleEngineMethod": "s_basic",
   "type": "normal",
   "power": 80,
   "accuracy": 100,
@@ -36,8 +36,21 @@
   "isUnfreeze": false,
   "battleEngineAimedTarget": "adjacent_pokemon",
   "battleStageMod": [],
-  "moveStatus": [],
-  "effectChance": 0,
+  "moveStatus": [
+    {
+      "status": "BURN",
+      "luckRate": 33
+    },
+    {
+      "status": "FROZEN",
+      "luckRate": 33
+    },
+    {
+      "status": "PARALYZED",
+      "luckRate": 33
+    }
+  ],
+  "effectChance": 20,
   "isSlicingAttack": false,
   "isWind": false
 }
