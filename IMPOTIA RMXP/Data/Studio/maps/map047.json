@@ -3,8 +3,18 @@
   "id": 47,
   "dbSymbol": "map047",
   "stepsAverage": 30,
+  "bgm": {
+    "name": "24 Pokemon Center.ogg",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
   "tiledFilename": "rm_47_centre_pok__mon_pa",
-  "mtime": 1714066250214,
+  "mtime": 1717342178892,
   "sha1": "a1a52dcf93e3d698c18c9a91dcb75de52d3cec86",
   "tileMetadata": {
     "width": 20,
@@ -1560,15 +1570,5 @@
         0
       ]
     ]
-  },
-  "bgm": {
-    "name": "24 Pokemon Center.ogg",
-    "volume": 100,
-    "pitch": 100
-  },
-  "bgs": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
   }
 }

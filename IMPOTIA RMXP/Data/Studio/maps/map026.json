@@ -3,9 +3,19 @@
   "id": 26,
   "dbSymbol": "map026",
   "stepsAverage": 30,
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
   "tiledFilename": "rm_26_port_avalon_interiors",
-  "mtime": 1712755337047,
-  "sha1": "2311100b689ead7cdad8fe6839c7ca7ae6763d58",
+  "mtime": 1718141558869,
+  "sha1": "64b0d7bee7ec4e7afe8061c0c65975f55a7d8583",
   "tileMetadata": {
     "width": 200,
     "height": 100,
@@ -1273,7 +1283,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -1282,7 +1292,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -1297,7 +1307,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -25376,15 +25386,5 @@
       [],
       []
     ]
-  },
-  "bgm": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
-  },
-  "bgs": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
   }
 }

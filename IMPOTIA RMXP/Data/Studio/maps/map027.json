@@ -3,8 +3,18 @@
   "id": 27,
   "dbSymbol": "map027",
   "stepsAverage": 30,
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
   "tiledFilename": "rm_59_oasisville_interiors",
-  "mtime": 1712753314609,
+  "mtime": 1717342178900,
   "sha1": "e271072b5fc0ec76dc3f299c426aa55b9d71b9e4",
   "tileMetadata": {
     "width": 100,
@@ -11264,15 +11274,5 @@
       [],
       []
     ]
-  },
-  "bgm": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
-  },
-  "bgs": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
   }
 }

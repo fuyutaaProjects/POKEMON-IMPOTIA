@@ -3,9 +3,19 @@
   "id": 53,
   "dbSymbol": "map053",
   "stepsAverage": 30,
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
   "tiledFilename": "rm_53_pok__shop_pa",
-  "mtime": 1712753314283,
-  "sha1": "dc377a66a3022f4b20bd6e59f9ddca23abeda1fb",
+  "mtime": 1717619680461,
+  "sha1": "01245e6f479852ec381cc2d578ac2a458c32cc80",
   "tileMetadata": {
     "width": 20,
     "height": 15,
@@ -418,7 +428,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -427,7 +437,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -436,7 +446,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -454,7 +464,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ]
     ],
@@ -1034,15 +1044,5 @@
       [],
       []
     ]
-  },
-  "bgm": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
-  },
-  "bgs": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
   }
 }

@@ -3,8 +3,18 @@
   "id": 48,
   "dbSymbol": "map048",
   "stepsAverage": 30,
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
   "tiledFilename": "rm_48_bar_avalons",
-  "mtime": 1712919220620,
+  "mtime": 1717342178892,
   "sha1": "f84d5c38c98c6d62cc711430ab21cb9a306921b0",
   "tileMetadata": {
     "width": 30,
@@ -2042,15 +2052,5 @@
       [],
       []
     ]
-  },
-  "bgm": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
-  },
-  "bgs": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
   }
 }

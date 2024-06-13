@@ -3,8 +3,18 @@
   "id": 52,
   "dbSymbol": "map052",
   "stepsAverage": 30,
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
   "tiledFilename": "rm_52_pa_gym",
-  "mtime": 1712753314029,
+  "mtime": 1717342178895,
   "sha1": "c5fedaa43bac0937c41c3041478fb50acb69b003",
   "tileMetadata": {
     "width": 40,
@@ -4260,15 +4270,5 @@
       [],
       []
     ]
-  },
-  "bgm": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
-  },
-  "bgs": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
   }
 }

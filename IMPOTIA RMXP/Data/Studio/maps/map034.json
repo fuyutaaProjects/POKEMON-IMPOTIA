@@ -3,8 +3,18 @@
   "id": 34,
   "dbSymbol": "map034",
   "stepsAverage": 30,
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
   "tiledFilename": "rm_34_sylvebrume",
-  "mtime": 1712753313327,
+  "mtime": 1717342178886,
   "sha1": "27980305f749275e19aac018f7f2fb320b9e7eb3",
   "tileMetadata": {
     "width": 100,
@@ -23230,15 +23240,5 @@
       [],
       []
     ]
-  },
-  "bgm": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
-  },
-  "bgs": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
   }
 }

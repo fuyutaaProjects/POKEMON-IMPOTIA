@@ -2,7 +2,7 @@ module RPG
   # Class that display weather
   class Weather
     # Tone used to simulate the sun weather
-    SunnyTone = Tone.new(90, 50, 0, 40)
+    SunnyTone = Tone.new(45, 25, 0, 20)
     # Array containing all the texture initializer in the order of the type
     INIT_TEXTURE = %i[init_rain init_rain init_zenith init_sand_storm init_snow init_fog]
     # Array containing all the weather update methods in the order of the type

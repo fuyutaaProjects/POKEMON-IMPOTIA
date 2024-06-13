@@ -1,20 +1,19 @@
 ================================Erreur de script================================
 Message :
-Database Error : The Pokémon squirtle doesn't exists.
+wrong number of arguments (given 0, expected 1)
 
-Type : RuntimeError
+Type : ArgumentError
 Script : 00700_PSDK_Event_Interpreter.rb (PSDK)
-Ligne : 432
-Date : 26/05/2024 20:05:09
+Ligne : 1158
+Date : 07/06/2024 22:57:02
 Game Version : 256
 Logiciel : Pokémon SDK 26.26
 Script used by eval command : 
-ajouter_pokemon(:squirtle, 1)
+trainer_eye_sequence
 
 
 ===================================Backtraces===================================
-[27] : 00700_PSDK_Event_Interpreter.rb (PSDK) | ligne 432 internal_add_pokemon_check_symbol
-[26] : 00700_PSDK_Event_Interpreter.rb (PSDK) | ligne 186 add_pokemon
+[26] : 00700_PSDK_Event_Interpreter.rb (PSDK) | ligne 1158 trainer_eye_sequence
 [25] : (eval) (RMXP) | ligne 1 eval_script
 [24] : 00600_Script_RMXP.rb (PSDK) | ligne 2093 eval
 [23] : 00600_Script_RMXP.rb (PSDK) | ligne 2093 eval_script

@@ -3,8 +3,18 @@
   "id": 55,
   "dbSymbol": "map055",
   "stepsAverage": 30,
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
   "tiledFilename": "rm_55_grotte_rochtherme",
-  "mtime": 1712753313045,
+  "mtime": 1717342178897,
   "sha1": "607c13992f8f4ba9c323c1517fb4ede370db501b",
   "tileMetadata": {
     "width": 100,
@@ -23868,15 +23878,5 @@
       [],
       []
     ]
-  },
-  "bgm": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
-  },
-  "bgs": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
   }
 }

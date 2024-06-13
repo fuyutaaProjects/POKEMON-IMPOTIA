@@ -6791,4 +6791,36 @@
    <frame tileid="11386" duration="700"/>
   </animation>
  </tile>
+ <tile id="11565">
+  <animation>
+   <frame tileid="11565" duration="1000"/>
+   <frame tileid="11569" duration="1000"/>
+   <frame tileid="11573" duration="1000"/>
+   <frame tileid="11577" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="11567">
+  <animation>
+   <frame tileid="11567" duration="1000"/>
+   <frame tileid="11571" duration="1000"/>
+   <frame tileid="11575" duration="1000"/>
+   <frame tileid="11579" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="11663">
+  <animation>
+   <frame tileid="11663" duration="1000"/>
+   <frame tileid="11667" duration="1000"/>
+   <frame tileid="11671" duration="1000"/>
+   <frame tileid="11675" duration="700"/>
+  </animation>
+ </tile>
+ <tile id="11665">
+  <animation>
+   <frame tileid="11665" duration="1000"/>
+   <frame tileid="11669" duration="1000"/>
+   <frame tileid="11673" duration="1000"/>
+   <frame tileid="11677" duration="700"/>
+  </animation>
+ </tile>
 </tileset>

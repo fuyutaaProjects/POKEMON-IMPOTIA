@@ -3,8 +3,18 @@
   "id": 43,
   "dbSymbol": "map043",
   "stepsAverage": 30,
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
   "tiledFilename": "rm_43_mermesa",
-  "mtime": 1712753315123,
+  "mtime": 1717342178889,
   "sha1": "147d2a5915a09c8fa2eb24abd11d6b1b047fe636",
   "tileMetadata": {
     "width": 50,
@@ -14337,15 +14347,5 @@
         241
       ]
     ]
-  },
-  "bgm": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
-  },
-  "bgs": {
-    "name": "",
-    "volume": 100,
-    "pitch": 100
   }
 }
