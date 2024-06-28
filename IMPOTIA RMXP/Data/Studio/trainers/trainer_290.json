@@ -7,7 +7,7 @@
   "baseMoney": 100,
   "bagEntries": [],
   "battleId": 0,
-  "ai": 4,
+  "ai": 6,
   "party": [
     {
       "specie": "alvouille",
@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 9
+        "level": 11
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "specie": "bagicien",
+      "specie": "cocortue",
       "form": 0,
       "shinySetup": {
         "kind": "automatic",
@@ -185,15 +185,15 @@
     }
   ],
   "resources": {
-    "sprite": "",
+    "sprite": "dp_back_empty",
     "artworkFull": "ChampionAlvis_big",
     "artworkSmall": "ChampionAlvis_sma",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
     }
   }
 }

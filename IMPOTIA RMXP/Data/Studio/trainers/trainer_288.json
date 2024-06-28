@@ -127,15 +127,15 @@
     }
   ],
   "resources": {
-    "sprite": "",
+    "sprite": "Bandit2_sma",
     "artworkFull": "Bandit2_big",
     "artworkSmall": "Bandit2_sma",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
     }
   }
 }

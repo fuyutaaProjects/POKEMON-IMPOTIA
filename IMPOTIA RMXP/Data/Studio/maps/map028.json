@@ -1,0 +1,793 @@
+{
+  "klass": "Map",
+  "id": 28,
+  "dbSymbol": "map028",
+  "stepsAverage": 30,
+  "bgm": {
+    "name": "gate.ogg",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "mtime": 1719311171696,
+  "sha1": "48e5f7c98a0f82ab00507084bb3685dacec2e19a",
+  "tiledFilename": "Gate Left Port Avalon",
+  "tileMetadata": {
+    "width": 15,
+    "height": 10,
+    "tilesets": [
+      {
+        "firstGlobalId": 1,
+        "source": "../Tilesets/forest.tsx"
+      },
+      {
+        "firstGlobalId": 5001,
+        "source": "../Tilesets/passages.tsx"
+      },
+      {
+        "firstGlobalId": 5145,
+        "source": "../Tilesets/systemtags.tsx"
+      },
+      {
+        "firstGlobalId": 5273,
+        "source": "../Tilesets/terrain_tag.tsx"
+      },
+      {
+        "firstGlobalId": 5289,
+        "source": "../Tilesets/nature_basics.tsx"
+      },
+      {
+        "firstGlobalId": 15273,
+        "source": "../Tilesets/terrain_basics.tsx"
+      },
+      {
+        "firstGlobalId": 21039,
+        "source": "../Tilesets/common_assets.tsx"
+      },
+      {
+        "firstGlobalId": 31023,
+        "source": "../Tilesets/common building interiors.tsx"
+      }
+    ],
+    "tileByTileId": [
+      [
+        {
+          "globalId": 31049,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31050,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31051,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31232,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31057,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31058,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31036,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31058,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 31038,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31053,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31059,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21128,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21129,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31065,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 31044,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 31232,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31046,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 31285,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 31067,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 21141,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21142,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21180,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21181,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31293,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21193,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21194,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21232,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21233,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 31036,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 31053,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21245,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21246,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21284,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21285,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21297,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21298,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21336,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21337,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31031,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 21349,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 21350,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 7,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ]
+    ],
+    "layerData": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        5,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        5,
+        8
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        5,
+        9
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        5,
+        6
+      ],
+      [
+        3,
+        10
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        11
+      ],
+      [
+        12
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        15
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        15
+      ],
+      [
+        3,
+        17
+      ],
+      [
+        15
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        3,
+        18
+      ],
+      [
+        19
+      ],
+      [
+        20
+      ],
+      [],
+      [],
+      [
+        21
+      ],
+      [
+        22
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        3,
+        23
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        24
+      ],
+      [
+        25
+      ],
+      [],
+      [],
+      [
+        26
+      ],
+      [
+        27
+      ],
+      [
+        15,
+        28
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15,
+        29
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15,
+        28
+      ],
+      [
+        30
+      ],
+      [
+        31
+      ],
+      [],
+      [],
+      [
+        32
+      ],
+      [
+        33
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        3,
+        17
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        3,
+        14
+      ],
+      [
+        34
+      ],
+      [
+        35
+      ],
+      [],
+      [],
+      [
+        36
+      ],
+      [
+        37
+      ],
+      [
+        38
+      ],
+      [
+        38
+      ],
+      [
+        38
+      ],
+      [
+        38
+      ],
+      [
+        38
+      ],
+      [
+        38
+      ],
+      [
+        38
+      ],
+      [
+        38
+      ],
+      [
+        38
+      ],
+      [
+        39
+      ],
+      [
+        40
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        41
+      ],
+      [
+        41
+      ],
+      [
+        41
+      ],
+      [
+        41
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        41
+      ],
+      [
+        41
+      ],
+      [
+        41
+      ],
+      [
+        41
+      ],
+      [
+        41
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  }
+}

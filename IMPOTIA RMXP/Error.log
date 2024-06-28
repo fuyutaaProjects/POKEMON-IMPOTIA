@@ -1,21 +1,39 @@
 ================================Erreur de script================================
 Message :
-No such file or directory @ rb_sysopen - graphics/shaders/rs_wild_ext_side.frag
+divided by 0
 
-Type : Errno::ENOENT
-Script : 00000_Dependencies.rb (PSDK)
-Ligne : 1618
-Date : 17/06/2024 19:17:42
+Type : ZeroDivisionError
+Script : 01600_Alpha_25_Battle_Engine_00001_Battle_Scene.rb (PSDK)
+Ligne : 1731
+Date : 27/06/2024 15:19:00
 Game Version : 256
 Logiciel : Pokémon SDK 26.27
 ===================================Backtraces===================================
-[14] : 00000_Dependencies.rb (PSDK) | ligne 1618 read
-[13] : 00000_Dependencies.rb (PSDK) | ligne 1618 load_shader_file
-[12] : 00000_Dependencies.rb (PSDK) | ligne 1589 register
-[11] : 01600_Alpha_25_Battle_Engine_00002_Battle_Visual.rb (PSDK) | ligne 2230 <top (required)>
-[10] : 00000_Dependencies.rb (PSDK) | ligne 404 each
-[9] : 00000_Dependencies.rb (PSDK) | ligne 404 start
-[8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 5 <top (required)>
+[32] : 01600_Alpha_25_Battle_Engine_00001_Battle_Scene.rb (PSDK) | ligne 1731 /
+[31] : 01600_Alpha_25_Battle_Engine_00001_Battle_Scene.rb (PSDK) | ligne 1731 initialize
+[30] : 01600_Alpha_25_Battle_Engine_00002_Battle_Visual.rb (PSDK) | ligne 138 new
+[29] : 01600_Alpha_25_Battle_Engine_00002_Battle_Visual.rb (PSDK) | ligne 138 create_battlers
+[28] : 01600_Alpha_25_Battle_Engine_00002_Battle_Visual.rb (PSDK) | ligne 137 each
+[27] : 01600_Alpha_25_Battle_Engine_00002_Battle_Visual.rb (PSDK) | ligne 137 each_with_index
+[26] : 01600_Alpha_25_Battle_Engine_00002_Battle_Visual.rb (PSDK) | ligne 137 create_battlers
+[25] : 01600_Alpha_25_Battle_Engine_00002_Battle_Visual.rb (PSDK) | ligne 136 times
+[24] : 01600_Alpha_25_Battle_Engine_00002_Battle_Visual.rb (PSDK) | ligne 136 create_battlers
+[23] : 01600_Alpha_25_Battle_Engine_00002_Battle_Visual.rb (PSDK) | ligne 102 create_graphics
+[22] : 01600_Alpha_25_Battle_Engine_00002_Battle_Visual.rb (PSDK) | ligne 29 initialize
+[21] : 01600_Alpha_25_Battle_Engine_00001_Battle_Scene.rb (PSDK) | ligne 95 new
+[20] : 01600_Alpha_25_Battle_Engine_00001_Battle_Scene.rb (PSDK) | ligne 95 create_visual
+[19] : 01600_Alpha_25_Battle_Engine_00001_Battle_Scene.rb (PSDK) | ligne 34 initialize
+[18] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7885 new
+[17] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7885 setup_start_battle
+[16] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7933 <class:Scene_Map>
+[15] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7925 call_battle
+[14] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7900 update_scene_calling
+[13] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7898 each
+[12] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7898 update_scene_calling
+[11] : 01450_Systems_00003_Map_Engine.rb (PSDK) | ligne 7692 update
+[10] : 01450_Systems_00000_General_00003_GamePlay__Base.rb (PSDK) | ligne 229 main_process
+[9] : 01450_Systems_00000_General_00003_GamePlay__Base.rb (PSDK) | ligne 140 main
+[8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
 [7] : tools/GameLoader/3_load_extensions.rb (PSDK) | ligne 46 rgss_main
 [6] : tools/GameLoader/50_load_game_uncompiled.rb (PSDK) | ligne 48 <top (required)>
 [5] : ScriptLoad.rb (PSDK) | ligne 196 require
