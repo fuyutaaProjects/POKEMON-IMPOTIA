@@ -2,8 +2,8 @@
   "klass": "Group",
   "id": 6,
   "dbSymbol": "group_6",
-  "systemTag": "Grass",
-  "terrainTag": 1,
+  "systemTag": "Custom_yellow_sand_grass",
+  "terrainTag": 0,
   "tool": null,
   "isDoubleBattle": false,
   "isHordeBattle": false,
@@ -178,5 +178,5 @@
       ]
     }
   ],
-  "stepsAverage": 0
+  "stepsAverage": 7
 }

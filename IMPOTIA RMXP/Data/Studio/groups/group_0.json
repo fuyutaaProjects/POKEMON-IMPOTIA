@@ -2,12 +2,23 @@
   "klass": "Group",
   "id": 0,
   "dbSymbol": "group_0",
-  "systemTag": "Grass",
+  "systemTag": "Custom_yellow_sand_grass",
   "terrainTag": 0,
   "tool": null,
   "isDoubleBattle": false,
   "isHordeBattle": false,
-  "customConditions": [],
+  "customConditions": [
+    {
+      "type": "mapId",
+      "value": 46,
+      "relationWithPreviousCondition": "AND"
+    },
+    {
+      "type": "mapId",
+      "value": 42,
+      "relationWithPreviousCondition": "OR"
+    }
+  ],
   "encounters": [
     {
       "specie": "colaero",
