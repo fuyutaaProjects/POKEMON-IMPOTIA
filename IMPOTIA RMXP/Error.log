@@ -1,42 +1,33 @@
 ================================Erreur de script================================
 Message :
-undefined method `call' for nil:NilClass
+undefined method `custom_yellow_sand_grass?' for #<PFM::Environment:0x0fa844e8>
 
 Type : NoMethodError
-Script : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00001 BattleUI/00001 GoingInOut.rb (PSDK)
-Ligne : 59
-Date : 29/06/2024 13:09:27
+Script : 00100 CustomSystemTags.rb (user)
+Ligne : 185
+Date : 03/07/2024 14:31:59
 Game Version : 256
-Logiciel : Pokémon SDK 26.27
+Logiciel : PSDK 26.27
 ===================================Backtraces===================================
-[38] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00001 BattleUI/00001 GoingInOut.rb (PSDK) | ligne 59 go_in_out_delta
-[37] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00001 BattleUI/00001 GoingInOut.rb (PSDK) | ligne 21 go_out
-[36] : 01500 Yuki/00100 Animation/00101 Commands.rb (PSDK) | ligne 205 update_internal
-[35] : 01500 Yuki/00100 Animation/00101 Commands.rb (PSDK) | ligne 36 update
-[34] : 01500 Yuki/00100 Animation/00100 Animation.rb (PSDK) | ligne 104 each
-[33] : 01500 Yuki/00100 Animation/00100 Animation.rb (PSDK) | ligne 104 update
-[32] : 01500 Yuki/00100 Animation/00100 Animation.rb (PSDK) | ligne 113 update
-[31] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00002 Transition/00000 Transition.rb (PSDK) | ligne 23 each
-[30] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00002 Transition/00000 Transition.rb (PSDK) | ligne 23 update
-[29] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00200 Visual.rb (PSDK) | ligne 60 each
-[28] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00200 Visual.rb (PSDK) | ligne 60 update
-[27] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 69 update
-[26] : 01450 Systems/00004 Message/00003 GamePlay/00001 DisplayMessage.rb (PSDK) | ligne 148 message_update_scene
-[25] : 01450 Systems/00004 Message/00003 GamePlay/00001 DisplayMessage.rb (PSDK) | ligne 72 display_message
-[24] : 01450 Systems/00004 Message/00003 GamePlay/00001 DisplayMessage.rb (PSDK) | ligne 89 display_message_and_wait
-[23] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00001 Handlers/01011 BattleEndHandler.rb (PSDK) | ligne 143 <class:Logic>
-[22] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00001 Handlers/01011 BattleEndHandler.rb (PSDK) | ligne 140 each
-[21] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00001 Handlers/01011 BattleEndHandler.rb (PSDK) | ligne 140 each_with_index
-[20] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00001 Handlers/01011 BattleEndHandler.rb (PSDK) | ligne 140 <class:Logic>
-[19] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00001 Handlers/01011 BattleEndHandler.rb (PSDK) | ligne 84 register
-[18] : 00010 Hooks.rb (PSDK) | ligne 57 instance_exec
-[17] : 00010 Hooks.rb (PSDK) | ligne 57 exec_hooks
-[16] : 00010 Hooks.rb (PSDK) | ligne 55 each
-[15] : 00010 Hooks.rb (PSDK) | ligne 55 exec_hooks
-[14] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00001 Handlers/01011 BattleEndHandler.rb (PSDK) | ligne 13 process
-[13] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00103 Scene Battle Phase.rb (PSDK) | ligne 38 battle_end
-[12] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 83 next_update_process
-[11] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 73 update
+[29] : 00100 CustomSystemTags.rb (user) | ligne 185 get_zone_type
+[28] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00000 Battle Info/00010 Background.rb (PSDK) | ligne 77 system_tag_background_name
+[27] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00000 Battle Info/00010 Background.rb (PSDK) | ligne 34 background_name_suggestions
+[26] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00000 Battle Info/00010 Background.rb (PSDK) | ligne 21 find_background_name_to_display
+[25] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00200 Visual.rb (PSDK) | ligne 164 background_name
+[24] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00200 Visual.rb (PSDK) | ligne 149 create_background
+[23] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00200 Visual.rb (PSDK) | ligne 133 create_graphics
+[22] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00200 Visual.rb (PSDK) | ligne 47 initialize
+[21] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 119 new
+[20] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 119 create_visual
+[19] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 36 initialize
+[18] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 46 new
+[17] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 46 setup_start_battle
+[16] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 110 <class:Scene_Map>
+[15] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 98 call_battle
+[14] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 68 update_scene_calling
+[13] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 66 each
+[12] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 66 update_scene_calling
+[11] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 27 update
 [10] : 01450 Systems/00000 General/00003 GamePlay__Base/00000 GamePlay__Base.rb (PSDK) | ligne 260 main_process
 [9] : 01450 Systems/00000 General/00003 GamePlay__Base/00000 GamePlay__Base.rb (PSDK) | ligne 153 main
 [8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>

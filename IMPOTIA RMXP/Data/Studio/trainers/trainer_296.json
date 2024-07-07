@@ -127,15 +127,15 @@
     }
   ],
   "resources": {
-    "sprite": "",
+    "sprite": "Employé_sma",
     "artworkFull": "Employé_big",
     "artworkSmall": "Employé_sma",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
+      "victory": "",
+      "defeat": "",
+      "bgm": "vs_sbire_nudite.ogg"
     }
   }
 }

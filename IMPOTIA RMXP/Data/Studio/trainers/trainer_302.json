@@ -5,7 +5,18 @@
   "vsType": 2,
   "isCouple": false,
   "baseMoney": 150,
-  "ai": 6,
+  "bagEntries": [
+    {
+      "dbSymbol": "hyper_potion",
+      "amount": 1
+    },
+    {
+      "dbSymbol": "revival_herb",
+      "amount": 5
+    }
+  ],
+  "battleId": 0,
+  "ai": 7,
   "party": [
     {
       "specie": "corofessor",
@@ -182,27 +193,16 @@
       ]
     }
   ],
-  "bagEntries": [
-    {
-      "dbSymbol": "hyper_potion",
-      "amount": 1
-    },
-    {
-      "dbSymbol": "revival_herb",
-      "amount": 5
-    }
-  ],
-  "battleId": 0,
   "resources": {
+    "sprite": "",
     "artworkFull": "ChampionAlvis_big",
     "artworkSmall": "ChampionAlvis_sma",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
-    },
-    "sprite": "ChampionAlvis_sma"
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
+    }
   }
 }

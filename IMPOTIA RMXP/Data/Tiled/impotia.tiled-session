@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/rm_33_port_avalon.tmx",
+    "activeFile": "",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
+        "PNG to tmx",
         "Maps",
         "Tilesets",
-        "PNG to tmx",
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -39,8 +39,8 @@
             "scale": 1.5,
             "selectedLayer": 27,
             "viewCenter": {
-                "x": 325.33333333333326,
-                "y": 158.66666666666666
+                "x": 324.6666666666667,
+                "y": 158
             }
         },
         "Maps/Gate North Oasisville.tmx": {
@@ -92,19 +92,19 @@
             }
         },
         "Maps/rm_33_port_avalon.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 2,
+            "scale": 1,
+            "selectedLayer": 22,
             "viewCenter": {
-                "x": 1569.333333333333,
-                "y": 2062.6666666666665
+                "x": 851,
+                "y": 539.5
             }
         },
         "Maps/rm_35_route_02.tmx": {
             "scale": 1.5,
-            "selectedLayer": 3,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 696,
-                "y": 122.66666666666666
+                "x": 838.6666666666666,
+                "y": 557.6666666666666
             }
         },
         "Maps/rm_3_player_s_house.tmx": {
@@ -116,11 +116,19 @@
             }
         },
         "Maps/rm_42_route_01.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 10,
+            "scale": 1,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 1400.0000000000002,
-                "y": 1545.4545454545455
+                "x": 1201,
+                "y": 593
+            }
+        },
+        "Maps/rm_43_mermesa.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 795,
+                "y": 473
             }
         },
         "Maps/rm_45_r1_h_gr1.tmx": {
@@ -133,10 +141,10 @@
         },
         "Maps/rm_46_cave_sous_marine.tmx": {
             "scale": 1.5,
-            "selectedLayer": 6,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1448.3333333333335,
-                "y": 2807.333333333333
+                "x": 1684,
+                "y": 1680.6666666666665
             }
         },
         "Maps/rm_47_centre_pok__mon_pa.tmx": {
@@ -180,19 +188,19 @@
             }
         },
         "Maps/rm_54_route_03.tmx": {
-            "scale": 0.33,
+            "scale": 1,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1356.060606060606,
-                "y": 1295.4545454545455
+                "x": 1033,
+                "y": 1335.5
             }
         },
         "Maps/rm_56_verdentia.tmx": {
-            "scale": 1,
+            "scale": 0.75,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 1267.5,
-                "y": 1502
+                "x": 1216,
+                "y": 1556
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -575,6 +583,9 @@
         "Tilesets/interieurs_pa.tsx": {
             "scaleInDock": 1
         },
+        "Tilesets/mermesa.tsx": {
+            "scaleInDock": 1
+        },
         "Tilesets/nature_basics.tsx": {
             "scaleInDock": 1
         },
@@ -619,23 +630,21 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Gate Left Port Avalon.tmx",
-        "Maps/rm_33_port_avalon.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/Gate Left Port Avalon.tmx",
+        "Maps/rm_56_verdentia.tmx",
+        "Maps/rm_42_route_01.tmx",
+        "Maps/rm_35_route_02.tmx",
+        "Maps/rm_54_route_03.tmx",
+        "Maps/rm_43_mermesa.tmx",
         "Maps/rm_33_port_avalon.tmx",
+        "Maps/rm_46_cave_sous_marine.tmx",
+        "Maps/Gate Left Port Avalon.tmx",
         "Maps/Oasisville.tmx",
         "Maps/Gate South Port Avalon.tmx",
         "Maps/Gate North Oasisville.tmx",
-        "Maps/rm_47_centre_pok__mon_pa.tmx",
-        "Maps/TEMPLATE.tmx",
-        "Maps/rm_35_route_02.tmx",
-        "Tilesets/common building interiors.tsx",
-        "Maps/rm_42_route_01.tmx",
-        "Maps/rm_59_oasisville_interiors.tmx",
-        "Maps/rm_26_port_avalon_interiors.tmx"
+        "Maps/rm_47_centre_pok__mon_pa.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
