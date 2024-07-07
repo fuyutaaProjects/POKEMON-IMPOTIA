@@ -112,6 +112,11 @@ module Battle
 module GameData
   module SystemTags
     YellowSandGrass = gen 0, 12
+    YellowSandGrassNoTrees = gen 1, 12
+    UnderwaterGrass = gen 2, 12
+    LavaCave = gen 3, 12
+    SnowCave = gen 4, 12
+
 
     # Those two lines allow to reuse the original system_tag_db_symbol as psdk_system_tag_db_symbol
     # Since it's a module_function we need to declare the alias as module_function ;)
@@ -122,12 +127,20 @@ module GameData
 
     def system_tag_db_symbol(system_tag)
       return :custom_yellow_sand_grass if system_tag == YellowSandGrass
+      return :custom_yellow_sand_grass_no_trees if system_tag == YellowSandGrassNoTrees
+      return :custom_underwater_grass if system_tag == UnderwaterGrass
+      return :custom_lava_cave if system_tag == LavaCave
+      return :custom_snow_cave if system_tag == SnowCave
       return psdk_system_tag_db_symbol(system_tag)
     end
   end
 end
 
 Battle::Logic::BattleInfo::BACKGROUND_NAMES.push('back_yellow_sand_grass')
+Battle::Logic::BattleInfo::BACKGROUND_NAMES.push('back_yellow_sand_grass_no_trees')
+Battle::Logic::BattleInfo::BACKGROUND_NAMES.push('back_underwater_grass')
+Battle::Logic::BattleInfo::BACKGROUND_NAMES.push('back_lava_cave')
+Battle::Logic::BattleInfo::BACKGROUND_NAMES.push('back_snow_cave')
 
 module CustomSystemTagsOverwrites
   # Return the zone type
@@ -135,6 +148,10 @@ module CustomSystemTagsOverwrites
   # @return [Integer] 1 = tall grass, 2 = taller grass, 3 = cave, 4 = mount, 5 = sand, 6 = pond, 7 = sea, 8 = underwater, 9 = snow, 10 = ice, 0 = building
   def get_zone_type(ice_prio = false)
     return 11 if custom_yellow_sand_grass?
+    return 12 if custom_yellow_sand_grass_no_trees?
+    return 13 if custom_underwater_grass?
+    return 14 if custom_lava_cave?
+    return 15 if custom_snow_cave?
     return super(ice_prio)
   end
 
@@ -143,12 +160,28 @@ module CustomSystemTagsOverwrites
   def custom_yellow_sand_grass?
     return @game_state.game_player.system_tag == GameData::SystemTags::YellowSandGrass
   end
+  def custom_yellow_sand_grass_no_trees?
+    return @game_state.game_player.system_tag == GameData::SystemTags::YellowSandGrassNoTrees
+  end
+  def custom_underwater_grass?
+    return @game_state.game_player.system_tag == GameData::SystemTags::UnderwaterGrass
+  end
+  def custom_lava_cave?
+    return @game_state.game_player.system_tag == GameData::SystemTags::LavaCave
+  end
+  def custom_snow_cave?
+    return @game_state.game_player.system_tag == GameData::SystemTags::SnowCave
+  end
 
   # Convert a system_tag to a zone_type
   # @param system_tag [Integer] the system tag
   # @return [Integer] same as get_zone_type
   def convert_zone_type(system_tag)
     return 11 if system_tag == GameData::SystemTags::YellowSandGrass
+    return 12 if system_tag == GameData::SystemTags::YellowSandGrassNoTrees
+    return 13 if system_tag == GameData::SystemTags::UnderwaterGrass
+    return 14 if system_tag == GameData::SystemTags::LavaCave
+    return 15 if system_tag == GameData::SystemTags::SnowCave
     return super(system_tag)
   end
 end
@@ -156,3 +189,5 @@ end
 PFM::Environment.prepend(CustomSystemTagsOverwrites)
 
 Game_Character::PARTICLES_METHODS[GameData::SystemTags::YellowSandGrass] = :particle_push_grass
+Game_Character::PARTICLES_METHODS[GameData::SystemTags::YellowSandGrassNoTrees] = :particle_push_grass
+Game_Character::PARTICLES_METHODS[GameData::SystemTags::UnderwaterGrass] = :particle_push_grass

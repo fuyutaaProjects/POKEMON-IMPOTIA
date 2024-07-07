@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Maps/Oasisville.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "PNG to tmx",
-        "Maps",
         "Tilesets",
-        "."
+        ".",
+        "Maps",
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -63,8 +63,8 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1282,
-                "y": 148
+                "x": 1073.3333333333333,
+                "y": 574.6666666666666
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -92,11 +92,11 @@
             }
         },
         "Maps/rm_33_port_avalon.tmx": {
-            "scale": 1,
+            "scale": 0.5,
             "selectedLayer": 22,
             "viewCenter": {
-                "x": 851,
-                "y": 539.5
+                "x": 742,
+                "y": 526
             }
         },
         "Maps/rm_35_route_02.tmx": {
@@ -140,11 +140,11 @@
             }
         },
         "Maps/rm_46_cave_sous_marine.tmx": {
-            "scale": 1.5,
+            "scale": 0.75,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1684,
-                "y": 1680.6666666666665
+                "x": 1661.3333333333333,
+                "y": 2494.6666666666665
             }
         },
         "Maps/rm_47_centre_pok__mon_pa.tmx": {
@@ -265,6 +265,14 @@
             "viewCenter": {
                 "x": 1209.25,
                 "y": 758.75
+            }
+        },
+        "Maps/trailer_map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 22,
+            "viewCenter": {
+                "x": 1248,
+                "y": 1087.3333333333333
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -630,21 +638,24 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
+        "Maps/trailer_map.tmx",
+        "Maps/rm_46_cave_sous_marine.tmx",
+        "Maps/Oasisville.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/trailer_map.tmx",
+        "Maps/rm_46_cave_sous_marine.tmx",
+        "Maps/Oasisville.tmx",
+        "Maps/rm_33_port_avalon.tmx",
         "Maps/rm_56_verdentia.tmx",
         "Maps/rm_42_route_01.tmx",
         "Maps/rm_35_route_02.tmx",
         "Maps/rm_54_route_03.tmx",
         "Maps/rm_43_mermesa.tmx",
-        "Maps/rm_33_port_avalon.tmx",
-        "Maps/rm_46_cave_sous_marine.tmx",
         "Maps/Gate Left Port Avalon.tmx",
-        "Maps/Oasisville.tmx",
         "Maps/Gate South Port Avalon.tmx",
-        "Maps/Gate North Oasisville.tmx",
-        "Maps/rm_47_centre_pok__mon_pa.tmx"
+        "Maps/Gate North Oasisville.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
