@@ -146,6 +146,11 @@
         },
         {
           "klass": "LevelLearnableMove",
+          "move": "ingrain",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "wonder_room",
           "level": 52
         },
@@ -156,7 +161,7 @@
         },
         {
           "klass": "EvolutionLearnableMove",
-          "move": "ingrain"
+          "move": "hyperspace_hole"
         },
         {
           "klass": "TutorLearnableMove",

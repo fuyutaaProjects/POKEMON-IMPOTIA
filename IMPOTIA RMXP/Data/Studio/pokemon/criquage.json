@@ -1,92 +1,319 @@
 {
-    "klass": "Specie",
-    "id": 11,
-    "dbSymbol": "criquage",
-    "forms": [
+  "klass": "Specie",
+  "id": 11,
+  "dbSymbol": "criquage",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.5,
+      "weight": 6.9,
+      "type1": "bug",
+      "type2": "normal",
+      "baseHp": 120,
+      "baseAtk": 20,
+      "baseDfe": 100,
+      "baseSpd": 105,
+      "baseAts": 20,
+      "baseDfs": 100,
+      "evHp": 2,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evSpd": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 72,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 50,
+      "breedGroups": [
+        3,
+        3
+      ],
+      "hatchSteps": 3840,
+      "babyDbSymbol": "criquage",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 0.5,
-            "weight": 6.9,
-            "type1": "bug",
-            "type2": "__undef__",
-            "baseHp": 40,
-            "baseAtk": 99,
-            "baseDfe": 59,
-            "baseSpd": 104,
-            "baseAts": 67,
-            "baseDfs": 69,
-            "evHp": 0,
-            "evAtk": 1,
-            "evDfe": 0,
-            "evSpd": 2,
-            "evAts": 0,
-            "evDfs": 0,
-            "evolutions": [],
-            "experienceType": 1,
-            "baseExperience": 72,
-            "baseLoyalty": 70,
-            "catchRate": 120,
-            "femaleRate": 50,
-            "breedGroups": [
-                3,
-                3
-            ],
-            "hatchSteps": 3840,
-            "babyDbSymbol": "grillur",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "swarm",
-                "swarm",
-                "run_away"
-            ],
-            "frontOffsetY": 29,
-            "resources": {
-                "icon": "criquage",
-                "iconShiny": "criquage",
-                "front": "criquage",
-                "frontShiny": "criquage",
-                "back": "criquage",
-                "backShiny": "criquage",
-                "footprint": "criquage",
-                "character": "criquage",
-                "characterShiny": "criquage",
-                "cry": "011cry.ogg",
-                "hasFemale": false
-            },
-            "moveSet": [
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "harden",
-                    "level": 1
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "harden",
-                    "level": 7
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "iron_defense"
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "bug_bite"
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "electroweb"
-                }
-            ]
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "imposter",
+        "effect_spore",
+        "magic_bounce"
+      ],
+      "frontOffsetY": 29,
+      "resources": {
+        "icon": "criquage",
+        "iconShiny": "criquage",
+        "front": "criquage",
+        "frontShiny": "criquage",
+        "back": "criquage",
+        "backShiny": "criquage",
+        "footprint": "criquage",
+        "character": "criquage",
+        "characterShiny": "criquage",
+        "cry": "011cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pound",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "cotton_guard",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bug_bite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mirror_move",
+          "level": 4
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "poison_powder",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stun_spore",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leech_seed",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "body_slam",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ingrain",
+          "level": 17
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sticky_web",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "iron_defense",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shell_smash",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "transform",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stealth_rock",
+          "level": 32
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "lunge",
+          "level": 34
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spikes",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "toxic_spikes",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "lunge",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leech_life",
+          "level": 53
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "u_turn",
+          "level": 57
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "quiver_dance",
+          "level": 63
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "iron_defense"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "bug_bite"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "electroweb"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "lunge"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "light_screen"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "acid_armor"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "toxic"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "hidden_power"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "light_screen"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "protect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "safeguard"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "double_team"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "reflect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "taunt"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sludge_bomb"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "facade"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "embargo"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "thunder_wave"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "struggle_bug"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "bulldoze"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "flash"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "work_up"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dazzling_gleam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "strength"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "confide"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "defend_order"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "sticky_web"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "signal_beam"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "glare"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "leech_life"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "fury_attack"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "bind"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "slash"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "razor_leaf"
+        }
+      ]
+    }
+  ]
 }

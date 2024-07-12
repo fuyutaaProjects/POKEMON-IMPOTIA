@@ -46,8 +46,8 @@
       ],
       "abilities": [
         "overgrow",
-        "overgrow",
-        "chlorophyll"
+        "flower_veil",
+        "wonder_guard"
       ],
       "frontOffsetY": 13,
       "resources": {
@@ -195,6 +195,10 @@
           "move": "grass_pledge"
         },
         {
+          "klass": "EvolutionLearnableMove",
+          "move": "tourbillon_vegetal"
+        },
+        {
           "klass": "TechLearnableMove",
           "move": "cut"
         },
@@ -323,12 +327,16 @@
           "move": "confide"
         },
         {
-          "klass": "TechLearnableMove",
-          "move": "secret_power"
+          "klass": "TutorLearnableMove",
+          "move": "psychic"
         },
         {
-          "klass": "EvolutionLearnableMove",
-          "move": "tourbillon_vegetal"
+          "klass": "TutorLearnableMove",
+          "move": "trick_room"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "draining_kiss"
         }
       ]
     },

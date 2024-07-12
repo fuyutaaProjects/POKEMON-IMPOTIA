@@ -1,289 +1,322 @@
 {
-    "klass": "Specie",
-    "id": 70,
-    "dbSymbol": "fraisyste",
-    "forms": [
+  "klass": "Specie",
+  "id": 70,
+  "dbSymbol": "fraisyste",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1,
+      "weight": 6.4,
+      "type1": "grass",
+      "type2": "electric",
+      "baseHp": 73,
+      "baseAtk": 64,
+      "baseDfe": 74,
+      "baseSpd": 91,
+      "baseAts": 114,
+      "baseDfs": 84,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 3,
+      "baseExperience": 137,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 50,
+      "breedGroups": [
+        7,
+        7
+      ],
+      "hatchSteps": 5120,
+      "babyDbSymbol": "frainy",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 1,
-            "weight": 6.4,
-            "type1": "grass",
-            "type2": "electric",
-            "baseHp": 73,
-            "baseAtk": 64,
-            "baseDfe": 74,
-            "baseSpd": 91,
-            "baseAts": 114,
-            "baseDfs": 84,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evSpd": 0,
-            "evAts": 3,
-            "evDfs": 0,
-            "evolutions": [],
-            "experienceType": 3,
-            "baseExperience": 137,
-            "baseLoyalty": 70,
-            "catchRate": 120,
-            "femaleRate": 50,
-            "breedGroups": [
-                7,
-                7
-            ],
-            "hatchSteps": 5120,
-            "babyDbSymbol": "frainy",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "chlorophyll",
-                "chlorophyll",
-                "gluttony"
-            ],
-            "frontOffsetY": 24,
-            "resources": {
-                "icon": "fraisyste",
-                "iconShiny": "fraisyste",
-                "front": "fraisyste",
-                "frontShiny": "fraisyste",
-                "back": "fraisyste",
-                "backShiny": "fraisyste",
-                "footprint": "fraisyste",
-                "character": "fraisyste",
-                "characterShiny": "fraisyste",
-                "cry": "070cry.ogg",
-                "hasFemale": false
-            },
-            "moveSet": [
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "vine_whip",
-                    "level": 1
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "growth",
-                    "level": 1
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "wrap",
-                    "level": 1
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "growth",
-                    "level": 7
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "wrap",
-                    "level": 11
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "sleep_powder",
-                    "level": 13
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "poison_powder",
-                    "level": 15
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "stun_spore",
-                    "level": 17
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "acid",
-                    "level": 23
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "knock_off",
-                    "level": 27
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "sweet_scent",
-                    "level": 29
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "gastro_acid",
-                    "level": 35
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "razor_leaf",
-                    "level": 39
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "slam",
-                    "level": 41
-                },
-                {
-                    "klass": "LevelLearnableMove",
-                    "move": "wring_out",
-                    "level": 47
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "bind"
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "snore"
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "giga_drain"
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "synthesis"
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "knock_off"
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "gastro_acid"
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "worry_seed"
-                },
-                {
-                    "klass": "TutorLearnableMove",
-                    "move": "seed_bomb"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "swords_dance"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "cut"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "solar_beam"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "toxic"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "double_team"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "reflect"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "flash"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "rest"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "substitute"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "thief"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "protect"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "sludge_bomb"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "swagger"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "attract"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "sleep_talk"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "return"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "frustration"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "hidden_power"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "sunny_day"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "facade"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "nature_power"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "secret_power"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "energy_ball"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "grass_knot"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "venoshock"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "round"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "confide"
-                },
-                {
-                    "klass": "TechLearnableMove",
-                    "move": "infestation"
-                }
-            ]
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "chlorophyll",
+        "chlorophyll",
+        "gluttony"
+      ],
+      "frontOffsetY": 24,
+      "resources": {
+        "icon": "fraisyste",
+        "iconShiny": "fraisyste",
+        "front": "fraisyste",
+        "frontShiny": "fraisyste",
+        "back": "fraisyste",
+        "backShiny": "fraisyste",
+        "footprint": "fraisyste",
+        "character": "fraisyste",
+        "characterShiny": "fraisyste",
+        "cry": "070cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "play_nice",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leer",
+          "level": 4
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "lick",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "vine_whip",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "electro_ball",
+          "level": 13
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leech_seed",
+          "level": 16
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "worry_seed",
+          "level": 19
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "seed_bomb",
+          "level": 22
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "torment",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "volt_switch",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "gyro_ball",
+          "level": 31
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "grass_knot",
+          "level": 34
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "recycle",
+          "level": 37
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "natural_gift",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shock_wave",
+          "level": 43
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "bind"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "giga_drain"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "synthesis"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "knock_off"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "gastro_acid"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "worry_seed"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "seed_bomb"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "twineedle"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "string_shot"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "magical_leaf"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "sleep_powder"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "grassy_terrain"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "charge_beam"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "zap_cannon"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "hidden_power"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "cut"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "psyshock"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rain_dance"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "return"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "thunderbolt"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "pluck"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dazzling_gleam"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "volt_switch"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "giga_drain"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "encore"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "synthesis"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "ingrain"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "weather_ball"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "tickle"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "bullet_seed"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "magical_leaf"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "natural_gift"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "worry_seed"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "power_whip"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "acid_spray"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "clear_smog"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "belch"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "charge"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "splash"
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "hyper_beam"
+        }
+      ]
+    }
+  ]
 }
