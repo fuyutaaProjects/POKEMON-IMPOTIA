@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "gardevoirite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 2,
@@ -44,7 +44,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "ralts",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "synchronize",
         "trace",
@@ -67,128 +76,128 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "stored_power"
+          "move": "stored_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "disarming_voice"
+          "move": "disarming_voice",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "wish"
+          "move": "wish",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "heal_pulse"
+          "move": "heal_pulse",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "draining_kiss"
+          "move": "draining_kiss",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "captivate"
+          "move": "captivate",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "dream_eater"
+          "move": "dream_eater",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "stored_power"
+          "move": "stored_power",
+          "level": 58
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 62
         },
         {
           "klass": "TutorLearnableMove",
@@ -471,7 +480,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "ralts",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pixilate",
         "pixilate",
@@ -494,128 +512,128 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "stored_power"
+          "move": "stored_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "disarming_voice"
+          "move": "disarming_voice",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "wish"
+          "move": "wish",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "heal_pulse"
+          "move": "heal_pulse",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "draining_kiss"
+          "move": "draining_kiss",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "captivate"
+          "move": "captivate",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "dream_eater"
+          "move": "dream_eater",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "stored_power"
+          "move": "stored_power",
+          "level": 58
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 62
         },
         {
           "klass": "TutorLearnableMove",

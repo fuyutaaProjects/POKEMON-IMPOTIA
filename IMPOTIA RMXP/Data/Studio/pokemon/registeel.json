@@ -34,7 +34,16 @@
       "hatchSteps": 20480,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "clear_body",
         "clear_body",
@@ -57,98 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "explosion"
+          "move": "explosion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "stomp"
+          "move": "stomp",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "charge_beam"
+          "move": "charge_beam",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bulldoze"
+          "move": "bulldoze",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "charge_beam"
+          "move": "charge_beam",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "bulldoze"
+          "move": "bulldoze",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "curse"
+          "move": "curse",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "flash_cannon"
+          "move": "flash_cannon",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "superpower"
+          "move": "superpower",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 67
         },
         {
           "klass": "TutorLearnableMove",

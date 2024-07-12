@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "bidoof",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "simple",
         "unaware",
@@ -59,78 +68,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rototiller"
+          "move": "rototiller",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "growl"
+          "move": "growl",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "rollout"
+          "move": "rollout",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "hyper_fang"
+          "move": "hyper_fang",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "super_fang"
+          "move": "super_fang",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "superpower"
+          "move": "superpower",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "curse"
+          "move": "curse",
+          "level": 53
         },
         {
           "klass": "TutorLearnableMove",

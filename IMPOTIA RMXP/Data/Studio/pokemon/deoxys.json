@@ -66,73 +66,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "recover"
+          "move": "recover",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "psycho_boost"
+          "move": "psycho_boost",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "TutorLearnableMove",
@@ -471,7 +471,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -494,73 +503,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "superpower"
+          "move": "superpower",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "psycho_boost"
+          "move": "psycho_boost",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "TutorLearnableMove",
@@ -883,7 +892,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 2,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -906,83 +924,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "spikes"
+          "move": "spikes",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "recover"
+          "move": "recover",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "psycho_boost"
+          "move": "psycho_boost",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "counter"
+          "move": "counter",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "mirror_coat"
+          "move": "mirror_coat",
+          "level": 73
         },
         {
           "klass": "TutorLearnableMove",
@@ -1309,7 +1327,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 3,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -1332,73 +1359,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "swift"
+          "move": "swift",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "agility"
+          "move": "agility",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "recover"
+          "move": "recover",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "psycho_boost"
+          "move": "psycho_boost",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 73
         },
         {
           "klass": "TutorLearnableMove",
@@ -1733,7 +1760,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 4,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -1756,73 +1792,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "recover"
+          "move": "recover",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "psycho_boost"
+          "move": "psycho_boost",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "TechLearnableMove",
@@ -2285,7 +2321,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 5,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -2308,73 +2353,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "recover"
+          "move": "recover",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "psycho_boost"
+          "move": "psycho_boost",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "TechLearnableMove",
@@ -2837,7 +2882,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 6,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -2860,73 +2914,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "recover"
+          "move": "recover",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "psycho_boost"
+          "move": "psycho_boost",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "TechLearnableMove",
@@ -3389,7 +3443,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 17,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -3412,73 +3475,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "recover"
+          "move": "recover",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "psycho_boost"
+          "move": "psycho_boost",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "TechLearnableMove",
@@ -3941,7 +4004,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 21,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -3964,73 +4036,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "recover"
+          "move": "recover",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "psycho_boost"
+          "move": "psycho_boost",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "TechLearnableMove",

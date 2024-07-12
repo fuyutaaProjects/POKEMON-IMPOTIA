@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "sigilyph",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "wonder_skin",
         "magic_guard",
@@ -57,88 +66,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "miracle_eye"
+          "move": "miracle_eye",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "psywave"
+          "move": "psywave",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "whirlwind"
+          "move": "whirlwind",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "air_cutter"
+          "move": "air_cutter",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "reflect"
+          "move": "reflect",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "synchronoise"
+          "move": "synchronoise",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "mirror_move"
+          "move": "mirror_move",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "sky_attack"
+          "move": "sky_attack",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

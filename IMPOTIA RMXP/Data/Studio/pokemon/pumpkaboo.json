@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "dozero",
+          "form": 0,
           "conditions": [
             {
               "type": "trade",
               "value": true
             }
-          ],
-          "form": 0,
-          "dbSymbol": "dozero"
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "pumpkaboo",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pickup",
         "frisk",
@@ -68,78 +77,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "trick"
+          "move": "trick",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "worry_seed"
+          "move": "worry_seed",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "bullet_seed"
+          "move": "bullet_seed",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "shadow_sneak"
+          "move": "shadow_sneak",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "pain_split"
+          "move": "pain_split",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "seed_bomb"
+          "move": "seed_bomb",
+          "level": 48
         },
         {
           "klass": "TutorLearnableMove",
@@ -379,14 +388,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "dozero",
+          "form": 1,
           "conditions": [
             {
               "type": "trade",
               "value": true
             }
-          ],
-          "form": 1,
-          "dbSymbol": "dozero"
+          ]
         }
       ],
       "experienceType": 1,
@@ -401,7 +410,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "pumpkaboo",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pickup",
         "frisk",
@@ -424,78 +442,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "trick"
+          "move": "trick",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "worry_seed"
+          "move": "worry_seed",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "bullet_seed"
+          "move": "bullet_seed",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "shadow_sneak"
+          "move": "shadow_sneak",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "pain_split"
+          "move": "pain_split",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "seed_bomb"
+          "move": "seed_bomb",
+          "level": 48
         },
         {
           "klass": "TutorLearnableMove",
@@ -723,14 +741,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "dozero",
+          "form": 2,
           "conditions": [
             {
               "type": "trade",
               "value": true
             }
-          ],
-          "form": 2,
-          "dbSymbol": "dozero"
+          ]
         }
       ],
       "experienceType": 1,
@@ -745,7 +763,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "pumpkaboo",
       "babyForm": 2,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pickup",
         "frisk",
@@ -768,78 +795,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "trick"
+          "move": "trick",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "worry_seed"
+          "move": "worry_seed",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "bullet_seed"
+          "move": "bullet_seed",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "shadow_sneak"
+          "move": "shadow_sneak",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "pain_split"
+          "move": "pain_split",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "seed_bomb"
+          "move": "seed_bomb",
+          "level": 48
         },
         {
           "klass": "TutorLearnableMove",
@@ -1067,14 +1094,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "dozero",
+          "form": 3,
           "conditions": [
             {
               "type": "trade",
               "value": true
             }
-          ],
-          "form": 3,
-          "dbSymbol": "dozero"
+          ]
         }
       ],
       "experienceType": 1,
@@ -1089,7 +1116,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "pumpkaboo",
       "babyForm": 3,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pickup",
         "frisk",
@@ -1112,78 +1148,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "trick"
+          "move": "trick",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "worry_seed"
+          "move": "worry_seed",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "bullet_seed"
+          "move": "bullet_seed",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "shadow_sneak"
+          "move": "shadow_sneak",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "pain_split"
+          "move": "pain_split",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "seed_bomb"
+          "move": "seed_bomb",
+          "level": 48
         },
         {
           "klass": "TutorLearnableMove",
@@ -1411,14 +1447,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "dozero",
+          "form": 4,
           "conditions": [
             {
               "type": "trade",
               "value": true
             }
-          ],
-          "form": 4,
-          "dbSymbol": "dozero"
+          ]
         }
       ],
       "experienceType": 1,
@@ -1433,7 +1469,16 @@
       "hatchSteps": 5355,
       "babyDbSymbol": "__undef__",
       "babyForm": 4,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pickup",
         "frisk",
@@ -1456,78 +1501,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "trick"
+          "move": "trick",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "worry_seed"
+          "move": "worry_seed",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "bullet_seed"
+          "move": "bullet_seed",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "shadow_sneak"
+          "move": "shadow_sneak",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "trick_or_treat"
+          "move": "trick_or_treat",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "pain_split"
+          "move": "pain_split",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "seed_bomb"
+          "move": "seed_bomb",
+          "level": 48
         },
         {
           "klass": "TechLearnableMove",

@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "karrablast",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "swarm",
         "shell_armor",
@@ -57,108 +66,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "peck"
+          "move": "peck",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_guard"
+          "move": "quick_guard",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "twineedle"
+          "move": "twineedle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "leer"
+          "move": "leer",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "quick_guard"
+          "move": "quick_guard",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "twineedle"
+          "move": "twineedle",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "fury_attack"
+          "move": "fury_attack",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "false_swipe"
+          "move": "false_swipe",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "slash"
+          "move": "slash",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "reversal"
+          "move": "reversal",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "giga_impact"
+          "move": "giga_impact",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 60
         },
         {
           "klass": "TutorLearnableMove",

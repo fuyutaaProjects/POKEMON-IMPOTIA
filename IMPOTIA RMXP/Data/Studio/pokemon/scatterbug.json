@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "spewpa",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 9
             }
-          ],
-          "dbSymbol": "spewpa",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "scatterbug",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "shield_dust",
         "compound_eyes",
@@ -68,23 +77,23 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "string_shot"
+          "move": "string_shot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "stun_spore"
+          "move": "stun_spore",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 15
         },
         {
           "klass": "TutorLearnableMove",
@@ -124,14 +133,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "spewpa",
+          "form": 1,
           "conditions": [
             {
               "type": "minLevel",
               "value": 9
             }
-          ],
-          "dbSymbol": "spewpa",
-          "form": 1
+          ]
         }
       ],
       "experienceType": 1,
@@ -146,7 +155,16 @@
       "hatchSteps": 4080,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "shield_dust",
         "compound_eyes",
@@ -169,23 +187,23 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "string_shot"
+          "move": "string_shot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "stun_spore"
+          "move": "stun_spore",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 15
         },
         {
           "klass": "TechLearnableMove",
@@ -637,14 +655,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "spewpa",
+          "form": 9,
           "conditions": [
             {
               "type": "minLevel",
               "value": 9
             }
-          ],
-          "dbSymbol": "spewpa",
-          "form": 9
+          ]
         }
       ],
       "experienceType": 1,
@@ -659,7 +677,16 @@
       "hatchSteps": 4080,
       "babyDbSymbol": "__undef__",
       "babyForm": 9,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "shield_dust",
         "compound_eyes",
@@ -682,23 +709,23 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "string_shot"
+          "move": "string_shot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "stun_spore"
+          "move": "stun_spore",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 15
         },
         {
           "klass": "TechLearnableMove",

@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "wurmple",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "shield_dust",
         "shield_dust",
@@ -61,73 +70,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gust"
+          "move": "gust",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "poison_powder"
+          "move": "poison_powder",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "moonlight"
+          "move": "moonlight",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "venoshock"
+          "move": "venoshock",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "silver_wind"
+          "move": "silver_wind",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "whirlwind"
+          "move": "whirlwind",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "toxic"
+          "move": "toxic",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "protect"
+          "move": "protect",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "quiver_dance"
+          "move": "quiver_dance",
+          "level": 40
         },
         {
           "klass": "TutorLearnableMove",

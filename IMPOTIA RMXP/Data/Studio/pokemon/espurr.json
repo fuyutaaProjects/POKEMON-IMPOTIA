@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "meowstic",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 25
             }
-          ],
-          "dbSymbol": "meowstic",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "espurr",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "keen_eye",
         "infiltrator",
@@ -68,48 +77,48 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "covet"
+          "move": "covet",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "fake_out"
+          "move": "fake_out",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "disarming_voice"
+          "move": "disarming_voice",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "psyshock"
+          "move": "psyshock",
+          "level": 25
         },
         {
           "klass": "TutorLearnableMove",

@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "cirampant",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "flash_fire",
         "flame_body",
@@ -57,28 +66,28 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pain_split"
+          "move": "pain_split",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "smog"
+          "move": "smog",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "flame_burst"
+          "move": "flame_burst",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hex"
+          "move": "hex",
+          "level": 1
         },
         {
           "klass": "TutorLearnableMove",

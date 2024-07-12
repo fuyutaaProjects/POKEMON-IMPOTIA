@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "patrat",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "illuminate",
         "keen_eye",
@@ -57,103 +66,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rototiller"
+          "move": "rototiller",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bite"
+          "move": "bite",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "low_kick"
+          "move": "low_kick",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "leer"
+          "move": "leer",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "bite"
+          "move": "bite",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "bide"
+          "move": "bide",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "detect"
+          "move": "detect",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "super_fang"
+          "move": "super_fang",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "after_you"
+          "move": "after_you",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "psych_up"
+          "move": "psych_up",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "hyper_fang"
+          "move": "hyper_fang",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "mean_look"
+          "move": "mean_look",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "baton_pass"
+          "move": "baton_pass",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "slam"
+          "move": "slam",
+          "level": 43
         },
         {
           "klass": "TutorLearnableMove",

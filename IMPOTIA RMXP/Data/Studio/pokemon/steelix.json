@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "steelixite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 1,
@@ -44,7 +44,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "sabluscade",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "sturdy",
         "rock_head",
@@ -73,128 +82,128 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "harden"
+          "move": "harden",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bind"
+          "move": "bind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "curse"
+          "move": "curse",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "rock_throw"
+          "move": "rock_throw",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "rock_tomb"
+          "move": "rock_tomb",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "rage"
+          "move": "rage",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "stealth_rock"
+          "move": "stealth_rock",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "autotomize"
+          "move": "autotomize",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "gyro_ball"
+          "move": "gyro_ball",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "smack_down"
+          "move": "smack_down",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "slam"
+          "move": "slam",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "screech"
+          "move": "screech",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "rock_slide"
+          "move": "rock_slide",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "iron_tail"
+          "move": "iron_tail",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "dig"
+          "move": "dig",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "stone_edge"
+          "move": "stone_edge",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "sandstorm"
+          "move": "sandstorm",
+          "level": 52
         },
         {
           "klass": "TutorLearnableMove",
@@ -433,7 +442,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "sabluscade",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "sand_force",
         "sand_force",
@@ -460,128 +478,128 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "harden"
+          "move": "harden",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bind"
+          "move": "bind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "curse"
+          "move": "curse",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "rock_throw"
+          "move": "rock_throw",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "rock_tomb"
+          "move": "rock_tomb",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "rage"
+          "move": "rage",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "stealth_rock"
+          "move": "stealth_rock",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "autotomize"
+          "move": "autotomize",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "gyro_ball"
+          "move": "gyro_ball",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "smack_down"
+          "move": "smack_down",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "slam"
+          "move": "slam",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "screech"
+          "move": "screech",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "rock_slide"
+          "move": "rock_slide",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "iron_tail"
+          "move": "iron_tail",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "dig"
+          "move": "dig",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "stone_edge"
+          "move": "stone_edge",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "sandstorm"
+          "move": "sandstorm",
+          "level": 52
         },
         {
           "klass": "TutorLearnableMove",

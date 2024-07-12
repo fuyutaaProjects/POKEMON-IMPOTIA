@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "scraggy",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "shed_skin",
         "moxie",
@@ -57,93 +66,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "low_kick"
+          "move": "low_kick",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "swagger"
+          "move": "swagger",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "brick_break"
+          "move": "brick_break",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "payback"
+          "move": "payback",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "chip_away"
+          "move": "chip_away",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "high_jump_kick"
+          "move": "high_jump_kick",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "facade"
+          "move": "facade",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "rock_climb"
+          "move": "rock_climb",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "focus_punch"
+          "move": "focus_punch",
+          "level": 58
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "head_smash"
+          "move": "head_smash",
+          "level": 65
         },
         {
           "klass": "TutorLearnableMove",

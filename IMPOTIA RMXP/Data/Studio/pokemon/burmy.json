@@ -23,6 +23,8 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "wormadam",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
@@ -32,11 +34,11 @@
               "type": "gender",
               "value": 2
             }
-          ],
-          "dbSymbol": "wormadam",
-          "form": 0
+          ]
         },
         {
+          "dbSymbol": "mothim",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
@@ -46,9 +48,7 @@
               "type": "gender",
               "value": 1
             }
-          ],
-          "dbSymbol": "mothim",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -95,23 +95,23 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "protect"
+          "move": "protect",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 20
         },
         {
           "klass": "TutorLearnableMove",
@@ -155,6 +155,8 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "wormadam",
+          "form": 1,
           "conditions": [
             {
               "type": "minLevel",
@@ -164,11 +166,11 @@
               "type": "gender",
               "value": 2
             }
-          ],
-          "dbSymbol": "wormadam",
-          "form": 1
+          ]
         },
         {
+          "dbSymbol": "mothim",
+          "form": 1,
           "conditions": [
             {
               "type": "minLevel",
@@ -178,9 +180,7 @@
               "type": "gender",
               "value": 1
             }
-          ],
-          "dbSymbol": "mothim",
-          "form": 1
+          ]
         }
       ],
       "experienceType": 1,
@@ -227,23 +227,23 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "protect"
+          "move": "protect",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 20
         },
         {
           "klass": "TechLearnableMove",
@@ -275,6 +275,8 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "wormadam",
+          "form": 2,
           "conditions": [
             {
               "type": "minLevel",
@@ -284,11 +286,11 @@
               "type": "gender",
               "value": 2
             }
-          ],
-          "dbSymbol": "wormadam",
-          "form": 2
+          ]
         },
         {
+          "dbSymbol": "mothim",
+          "form": 2,
           "conditions": [
             {
               "type": "minLevel",
@@ -298,9 +300,7 @@
               "type": "gender",
               "value": 1
             }
-          ],
-          "dbSymbol": "mothim",
-          "form": 2
+          ]
         }
       ],
       "experienceType": 1,
@@ -347,23 +347,23 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "protect"
+          "move": "protect",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 20
         },
         {
           "klass": "TechLearnableMove",
@@ -395,6 +395,8 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "wormadam",
+          "form": 3,
           "conditions": [
             {
               "type": "minLevel",
@@ -404,11 +406,11 @@
               "type": "gender",
               "value": 2
             }
-          ],
-          "dbSymbol": "wormadam",
-          "form": 3
+          ]
         },
         {
+          "dbSymbol": "mothim",
+          "form": 3,
           "conditions": [
             {
               "type": "minLevel",
@@ -418,9 +420,7 @@
               "type": "gender",
               "value": 1
             }
-          ],
-          "dbSymbol": "mothim",
-          "form": 3
+          ]
         }
       ],
       "experienceType": 1,
@@ -435,7 +435,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "__undef__",
       "babyForm": 3,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "shed_skin",
         "shed_skin",
@@ -458,23 +467,23 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "protect"
+          "move": "protect",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 20
         },
         {
           "klass": "TechLearnableMove",

@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "garchomp",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 48
             }
-          ],
-          "dbSymbol": "garchomp",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 2,
@@ -45,7 +45,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "gible",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "sand_veil",
         "sand_veil",
@@ -74,63 +83,63 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "dragon_rage"
+          "move": "dragon_rage",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "sandstorm"
+          "move": "sandstorm",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "sand_tomb"
+          "move": "sand_tomb",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "dual_chop"
+          "move": "dual_chop",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "slash"
+          "move": "slash",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "dragon_claw"
+          "move": "dragon_claw",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "dig"
+          "move": "dig",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "dragon_rush"
+          "move": "dragon_rush",
+          "level": 49
         },
         {
           "klass": "TutorLearnableMove",

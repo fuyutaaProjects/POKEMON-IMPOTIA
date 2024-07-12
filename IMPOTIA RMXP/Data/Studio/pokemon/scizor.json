@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "scizorite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 1,
@@ -44,7 +44,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "nosfoltaj",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "swarm",
         "technician",
@@ -71,98 +80,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "feint"
+          "move": "feint",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bullet_punch"
+          "move": "bullet_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "false_swipe"
+          "move": "false_swipe",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "agility"
+          "move": "agility",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "feint"
+          "move": "feint",
+          "level": 61
         },
         {
           "klass": "TutorLearnableMove",
@@ -381,7 +390,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "nosfoltaj",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "technician",
         "technician",
@@ -408,98 +426,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "feint"
+          "move": "feint",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bullet_punch"
+          "move": "bullet_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "false_swipe"
+          "move": "false_swipe",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "agility"
+          "move": "agility",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "feint"
+          "move": "feint",
+          "level": 61
         },
         {
           "klass": "TutorLearnableMove",

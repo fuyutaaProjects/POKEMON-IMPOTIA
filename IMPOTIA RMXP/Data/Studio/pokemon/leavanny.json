@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "sewaddle",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "swarm",
         "chlorophyll",
@@ -57,83 +66,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "false_swipe"
+          "move": "false_swipe",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "string_shot"
+          "move": "string_shot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "struggle_bug"
+          "move": "struggle_bug",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "helping_hand"
+          "move": "helping_hand",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "leaf_blade"
+          "move": "leaf_blade",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "entrainment"
+          "move": "entrainment",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "leaf_storm"
+          "move": "leaf_storm",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

@@ -34,7 +34,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "chimecho",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "levitate",
         "levitate",
@@ -57,103 +66,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "synchronoise"
+          "move": "synchronoise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "growl"
+          "move": "growl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "psywave"
+          "move": "psywave",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "extrasensory"
+          "move": "extrasensory",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "heal_bell"
+          "move": "heal_bell",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "heal_pulse"
+          "move": "heal_pulse",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "synchronoise"
+          "move": "synchronoise",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 57
         },
         {
           "klass": "TutorLearnableMove",

@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "elgyem",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "telepathy",
         "synchronize",
@@ -57,118 +66,118 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wonder_room"
+          "move": "wonder_room",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "synchronoise"
+          "move": "synchronoise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "miracle_eye"
+          "move": "miracle_eye",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "growl"
+          "move": "growl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "miracle_eye"
+          "move": "miracle_eye",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "psych_up"
+          "move": "psych_up",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "recover"
+          "move": "recover",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "guard_split"
+          "move": "guard_split",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "power_split"
+          "move": "power_split",
+          "level": 58
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "synchronoise"
+          "move": "synchronoise",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 68,
-          "move": "wonder_room"
+          "move": "wonder_room",
+          "level": 68
         },
         {
           "klass": "TutorLearnableMove",

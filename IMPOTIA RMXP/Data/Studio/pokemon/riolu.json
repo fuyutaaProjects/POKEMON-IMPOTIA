@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "lucario",
+          "form": 0,
           "conditions": [
             {
               "type": "minLoyalty",
@@ -32,9 +34,7 @@
               "type": "dayNight",
               "value": 3
             }
-          ],
-          "dbSymbol": "lucario",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 3,
@@ -49,7 +49,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "inner_focus",
         "steadfast",
@@ -72,58 +81,58 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "foresight"
+          "move": "foresight",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "endure"
+          "move": "endure",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "counter"
+          "move": "counter",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "feint"
+          "move": "feint",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "force_palm"
+          "move": "force_palm",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "copycat"
+          "move": "copycat",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "screech"
+          "move": "screech",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "reversal"
+          "move": "reversal",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "final_gambit"
+          "move": "final_gambit",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

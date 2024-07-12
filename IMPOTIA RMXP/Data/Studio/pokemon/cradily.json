@@ -34,7 +34,16 @@
       "hatchSteps": 7680,
       "babyDbSymbol": "lileep",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "suction_cups",
         "suction_cups",
@@ -57,93 +66,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wring_out"
+          "move": "wring_out",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "constrict"
+          "move": "constrict",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "acid"
+          "move": "acid",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ingrain"
+          "move": "ingrain",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "acid"
+          "move": "acid",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "ingrain"
+          "move": "ingrain",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "brine"
+          "move": "brine",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "giga_drain"
+          "move": "giga_drain",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "gastro_acid"
+          "move": "gastro_acid",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "energy_ball"
+          "move": "energy_ball",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "spit_up"
+          "move": "spit_up",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "wring_out"
+          "move": "wring_out",
+          "level": 61
         },
         {
           "klass": "TutorLearnableMove",

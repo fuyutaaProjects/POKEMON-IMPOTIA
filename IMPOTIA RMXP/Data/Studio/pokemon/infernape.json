@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "chimchar",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "blaze",
         "blaze",
@@ -57,88 +66,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "ember"
+          "move": "ember",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "mach_punch"
+          "move": "mach_punch",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "fury_swipes"
+          "move": "fury_swipes",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "flame_wheel"
+          "move": "flame_wheel",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "feint"
+          "move": "feint",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "close_combat"
+          "move": "close_combat",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "fire_spin"
+          "move": "fire_spin",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "acrobatics"
+          "move": "acrobatics",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 58
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 68,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 68
         },
         {
           "klass": "TutorLearnableMove",

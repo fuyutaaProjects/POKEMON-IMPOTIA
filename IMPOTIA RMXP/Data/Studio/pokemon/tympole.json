@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "palpitoad",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 25
             }
-          ],
-          "dbSymbol": "palpitoad",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 3,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "tympole",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "swift_swim",
         "hydration",
@@ -68,73 +77,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bubble"
+          "move": "bubble",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "supersonic"
+          "move": "supersonic",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "round"
+          "move": "round",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "bubble_beam"
+          "move": "bubble_beam",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "mud_shot"
+          "move": "mud_shot",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aqua_ring"
+          "move": "aqua_ring",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "muddy_water"
+          "move": "muddy_water",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "flail"
+          "move": "flail",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "echoed_voice"
+          "move": "echoed_voice",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 45
         },
         {
           "klass": "TutorLearnableMove",

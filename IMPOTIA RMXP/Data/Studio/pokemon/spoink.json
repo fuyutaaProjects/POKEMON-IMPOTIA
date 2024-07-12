@@ -23,14 +23,14 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "grumpig",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 32
             }
-          ],
-          "dbSymbol": "grumpig",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "spoink",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "own_tempo",
         "thick_fat",
@@ -68,78 +77,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "splash"
+          "move": "splash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "psywave"
+          "move": "psywave",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "psych_up"
+          "move": "psych_up",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "magic_coat"
+          "move": "magic_coat",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "power_gem"
+          "move": "power_gem",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "rest"
+          "move": "rest",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "snore"
+          "move": "snore",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "psyshock"
+          "move": "psyshock",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "payback"
+          "move": "payback",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "bounce"
+          "move": "bounce",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

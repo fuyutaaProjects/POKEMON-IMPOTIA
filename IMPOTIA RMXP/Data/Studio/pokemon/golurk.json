@@ -34,7 +34,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "golett",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "iron_fist",
         "klutz",
@@ -57,103 +66,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "phantom_force"
+          "move": "phantom_force",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "focus_punch"
+          "move": "focus_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "rollout"
+          "move": "rollout",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "shadow_punch"
+          "move": "shadow_punch",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "mega_punch"
+          "move": "mega_punch",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "magnitude"
+          "move": "magnitude",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "dynamic_punch"
+          "move": "dynamic_punch",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "curse"
+          "move": "curse",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "heavy_slam"
+          "move": "heavy_slam",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "focus_punch"
+          "move": "focus_punch",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "phantom_force"
+          "move": "phantom_force",
+          "level": 75
         },
         {
           "klass": "TutorLearnableMove",

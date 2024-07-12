@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "ribombee",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 25
             }
-          ],
-          "dbSymbol": "ribombee",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "cutiefly",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "honey_gather",
         "shield_dust",

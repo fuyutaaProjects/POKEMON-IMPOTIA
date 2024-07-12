@@ -34,7 +34,16 @@
       "hatchSteps": 2560,
       "babyDbSymbol": "pachirisu",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "run_away",
         "pickup",
@@ -59,78 +68,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bide"
+          "move": "bide",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "charm"
+          "move": "charm",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "spark"
+          "move": "spark",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "endure"
+          "move": "endure",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "nuzzle"
+          "move": "nuzzle",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "swift"
+          "move": "swift",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "electro_ball"
+          "move": "electro_ball",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "sweet_kiss"
+          "move": "sweet_kiss",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "thunder_wave"
+          "move": "thunder_wave",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "super_fang"
+          "move": "super_fang",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "discharge"
+          "move": "discharge",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "last_resort"
+          "move": "last_resort",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "hyper_fang"
+          "move": "hyper_fang",
+          "level": 49
         },
         {
           "klass": "TutorLearnableMove",

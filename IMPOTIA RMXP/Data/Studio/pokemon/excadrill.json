@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "drilbur",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "sand_rush",
         "sand_force",
@@ -57,98 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rototiller"
+          "move": "rototiller",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rapid_spin"
+          "move": "rapid_spin",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rapid_spin"
+          "move": "rapid_spin",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "fury_swipes"
+          "move": "fury_swipes",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "dig"
+          "move": "dig",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "hone_claws"
+          "move": "hone_claws",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "slash"
+          "move": "slash",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "rock_slide"
+          "move": "rock_slide",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "horn_drill"
+          "move": "horn_drill",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "sandstorm"
+          "move": "sandstorm",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "drill_run"
+          "move": "drill_run",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "fissure"
+          "move": "fissure",
+          "level": 62
         },
         {
           "klass": "TutorLearnableMove",

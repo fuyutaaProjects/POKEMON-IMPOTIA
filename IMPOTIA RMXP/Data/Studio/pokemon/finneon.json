@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "lumineon",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 31
             }
-          ],
-          "dbSymbol": "lumineon",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 4,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "finneon",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "swift_swim",
         "storm_drain",
@@ -72,73 +81,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "attract"
+          "move": "attract",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "gust"
+          "move": "gust",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "captivate"
+          "move": "captivate",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "aqua_ring"
+          "move": "aqua_ring",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "whirlpool"
+          "move": "whirlpool",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "u_turn"
+          "move": "u_turn",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "bounce"
+          "move": "bounce",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "silver_wind"
+          "move": "silver_wind",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "soak"
+          "move": "soak",
+          "level": 54
         },
         {
           "klass": "TutorLearnableMove",

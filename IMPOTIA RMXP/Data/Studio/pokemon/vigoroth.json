@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "slaking",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 36
             }
-          ],
-          "dbSymbol": "slaking",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 2,
@@ -45,7 +45,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "slakoth",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "vital_spirit",
         "vital_spirit",
@@ -68,73 +77,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "reversal"
+          "move": "reversal",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "encore"
+          "move": "encore",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "encore"
+          "move": "encore",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "fury_swipes"
+          "move": "fury_swipes",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "endure"
+          "move": "endure",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "slash"
+          "move": "slash",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "chip_away"
+          "move": "chip_away",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "counter"
+          "move": "counter",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "focus_punch"
+          "move": "focus_punch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "reversal"
+          "move": "reversal",
+          "level": 43
         },
         {
           "klass": "TutorLearnableMove",

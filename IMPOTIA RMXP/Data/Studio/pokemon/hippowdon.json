@@ -34,7 +34,16 @@
       "hatchSteps": 7680,
       "babyDbSymbol": "hippopotas",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "sand_stream",
         "sand_stream",
@@ -63,83 +72,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bite"
+          "move": "bite",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "bite"
+          "move": "bite",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "dig"
+          "move": "dig",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "sand_tomb"
+          "move": "sand_tomb",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "fissure"
+          "move": "fissure",
+          "level": 60
         },
         {
           "klass": "TutorLearnableMove",

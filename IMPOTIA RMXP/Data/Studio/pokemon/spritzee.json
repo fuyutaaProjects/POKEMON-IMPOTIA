@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "gourmantaz",
+          "form": 0,
           "conditions": [
             {
               "type": "trade",
@@ -32,9 +34,7 @@
               "type": "itemHold",
               "value": "sachet"
             }
-          ],
-          "form": 0,
-          "dbSymbol": "gourmantaz"
+          ]
         }
       ],
       "experienceType": 1,
@@ -49,7 +49,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "spritzee",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "healer",
         "healer",
@@ -72,83 +81,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "sweet_scent"
+          "move": "sweet_scent",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "sweet_kiss"
+          "move": "sweet_kiss",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "echoed_voice"
+          "move": "echoed_voice",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "draining_kiss"
+          "move": "draining_kiss",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "attract"
+          "move": "attract",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "charm"
+          "move": "charm",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "flail"
+          "move": "flail",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "skill_swap"
+          "move": "skill_swap",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "disarming_voice"
+          "move": "disarming_voice",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

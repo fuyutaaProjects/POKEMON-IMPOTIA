@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "dedenne",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "cheek_pouch",
         "pickup",
@@ -57,83 +66,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tail_whip"
+          "move": "tail_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "thunder_shock"
+          "move": "thunder_shock",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "charge"
+          "move": "charge",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "charm"
+          "move": "charm",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "parabolic_charge"
+          "move": "parabolic_charge",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "nuzzle"
+          "move": "nuzzle",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "thunder_wave"
+          "move": "thunder_wave",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "volt_switch"
+          "move": "volt_switch",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "rest"
+          "move": "rest",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "snore"
+          "move": "snore",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "charge_beam"
+          "move": "charge_beam",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "entrainment"
+          "move": "entrainment",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "play_rough"
+          "move": "play_rough",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "thunder"
+          "move": "thunder",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "discharge"
+          "move": "discharge",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

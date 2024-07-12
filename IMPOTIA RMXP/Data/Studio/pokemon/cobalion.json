@@ -34,7 +34,16 @@
       "hatchSteps": 20480,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "justified",
         "justified",
@@ -57,93 +66,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "close_combat"
+          "move": "close_combat",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_burst"
+          "move": "metal_burst",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "work_up"
+          "move": "work_up",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_guard"
+          "move": "quick_guard",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "double_kick"
+          "move": "double_kick",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "helping_hand"
+          "move": "helping_hand",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "retaliate"
+          "move": "retaliate",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "sacred_sword"
+          "move": "sacred_sword",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "quick_guard"
+          "move": "quick_guard",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "work_up"
+          "move": "work_up",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "metal_burst"
+          "move": "metal_burst",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "close_combat"
+          "move": "close_combat",
+          "level": 73
         },
         {
           "klass": "TutorLearnableMove",

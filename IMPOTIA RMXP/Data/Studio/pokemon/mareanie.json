@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "toxapex",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 38
             }
-          ],
-          "dbSymbol": "toxapex",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "mareanie",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "merciless",
         "limber",
@@ -87,14 +96,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "toxapex",
+          "form": 1,
           "conditions": [
             {
               "type": "minLevel",
               "value": 38
             }
-          ],
-          "dbSymbol": "toxapex",
-          "form": 1
+          ]
         }
       ],
       "experienceType": 0,
@@ -109,7 +118,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "mareanie",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "merciless",
         "limber",
@@ -151,14 +169,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "toxapex",
+          "form": 2,
           "conditions": [
             {
               "type": "minLevel",
               "value": 38
             }
-          ],
-          "dbSymbol": "toxapex",
-          "form": 2
+          ]
         }
       ],
       "experienceType": 0,
@@ -173,7 +191,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "mareanie",
       "babyForm": 2,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "merciless",
         "limber",

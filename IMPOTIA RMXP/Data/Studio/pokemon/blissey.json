@@ -34,7 +34,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "chansey",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "natural_cure",
         "serene_grace",
@@ -64,93 +73,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "tail_whip"
+          "move": "tail_whip",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "double_slap"
+          "move": "double_slap",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "soft_boiled"
+          "move": "soft_boiled",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "bestow"
+          "move": "bestow",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "minimize"
+          "move": "minimize",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "sing"
+          "move": "sing",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "fling"
+          "move": "fling",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "heal_pulse"
+          "move": "heal_pulse",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "egg_bomb"
+          "move": "egg_bomb",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 54
         },
         {
           "klass": "TutorLearnableMove",

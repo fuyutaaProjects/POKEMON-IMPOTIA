@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "wingull",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "keen_eye",
         "drizzle",
@@ -57,118 +66,118 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "soak"
+          "move": "soak",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_sport"
+          "move": "water_sport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wing_attack"
+          "move": "wing_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "supersonic"
+          "move": "supersonic",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "wing_attack"
+          "move": "wing_attack",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "mist"
+          "move": "mist",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "payback"
+          "move": "payback",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "roost"
+          "move": "roost",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "protect"
+          "move": "protect",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "brine"
+          "move": "brine",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "spit_up"
+          "move": "spit_up",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "fling"
+          "move": "fling",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 55
         },
         {
           "klass": "TutorLearnableMove",

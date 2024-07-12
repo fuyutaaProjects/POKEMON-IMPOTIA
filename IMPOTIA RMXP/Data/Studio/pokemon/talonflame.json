@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "fletchling",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "flame_body",
         "flame_body",
@@ -57,93 +66,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "brave_bird"
+          "move": "brave_bird",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "peck"
+          "move": "peck",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "agility"
+          "move": "agility",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "flail"
+          "move": "flail",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "ember"
+          "move": "ember",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "roost"
+          "move": "roost",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "acrobatics"
+          "move": "acrobatics",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "me_first"
+          "move": "me_first",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "steel_wing"
+          "move": "steel_wing",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "brave_bird"
+          "move": "brave_bird",
+          "level": 64
         },
         {
           "klass": "TutorLearnableMove",

@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "purugly",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 38
             }
-          ],
-          "dbSymbol": "purugly",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "glameow",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "limber",
         "own_tempo",
@@ -68,73 +77,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fake_out"
+          "move": "fake_out",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "growl"
+          "move": "growl",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "fury_swipes"
+          "move": "fury_swipes",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "charm"
+          "move": "charm",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "assist"
+          "move": "assist",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "captivate"
+          "move": "captivate",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "slash"
+          "move": "slash",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "sucker_punch"
+          "move": "sucker_punch",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "attract"
+          "move": "attract",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "hone_claws"
+          "move": "hone_claws",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "play_rough"
+          "move": "play_rough",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

@@ -34,7 +34,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "tropius",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "chlorophyll",
         "solar_power",
@@ -57,88 +66,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leaf_storm"
+          "move": "leaf_storm",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growth"
+          "move": "growth",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "sweet_scent"
+          "move": "sweet_scent",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "stomp"
+          "move": "stomp",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "whirlwind"
+          "move": "whirlwind",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "leaf_tornado"
+          "move": "leaf_tornado",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "bestow"
+          "move": "bestow",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "synthesis"
+          "move": "synthesis",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "leaf_storm"
+          "move": "leaf_storm",
+          "level": 61
         },
         {
           "klass": "TutorLearnableMove",

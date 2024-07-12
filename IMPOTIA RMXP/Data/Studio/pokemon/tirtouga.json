@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "carracosta",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 37
             }
-          ],
-          "dbSymbol": "carracosta",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 7680,
       "babyDbSymbol": "tirtouga",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "solid_rock",
         "sturdy",
@@ -68,93 +77,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bide"
+          "move": "bide",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "withdraw"
+          "move": "withdraw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rollout"
+          "move": "rollout",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "bite"
+          "move": "bite",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "protect"
+          "move": "protect",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "aqua_jet"
+          "move": "aqua_jet",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "wide_guard"
+          "move": "wide_guard",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "brine"
+          "move": "brine",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "smack_down"
+          "move": "smack_down",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "curse"
+          "move": "curse",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "shell_smash"
+          "move": "shell_smash",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "aqua_tail"
+          "move": "aqua_tail",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "rock_slide"
+          "move": "rock_slide",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

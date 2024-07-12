@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "trubbish",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "stench",
         "weak_armor",
@@ -57,98 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_gas"
+          "move": "poison_gas",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "recycle"
+          "move": "recycle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "toxic_spikes"
+          "move": "toxic_spikes",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "recycle"
+          "move": "recycle",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "toxic_spikes"
+          "move": "toxic_spikes",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "acid_spray"
+          "move": "acid_spray",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "double_slap"
+          "move": "double_slap",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "sludge"
+          "move": "sludge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "sludge_bomb"
+          "move": "sludge_bomb",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "clear_smog"
+          "move": "clear_smog",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "toxic"
+          "move": "toxic",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "belch"
+          "move": "belch",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "gunk_shot"
+          "move": "gunk_shot",
+          "level": 54
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "explosion"
+          "move": "explosion",
+          "level": 59
         },
         {
           "klass": "TutorLearnableMove",
@@ -351,7 +360,16 @@
       "hatchSteps": 5355,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "stench",
         "weak_armor",
@@ -374,98 +392,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "toxic_spikes"
+          "move": "toxic_spikes",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_gas"
+          "move": "poison_gas",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "recycle"
+          "move": "recycle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "recycle"
+          "move": "recycle",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "toxic_spikes"
+          "move": "toxic_spikes",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "acid_spray"
+          "move": "acid_spray",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "double_slap"
+          "move": "double_slap",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "sludge"
+          "move": "sludge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "sludge_bomb"
+          "move": "sludge_bomb",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "clear_smog"
+          "move": "clear_smog",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "toxic"
+          "move": "toxic",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "belch"
+          "move": "belch",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "gunk_shot"
+          "move": "gunk_shot",
+          "level": 54
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "explosion"
+          "move": "explosion",
+          "level": 59
         },
         {
           "klass": "TechLearnableMove",
@@ -928,7 +946,16 @@
       "hatchSteps": 5355,
       "babyDbSymbol": "__undef__",
       "babyForm": 4,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "stench",
         "weak_armor",
@@ -951,98 +978,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "toxic_spikes"
+          "move": "toxic_spikes",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_gas"
+          "move": "poison_gas",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "recycle"
+          "move": "recycle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "recycle"
+          "move": "recycle",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "toxic_spikes"
+          "move": "toxic_spikes",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "acid_spray"
+          "move": "acid_spray",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "double_slap"
+          "move": "double_slap",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "sludge"
+          "move": "sludge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "sludge_bomb"
+          "move": "sludge_bomb",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "clear_smog"
+          "move": "clear_smog",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "toxic"
+          "move": "toxic",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "belch"
+          "move": "belch",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "gunk_shot"
+          "move": "gunk_shot",
+          "level": 54
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "explosion"
+          "move": "explosion",
+          "level": 59
         },
         {
           "klass": "TechLearnableMove",
@@ -1505,7 +1532,16 @@
       "hatchSteps": 5355,
       "babyDbSymbol": "__undef__",
       "babyForm": 8,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "stench",
         "weak_armor",
@@ -1528,98 +1564,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "toxic_spikes"
+          "move": "toxic_spikes",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_gas"
+          "move": "poison_gas",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "recycle"
+          "move": "recycle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "recycle"
+          "move": "recycle",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "toxic_spikes"
+          "move": "toxic_spikes",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "acid_spray"
+          "move": "acid_spray",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "double_slap"
+          "move": "double_slap",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "sludge"
+          "move": "sludge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "sludge_bomb"
+          "move": "sludge_bomb",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "clear_smog"
+          "move": "clear_smog",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "toxic"
+          "move": "toxic",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "belch"
+          "move": "belch",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "gunk_shot"
+          "move": "gunk_shot",
+          "level": 54
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "explosion"
+          "move": "explosion",
+          "level": 59
         },
         {
           "klass": "TechLearnableMove",

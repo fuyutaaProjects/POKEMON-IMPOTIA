@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "clauncher",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "mega_launcher",
         "mega_launcher",
@@ -57,103 +66,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_pulse"
+          "move": "heal_pulse",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dark_pulse"
+          "move": "dark_pulse",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "aura_sphere"
+          "move": "aura_sphere",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "splash"
+          "move": "splash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "water_sport"
+          "move": "water_sport",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "vise_grip"
+          "move": "vise_grip",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "bubble"
+          "move": "bubble",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "flail"
+          "move": "flail",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "bubble_beam"
+          "move": "bubble_beam",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "crabhammer"
+          "move": "crabhammer",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "smack_down"
+          "move": "smack_down",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "aqua_jet"
+          "move": "aqua_jet",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "muddy_water"
+          "move": "muddy_water",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "dark_pulse"
+          "move": "dark_pulse",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "aura_sphere"
+          "move": "aura_sphere",
+          "level": 67
         },
         {
           "klass": "TutorLearnableMove",

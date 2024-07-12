@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "volcarona",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 59
             }
-          ],
-          "dbSymbol": "volcarona",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 2,
@@ -45,7 +45,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "larvesta",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "flame_body",
         "flame_body",
@@ -68,63 +77,63 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "string_shot"
+          "move": "string_shot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "leech_life"
+          "move": "leech_life",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "flame_wheel"
+          "move": "flame_wheel",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 100
         },
         {
           "klass": "TutorLearnableMove",

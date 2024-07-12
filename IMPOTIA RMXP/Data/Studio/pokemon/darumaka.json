@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "darmanitan",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 35
             }
-          ],
-          "dbSymbol": "darmanitan",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 3,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "darumaka",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "hustle",
         "hustle",
@@ -68,83 +77,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "rollout"
+          "move": "rollout",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "incinerate"
+          "move": "incinerate",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "rage"
+          "move": "rage",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "facade"
+          "move": "facade",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "fire_punch"
+          "move": "fire_punch",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "work_up"
+          "move": "work_up",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "belly_drum"
+          "move": "belly_drum",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "superpower"
+          "move": "superpower",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "overheat"
+          "move": "overheat",
+          "level": 42
         },
         {
           "klass": "TutorLearnableMove",

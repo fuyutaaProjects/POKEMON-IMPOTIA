@@ -34,7 +34,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "larvesta",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "flame_body",
         "flame_body",
@@ -57,128 +66,128 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fiery_dance"
+          "move": "fiery_dance",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rage_powder"
+          "move": "rage_powder",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heat_wave"
+          "move": "heat_wave",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quiver_dance"
+          "move": "quiver_dance",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "flame_wheel"
+          "move": "flame_wheel",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "string_shot"
+          "move": "string_shot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leech_life"
+          "move": "leech_life",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "leech_life"
+          "move": "leech_life",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "gust"
+          "move": "gust",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "fire_spin"
+          "move": "fire_spin",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "whirlwind"
+          "move": "whirlwind",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "silver_wind"
+          "move": "silver_wind",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "quiver_dance"
+          "move": "quiver_dance",
+          "level": 59
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "heat_wave"
+          "move": "heat_wave",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "rage_powder"
+          "move": "rage_powder",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "fiery_dance"
+          "move": "fiery_dance",
+          "level": 100
         },
         {
           "klass": "TutorLearnableMove",

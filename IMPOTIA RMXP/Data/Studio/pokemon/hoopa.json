@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "magician",
         "magician",
@@ -57,103 +66,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hyperspace_hole"
+          "move": "hyperspace_hole",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "trick"
+          "move": "trick",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "destiny_bond"
+          "move": "destiny_bond",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ally_switch"
+          "move": "ally_switch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "magic_coat"
+          "move": "magic_coat",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "skill_swap"
+          "move": "skill_swap",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "guard_split"
+          "move": "guard_split",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "power_split"
+          "move": "power_split",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "phantom_force"
+          "move": "phantom_force",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "wonder_room"
+          "move": "wonder_room",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "trick_room"
+          "move": "trick_room",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 68,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 68
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "hyperspace_hole"
+          "move": "hyperspace_hole",
+          "level": 85
         },
         {
           "klass": "TutorLearnableMove",
@@ -468,7 +477,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "magician",
         "magician",
@@ -491,93 +509,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hyperspace_fury"
+          "move": "hyperspace_fury",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "trick"
+          "move": "trick",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "destiny_bond"
+          "move": "destiny_bond",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ally_switch"
+          "move": "ally_switch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "magic_coat"
+          "move": "magic_coat",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "skill_swap"
+          "move": "skill_swap",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "power_split"
+          "move": "power_split",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "guard_split"
+          "move": "guard_split",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "wonder_room"
+          "move": "wonder_room",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "trick_room"
+          "move": "trick_room",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "dark_pulse"
+          "move": "dark_pulse",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "hyperspace_fury"
+          "move": "hyperspace_fury",
+          "level": 85
         },
         {
           "klass": "TutorLearnableMove",

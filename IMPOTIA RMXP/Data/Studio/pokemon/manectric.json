@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "feuillon",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "static",
         "lightning_rod",
@@ -335,7 +344,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "feuillon",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "intimidate",
         "intimidate",

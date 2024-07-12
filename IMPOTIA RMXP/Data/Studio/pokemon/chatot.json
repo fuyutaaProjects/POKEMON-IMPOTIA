@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "chatot",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "keen_eye",
         "tangled_feet",
@@ -57,98 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "chatter"
+          "move": "chatter",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confide"
+          "move": "confide",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "peck"
+          "move": "peck",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "growl"
+          "move": "growl",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "mirror_move"
+          "move": "mirror_move",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "sing"
+          "move": "sing",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "fury_attack"
+          "move": "fury_attack",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "chatter"
+          "move": "chatter",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "round"
+          "move": "round",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "mimic"
+          "move": "mimic",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "echoed_voice"
+          "move": "echoed_voice",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "roost"
+          "move": "roost",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "synchronoise"
+          "move": "synchronoise",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "feather_dance"
+          "move": "feather_dance",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 57
         },
         {
           "klass": "TutorLearnableMove",

@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "latiosite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 2,
@@ -44,7 +44,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "levitate",
         "levitate",
@@ -67,103 +76,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "memento"
+          "move": "memento",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "helping_hand"
+          "move": "helping_hand",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "psywave"
+          "move": "psywave",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "protect"
+          "move": "protect",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "dragon_dance"
+          "move": "dragon_dance",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "stored_power"
+          "move": "stored_power",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "heal_pulse"
+          "move": "heal_pulse",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "luster_purge"
+          "move": "luster_purge",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "recover"
+          "move": "recover",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "telekinesis"
+          "move": "telekinesis",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "power_split"
+          "move": "power_split",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "memento"
+          "move": "memento",
+          "level": 61
         },
         {
           "klass": "TutorLearnableMove",
@@ -466,7 +475,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 29,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "levitate",
         "levitate",
@@ -489,103 +507,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "helping_hand"
+          "move": "helping_hand",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "psywave"
+          "move": "psywave",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "memento"
+          "move": "memento",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "protect"
+          "move": "protect",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "dragon_dance"
+          "move": "dragon_dance",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "stored_power"
+          "move": "stored_power",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "heal_pulse"
+          "move": "heal_pulse",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "luster_purge"
+          "move": "luster_purge",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "recover"
+          "move": "recover",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "telekinesis"
+          "move": "telekinesis",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "power_split"
+          "move": "power_split",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "memento"
+          "move": "memento",
+          "level": 61
         },
         {
           "klass": "TechLearnableMove",
@@ -1048,7 +1066,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "levitate",
         "levitate",
@@ -1071,103 +1098,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "memento"
+          "move": "memento",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "helping_hand"
+          "move": "helping_hand",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "psywave"
+          "move": "psywave",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "protect"
+          "move": "protect",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "dragon_dance"
+          "move": "dragon_dance",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "stored_power"
+          "move": "stored_power",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "heal_pulse"
+          "move": "heal_pulse",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "luster_purge"
+          "move": "luster_purge",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "recover"
+          "move": "recover",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "telekinesis"
+          "move": "telekinesis",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "power_split"
+          "move": "power_split",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "memento"
+          "move": "memento",
+          "level": 61
         },
         {
           "klass": "TutorLearnableMove",

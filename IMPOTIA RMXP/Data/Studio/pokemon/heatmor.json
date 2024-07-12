@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "heatmor",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "gluttony",
         "flash_fire",
@@ -57,98 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "inferno"
+          "move": "inferno",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hone_claws"
+          "move": "hone_claws",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "incinerate"
+          "move": "incinerate",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "lick"
+          "move": "lick",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "bind"
+          "move": "bind",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "fire_spin"
+          "move": "fire_spin",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "fury_swipes"
+          "move": "fury_swipes",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "flame_burst"
+          "move": "flame_burst",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "slash"
+          "move": "slash",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "spit_up"
+          "move": "spit_up",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "inferno"
+          "move": "inferno",
+          "level": 61
         },
         {
           "klass": "TutorLearnableMove",

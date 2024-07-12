@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "musharna",
+          "form": 0,
           "conditions": [
             {
               "type": "stone",
               "value": "moon_stone"
             }
-          ],
-          "dbSymbol": "musharna",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -45,7 +45,16 @@
       "hatchSteps": 2560,
       "babyDbSymbol": "munna",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "forewarn",
         "synchronize",
@@ -68,88 +77,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "psywave"
+          "move": "psywave",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "moonlight"
+          "move": "moonlight",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "synchronoise"
+          "move": "synchronoise",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "nightmare"
+          "move": "nightmare",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "dream_eater"
+          "move": "dream_eater",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "telekinesis"
+          "move": "telekinesis",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "stored_power"
+          "move": "stored_power",
+          "level": 47
         },
         {
           "klass": "TutorLearnableMove",

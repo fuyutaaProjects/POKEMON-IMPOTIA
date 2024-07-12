@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "vespiquen",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
@@ -32,9 +34,7 @@
               "type": "gender",
               "value": 2
             }
-          ],
-          "dbSymbol": "vespiquen",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 3,
@@ -49,7 +49,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "combee",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "honey_gather",
         "honey_gather",
@@ -76,23 +85,23 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "sweet_scent"
+          "move": "sweet_scent",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 29
         },
         {
           "klass": "TutorLearnableMove",

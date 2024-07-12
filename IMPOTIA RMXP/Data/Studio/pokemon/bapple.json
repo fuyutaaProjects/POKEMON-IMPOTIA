@@ -45,9 +45,9 @@
         }
       ],
       "abilities": [
-        "early_bird",
-        "scrappy",
-        "inner_focus"
+        "pickpocket",
+        "chlorophyll",
+        "prankster"
       ],
       "frontOffsetY": 17,
       "resources": {
@@ -72,58 +72,6 @@
       },
       "moveSet": [
         {
-          "klass": "BreedLearnableMove",
-          "move": "stomp"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "double_edge"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "disable"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "counter"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "focus_energy"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "foresight"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "uproar"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "focus_punch"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "endeavor"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "crush_claw"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "hammer_arm"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "trump_card"
-        },
-        {
-          "klass": "BreedLearnableMove",
-          "move": "circle_throw"
-        },
-        {
           "klass": "LevelLearnableMove",
           "move": "covet",
           "level": 1
@@ -131,6 +79,11 @@
         {
           "klass": "LevelLearnableMove",
           "move": "scary_face",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stun_spore",
           "level": 1
         },
         {
@@ -212,6 +165,58 @@
           "klass": "LevelLearnableMove",
           "move": "power_whip",
           "level": 58
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "stomp"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "double_edge"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "disable"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "counter"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "focus_energy"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "foresight"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "uproar"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "focus_punch"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "endeavor"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "crush_claw"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "hammer_arm"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "trump_card"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "circle_throw"
         },
         {
           "klass": "EvolutionLearnableMove",

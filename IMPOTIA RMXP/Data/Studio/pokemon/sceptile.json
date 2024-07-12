@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "sceptilite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 3,
@@ -44,7 +44,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "treecko",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "overgrow",
         "overgrow",
@@ -67,108 +76,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leaf_storm"
+          "move": "leaf_storm",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "absorb"
+          "move": "absorb",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "absorb"
+          "move": "absorb",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "mega_drain"
+          "move": "mega_drain",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "leaf_blade"
+          "move": "leaf_blade",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "agility"
+          "move": "agility",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "slam"
+          "move": "slam",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "dual_chop"
+          "move": "dual_chop",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "detect"
+          "move": "detect",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "false_swipe"
+          "move": "false_swipe",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "quick_guard"
+          "move": "quick_guard",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "leaf_storm"
+          "move": "leaf_storm",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 69,
-          "move": "screech"
+          "move": "screech",
+          "level": 69
         },
         {
           "klass": "TutorLearnableMove",
@@ -447,7 +456,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "treecko",
       "babyForm": 29,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "overgrow",
         "overgrow",
@@ -470,108 +488,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "absorb"
+          "move": "absorb",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leaf_storm"
+          "move": "leaf_storm",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "absorb"
+          "move": "absorb",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "mega_drain"
+          "move": "mega_drain",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "leaf_blade"
+          "move": "leaf_blade",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "agility"
+          "move": "agility",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "slam"
+          "move": "slam",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "dual_chop"
+          "move": "dual_chop",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "detect"
+          "move": "detect",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "false_swipe"
+          "move": "false_swipe",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "quick_guard"
+          "move": "quick_guard",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "leaf_storm"
+          "move": "leaf_storm",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 69,
-          "move": "screech"
+          "move": "screech",
+          "level": 69
         },
         {
           "klass": "TechLearnableMove",
@@ -1034,7 +1052,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "treecko",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "lightning_rod",
         "lightning_rod",
@@ -1057,108 +1084,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leaf_storm"
+          "move": "leaf_storm",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "absorb"
+          "move": "absorb",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "absorb"
+          "move": "absorb",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "mega_drain"
+          "move": "mega_drain",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "leaf_blade"
+          "move": "leaf_blade",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "agility"
+          "move": "agility",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "slam"
+          "move": "slam",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "dual_chop"
+          "move": "dual_chop",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "detect"
+          "move": "detect",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "false_swipe"
+          "move": "false_swipe",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "quick_guard"
+          "move": "quick_guard",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "leaf_storm"
+          "move": "leaf_storm",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 69,
-          "move": "screech"
+          "move": "screech",
+          "level": 69
         },
         {
           "klass": "TutorLearnableMove",

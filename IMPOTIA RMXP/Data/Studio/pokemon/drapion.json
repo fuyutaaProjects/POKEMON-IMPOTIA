@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "skorupi",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "battle_armor",
         "sniper",
@@ -57,108 +66,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bite"
+          "move": "bite",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_sting"
+          "move": "poison_sting",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "pin_missile"
+          "move": "pin_missile",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "acupressure"
+          "move": "acupressure",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "venoshock"
+          "move": "venoshock",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hone_claws"
+          "move": "hone_claws",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "toxic_spikes"
+          "move": "toxic_spikes",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "cross_poison"
+          "move": "cross_poison",
+          "level": 57
         },
         {
           "klass": "TutorLearnableMove",

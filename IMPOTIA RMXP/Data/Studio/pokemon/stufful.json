@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "bewear",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 27
             }
-          ],
-          "dbSymbol": "bewear",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -45,7 +45,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "stufful",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "fluffy",
         "klutz",

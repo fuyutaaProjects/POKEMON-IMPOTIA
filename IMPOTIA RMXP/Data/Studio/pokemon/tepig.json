@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "pignite",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 17
             }
-          ],
-          "dbSymbol": "pignite",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 3,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "tepig",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "blaze",
         "blaze",
@@ -68,78 +77,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "tail_whip"
+          "move": "tail_whip",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "ember"
+          "move": "ember",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "smog"
+          "move": "smog",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "rollout"
+          "move": "rollout",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "heat_crash"
+          "move": "heat_crash",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "assurance"
+          "move": "assurance",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "head_smash"
+          "move": "head_smash",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "roar"
+          "move": "roar",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 43
         },
         {
           "klass": "TutorLearnableMove",

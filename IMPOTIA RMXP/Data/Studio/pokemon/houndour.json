@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "houndoom",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 24
             }
-          ],
-          "dbSymbol": "houndoom",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 2,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "houndour",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "flash_fire",
         "early_bird",
@@ -68,83 +77,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "howl"
+          "move": "howl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "smog"
+          "move": "smog",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "roar"
+          "move": "roar",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "bite"
+          "move": "bite",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "beat_up"
+          "move": "beat_up",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "embargo"
+          "move": "embargo",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "foul_play"
+          "move": "foul_play",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "inferno"
+          "move": "inferno",
+          "level": 56
         },
         {
           "klass": "TutorLearnableMove",

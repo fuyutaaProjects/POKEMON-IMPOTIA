@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "water_absorb",
         "water_absorb",
@@ -57,83 +66,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "steam_eruption"
+          "move": "steam_eruption",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "mist"
+          "move": "mist",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "haze"
+          "move": "haze",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "stomp"
+          "move": "stomp",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "scald"
+          "move": "scald",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "weather_ball"
+          "move": "weather_ball",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 58
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "overheat"
+          "move": "overheat",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 76,
-          "move": "explosion"
+          "move": "explosion",
+          "level": 76
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "steam_eruption"
+          "move": "steam_eruption",
+          "level": 85
         },
         {
           "klass": "TutorLearnableMove",
@@ -360,7 +369,16 @@
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "water_absorb",
         "water_absorb",
@@ -383,83 +401,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "steam_eruption"
+          "move": "steam_eruption",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "mist"
+          "move": "mist",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "haze"
+          "move": "haze",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "stomp"
+          "move": "stomp",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "scald"
+          "move": "scald",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "weather_ball"
+          "move": "weather_ball",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 58
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "overheat"
+          "move": "overheat",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 76,
-          "move": "explosion"
+          "move": "explosion",
+          "level": 76
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "steam_eruption"
+          "move": "steam_eruption",
+          "level": 85
         },
         {
           "klass": "TechLearnableMove",

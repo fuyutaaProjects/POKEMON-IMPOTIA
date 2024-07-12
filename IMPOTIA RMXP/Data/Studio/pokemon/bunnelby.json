@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "diggersby",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 20
             }
-          ],
-          "dbSymbol": "diggersby",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "bunnelby",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pickup",
         "cheek_pouch",
@@ -68,83 +77,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "agility"
+          "move": "agility",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "double_slap"
+          "move": "double_slap",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "mud_shot"
+          "move": "mud_shot",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "double_kick"
+          "move": "double_kick",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "flail"
+          "move": "flail",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "dig"
+          "move": "dig",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "bounce"
+          "move": "bounce",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "super_fang"
+          "move": "super_fang",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "facade"
+          "move": "facade",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 49
         },
         {
           "klass": "TutorLearnableMove",

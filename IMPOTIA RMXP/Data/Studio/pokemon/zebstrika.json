@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "blitzle",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "lightning_rod",
         "motor_drive",
@@ -57,93 +66,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ion_deluge"
+          "move": "ion_deluge",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tail_whip"
+          "move": "tail_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "charge"
+          "move": "charge",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_wave"
+          "move": "thunder_wave",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "tail_whip"
+          "move": "tail_whip",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "charge"
+          "move": "charge",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "shock_wave"
+          "move": "shock_wave",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "thunder_wave"
+          "move": "thunder_wave",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "spark"
+          "move": "spark",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "stomp"
+          "move": "stomp",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "discharge"
+          "move": "discharge",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "agility"
+          "move": "agility",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "wild_charge"
+          "move": "wild_charge",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "ion_deluge"
+          "move": "ion_deluge",
+          "level": 58
         },
         {
           "klass": "TutorLearnableMove",

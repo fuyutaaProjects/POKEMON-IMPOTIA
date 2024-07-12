@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "pangoro",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
@@ -32,9 +34,7 @@
               "type": "func",
               "value": "elv_pandarbare"
             }
-          ],
-          "dbSymbol": "pangoro",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -49,7 +49,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "pancham",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "iron_fist",
         "mold_breaker",
@@ -72,73 +81,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "arm_thrust"
+          "move": "arm_thrust",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "work_up"
+          "move": "work_up",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "karate_chop"
+          "move": "karate_chop",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "comet_punch"
+          "move": "comet_punch",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "slash"
+          "move": "slash",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "circle_throw"
+          "move": "circle_throw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "vital_throw"
+          "move": "vital_throw",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "entrainment"
+          "move": "entrainment",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "sky_uppercut"
+          "move": "sky_uppercut",
+          "level": 48
         },
         {
           "klass": "TutorLearnableMove",

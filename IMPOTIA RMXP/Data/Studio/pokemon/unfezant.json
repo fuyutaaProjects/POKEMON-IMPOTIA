@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "pidove",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "big_pecks",
         "super_luck",
@@ -63,93 +72,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "growl"
+          "move": "growl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "leer"
+          "move": "leer",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "air_cutter"
+          "move": "air_cutter",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "roost"
+          "move": "roost",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "detect"
+          "move": "detect",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "feather_dance"
+          "move": "feather_dance",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "swagger"
+          "move": "swagger",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "facade"
+          "move": "facade",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "sky_attack"
+          "move": "sky_attack",
+          "level": 66
         },
         {
           "klass": "TutorLearnableMove",

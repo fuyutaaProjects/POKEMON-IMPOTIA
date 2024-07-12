@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "fraxure",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 38
             }
-          ],
-          "dbSymbol": "fraxure",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 2,
@@ -45,7 +45,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "axew",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rivalry",
         "mold_breaker",
@@ -68,83 +77,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "leer"
+          "move": "leer",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "assurance"
+          "move": "assurance",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "dragon_rage"
+          "move": "dragon_rage",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "dual_chop"
+          "move": "dual_chop",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "slash"
+          "move": "slash",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "false_swipe"
+          "move": "false_swipe",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "dragon_claw"
+          "move": "dragon_claw",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "dragon_dance"
+          "move": "dragon_dance",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "guillotine"
+          "move": "guillotine",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "outrage"
+          "move": "outrage",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "giga_impact"
+          "move": "giga_impact",
+          "level": 61
         },
         {
           "klass": "TutorLearnableMove",

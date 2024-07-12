@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "swalot",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 26
             }
-          ],
-          "dbSymbol": "swalot",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 5,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "gulpin",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "sticky_hold",
         "liquid_ooze",
@@ -72,83 +81,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "poison_gas"
+          "move": "poison_gas",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "sludge"
+          "move": "sludge",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "acid_spray"
+          "move": "acid_spray",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "encore"
+          "move": "encore",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "toxic"
+          "move": "toxic",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "spit_up"
+          "move": "spit_up",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "sludge_bomb"
+          "move": "sludge_bomb",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "gastro_acid"
+          "move": "gastro_acid",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "belch"
+          "move": "belch",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "wring_out"
+          "move": "wring_out",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "gunk_shot"
+          "move": "gunk_shot",
+          "level": 49
         },
         {
           "klass": "TutorLearnableMove",

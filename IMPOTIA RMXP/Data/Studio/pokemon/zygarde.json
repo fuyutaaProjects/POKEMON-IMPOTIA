@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "aura_break",
         "aura_break",
@@ -57,93 +66,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "glare"
+          "move": "glare",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bulldoze"
+          "move": "bulldoze",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bite"
+          "move": "bite",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "dig"
+          "move": "dig",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "bind"
+          "move": "bind",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "land_s_wrath"
+          "move": "land_s_wrath",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "sandstorm"
+          "move": "sandstorm",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "haze"
+          "move": "haze",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "camouflage"
+          "move": "camouflage",
+          "level": 59
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 72,
-          "move": "dragon_dance"
+          "move": "dragon_dance",
+          "level": 72
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "coil"
+          "move": "coil",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 88,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 88
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 93,
-          "move": "outrage"
+          "move": "outrage",
+          "level": 93
         },
         {
           "klass": "TutorLearnableMove",
@@ -358,7 +367,16 @@
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "aura_break",
         "aura_break",
@@ -411,7 +429,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 2,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "aura_break",
         "aura_break",
@@ -464,7 +491,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 3,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "aura_break",
         "aura_break",
@@ -517,7 +553,16 @@
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
       "babyForm": 4,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "aura_break",
         "aura_break",
@@ -540,93 +585,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bite"
+          "move": "bite",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "glare"
+          "move": "glare",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bulldoze"
+          "move": "bulldoze",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "dig"
+          "move": "dig",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "bind"
+          "move": "bind",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "land_s_wrath"
+          "move": "land_s_wrath",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "sandstorm"
+          "move": "sandstorm",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "haze"
+          "move": "haze",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "camouflage"
+          "move": "camouflage",
+          "level": 59
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 72,
-          "move": "dragon_dance"
+          "move": "dragon_dance",
+          "level": 72
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "coil"
+          "move": "coil",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 88,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 88
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 93,
-          "move": "outrage"
+          "move": "outrage",
+          "level": 93
         },
         {
           "klass": "TechLearnableMove",
@@ -1089,7 +1134,16 @@
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
       "babyForm": 5,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "aura_break",
         "aura_break",
@@ -1112,93 +1166,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bite"
+          "move": "bite",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "glare"
+          "move": "glare",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bulldoze"
+          "move": "bulldoze",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "dig"
+          "move": "dig",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "bind"
+          "move": "bind",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "land_s_wrath"
+          "move": "land_s_wrath",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "sandstorm"
+          "move": "sandstorm",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "haze"
+          "move": "haze",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "camouflage"
+          "move": "camouflage",
+          "level": 59
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 72,
-          "move": "dragon_dance"
+          "move": "dragon_dance",
+          "level": 72
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "coil"
+          "move": "coil",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 88,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 88
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 93,
-          "move": "outrage"
+          "move": "outrage",
+          "level": 93
         },
         {
           "klass": "TechLearnableMove",

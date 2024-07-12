@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "cameruptite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 1,
@@ -44,7 +44,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "numel",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "magma_armor",
         "solid_rock",
@@ -71,103 +80,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fissure"
+          "move": "fissure",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "eruption"
+          "move": "eruption",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "ember"
+          "move": "ember",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "magnitude"
+          "move": "magnitude",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "flame_burst"
+          "move": "flame_burst",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "lava_plume"
+          "move": "lava_plume",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "curse"
+          "move": "curse",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "rock_slide"
+          "move": "rock_slide",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "eruption"
+          "move": "eruption",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "fissure"
+          "move": "fissure",
+          "level": 59
         },
         {
           "klass": "TutorLearnableMove",
@@ -386,7 +395,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "numel",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "sheer_force",
         "sheer_force",
@@ -413,103 +431,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fissure"
+          "move": "fissure",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "eruption"
+          "move": "eruption",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "ember"
+          "move": "ember",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "magnitude"
+          "move": "magnitude",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "flame_burst"
+          "move": "flame_burst",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "lava_plume"
+          "move": "lava_plume",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "curse"
+          "move": "curse",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "rock_slide"
+          "move": "rock_slide",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "eruption"
+          "move": "eruption",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "fissure"
+          "move": "fissure",
+          "level": 59
         },
         {
           "klass": "TutorLearnableMove",
@@ -728,7 +746,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "numel",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "magma_armor",
         "solid_rock",
@@ -755,103 +782,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fissure"
+          "move": "fissure",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "eruption"
+          "move": "eruption",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "ember"
+          "move": "ember",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "magnitude"
+          "move": "magnitude",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "flame_burst"
+          "move": "flame_burst",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "lava_plume"
+          "move": "lava_plume",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "curse"
+          "move": "curse",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "rock_slide"
+          "move": "rock_slide",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "eruption"
+          "move": "eruption",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "fissure"
+          "move": "fissure",
+          "level": 59
         },
         {
           "klass": "TechLearnableMove",

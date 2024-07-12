@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "fennekin",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "blaze",
         "blaze",
@@ -57,118 +66,118 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "role_play"
+          "move": "role_play",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "switcheroo"
+          "move": "switcheroo",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tail_whip"
+          "move": "tail_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "ember"
+          "move": "ember",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "howl"
+          "move": "howl",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "fire_spin"
+          "move": "fire_spin",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "psyshock"
+          "move": "psyshock",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "mystical_fire"
+          "move": "mystical_fire",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "will_o_wisp"
+          "move": "will_o_wisp",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "sunny_day"
+          "move": "sunny_day",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "magic_room"
+          "move": "magic_room",
+          "level": 58
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "fire_blast"
+          "move": "fire_blast",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 69,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 69
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "mystical_fire"
+          "move": "mystical_fire",
+          "level": 75
         },
         {
           "klass": "TutorLearnableMove",

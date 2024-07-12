@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "miltank",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "thick_fat",
         "scrappy",
@@ -64,68 +73,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "growl"
+          "move": "growl",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "stomp"
+          "move": "stomp",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "milk_drink"
+          "move": "milk_drink",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bide"
+          "move": "bide",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "rollout"
+          "move": "rollout",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "captivate"
+          "move": "captivate",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "gyro_ball"
+          "move": "gyro_ball",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "heal_bell"
+          "move": "heal_bell",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "wake_up_slap"
+          "move": "wake_up_slap",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

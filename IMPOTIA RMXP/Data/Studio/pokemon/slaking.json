@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "slakoth",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "truant",
         "truant",
@@ -57,98 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fling"
+          "move": "fling",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "encore"
+          "move": "encore",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "slack_off"
+          "move": "slack_off",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "encore"
+          "move": "encore",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "slack_off"
+          "move": "slack_off",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "covet"
+          "move": "covet",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "chip_away"
+          "move": "chip_away",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "counter"
+          "move": "counter",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "swagger"
+          "move": "swagger",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "flail"
+          "move": "flail",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "fling"
+          "move": "fling",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 61
         },
         {
           "klass": "TutorLearnableMove",

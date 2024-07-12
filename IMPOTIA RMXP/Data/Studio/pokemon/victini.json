@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "victory_star",
         "victory_star",
@@ -57,88 +66,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "searing_shot"
+          "move": "searing_shot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "incinerate"
+          "move": "incinerate",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "endure"
+          "move": "endure",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "reversal"
+          "move": "reversal",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "flame_burst"
+          "move": "flame_burst",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "inferno"
+          "move": "inferno",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "flare_blitz"
+          "move": "flare_blitz",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 81,
-          "move": "final_gambit"
+          "move": "final_gambit",
+          "level": 81
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 89,
-          "move": "stored_power"
+          "move": "stored_power",
+          "level": 89
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 97,
-          "move": "overheat"
+          "move": "overheat",
+          "level": 97
         },
         {
           "klass": "TutorLearnableMove",

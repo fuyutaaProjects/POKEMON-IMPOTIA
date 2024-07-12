@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "serene_grace",
         "serene_grace",
@@ -57,78 +66,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "round"
+          "move": "round",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "sing"
+          "move": "sing",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "teeter_dance"
+          "move": "teeter_dance",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "acrobatics"
+          "move": "acrobatics",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "echoed_voice"
+          "move": "echoed_voice",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "u_turn"
+          "move": "u_turn",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "wake_up_slap"
+          "move": "wake_up_slap",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 64
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 71,
-          "move": "role_play"
+          "move": "role_play",
+          "level": 71
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 78,
-          "move": "close_combat"
+          "move": "close_combat",
+          "level": 78
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 85
         },
         {
           "klass": "TutorLearnableMove",
@@ -475,7 +484,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "serene_grace",
         "serene_grace",
@@ -498,78 +516,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "round"
+          "move": "round",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "sing"
+          "move": "sing",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "teeter_dance"
+          "move": "teeter_dance",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "acrobatics"
+          "move": "acrobatics",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "echoed_voice"
+          "move": "echoed_voice",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "u_turn"
+          "move": "u_turn",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "wake_up_slap"
+          "move": "wake_up_slap",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 64
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 71,
-          "move": "role_play"
+          "move": "role_play",
+          "level": 71
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 78,
-          "move": "close_combat"
+          "move": "close_combat",
+          "level": 78
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 85
         },
         {
           "klass": "TutorLearnableMove",

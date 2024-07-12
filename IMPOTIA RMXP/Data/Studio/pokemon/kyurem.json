@@ -66,78 +66,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "icy_wind"
+          "move": "icy_wind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dragon_rage"
+          "move": "dragon_rage",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "ice_beam"
+          "move": "ice_beam",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "slash"
+          "move": "slash",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "glaciate"
+          "move": "glaciate",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 64
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 71,
-          "move": "endeavor"
+          "move": "endeavor",
+          "level": 71
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 78,
-          "move": "blizzard"
+          "move": "blizzard",
+          "level": 78
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "outrage"
+          "move": "outrage",
+          "level": 85
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 92,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 92
         },
         {
           "klass": "TutorLearnableMove",
@@ -392,7 +392,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "teravolt",
         "teravolt",
@@ -415,78 +424,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "icy_wind"
+          "move": "icy_wind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dragon_rage"
+          "move": "dragon_rage",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "ice_beam"
+          "move": "ice_beam",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "slash"
+          "move": "slash",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "fusion_bolt"
+          "move": "fusion_bolt",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "freeze_shock"
+          "move": "freeze_shock",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 64
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 71,
-          "move": "endeavor"
+          "move": "endeavor",
+          "level": 71
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 78,
-          "move": "blizzard"
+          "move": "blizzard",
+          "level": 78
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "outrage"
+          "move": "outrage",
+          "level": 85
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 92,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 92
         },
         {
           "klass": "TutorLearnableMove",
@@ -741,7 +750,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 2,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "turboblaze",
         "turboblaze",
@@ -764,78 +782,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "icy_wind"
+          "move": "icy_wind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dragon_rage"
+          "move": "dragon_rage",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "ice_beam"
+          "move": "ice_beam",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "slash"
+          "move": "slash",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "fusion_flare"
+          "move": "fusion_flare",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "ice_burn"
+          "move": "ice_burn",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 64
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 71,
-          "move": "endeavor"
+          "move": "endeavor",
+          "level": 71
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 78,
-          "move": "blizzard"
+          "move": "blizzard",
+          "level": 78
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "outrage"
+          "move": "outrage",
+          "level": 85
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 92,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 92
         },
         {
           "klass": "TutorLearnableMove",

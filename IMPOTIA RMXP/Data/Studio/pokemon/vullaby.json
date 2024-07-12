@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "mandibuzz",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 54
             }
-          ],
-          "dbSymbol": "mandibuzz",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 2,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "vullaby",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "big_pecks",
         "overcoat",
@@ -75,83 +84,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "fury_attack"
+          "move": "fury_attack",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pluck"
+          "move": "pluck",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "flatter"
+          "move": "flatter",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "defog"
+          "move": "defog",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "dark_pulse"
+          "move": "dark_pulse",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "embargo"
+          "move": "embargo",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "whirlwind"
+          "move": "whirlwind",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "brave_bird"
+          "move": "brave_bird",
+          "level": 59
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "mirror_move"
+          "move": "mirror_move",
+          "level": 64
         },
         {
           "klass": "TutorLearnableMove",

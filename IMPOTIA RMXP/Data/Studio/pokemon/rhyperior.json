@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "hurlalanche",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "lightning_rod",
         "solid_rock",
@@ -61,113 +70,113 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rock_wrecker"
+          "move": "rock_wrecker",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "horn_drill"
+          "move": "horn_drill",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_jab"
+          "move": "poison_jab",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "horn_attack"
+          "move": "horn_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tail_whip"
+          "move": "tail_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fury_attack"
+          "move": "fury_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "fury_attack"
+          "move": "fury_attack",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "smack_down"
+          "move": "smack_down",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "stomp"
+          "move": "stomp",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "bulldoze"
+          "move": "bulldoze",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "chip_away"
+          "move": "chip_away",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "rock_blast"
+          "move": "rock_blast",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "drill_run"
+          "move": "drill_run",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "stone_edge"
+          "move": "stone_edge",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "megahorn"
+          "move": "megahorn",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "horn_drill"
+          "move": "horn_drill",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 69,
-          "move": "rock_wrecker"
+          "move": "rock_wrecker",
+          "level": 69
         },
         {
           "klass": "TutorLearnableMove",

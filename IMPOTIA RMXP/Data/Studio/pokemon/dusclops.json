@@ -23,6 +23,8 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "charme",
+          "form": 0,
           "conditions": [
             {
               "type": "trade",
@@ -32,9 +34,7 @@
               "type": "itemHold",
               "value": "reaper_cloth"
             }
-          ],
-          "form": 0,
-          "dbSymbol": "charme"
+          ]
         }
       ],
       "experienceType": 0,
@@ -49,7 +49,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "duskull",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -72,123 +81,123 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_punch"
+          "move": "fire_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_punch"
+          "move": "ice_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_punch"
+          "move": "thunder_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bind"
+          "move": "bind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "disable"
+          "move": "disable",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "disable"
+          "move": "disable",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "foresight"
+          "move": "foresight",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "shadow_sneak"
+          "move": "shadow_sneak",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "will_o_wisp"
+          "move": "will_o_wisp",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "curse"
+          "move": "curse",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "shadow_punch"
+          "move": "shadow_punch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "hex"
+          "move": "hex",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "mean_look"
+          "move": "mean_look",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "payback"
+          "move": "payback",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 64
         },
         {
           "klass": "TutorLearnableMove",

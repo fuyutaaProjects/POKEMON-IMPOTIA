@@ -23,14 +23,14 @@
       "evDfs": 2,
       "evolutions": [
         {
+          "dbSymbol": "ludicolo",
+          "form": 0,
           "conditions": [
             {
               "type": "stone",
               "value": "water_stone"
             }
-          ],
-          "dbSymbol": "ludicolo",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 3,
@@ -45,7 +45,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "lotad",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "swift_swim",
         "rain_dish",
@@ -68,68 +77,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "growl"
+          "move": "growl",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "absorb"
+          "move": "absorb",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "bubble"
+          "move": "bubble",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "fury_swipes"
+          "move": "fury_swipes",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "fake_out"
+          "move": "fake_out",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "water_sport"
+          "move": "water_sport",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "bubble_beam"
+          "move": "bubble_beam",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "nature_power"
+          "move": "nature_power",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 44
         },
         {
           "klass": "TutorLearnableMove",

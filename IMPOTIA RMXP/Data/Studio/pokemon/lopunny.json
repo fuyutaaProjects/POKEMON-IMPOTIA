@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "lopunnite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 1,
@@ -44,7 +44,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "buneary",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "cute_charm",
         "klutz",
@@ -67,113 +76,113 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bounce"
+          "move": "bounce",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rototiller"
+          "move": "rototiller",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mirror_coat"
+          "move": "mirror_coat",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magic_coat"
+          "move": "magic_coat",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "splash"
+          "move": "splash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "foresight"
+          "move": "foresight",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "endure"
+          "move": "endure",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "return"
+          "move": "return",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "jump_kick"
+          "move": "jump_kick",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "baton_pass"
+          "move": "baton_pass",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "agility"
+          "move": "agility",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "dizzy_punch"
+          "move": "dizzy_punch",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "after_you"
+          "move": "after_you",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "charm"
+          "move": "charm",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "entrainment"
+          "move": "entrainment",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "bounce"
+          "move": "bounce",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "high_jump_kick"
+          "move": "high_jump_kick",
+          "level": 66
         },
         {
           "klass": "TutorLearnableMove",
@@ -436,7 +445,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "buneary",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "scrappy",
         "scrappy",
@@ -459,113 +477,113 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bounce"
+          "move": "bounce",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rototiller"
+          "move": "rototiller",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mirror_coat"
+          "move": "mirror_coat",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magic_coat"
+          "move": "magic_coat",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "splash"
+          "move": "splash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "foresight"
+          "move": "foresight",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "endure"
+          "move": "endure",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "return"
+          "move": "return",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "jump_kick"
+          "move": "jump_kick",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "baton_pass"
+          "move": "baton_pass",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "agility"
+          "move": "agility",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "dizzy_punch"
+          "move": "dizzy_punch",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "after_you"
+          "move": "after_you",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "charm"
+          "move": "charm",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "entrainment"
+          "move": "entrainment",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "bounce"
+          "move": "bounce",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "high_jump_kick"
+          "move": "high_jump_kick",
+          "level": 66
         },
         {
           "klass": "TutorLearnableMove",

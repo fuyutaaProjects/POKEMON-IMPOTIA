@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "helioptile",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "dry_skin",
         "sand_veil",
@@ -57,38 +66,38 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "eerie_impulse"
+          "move": "eerie_impulse",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "electrify"
+          "move": "electrify",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder"
+          "move": "thunder",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "charge"
+          "move": "charge",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "parabolic_charge"
+          "move": "parabolic_charge",
+          "level": 1
         },
         {
           "klass": "TutorLearnableMove",

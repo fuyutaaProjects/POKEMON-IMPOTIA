@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "froakie",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "torrent",
         "torrent",
@@ -57,108 +66,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "role_play"
+          "move": "role_play",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mat_block"
+          "move": "mat_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "bubble"
+          "move": "bubble",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lick"
+          "move": "lick",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "smokescreen"
+          "move": "smokescreen",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "shadow_sneak"
+          "move": "shadow_sneak",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "spikes"
+          "move": "spikes",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "water_shuriken"
+          "move": "water_shuriken",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "substitute"
+          "move": "substitute",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "extrasensory"
+          "move": "extrasensory",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "haze"
+          "move": "haze",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "water_shuriken"
+          "move": "water_shuriken",
+          "level": 75
         },
         {
           "klass": "TutorLearnableMove",
@@ -405,7 +414,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "froakie",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "battle_bond",
         "battle_bond",
@@ -458,7 +476,16 @@
       "hatchSteps": 5355,
       "babyDbSymbol": "froakie",
       "babyForm": 2,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "torrent",
         "torrent",

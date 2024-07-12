@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "qualtox",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 37
             }
-          ],
-          "dbSymbol": "qualtox",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 2560,
       "babyDbSymbol": "croagunk",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "dry_skin",
         "anticipation",
@@ -72,83 +81,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "poison_sting"
+          "move": "poison_sting",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "revenge"
+          "move": "revenge",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "swagger"
+          "move": "swagger",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "mud_bomb"
+          "move": "mud_bomb",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "sucker_punch"
+          "move": "sucker_punch",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "venoshock"
+          "move": "venoshock",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "poison_jab"
+          "move": "poison_jab",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "sludge_bomb"
+          "move": "sludge_bomb",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "belch"
+          "move": "belch",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "flatter"
+          "move": "flatter",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "heracronite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 2,
@@ -44,7 +44,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "heracross",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "guts",
         "swarm",
@@ -71,93 +80,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "arm_thrust"
+          "move": "arm_thrust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bullet_seed"
+          "move": "bullet_seed",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "horn_attack"
+          "move": "horn_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "endure"
+          "move": "endure",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "feint"
+          "move": "feint",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "chip_away"
+          "move": "chip_away",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "counter"
+          "move": "counter",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "fury_attack"
+          "move": "fury_attack",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "brick_break"
+          "move": "brick_break",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "pin_missile"
+          "move": "pin_missile",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "megahorn"
+          "move": "megahorn",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "close_combat"
+          "move": "close_combat",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "reversal"
+          "move": "reversal",
+          "level": 46
         },
         {
           "klass": "TutorLearnableMove",
@@ -424,7 +433,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "heracross",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "skill_link",
         "skill_link",
@@ -451,93 +469,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "arm_thrust"
+          "move": "arm_thrust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bullet_seed"
+          "move": "bullet_seed",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "horn_attack"
+          "move": "horn_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "endure"
+          "move": "endure",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "feint"
+          "move": "feint",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "chip_away"
+          "move": "chip_away",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "counter"
+          "move": "counter",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "fury_attack"
+          "move": "fury_attack",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "brick_break"
+          "move": "brick_break",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "pin_missile"
+          "move": "pin_missile",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "megahorn"
+          "move": "megahorn",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "close_combat"
+          "move": "close_combat",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "reversal"
+          "move": "reversal",
+          "level": 46
         },
         {
           "klass": "TutorLearnableMove",

@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "eelektross",
+          "form": 0,
           "conditions": [
             {
               "type": "stone",
               "value": "thunder_stone"
             }
-          ],
-          "dbSymbol": "eelektross",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 2,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "tynamo",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "levitate",
         "levitate",
@@ -68,78 +77,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_wave"
+          "move": "thunder_wave",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "spark"
+          "move": "spark",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "charge_beam"
+          "move": "charge_beam",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "bind"
+          "move": "bind",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "acid"
+          "move": "acid",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "discharge"
+          "move": "discharge",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "thunderbolt"
+          "move": "thunderbolt",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "acid_spray"
+          "move": "acid_spray",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "coil"
+          "move": "coil",
+          "level": 54
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "wild_charge"
+          "move": "wild_charge",
+          "level": 59
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "gastro_acid"
+          "move": "gastro_acid",
+          "level": 64
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 69,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 69
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 74,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 74
         },
         {
           "klass": "TutorLearnableMove",

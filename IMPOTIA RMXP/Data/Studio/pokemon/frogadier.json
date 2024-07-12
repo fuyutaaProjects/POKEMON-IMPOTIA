@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "greninja",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 36
             }
-          ],
-          "dbSymbol": "greninja",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 3,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "froakie",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "torrent",
         "torrent",
@@ -68,73 +77,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "bubble"
+          "move": "bubble",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lick"
+          "move": "lick",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "smokescreen"
+          "move": "smokescreen",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "round"
+          "move": "round",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "fling"
+          "move": "fling",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "smack_down"
+          "move": "smack_down",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "substitute"
+          "move": "substitute",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "bounce"
+          "move": "bounce",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 55
         },
         {
           "klass": "TutorLearnableMove",

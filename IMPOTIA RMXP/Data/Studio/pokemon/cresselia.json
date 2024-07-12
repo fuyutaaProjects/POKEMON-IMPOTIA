@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "levitate",
         "levitate",
@@ -64,88 +73,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "lunar_dance"
+          "move": "lunar_dance",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "psycho_cut"
+          "move": "psycho_cut",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "moonlight"
+          "move": "moonlight",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "mist"
+          "move": "mist",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "aurora_beam"
+          "move": "aurora_beam",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "slash"
+          "move": "slash",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "moonlight"
+          "move": "moonlight",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "psycho_cut"
+          "move": "psycho_cut",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "psycho_shift"
+          "move": "psycho_shift",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 84,
-          "move": "lunar_dance"
+          "move": "lunar_dance",
+          "level": 84
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 93,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 93
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 99,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 99
         },
         {
           "klass": "TutorLearnableMove",

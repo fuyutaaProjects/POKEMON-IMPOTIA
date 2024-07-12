@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "download",
         "download",
@@ -57,103 +66,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "techno_blast"
+          "move": "techno_blast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 77,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 77
         },
         {
           "klass": "TutorLearnableMove",
@@ -448,103 +457,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "techno_blast"
+          "move": "techno_blast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 77,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 77
         },
         {
           "klass": "TechLearnableMove",
@@ -779,103 +788,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "techno_blast"
+          "move": "techno_blast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 77,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 77
         },
         {
           "klass": "TechLearnableMove",
@@ -1110,103 +1119,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "techno_blast"
+          "move": "techno_blast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 77,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 77
         },
         {
           "klass": "TechLearnableMove",
@@ -1441,103 +1450,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "techno_blast"
+          "move": "techno_blast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 77,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 77
         },
         {
           "klass": "TechLearnableMove",
@@ -1740,7 +1749,16 @@
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
       "babyForm": 5,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "download",
         "download",
@@ -1763,103 +1781,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "techno_blast"
+          "move": "techno_blast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 77,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 77
         },
         {
           "klass": "TechLearnableMove",
@@ -2322,7 +2340,16 @@
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
       "babyForm": 6,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "download",
         "download",
@@ -2345,103 +2372,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "techno_blast"
+          "move": "techno_blast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 77,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 77
         },
         {
           "klass": "TechLearnableMove",
@@ -2904,7 +2931,16 @@
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
       "babyForm": 7,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "download",
         "download",
@@ -2927,103 +2963,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "techno_blast"
+          "move": "techno_blast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 77,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 77
         },
         {
           "klass": "TechLearnableMove",
@@ -3486,7 +3522,16 @@
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
       "babyForm": 8,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "download",
         "download",
@@ -3509,103 +3554,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "techno_blast"
+          "move": "techno_blast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 77,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 77
         },
         {
           "klass": "TechLearnableMove",
@@ -4068,7 +4113,16 @@
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
       "babyForm": 9,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "download",
         "download",
@@ -4091,103 +4145,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fell_stinger"
+          "move": "fell_stinger",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "techno_blast"
+          "move": "techno_blast",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "fury_cutter"
+          "move": "fury_cutter",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "flame_charge"
+          "move": "flame_charge",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "slash"
+          "move": "slash",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "simple_beam"
+          "move": "simple_beam",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 77,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 77
         },
         {
           "klass": "TechLearnableMove",

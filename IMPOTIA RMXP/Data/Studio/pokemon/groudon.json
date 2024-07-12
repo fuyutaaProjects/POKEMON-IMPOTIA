@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "drought",
         "drought",
@@ -57,73 +66,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_shot"
+          "move": "mud_shot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "lava_plume"
+          "move": "lava_plume",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "rest"
+          "move": "rest",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "precipice_blades"
+          "move": "precipice_blades",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "bulk_up"
+          "move": "bulk_up",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "fissure"
+          "move": "fissure",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "fire_blast"
+          "move": "fire_blast",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "eruption"
+          "move": "eruption",
+          "level": 90
         },
         {
           "klass": "TutorLearnableMove",
@@ -406,7 +415,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "desolate_land",
         "desolate_land",
@@ -429,73 +447,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_shot"
+          "move": "mud_shot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "lava_plume"
+          "move": "lava_plume",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "rest"
+          "move": "rest",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "precipice_blades"
+          "move": "precipice_blades",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "bulk_up"
+          "move": "bulk_up",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "fissure"
+          "move": "fissure",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "fire_blast"
+          "move": "fire_blast",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "eruption"
+          "move": "eruption",
+          "level": 90
         },
         {
           "klass": "TutorLearnableMove",

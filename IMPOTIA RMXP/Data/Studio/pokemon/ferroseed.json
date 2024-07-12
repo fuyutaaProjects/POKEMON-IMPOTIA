@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "ferrothorn",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 40
             }
-          ],
-          "dbSymbol": "ferrothorn",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "ferroseed",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "iron_barbs",
         "iron_barbs",
@@ -68,78 +77,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "harden"
+          "move": "harden",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "rollout"
+          "move": "rollout",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "curse"
+          "move": "curse",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "pin_missile"
+          "move": "pin_missile",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "gyro_ball"
+          "move": "gyro_ball",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "mirror_shot"
+          "move": "mirror_shot",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "ingrain"
+          "move": "ingrain",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "self_destruct"
+          "move": "self_destruct",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "payback"
+          "move": "payback",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "flash_cannon"
+          "move": "flash_cannon",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "explosion"
+          "move": "explosion",
+          "level": 55
         },
         {
           "klass": "TutorLearnableMove",

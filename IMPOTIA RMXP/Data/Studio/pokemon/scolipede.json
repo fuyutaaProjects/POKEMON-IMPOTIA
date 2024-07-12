@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "venipede",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "poison_point",
         "swarm",
@@ -57,103 +66,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "megahorn"
+          "move": "megahorn",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rollout"
+          "move": "rollout",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_sting"
+          "move": "poison_sting",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "screech"
+          "move": "screech",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "poison_sting"
+          "move": "poison_sting",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "screech"
+          "move": "screech",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "protect"
+          "move": "protect",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "poison_tail"
+          "move": "poison_tail",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "venoshock"
+          "move": "venoshock",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "baton_pass"
+          "move": "baton_pass",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "agility"
+          "move": "agility",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "steamroller"
+          "move": "steamroller",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "toxic"
+          "move": "toxic",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "venom_drench"
+          "move": "venom_drench",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "rock_climb"
+          "move": "rock_climb",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "megahorn"
+          "move": "megahorn",
+          "level": 65
         },
         {
           "klass": "TutorLearnableMove",

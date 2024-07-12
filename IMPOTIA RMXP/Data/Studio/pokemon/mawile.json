@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "mawilite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 0,
@@ -44,7 +44,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "mawile",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "intimidate",
         "hyper_cutter",
@@ -67,103 +76,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "play_rough"
+          "move": "play_rough",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "fake_tears"
+          "move": "fake_tears",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "bite"
+          "move": "bite",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "sweet_scent"
+          "move": "sweet_scent",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "vise_grip"
+          "move": "vise_grip",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "baton_pass"
+          "move": "baton_pass",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "sucker_punch"
+          "move": "sucker_punch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "spit_up"
+          "move": "spit_up",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "play_rough"
+          "move": "play_rough",
+          "level": 49
         },
         {
           "klass": "TutorLearnableMove",
@@ -502,7 +511,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "mawile",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "huge_power",
         "huge_power",
@@ -525,103 +543,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "play_rough"
+          "move": "play_rough",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "fake_tears"
+          "move": "fake_tears",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "bite"
+          "move": "bite",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "sweet_scent"
+          "move": "sweet_scent",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "vise_grip"
+          "move": "vise_grip",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "baton_pass"
+          "move": "baton_pass",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "sucker_punch"
+          "move": "sucker_punch",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "spit_up"
+          "move": "spit_up",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "play_rough"
+          "move": "play_rough",
+          "level": 49
         },
         {
           "klass": "TutorLearnableMove",

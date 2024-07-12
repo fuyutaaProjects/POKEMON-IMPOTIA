@@ -34,7 +34,16 @@
       "hatchSteps": 2560,
       "babyDbSymbol": "munna",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "forewarn",
         "synchronize",
@@ -57,23 +66,23 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 1
         },
         {
           "klass": "TutorLearnableMove",
@@ -312,7 +321,16 @@
       "hatchSteps": 2805,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "forewarn",
         "synchronize",
@@ -335,23 +353,23 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "defense_curl"
+          "move": "defense_curl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 1
         },
         {
           "klass": "TechLearnableMove",

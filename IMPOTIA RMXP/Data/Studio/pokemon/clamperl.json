@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "huntail",
+          "form": 0,
           "conditions": [
             {
               "type": "trade",
@@ -32,11 +34,11 @@
               "type": "itemHold",
               "value": "deep_sea_tooth"
             }
-          ],
-          "form": 0,
-          "dbSymbol": "huntail"
+          ]
         },
         {
+          "dbSymbol": "gorebyss",
+          "form": 0,
           "conditions": [
             {
               "type": "trade",
@@ -46,9 +48,7 @@
               "type": "itemHold",
               "value": "deep_sea_scale"
             }
-          ],
-          "form": 0,
-          "dbSymbol": "gorebyss"
+          ]
         }
       ],
       "experienceType": 4,
@@ -63,7 +63,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "clamperl",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "shell_armor",
         "shell_armor",
@@ -86,28 +95,28 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "clamp"
+          "move": "clamp",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "whirlpool"
+          "move": "whirlpool",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "shell_smash"
+          "move": "shell_smash",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

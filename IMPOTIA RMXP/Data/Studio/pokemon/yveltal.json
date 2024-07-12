@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "dark_aura",
         "dark_aura",
@@ -57,93 +66,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "roost"
+          "move": "roost",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "snarl"
+          "move": "snarl",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "oblivion_wing"
+          "move": "oblivion_wing",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "disable"
+          "move": "disable",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "dark_pulse"
+          "move": "dark_pulse",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "foul_play"
+          "move": "foul_play",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "phantom_force"
+          "move": "phantom_force",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 59
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "dragon_rush"
+          "move": "dragon_rush",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 72,
-          "move": "focus_blast"
+          "move": "focus_blast",
+          "level": 72
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "sucker_punch"
+          "move": "sucker_punch",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 88,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 88
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 93,
-          "move": "sky_attack"
+          "move": "sky_attack",
+          "level": 93
         },
         {
           "klass": "TutorLearnableMove",

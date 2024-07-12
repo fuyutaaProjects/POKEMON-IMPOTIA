@@ -34,7 +34,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "magby",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "flame_body",
         "flame_body",
@@ -57,93 +66,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_punch"
+          "move": "thunder_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "smog"
+          "move": "smog",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "smokescreen"
+          "move": "smokescreen",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "ember"
+          "move": "ember",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "smokescreen"
+          "move": "smokescreen",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "fire_spin"
+          "move": "fire_spin",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "clear_smog"
+          "move": "clear_smog",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "flame_burst"
+          "move": "flame_burst",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "fire_punch"
+          "move": "fire_punch",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "lava_plume"
+          "move": "lava_plume",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "sunny_day"
+          "move": "sunny_day",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "fire_blast"
+          "move": "fire_blast",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 62
         },
         {
           "klass": "TutorLearnableMove",

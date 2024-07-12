@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "magcargo",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 38
             }
-          ],
-          "dbSymbol": "magcargo",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "slugma",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "magma_armor",
         "flame_body",
@@ -68,83 +77,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "smog"
+          "move": "smog",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "ember"
+          "move": "ember",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "rock_throw"
+          "move": "rock_throw",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "harden"
+          "move": "harden",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "incinerate"
+          "move": "incinerate",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "clear_smog"
+          "move": "clear_smog",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "flame_burst"
+          "move": "flame_burst",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "rock_slide"
+          "move": "rock_slide",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "lava_plume"
+          "move": "lava_plume",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "recover"
+          "move": "recover",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

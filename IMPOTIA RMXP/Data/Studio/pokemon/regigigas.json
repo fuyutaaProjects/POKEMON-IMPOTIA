@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "slow_start",
         "slow_start",
@@ -57,83 +66,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heavy_slam"
+          "move": "heavy_slam",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "crush_grip"
+          "move": "crush_grip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_punch"
+          "move": "fire_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_punch"
+          "move": "ice_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_punch"
+          "move": "thunder_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dizzy_punch"
+          "move": "dizzy_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "foresight"
+          "move": "foresight",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "revenge"
+          "move": "revenge",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "wide_guard"
+          "move": "wide_guard",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "payback"
+          "move": "payback",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "crush_grip"
+          "move": "crush_grip",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "heavy_slam"
+          "move": "heavy_slam",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "giga_impact"
+          "move": "giga_impact",
+          "level": 100
         },
         {
           "klass": "TutorLearnableMove",
@@ -380,7 +389,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "slow_start",
         "slow_start",
@@ -403,83 +421,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "foresight"
+          "move": "foresight",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_punch"
+          "move": "thunder_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dizzy_punch"
+          "move": "dizzy_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_punch"
+          "move": "fire_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_punch"
+          "move": "ice_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "crush_grip"
+          "move": "crush_grip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heavy_slam"
+          "move": "heavy_slam",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "revenge"
+          "move": "revenge",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "wide_guard"
+          "move": "wide_guard",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "payback"
+          "move": "payback",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "crush_grip"
+          "move": "crush_grip",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "heavy_slam"
+          "move": "heavy_slam",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "giga_impact"
+          "move": "giga_impact",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -942,7 +960,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 2,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "slow_start",
         "slow_start",
@@ -965,83 +992,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "foresight"
+          "move": "foresight",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_punch"
+          "move": "thunder_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dizzy_punch"
+          "move": "dizzy_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_punch"
+          "move": "fire_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_punch"
+          "move": "ice_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "crush_grip"
+          "move": "crush_grip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heavy_slam"
+          "move": "heavy_slam",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "revenge"
+          "move": "revenge",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "wide_guard"
+          "move": "wide_guard",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "payback"
+          "move": "payback",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "crush_grip"
+          "move": "crush_grip",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "heavy_slam"
+          "move": "heavy_slam",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "giga_impact"
+          "move": "giga_impact",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",

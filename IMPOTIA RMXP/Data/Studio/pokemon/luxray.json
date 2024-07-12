@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "shinx",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "intimidate",
         "rivalry",
@@ -61,83 +70,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "electric_terrain"
+          "move": "electric_terrain",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "charge"
+          "move": "charge",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "leer"
+          "move": "leer",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "charge"
+          "move": "charge",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "spark"
+          "move": "spark",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "bite"
+          "move": "bite",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "roar"
+          "move": "roar",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "swagger"
+          "move": "swagger",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "discharge"
+          "move": "discharge",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "wild_charge"
+          "move": "wild_charge",
+          "level": 63
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "electric_terrain"
+          "move": "electric_terrain",
+          "level": 67
         },
         {
           "klass": "TutorLearnableMove",

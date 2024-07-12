@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "vikavolt",
+          "form": 0,
           "conditions": [
             {
               "type": "maps",
@@ -30,9 +32,7 @@
                 -1
               ]
             }
-          ],
-          "dbSymbol": "vikavolt",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -47,7 +47,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "grubbin",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "battery",
         "battery",

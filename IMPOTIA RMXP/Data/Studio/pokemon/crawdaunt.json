@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "corphish",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "hyper_cutter",
         "shell_armor",
@@ -57,98 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bubble"
+          "move": "bubble",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "harden"
+          "move": "harden",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vise_grip"
+          "move": "vise_grip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "harden"
+          "move": "harden",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "vise_grip"
+          "move": "vise_grip",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "leer"
+          "move": "leer",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "bubble_beam"
+          "move": "bubble_beam",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "protect"
+          "move": "protect",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "swift"
+          "move": "swift",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "razor_shell"
+          "move": "razor_shell",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "crabhammer"
+          "move": "crabhammer",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "guillotine"
+          "move": "guillotine",
+          "level": 54
         },
         {
           "klass": "TutorLearnableMove",

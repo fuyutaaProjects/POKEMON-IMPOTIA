@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "shelmet",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "hydration",
         "sticky_hold",
@@ -57,108 +66,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_shuriken"
+          "move": "water_shuriken",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "final_gambit"
+          "move": "final_gambit",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "power_swap"
+          "move": "power_swap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leech_life"
+          "move": "leech_life",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "acid_spray"
+          "move": "acid_spray",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "acid_spray"
+          "move": "acid_spray",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "struggle_bug"
+          "move": "struggle_bug",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "mega_drain"
+          "move": "mega_drain",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "swift"
+          "move": "swift",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "me_first"
+          "move": "me_first",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "agility"
+          "move": "agility",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "giga_drain"
+          "move": "giga_drain",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "u_turn"
+          "move": "u_turn",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "recover"
+          "move": "recover",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "power_swap"
+          "move": "power_swap",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "final_gambit"
+          "move": "final_gambit",
+          "level": 56
         },
         {
           "klass": "TutorLearnableMove",

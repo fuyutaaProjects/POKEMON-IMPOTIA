@@ -34,7 +34,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "cryogonal",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "levitate",
         "levitate",
@@ -57,123 +66,123 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "sheer_cold"
+          "move": "sheer_cold",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_shard"
+          "move": "ice_shard",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mist"
+          "move": "mist",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "haze"
+          "move": "haze",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bind"
+          "move": "bind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "ice_shard"
+          "move": "ice_shard",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "sharpen"
+          "move": "sharpen",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "rapid_spin"
+          "move": "rapid_spin",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "icy_wind"
+          "move": "icy_wind",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "mist"
+          "move": "mist",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "haze"
+          "move": "haze",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "aurora_beam"
+          "move": "aurora_beam",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "acid_armor"
+          "move": "acid_armor",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "ice_beam"
+          "move": "ice_beam",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "reflect"
+          "move": "reflect",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "slash"
+          "move": "slash",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "recover"
+          "move": "recover",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "freeze_dry"
+          "move": "freeze_dry",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "sheer_cold"
+          "move": "sheer_cold",
+          "level": 61
         },
         {
           "klass": "TutorLearnableMove",

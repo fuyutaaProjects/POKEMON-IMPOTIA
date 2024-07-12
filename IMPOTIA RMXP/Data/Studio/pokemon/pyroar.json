@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "litleo",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rivalry",
         "unnerve",
@@ -61,83 +70,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "ember"
+          "move": "ember",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "work_up"
+          "move": "work_up",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "noble_roar"
+          "move": "noble_roar",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "endeavor"
+          "move": "endeavor",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "echoed_voice"
+          "move": "echoed_voice",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "incinerate"
+          "move": "incinerate",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "overheat"
+          "move": "overheat",
+          "level": 57
         },
         {
           "klass": "TutorLearnableMove",

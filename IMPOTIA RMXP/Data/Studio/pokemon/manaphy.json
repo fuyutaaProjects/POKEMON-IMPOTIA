@@ -34,7 +34,16 @@
       "hatchSteps": 2560,
       "babyDbSymbol": "phione",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "hydration",
         "hydration",
@@ -57,68 +66,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tail_glow"
+          "move": "tail_glow",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bubble"
+          "move": "bubble",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_sport"
+          "move": "water_sport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "charm"
+          "move": "charm",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "supersonic"
+          "move": "supersonic",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "bubble_beam"
+          "move": "bubble_beam",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "acid_armor"
+          "move": "acid_armor",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "whirlpool"
+          "move": "whirlpool",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "aqua_ring"
+          "move": "aqua_ring",
+          "level": 54
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "dive"
+          "move": "dive",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 69,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 69
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 76,
-          "move": "heart_swap"
+          "move": "heart_swap",
+          "level": 76
         },
         {
           "klass": "TutorLearnableMove",

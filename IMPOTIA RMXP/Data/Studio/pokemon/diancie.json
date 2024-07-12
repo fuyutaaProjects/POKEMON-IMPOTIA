@@ -23,13 +23,13 @@
       "evDfs": 2,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "diancite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 2,
@@ -44,7 +44,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "clear_body",
         "clear_body",
@@ -67,88 +76,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "harden"
+          "move": "harden",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rock_throw"
+          "move": "rock_throw",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "sharpen"
+          "move": "sharpen",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "smack_down"
+          "move": "smack_down",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "reflect"
+          "move": "reflect",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "stealth_rock"
+          "move": "stealth_rock",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "guard_split"
+          "move": "guard_split",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "flail"
+          "move": "flail",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "skill_swap"
+          "move": "skill_swap",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "trick_room"
+          "move": "trick_room",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "stone_edge"
+          "move": "stone_edge",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "diamond_storm"
+          "move": "diamond_storm",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 70
         },
         {
           "klass": "TutorLearnableMove",
@@ -387,7 +396,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "magic_bounce",
         "magic_bounce",
@@ -410,88 +428,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "harden"
+          "move": "harden",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rock_throw"
+          "move": "rock_throw",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "sharpen"
+          "move": "sharpen",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "smack_down"
+          "move": "smack_down",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "reflect"
+          "move": "reflect",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "stealth_rock"
+          "move": "stealth_rock",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "guard_split"
+          "move": "guard_split",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "flail"
+          "move": "flail",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "skill_swap"
+          "move": "skill_swap",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "trick_room"
+          "move": "trick_room",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "stone_edge"
+          "move": "stone_edge",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "diamond_storm"
+          "move": "diamond_storm",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 70
         },
         {
           "klass": "TutorLearnableMove",

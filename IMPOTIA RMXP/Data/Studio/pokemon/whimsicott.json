@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "cottonee",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "prankster",
         "infiltrator",
@@ -57,43 +66,43 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growth"
+          "move": "growth",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mega_drain"
+          "move": "mega_drain",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cotton_spore"
+          "move": "cotton_spore",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gust"
+          "move": "gust",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

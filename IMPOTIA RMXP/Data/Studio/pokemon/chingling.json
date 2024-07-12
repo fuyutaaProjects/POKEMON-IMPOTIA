@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "chimecho",
+          "form": 0,
           "conditions": [
             {
               "type": "minLoyalty",
@@ -32,9 +34,7 @@
               "type": "dayNight",
               "value": 0
             }
-          ],
-          "dbSymbol": "chimecho",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -49,7 +49,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "levitate",
         "levitate",
@@ -72,43 +81,43 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wrap"
+          "move": "wrap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "growl"
+          "move": "growl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "last_resort"
+          "move": "last_resort",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "entrainment"
+          "move": "entrainment",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 32
         },
         {
           "klass": "TutorLearnableMove",

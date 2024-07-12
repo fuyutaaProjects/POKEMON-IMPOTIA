@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "chansey",
+          "form": 0,
           "conditions": [
             {
               "type": "itemHold",
@@ -32,9 +34,7 @@
               "type": "dayNight",
               "value": 3
             }
-          ],
-          "dbSymbol": "chansey",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -49,7 +49,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "natural_cure",
         "serene_grace",
@@ -79,28 +88,28 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "charm"
+          "move": "charm",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "copycat"
+          "move": "copycat",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "sweet_kiss"
+          "move": "sweet_kiss",
+          "level": 12
         },
         {
           "klass": "TutorLearnableMove",

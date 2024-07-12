@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "porygon",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "download",
         "adaptability",
@@ -57,98 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "trick_room"
+          "move": "trick_room",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magic_coat"
+          "move": "magic_coat",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "conversion_2"
+          "move": "conversion_2",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "conversion"
+          "move": "conversion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "agility"
+          "move": "agility",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "recover"
+          "move": "recover",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "signal_beam"
+          "move": "signal_beam",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "embargo"
+          "move": "embargo",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "discharge"
+          "move": "discharge",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "magic_coat"
+          "move": "magic_coat",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 62,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 62
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 67
         },
         {
           "klass": "TutorLearnableMove",

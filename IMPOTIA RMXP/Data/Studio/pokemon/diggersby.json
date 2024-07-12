@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "bunnelby",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pickup",
         "cheek_pouch",
@@ -57,103 +66,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rototiller"
+          "move": "rototiller",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bulldoze"
+          "move": "bulldoze",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "swords_dance"
+          "move": "swords_dance",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "agility"
+          "move": "agility",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "mud_shot"
+          "move": "mud_shot",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "double_kick"
+          "move": "double_kick",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "flail"
+          "move": "flail",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "dig"
+          "move": "dig",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "bounce"
+          "move": "bounce",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "super_fang"
+          "move": "super_fang",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "facade"
+          "move": "facade",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "earthquake"
+          "move": "earthquake",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 60
         },
         {
           "klass": "TutorLearnableMove",

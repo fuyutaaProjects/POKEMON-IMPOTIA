@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "golisopod",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 30
             }
-          ],
-          "dbSymbol": "golisopod",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "wimpod",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "wimp_out",
         "wimp_out",
@@ -87,14 +96,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "golisopod",
+          "form": 1,
           "conditions": [
             {
               "type": "minLevel",
               "value": 30
             }
-          ],
-          "dbSymbol": "golisopod",
-          "form": 1
+          ]
         }
       ],
       "experienceType": 0,
@@ -109,7 +118,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "wimpod",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "wimp_out",
         "wimp_out",
@@ -151,14 +169,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "golisopod",
+          "form": 2,
           "conditions": [
             {
               "type": "minLevel",
               "value": 30
             }
-          ],
-          "dbSymbol": "golisopod",
-          "form": 2
+          ]
         }
       ],
       "experienceType": 0,
@@ -173,7 +191,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "wimpod",
       "babyForm": 2,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "wimp_out",
         "wimp_out",
@@ -215,14 +242,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "golisopod",
+          "form": 3,
           "conditions": [
             {
               "type": "minLevel",
               "value": 30
             }
-          ],
-          "dbSymbol": "golisopod",
-          "form": 3
+          ]
         }
       ],
       "experienceType": 0,
@@ -237,7 +264,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "wimpod",
       "babyForm": 3,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "wimp_out",
         "wimp_out",
@@ -279,14 +315,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "golisopod",
+          "form": 4,
           "conditions": [
             {
               "type": "minLevel",
               "value": 30
             }
-          ],
-          "dbSymbol": "golisopod",
-          "form": 4
+          ]
         }
       ],
       "experienceType": 0,
@@ -301,7 +337,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "wimpod",
       "babyForm": 4,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "wimp_out",
         "wimp_out",

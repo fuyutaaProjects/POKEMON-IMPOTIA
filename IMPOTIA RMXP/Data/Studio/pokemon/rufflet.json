@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "braviary",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 54
             }
-          ],
-          "dbSymbol": "braviary",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 2,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "rufflet",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "keen_eye",
         "sheer_force",
@@ -68,83 +77,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "peck"
+          "move": "peck",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "fury_attack"
+          "move": "fury_attack",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "wing_attack"
+          "move": "wing_attack",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "hone_claws"
+          "move": "hone_claws",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "slash"
+          "move": "slash",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "defog"
+          "move": "defog",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "sky_drop"
+          "move": "sky_drop",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "whirlwind"
+          "move": "whirlwind",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "brave_bird"
+          "move": "brave_bird",
+          "level": 59
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 64
         },
         {
           "klass": "TutorLearnableMove",

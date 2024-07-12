@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "glameow",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "thick_fat",
         "own_tempo",
@@ -57,83 +66,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fake_out"
+          "move": "fake_out",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "growl"
+          "move": "growl",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "fury_swipes"
+          "move": "fury_swipes",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "charm"
+          "move": "charm",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "assist"
+          "move": "assist",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "captivate"
+          "move": "captivate",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "slash"
+          "move": "slash",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "swagger"
+          "move": "swagger",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "attract"
+          "move": "attract",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "hone_claws"
+          "move": "hone_claws",
+          "level": 60
         },
         {
           "klass": "TutorLearnableMove",

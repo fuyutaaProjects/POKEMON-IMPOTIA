@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "solosis",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "overcoat",
         "magic_guard",
@@ -57,103 +66,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "psywave"
+          "move": "psywave",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "reflect"
+          "move": "reflect",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rollout"
+          "move": "rollout",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 3,
-          "move": "reflect"
+          "move": "reflect",
+          "level": 3
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "rollout"
+          "move": "rollout",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "charm"
+          "move": "charm",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "recover"
+          "move": "recover",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "psyshock"
+          "move": "psyshock",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "endeavor"
+          "move": "endeavor",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "pain_split"
+          "move": "pain_split",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "dizzy_punch"
+          "move": "dizzy_punch",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "skill_swap"
+          "move": "skill_swap",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 54
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "wonder_room"
+          "move": "wonder_room",
+          "level": 59
         },
         {
           "klass": "TutorLearnableMove",

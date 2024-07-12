@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "skeulo",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "swift_swim",
         "sniper",
@@ -57,88 +66,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bubble"
+          "move": "bubble",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "smokescreen"
+          "move": "smokescreen",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "smokescreen"
+          "move": "smokescreen",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "leer"
+          "move": "leer",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "twister"
+          "move": "twister",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "bubble_beam"
+          "move": "bubble_beam",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "brine"
+          "move": "brine",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "agility"
+          "move": "agility",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "dragon_pulse"
+          "move": "dragon_pulse",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "dragon_dance"
+          "move": "dragon_dance",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 60
         },
         {
           "klass": "TutorLearnableMove",

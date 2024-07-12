@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "sneasel",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -61,103 +70,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "embargo"
+          "move": "embargo",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "revenge"
+          "move": "revenge",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "assurance"
+          "move": "assurance",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "icy_wind"
+          "move": "icy_wind",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "fury_swipes"
+          "move": "fury_swipes",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "hone_claws"
+          "move": "hone_claws",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "fling"
+          "move": "fling",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "screech"
+          "move": "screech",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "snatch"
+          "move": "snatch",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "dark_pulse"
+          "move": "dark_pulse",
+          "level": 47
         },
         {
           "klass": "TutorLearnableMove",

@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "woobat",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "unaware",
         "klutz",
@@ -57,88 +66,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "assurance"
+          "move": "assurance",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "gust"
+          "move": "gust",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "assurance"
+          "move": "assurance",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "heart_stamp"
+          "move": "heart_stamp",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "air_cutter"
+          "move": "air_cutter",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "attract"
+          "move": "attract",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "endeavor"
+          "move": "endeavor",
+          "level": 47
         },
         {
           "klass": "TutorLearnableMove",

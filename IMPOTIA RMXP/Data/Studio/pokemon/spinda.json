@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "spinda",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "own_tempo",
         "tangled_feet",
@@ -57,68 +66,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "copycat"
+          "move": "copycat",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "dizzy_punch"
+          "move": "dizzy_punch",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "sucker_punch"
+          "move": "sucker_punch",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "teeter_dance"
+          "move": "teeter_dance",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "psych_up"
+          "move": "psych_up",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "flail"
+          "move": "flail",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 55
         },
         {
           "klass": "TutorLearnableMove",

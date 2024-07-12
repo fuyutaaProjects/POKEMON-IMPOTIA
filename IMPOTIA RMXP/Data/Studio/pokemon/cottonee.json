@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "whimsicott",
+          "form": 0,
           "conditions": [
             {
               "type": "stone",
               "value": "sun_stone"
             }
-          ],
-          "dbSymbol": "whimsicott",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "cottonee",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "prankster",
         "infiltrator",
@@ -68,88 +77,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "absorb"
+          "move": "absorb",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "growth"
+          "move": "growth",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "stun_spore"
+          "move": "stun_spore",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "mega_drain"
+          "move": "mega_drain",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "cotton_spore"
+          "move": "cotton_spore",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "poison_powder"
+          "move": "poison_powder",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "giga_drain"
+          "move": "giga_drain",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "charm"
+          "move": "charm",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "helping_hand"
+          "move": "helping_hand",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "energy_ball"
+          "move": "energy_ball",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "cotton_guard"
+          "move": "cotton_guard",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "sunny_day"
+          "move": "sunny_day",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "endeavor"
+          "move": "endeavor",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 46
         },
         {
           "klass": "TutorLearnableMove",

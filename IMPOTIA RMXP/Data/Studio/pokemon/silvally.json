@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -87,7 +96,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -110,133 +128,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -271,7 +289,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 2,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -294,133 +321,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -455,7 +482,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 3,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -478,133 +514,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -639,7 +675,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 4,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -662,133 +707,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -823,7 +868,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 5,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -846,133 +900,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -1007,7 +1061,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 6,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -1030,133 +1093,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -1191,7 +1254,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 7,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -1214,133 +1286,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -1375,7 +1447,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 8,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -1398,133 +1479,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -1559,7 +1640,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 9,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -1582,133 +1672,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -1743,7 +1833,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 10,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -1766,133 +1865,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -1927,7 +2026,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 11,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -1950,133 +2058,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -2111,7 +2219,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 12,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -2134,133 +2251,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -2295,7 +2412,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 13,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -2318,133 +2444,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -2479,7 +2605,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 14,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -2502,133 +2637,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -2663,7 +2798,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 15,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -2686,133 +2830,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -2847,7 +2991,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 16,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -2870,133 +3023,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -3031,7 +3184,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 17,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -3054,133 +3216,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     },
@@ -3215,7 +3377,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 18,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "rks_system",
         "rks_system",
@@ -3238,133 +3409,133 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "multi_attack"
+          "move": "multi_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "poison_fang"
+          "move": "poison_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "rage"
+          "move": "rage",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bite"
+          "move": "bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crush_claw"
+          "move": "crush_claw",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "x_scissor"
+          "move": "x_scissor",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "double_hit"
+          "move": "double_hit",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "tri_attack"
+          "move": "tri_attack",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "parting_shot"
+          "move": "parting_shot",
+          "level": 85
         }
       ]
     }

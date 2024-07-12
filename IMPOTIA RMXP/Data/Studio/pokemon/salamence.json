@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "salamencite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 2,
@@ -44,7 +44,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "bagon",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "intimidate",
         "intimidate",
@@ -67,108 +76,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dragon_tail"
+          "move": "dragon_tail",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rage"
+          "move": "rage",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bite"
+          "move": "bite",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "ember"
+          "move": "ember",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "leer"
+          "move": "leer",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "bite"
+          "move": "bite",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "dragon_claw"
+          "move": "dragon_claw",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "protect"
+          "move": "protect",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "fly"
+          "move": "fly",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 63
         },
         {
           "klass": "TutorLearnableMove",
@@ -403,7 +412,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "bagon",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "aerilate",
         "aerilate",
@@ -426,108 +444,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "dragon_tail"
+          "move": "dragon_tail",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rage"
+          "move": "rage",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bite"
+          "move": "bite",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "ember"
+          "move": "ember",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "leer"
+          "move": "leer",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "bite"
+          "move": "bite",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "dragon_breath"
+          "move": "dragon_breath",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "dragon_claw"
+          "move": "dragon_claw",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "protect"
+          "move": "protect",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "fly"
+          "move": "fly",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 63
         },
         {
           "klass": "TutorLearnableMove",

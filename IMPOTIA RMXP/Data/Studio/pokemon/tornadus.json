@@ -34,7 +34,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "prankster",
         "prankster",
@@ -57,108 +66,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "swagger"
+          "move": "swagger",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "bite"
+          "move": "bite",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "revenge"
+          "move": "revenge",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "air_cutter"
+          "move": "air_cutter",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "extrasensory"
+          "move": "extrasensory",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "agility"
+          "move": "agility",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "dark_pulse"
+          "move": "dark_pulse",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 79,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 79
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 85
         },
         {
           "klass": "TutorLearnableMove",
@@ -397,7 +406,16 @@
       "hatchSteps": 30720,
       "babyDbSymbol": "__undef__",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "regenerator",
         "regenerator",
@@ -420,108 +438,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "uproar"
+          "move": "uproar",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "swagger"
+          "move": "swagger",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "bite"
+          "move": "bite",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "revenge"
+          "move": "revenge",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "air_cutter"
+          "move": "air_cutter",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "extrasensory"
+          "move": "extrasensory",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "agility"
+          "move": "agility",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 67
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "dark_pulse"
+          "move": "dark_pulse",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 79,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 79
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "thrash"
+          "move": "thrash",
+          "level": 85
         },
         {
           "klass": "TutorLearnableMove",

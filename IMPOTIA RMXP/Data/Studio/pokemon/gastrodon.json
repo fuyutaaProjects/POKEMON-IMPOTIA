@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "shellos",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "sticky_hold",
         "storm_drain",
@@ -57,68 +66,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "harden"
+          "move": "harden",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 2,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 2
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "harden"
+          "move": "harden",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "mud_bomb"
+          "move": "mud_bomb",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "muddy_water"
+          "move": "muddy_water",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "recover"
+          "move": "recover",
+          "level": 54
         },
         {
           "klass": "TutorLearnableMove",
@@ -361,68 +370,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "harden"
+          "move": "harden",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 2,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 2
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "harden"
+          "move": "harden",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "mud_bomb"
+          "move": "mud_bomb",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "muddy_water"
+          "move": "muddy_water",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 54,
-          "move": "recover"
+          "move": "recover",
+          "level": 54
         },
         {
           "klass": "TechLearnableMove",

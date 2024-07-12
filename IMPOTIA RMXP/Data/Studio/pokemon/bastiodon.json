@@ -34,7 +34,16 @@
       "hatchSteps": 7680,
       "babyDbSymbol": "shieldon",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "sturdy",
         "sturdy",
@@ -57,78 +66,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "protect"
+          "move": "protect",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "taunt"
+          "move": "taunt",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "swagger"
+          "move": "swagger",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "block"
+          "move": "block",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "endure"
+          "move": "endure",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "metal_burst"
+          "move": "metal_burst",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "iron_head"
+          "move": "iron_head",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "heavy_slam"
+          "move": "heavy_slam",
+          "level": 58
         },
         {
           "klass": "TutorLearnableMove",

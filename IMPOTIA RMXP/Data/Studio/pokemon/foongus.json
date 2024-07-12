@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "amoonguss",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 39
             }
-          ],
-          "dbSymbol": "amoonguss",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "foongus",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "effect_spore",
         "effect_spore",
@@ -68,78 +77,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "absorb"
+          "move": "absorb",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "growth"
+          "move": "growth",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "bide"
+          "move": "bide",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "mega_drain"
+          "move": "mega_drain",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "ingrain"
+          "move": "ingrain",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "sweet_scent"
+          "move": "sweet_scent",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "giga_drain"
+          "move": "giga_drain",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "toxic"
+          "move": "toxic",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "synthesis"
+          "move": "synthesis",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "clear_smog"
+          "move": "clear_smog",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "rage_powder"
+          "move": "rage_powder",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "spore"
+          "move": "spore",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

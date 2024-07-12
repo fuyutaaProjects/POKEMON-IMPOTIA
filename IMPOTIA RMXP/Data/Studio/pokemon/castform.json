@@ -66,68 +66,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "ember"
+          "move": "ember",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "powder_snow"
+          "move": "powder_snow",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "sunny_day"
+          "move": "sunny_day",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hail"
+          "move": "hail",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "weather_ball"
+          "move": "weather_ball",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "fire_blast"
+          "move": "fire_blast",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "blizzard"
+          "move": "blizzard",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 45
         },
         {
           "klass": "TutorLearnableMove",
@@ -398,68 +398,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "ember"
+          "move": "ember",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "powder_snow"
+          "move": "powder_snow",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "sunny_day"
+          "move": "sunny_day",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hail"
+          "move": "hail",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "weather_ball"
+          "move": "weather_ball",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "fire_blast"
+          "move": "fire_blast",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "blizzard"
+          "move": "blizzard",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 45
         },
         {
           "klass": "TutorLearnableMove",
@@ -658,7 +658,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "__undef__",
       "babyForm": 3,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "forecast",
         "forecast",
@@ -681,68 +690,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "ember"
+          "move": "ember",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "powder_snow"
+          "move": "powder_snow",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "sunny_day"
+          "move": "sunny_day",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hail"
+          "move": "hail",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "weather_ball"
+          "move": "weather_ball",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "fire_blast"
+          "move": "fire_blast",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "blizzard"
+          "move": "blizzard",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 45
         },
         {
           "klass": "TutorLearnableMove",
@@ -941,7 +950,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "__undef__",
       "babyForm": 6,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "forecast",
         "forecast",
@@ -964,68 +982,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "ember"
+          "move": "ember",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "powder_snow"
+          "move": "powder_snow",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "sunny_day"
+          "move": "sunny_day",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hail"
+          "move": "hail",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "weather_ball"
+          "move": "weather_ball",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "fire_blast"
+          "move": "fire_blast",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "blizzard"
+          "move": "blizzard",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "hurricane"
+          "move": "hurricane",
+          "level": 45
         },
         {
           "klass": "TutorLearnableMove",

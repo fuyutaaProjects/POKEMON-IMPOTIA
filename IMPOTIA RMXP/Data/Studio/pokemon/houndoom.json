@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "houndoominite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 2,
@@ -44,7 +44,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "houndour",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "flash_fire",
         "early_bird",
@@ -71,108 +80,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "inferno"
+          "move": "inferno",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "howl"
+          "move": "howl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "smog"
+          "move": "smog",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "howl"
+          "move": "howl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "smog"
+          "move": "smog",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "roar"
+          "move": "roar",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "bite"
+          "move": "bite",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "beat_up"
+          "move": "beat_up",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "embargo"
+          "move": "embargo",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "foul_play"
+          "move": "foul_play",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "inferno"
+          "move": "inferno",
+          "level": 65
         },
         {
           "klass": "TutorLearnableMove",
@@ -392,13 +401,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 1,
           "conditions": [
             {
               "type": "gemme",
               "value": "houndoominite"
             }
-          ],
-          "form": 1
+          ]
         }
       ],
       "experienceType": 2,
@@ -413,7 +422,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "houndour",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "solar_power",
         "solar_power",
@@ -440,108 +458,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "inferno"
+          "move": "inferno",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "howl"
+          "move": "howl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "smog"
+          "move": "smog",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "howl"
+          "move": "howl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "smog"
+          "move": "smog",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "roar"
+          "move": "roar",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "bite"
+          "move": "bite",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "beat_up"
+          "move": "beat_up",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "embargo"
+          "move": "embargo",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "foul_play"
+          "move": "foul_play",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "inferno"
+          "move": "inferno",
+          "level": 65
         },
         {
           "klass": "TutorLearnableMove",
@@ -772,7 +790,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "houndour",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "solar_power",
         "solar_power",
@@ -799,108 +826,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "inferno"
+          "move": "inferno",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ember"
+          "move": "ember",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "howl"
+          "move": "howl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "smog"
+          "move": "smog",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "howl"
+          "move": "howl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "smog"
+          "move": "smog",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "roar"
+          "move": "roar",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "bite"
+          "move": "bite",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "odor_sleuth"
+          "move": "odor_sleuth",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "beat_up"
+          "move": "beat_up",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "embargo"
+          "move": "embargo",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "foul_play"
+          "move": "foul_play",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "flamethrower"
+          "move": "flamethrower",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 56
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "nasty_plot"
+          "move": "nasty_plot",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "inferno"
+          "move": "inferno",
+          "level": 65
         },
         {
           "klass": "TutorLearnableMove",

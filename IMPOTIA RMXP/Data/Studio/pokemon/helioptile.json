@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "heliolisk",
+          "form": 0,
           "conditions": [
             {
               "type": "stone",
               "value": "sun_stone"
             }
-          ],
-          "dbSymbol": "heliolisk",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -45,7 +45,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "helioptile",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "dry_skin",
         "sand_veil",
@@ -68,68 +77,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "pound"
+          "move": "pound",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tail_whip"
+          "move": "tail_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "thunder_shock"
+          "move": "thunder_shock",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "charge"
+          "move": "charge",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "razor_wind"
+          "move": "razor_wind",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "parabolic_charge"
+          "move": "parabolic_charge",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "thunder_wave"
+          "move": "thunder_wave",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "bulldoze"
+          "move": "bulldoze",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "volt_switch"
+          "move": "volt_switch",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "electrify"
+          "move": "electrify",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "thunderbolt"
+          "move": "thunderbolt",
+          "level": 49
         },
         {
           "klass": "TutorLearnableMove",

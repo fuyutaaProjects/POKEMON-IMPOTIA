@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "mauvaine",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "chlorophyll",
         "leaf_guard",
@@ -61,108 +70,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "block"
+          "move": "block",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ingrain"
+          "move": "ingrain",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "constrict"
+          "move": "constrict",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "sleep_powder"
+          "move": "sleep_powder",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "absorb"
+          "move": "absorb",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "poison_powder"
+          "move": "poison_powder",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "bind"
+          "move": "bind",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "growth"
+          "move": "growth",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "mega_drain"
+          "move": "mega_drain",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "stun_spore"
+          "move": "stun_spore",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "giga_drain"
+          "move": "giga_drain",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "slam"
+          "move": "slam",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "tickle"
+          "move": "tickle",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "wring_out"
+          "move": "wring_out",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "power_whip"
+          "move": "power_whip",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "block"
+          "move": "block",
+          "level": 56
         },
         {
           "klass": "TutorLearnableMove",

@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "starly",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "intimidate",
         "intimidate",
@@ -59,78 +68,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "wing_attack"
+          "move": "wing_attack",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "quick_attack"
+          "move": "quick_attack",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "wing_attack"
+          "move": "wing_attack",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "endeavor"
+          "move": "endeavor",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "whirlwind"
+          "move": "whirlwind",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "aerial_ace"
+          "move": "aerial_ace",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "close_combat"
+          "move": "close_combat",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "agility"
+          "move": "agility",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "brave_bird"
+          "move": "brave_bird",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "final_gambit"
+          "move": "final_gambit",
+          "level": 57
         },
         {
           "klass": "TutorLearnableMove",

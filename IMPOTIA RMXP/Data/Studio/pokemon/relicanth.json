@@ -34,7 +34,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "relicanth",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "swift_swim",
         "rock_head",
@@ -61,83 +70,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "head_smash"
+          "move": "head_smash",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "harden"
+          "move": "harden",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "water_gun"
+          "move": "water_gun",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "rock_tomb"
+          "move": "rock_tomb",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "dive"
+          "move": "dive",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "yawn"
+          "move": "yawn",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "rest"
+          "move": "rest",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 56,
-          "move": "head_smash"
+          "move": "head_smash",
+          "level": 56
         },
         {
           "klass": "TutorLearnableMove",

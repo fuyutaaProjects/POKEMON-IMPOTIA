@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "metagrossite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 2,
@@ -44,7 +44,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "beldum",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "clear_body",
         "clear_body",
@@ -67,88 +76,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "bullet_punch"
+          "move": "bullet_punch",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "miracle_eye"
+          "move": "miracle_eye",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "agility"
+          "move": "agility",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "meteor_mash"
+          "move": "meteor_mash",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 60
         },
         {
           "klass": "TutorLearnableMove",
@@ -407,7 +416,16 @@
       "hatchSteps": 10240,
       "babyDbSymbol": "beldum",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "tough_claws",
         "tough_claws",
@@ -430,88 +448,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "metal_claw"
+          "move": "metal_claw",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "bullet_punch"
+          "move": "bullet_punch",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "miracle_eye"
+          "move": "miracle_eye",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "agility"
+          "move": "agility",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "meteor_mash"
+          "move": "meteor_mash",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "hammer_arm"
+          "move": "hammer_arm",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "iron_defense"
+          "move": "iron_defense",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 60
         },
         {
           "klass": "TutorLearnableMove",

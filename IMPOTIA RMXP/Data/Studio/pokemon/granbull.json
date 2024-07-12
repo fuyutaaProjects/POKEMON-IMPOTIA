@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "granbull",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "intimidate",
         "quick_feet",
@@ -57,88 +66,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "outrage"
+          "move": "outrage",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_fang"
+          "move": "fire_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_fang"
+          "move": "thunder_fang",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tail_whip"
+          "move": "tail_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "charm"
+          "move": "charm",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "bite"
+          "move": "bite",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "lick"
+          "move": "lick",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "roar"
+          "move": "roar",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "rage"
+          "move": "rage",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "play_rough"
+          "move": "play_rough",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "payback"
+          "move": "payback",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "crunch"
+          "move": "crunch",
+          "level": 59
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 67,
-          "move": "outrage"
+          "move": "outrage",
+          "level": 67
         },
         {
           "klass": "TutorLearnableMove",

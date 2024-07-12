@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "medichamite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 1,
@@ -44,7 +44,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "meditite",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pure_power",
         "pure_power",
@@ -71,123 +80,123 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_punch"
+          "move": "fire_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_punch"
+          "move": "thunder_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_punch"
+          "move": "ice_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bide"
+          "move": "bide",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "meditate"
+          "move": "meditate",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "detect"
+          "move": "detect",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "meditate"
+          "move": "meditate",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "detect"
+          "move": "detect",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "endure"
+          "move": "endure",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "feint"
+          "move": "feint",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "force_palm"
+          "move": "force_palm",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "mind_reader"
+          "move": "mind_reader",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "high_jump_kick"
+          "move": "high_jump_kick",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psych_up"
+          "move": "psych_up",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "acupressure"
+          "move": "acupressure",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "power_trick"
+          "move": "power_trick",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "reversal"
+          "move": "reversal",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "recover"
+          "move": "recover",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "counter"
+          "move": "counter",
+          "level": 53
         },
         {
           "klass": "TutorLearnableMove",
@@ -454,7 +463,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "meditite",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pure_power",
         "pure_power",
@@ -481,123 +499,123 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "fire_punch"
+          "move": "fire_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_punch"
+          "move": "thunder_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ice_punch"
+          "move": "ice_punch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bide"
+          "move": "bide",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "meditate"
+          "move": "meditate",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "detect"
+          "move": "detect",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "meditate"
+          "move": "meditate",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "detect"
+          "move": "detect",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "endure"
+          "move": "endure",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "feint"
+          "move": "feint",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "force_palm"
+          "move": "force_palm",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "mind_reader"
+          "move": "mind_reader",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "high_jump_kick"
+          "move": "high_jump_kick",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "psych_up"
+          "move": "psych_up",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "acupressure"
+          "move": "acupressure",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "power_trick"
+          "move": "power_trick",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 42,
-          "move": "reversal"
+          "move": "reversal",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "recover"
+          "move": "recover",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "counter"
+          "move": "counter",
+          "level": 53
         },
         {
           "klass": "TutorLearnableMove",

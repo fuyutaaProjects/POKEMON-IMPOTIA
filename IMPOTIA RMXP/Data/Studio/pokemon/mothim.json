@@ -34,7 +34,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "burmy",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "swarm",
         "swarm",
@@ -57,73 +66,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "protect"
+          "move": "protect",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "bug_bite"
+          "move": "bug_bite",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "gust"
+          "move": "gust",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "poison_powder"
+          "move": "poison_powder",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "camouflage"
+          "move": "camouflage",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "silver_wind"
+          "move": "silver_wind",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "air_slash"
+          "move": "air_slash",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "bug_buzz"
+          "move": "bug_buzz",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "quiver_dance"
+          "move": "quiver_dance",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

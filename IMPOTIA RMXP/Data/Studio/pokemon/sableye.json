@@ -23,13 +23,13 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "form": 30,
           "conditions": [
             {
               "type": "gemme",
               "value": "sablenite"
             }
-          ],
-          "form": 30
+          ]
         }
       ],
       "experienceType": 3,
@@ -44,7 +44,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "sableye",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "keen_eye",
         "stall",
@@ -67,103 +76,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "foresight"
+          "move": "foresight",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "fury_swipes"
+          "move": "fury_swipes",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "detect"
+          "move": "detect",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "shadow_sneak"
+          "move": "shadow_sneak",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "fake_out"
+          "move": "fake_out",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "shadow_claw"
+          "move": "shadow_claw",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "power_gem"
+          "move": "power_gem",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "foul_play"
+          "move": "foul_play",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "quash"
+          "move": "quash",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "mean_look"
+          "move": "mean_look",
+          "level": 46
         },
         {
           "klass": "TutorLearnableMove",
@@ -514,7 +523,16 @@
       "hatchSteps": 6400,
       "babyDbSymbol": "sableye",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "magic_bounce",
         "magic_bounce",
@@ -537,103 +555,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "scratch"
+          "move": "scratch",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "foresight"
+          "move": "foresight",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "night_shade"
+          "move": "night_shade",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "fury_swipes"
+          "move": "fury_swipes",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "detect"
+          "move": "detect",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "shadow_sneak"
+          "move": "shadow_sneak",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "fake_out"
+          "move": "fake_out",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "knock_off"
+          "move": "knock_off",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "shadow_claw"
+          "move": "shadow_claw",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "confuse_ray"
+          "move": "confuse_ray",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "power_gem"
+          "move": "power_gem",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "foul_play"
+          "move": "foul_play",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "quash"
+          "move": "quash",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "mean_look"
+          "move": "mean_look",
+          "level": 46
         },
         {
           "klass": "TutorLearnableMove",

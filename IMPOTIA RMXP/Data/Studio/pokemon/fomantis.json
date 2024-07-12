@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "lurantis",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
@@ -32,9 +34,7 @@
               "type": "dayNight",
               "value": 3
             }
-          ],
-          "dbSymbol": "lurantis",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -49,7 +49,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "fomantis",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "leaf_guard",
         "leaf_guard",

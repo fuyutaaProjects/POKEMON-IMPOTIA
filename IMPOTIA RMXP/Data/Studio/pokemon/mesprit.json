@@ -34,7 +34,16 @@
       "hatchSteps": 20480,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "levitate",
         "levitate",
@@ -57,78 +66,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "copycat"
+          "move": "copycat",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "rest"
+          "move": "rest",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "protect"
+          "move": "protect",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "swift"
+          "move": "swift",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "charm"
+          "move": "charm",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "extrasensory"
+          "move": "extrasensory",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 61,
-          "move": "copycat"
+          "move": "copycat",
+          "level": 61
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 66,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 66
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 76,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 76
         },
         {
           "klass": "TutorLearnableMove",

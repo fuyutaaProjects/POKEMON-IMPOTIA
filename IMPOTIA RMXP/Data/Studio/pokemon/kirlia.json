@@ -23,16 +23,18 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "gardevoir",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 30
             }
-          ],
-          "dbSymbol": "gardevoir",
-          "form": 0
+          ]
         },
         {
+          "dbSymbol": "gallade",
+          "form": 0,
           "conditions": [
             {
               "type": "stone",
@@ -42,9 +44,7 @@
               "type": "gender",
               "value": 1
             }
-          ],
-          "dbSymbol": "gallade",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 2,
@@ -59,7 +59,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "ralts",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "synchronize",
         "trace",
@@ -82,103 +91,103 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growl"
+          "move": "growl",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "double_team"
+          "move": "double_team",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 9,
-          "move": "teleport"
+          "move": "teleport",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "disarming_voice"
+          "move": "disarming_voice",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 14,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "heal_pulse"
+          "move": "heal_pulse",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "draining_kiss"
+          "move": "draining_kiss",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 26,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 26
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "psychic"
+          "move": "psychic",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "imprison"
+          "move": "imprison",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "charm"
+          "move": "charm",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 44,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 47,
-          "move": "dream_eater"
+          "move": "dream_eater",
+          "level": 47
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "stored_power"
+          "move": "stored_power",
+          "level": 51
         },
         {
           "klass": "TutorLearnableMove",

@@ -23,14 +23,14 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "patronmi",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 22
             }
-          ],
-          "dbSymbol": "patronmi",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -45,7 +45,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "dewpider",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "water_bubble",
         "water_bubble",
@@ -87,14 +96,14 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "patronmi",
+          "form": 1,
           "conditions": [
             {
               "type": "minLevel",
               "value": 22
             }
-          ],
-          "dbSymbol": "patronmi",
-          "form": 1
+          ]
         }
       ],
       "experienceType": 0,
@@ -109,7 +118,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "dewpider",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "water_bubble",
         "water_absorb",

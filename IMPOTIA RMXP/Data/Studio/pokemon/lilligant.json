@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "petilil",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "chlorophyll",
         "own_tempo",
@@ -64,43 +73,43 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "growth"
+          "move": "growth",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mega_drain"
+          "move": "mega_drain",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "synthesis"
+          "move": "synthesis",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "teeter_dance"
+          "move": "teeter_dance",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "quiver_dance"
+          "move": "quiver_dance",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 50
         },
         {
           "klass": "TutorLearnableMove",

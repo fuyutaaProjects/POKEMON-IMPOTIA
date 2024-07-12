@@ -34,7 +34,16 @@
       "hatchSteps": 7680,
       "babyDbSymbol": "drifloon",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "aftermath",
         "unburden",
@@ -57,98 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "phantom_force"
+          "move": "phantom_force",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "constrict"
+          "move": "constrict",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "minimize"
+          "move": "minimize",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "gust"
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "astonish"
+          "move": "astonish",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "gust"
+          "move": "gust",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "payback"
+          "move": "payback",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "ominous_wind"
+          "move": "ominous_wind",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "stockpile"
+          "move": "stockpile",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "hex"
+          "move": "hex",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "swallow"
+          "move": "swallow",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 34,
-          "move": "spit_up"
+          "move": "spit_up",
+          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "shadow_ball"
+          "move": "shadow_ball",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "amnesia"
+          "move": "amnesia",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 52,
-          "move": "baton_pass"
+          "move": "baton_pass",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "explosion"
+          "move": "explosion",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "phantom_force"
+          "move": "phantom_force",
+          "level": 65
         },
         {
           "klass": "TutorLearnableMove",

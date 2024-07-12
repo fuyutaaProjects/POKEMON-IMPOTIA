@@ -23,6 +23,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "lycanroc",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
@@ -32,9 +34,7 @@
               "type": "dayNight",
               "value": 3
             }
-          ],
-          "dbSymbol": "lycanroc",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -49,7 +49,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "rockruff",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "keen_eye",
         "vital_spirit",
@@ -91,6 +100,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "lycanroc",
+          "form": 1,
           "conditions": [
             {
               "type": "minLevel",
@@ -100,9 +111,7 @@
               "type": "dayNight",
               "value": 0
             }
-          ],
-          "dbSymbol": "lycanroc",
-          "form": 1
+          ]
         }
       ],
       "experienceType": 0,
@@ -117,7 +126,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "rockruff",
       "babyForm": 1,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "keen_eye",
         "vital_spirit",
@@ -159,24 +177,24 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "rockruff",
+          "form": 2,
           "conditions": [
             {
               "type": "dayNight",
               "value": 0
             }
-          ],
-          "dbSymbol": "rockruff",
-          "form": 2
+          ]
         },
         {
+          "dbSymbol": "rockruff",
+          "form": 2,
           "conditions": [
             {
               "type": "dayNight",
               "value": 3
             }
-          ],
-          "dbSymbol": "rockruff",
-          "form": 2
+          ]
         }
       ],
       "experienceType": 0,
@@ -191,7 +209,16 @@
       "hatchSteps": 3840,
       "babyDbSymbol": "rockruff",
       "babyForm": 2,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "keen_eye",
         "vital_spirit",

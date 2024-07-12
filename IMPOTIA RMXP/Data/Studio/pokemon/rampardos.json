@@ -34,7 +34,16 @@
       "hatchSteps": 7680,
       "babyDbSymbol": "cranidos",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "mold_breaker",
         "mold_breaker",
@@ -57,68 +66,68 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "headbutt"
+          "move": "headbutt",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "focus_energy"
+          "move": "focus_energy",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "pursuit"
+          "move": "pursuit",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "assurance"
+          "move": "assurance",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "chip_away"
+          "move": "chip_away",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "endeavor"
+          "move": "endeavor",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "zen_headbutt"
+          "move": "zen_headbutt",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "screech"
+          "move": "screech",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "head_smash"
+          "move": "head_smash",
+          "level": 58
         },
         {
           "klass": "TutorLearnableMove",

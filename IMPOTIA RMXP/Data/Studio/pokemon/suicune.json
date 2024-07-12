@@ -34,7 +34,16 @@
       "hatchSteps": 20480,
       "babyDbSymbol": "__undef__",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "pressure",
         "pressure",
@@ -57,88 +66,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "extrasensory"
+          "move": "extrasensory",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "bite"
+          "move": "bite",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leer"
+          "move": "leer",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "bubble_beam"
+          "move": "bubble_beam",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "gust"
+          "move": "gust",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "aurora_beam"
+          "move": "aurora_beam",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "mist"
+          "move": "mist",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "mirror_coat"
+          "move": "mirror_coat",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "ice_fang"
+          "move": "ice_fang",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 57,
-          "move": "tailwind"
+          "move": "tailwind",
+          "level": 57
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "extrasensory"
+          "move": "extrasensory",
+          "level": 64
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 71,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 71
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 78,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 78
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 85,
-          "move": "blizzard"
+          "move": "blizzard",
+          "level": 85
         },
         {
           "klass": "TutorLearnableMove",

@@ -23,16 +23,18 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "malamar",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 30
             }
-          ],
-          "dbSymbol": "malamar",
-          "form": 0
+          ]
         },
         {
+          "dbSymbol": "malamar",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
@@ -42,9 +44,7 @@
               "type": "func",
               "value": "elv_sepiatroce"
             }
-          ],
-          "dbSymbol": "malamar",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -59,7 +59,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "inkay",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "contrary",
         "suction_cups",
@@ -82,93 +91,93 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "peck"
+          "move": "peck",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "constrict"
+          "move": "constrict",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "reflect"
+          "move": "reflect",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 8,
-          "move": "foul_play"
+          "move": "foul_play",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 12,
-          "move": "swagger"
+          "move": "swagger",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "psywave"
+          "move": "psywave",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "topsy_turvy"
+          "move": "topsy_turvy",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 18,
-          "move": "hypnosis"
+          "move": "hypnosis",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 21,
-          "move": "psybeam"
+          "move": "psybeam",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "switcheroo"
+          "move": "switcheroo",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "payback"
+          "move": "payback",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 31,
-          "move": "light_screen"
+          "move": "light_screen",
+          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "pluck"
+          "move": "pluck",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "psycho_cut"
+          "move": "psycho_cut",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "slash"
+          "move": "slash",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "night_slash"
+          "move": "night_slash",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "superpower"
+          "move": "superpower",
+          "level": 48
         },
         {
           "klass": "TutorLearnableMove",

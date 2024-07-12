@@ -34,7 +34,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "aimantpeine",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "magnet_pull",
         "sturdy",
@@ -57,128 +66,128 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "magnetic_flux"
+          "move": "magnetic_flux",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mirror_coat"
+          "move": "mirror_coat",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "barrier"
+          "move": "barrier",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "electric_terrain"
+          "move": "electric_terrain",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "supersonic"
+          "move": "supersonic",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "thunder_shock"
+          "move": "thunder_shock",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "sonic_boom"
+          "move": "sonic_boom",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "supersonic"
+          "move": "supersonic",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "thunder_shock"
+          "move": "thunder_shock",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "sonic_boom"
+          "move": "sonic_boom",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "thunder_wave"
+          "move": "thunder_wave",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 17,
-          "move": "magnet_bomb"
+          "move": "magnet_bomb",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "spark"
+          "move": "spark",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 23,
-          "move": "mirror_shot"
+          "move": "mirror_shot",
+          "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "metal_sound"
+          "move": "metal_sound",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "electro_ball"
+          "move": "electro_ball",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "flash_cannon"
+          "move": "flash_cannon",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 39,
-          "move": "screech"
+          "move": "screech",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "discharge"
+          "move": "discharge",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 49,
-          "move": "lock_on"
+          "move": "lock_on",
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 53,
-          "move": "magnet_rise"
+          "move": "magnet_rise",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 59,
-          "move": "gyro_ball"
+          "move": "gyro_ball",
+          "level": 59
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 63,
-          "move": "zap_cannon"
+          "move": "zap_cannon",
+          "level": 63
         },
         {
           "klass": "TutorLearnableMove",
