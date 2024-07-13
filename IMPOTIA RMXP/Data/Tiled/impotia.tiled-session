@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Oasisville.tmx",
+    "activeFile": "Maps/rm_59_oasisville_interiors.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Tilesets",
+        "PNG to tmx",
         ".",
-        "Maps",
-        "PNG to tmx"
+        "Tilesets",
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -63,8 +63,8 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1073.3333333333333,
-                "y": 574.6666666666666
+                "x": 1368,
+                "y": 704.3333333333333
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -73,6 +73,14 @@
             "viewCenter": {
                 "x": 560.1961893982268,
                 "y": 321.14695340501794
+            }
+        },
+        "Maps/player_house.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 449.33333333333337,
+                "y": 312.66666666666663
             }
         },
         "Maps/rm_15_map015.tmx": {
@@ -116,11 +124,11 @@
             }
         },
         "Maps/rm_42_route_01.tmx": {
-            "scale": 1,
+            "scale": 1.5,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 1201,
-                "y": 593
+                "x": 873.3333333333333,
+                "y": 782.3333333333333
             }
         },
         "Maps/rm_43_mermesa.tmx": {
@@ -143,8 +151,8 @@
             "scale": 0.75,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1661.3333333333333,
-                "y": 2494.6666666666665
+                "x": 1708,
+                "y": 2398
             }
         },
         "Maps/rm_47_centre_pok__mon_pa.tmx": {
@@ -195,12 +203,20 @@
                 "y": 1335.5
             }
         },
-        "Maps/rm_56_verdentia.tmx": {
+        "Maps/rm_55_grotte_rochtherme.tmx": {
             "scale": 0.75,
-            "selectedLayer": 9,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1216,
-                "y": 1556
+                "x": 1865.3333333333333,
+                "y": 680.6666666666667
+            }
+        },
+        "Maps/rm_56_verdentia.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1148,
+                "y": 1973.5
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -220,11 +236,11 @@
             }
         },
         "Maps/rm_59_oasisville_interiors.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 2,
+            "scale": 0.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 802.6666666666666,
-                "y": 1279.3333333333333
+                "x": 998,
+                "y": 1492
             }
         },
         "Maps/rm_5_centre_pok__mon.tmx": {
@@ -268,11 +284,11 @@
             }
         },
         "Maps/trailer_map.tmx": {
-            "scale": 1.5,
+            "scale": 0.75,
             "selectedLayer": 22,
             "viewCenter": {
-                "x": 1248,
-                "y": 1087.3333333333333
+                "x": 1026.6666666666665,
+                "y": 1250
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -572,6 +588,9 @@
         "Tilesets/buildings.tsx": {
             "scaleInDock": 1
         },
+        "Tilesets/cave_normal.tsx": {
+            "scaleInDock": 1
+        },
         "Tilesets/common building interiors.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -638,24 +657,23 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/trailer_map.tmx",
-        "Maps/rm_46_cave_sous_marine.tmx",
-        "Maps/Oasisville.tmx"
+        "Maps/player_house.tmx",
+        "Maps/rm_59_oasisville_interiors.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/player_house.tmx",
+        "Maps/rm_59_oasisville_interiors.tmx",
+        "Maps/rm_56_verdentia.tmx",
+        "Maps/rm_55_grotte_rochtherme.tmx",
         "Maps/trailer_map.tmx",
         "Maps/rm_46_cave_sous_marine.tmx",
         "Maps/Oasisville.tmx",
-        "Maps/rm_33_port_avalon.tmx",
-        "Maps/rm_56_verdentia.tmx",
         "Maps/rm_42_route_01.tmx",
+        "Maps/rm_33_port_avalon.tmx",
         "Maps/rm_35_route_02.tmx",
         "Maps/rm_54_route_03.tmx",
-        "Maps/rm_43_mermesa.tmx",
-        "Maps/Gate Left Port Avalon.tmx",
-        "Maps/Gate South Port Avalon.tmx",
-        "Maps/Gate North Oasisville.tmx"
+        "Maps/rm_43_mermesa.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }

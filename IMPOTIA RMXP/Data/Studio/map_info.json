@@ -428,6 +428,17 @@
       "parentId": 26
     }
   },
+  "35": {
+    "id": 35,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map032",
+      "parentId": 58
+    }
+  },
   "36": {
     "id": 36,
     "children": [
@@ -620,7 +631,8 @@
     "id": 58,
     "children": [
       30,
-      32
+      32,
+      35
     ],
     "hasChildren": true,
     "isExpanded": true,

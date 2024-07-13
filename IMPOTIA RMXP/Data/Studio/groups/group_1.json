@@ -7,7 +7,13 @@
   "tool": null,
   "isDoubleBattle": false,
   "isHordeBattle": false,
-  "customConditions": [],
+  "customConditions": [
+    {
+      "type": "mapId",
+      "relationWithPreviousCondition": "AND",
+      "value": 42
+    }
+  ],
   "encounters": [
     {
       "specie": "mafiozo",

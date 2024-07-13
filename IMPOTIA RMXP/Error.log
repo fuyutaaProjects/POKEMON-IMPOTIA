@@ -1,33 +1,33 @@
 ================================Erreur de script================================
 Message :
-undefined method `custom_yellow_sand_grass?' for #<PFM::Environment:0x0fa844e8>
+undefined method `give_pokemon' for #<Interpreter:0x0fcb3010>
 
 Type : NoMethodError
-Script : 00100 CustomSystemTags.rb (user)
-Ligne : 185
-Date : 03/07/2024 14:31:59
+Script : (eval) (RMXP)
+Ligne : 1
+Date : 11/07/2024 21:14:11
 Game Version : 256
 Logiciel : PSDK 26.27
+Script used by eval command : 
+give_pokemon(:corauzaure, 50)
+
+
 ===================================Backtraces===================================
-[29] : 00100 CustomSystemTags.rb (user) | ligne 185 get_zone_type
-[28] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00000 Battle Info/00010 Background.rb (PSDK) | ligne 77 system_tag_background_name
-[27] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00000 Battle Info/00010 Background.rb (PSDK) | ligne 34 background_name_suggestions
-[26] : 01600 Alpha 25 Battle Engine/00200 Battle_Logic/00000 Battle Info/00010 Background.rb (PSDK) | ligne 21 find_background_name_to_display
-[25] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00200 Visual.rb (PSDK) | ligne 164 background_name
-[24] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00200 Visual.rb (PSDK) | ligne 149 create_background
-[23] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00200 Visual.rb (PSDK) | ligne 133 create_graphics
-[22] : 01600 Alpha 25 Battle Engine/00002 Battle_Visual/00200 Visual.rb (PSDK) | ligne 47 initialize
-[21] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 119 new
-[20] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 119 create_visual
-[19] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 36 initialize
-[18] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 46 new
-[17] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 46 setup_start_battle
-[16] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 110 <class:Scene_Map>
-[15] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 98 call_battle
-[14] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 68 update_scene_calling
-[13] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 66 each
-[12] : 01450 Systems/00003 Map Engine/00003 GamePlay/00201 Scene_Map calling.rb (PSDK) | ligne 66 update_scene_calling
-[11] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 27 update
+[25] : (eval) (RMXP) | ligne 1 eval_script
+[24] : 00600 Script_RMXP/03000 Interpreter_7.rb (PSDK) | ligne 124 eval
+[23] : 00600 Script_RMXP/03000 Interpreter_7.rb (PSDK) | ligne 124 eval_script
+[22] : 00600 Script_RMXP/03000 Interpreter_7.rb (PSDK) | ligne 114 command_355
+[21] : 00600 Script_RMXP/02500 Interpreter_2.rb (PSDK) | ligne 16 execute_command
+[20] : 00600 Script_RMXP/02400 Interpreter_1.rb (PSDK) | ligne 140 update
+[19] : 00600 Script_RMXP/02400 Interpreter_1.rb (PSDK) | ligne 107 loop
+[18] : 00600 Script_RMXP/02400 Interpreter_1.rb (PSDK) | ligne 107 update
+[17] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 174 auto_transfert_update
+[16] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 171 loop
+[15] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 171 auto_transfert_update
+[14] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 21 update
+[13] : 00700 Ajout_PSDK/00002 FPSBalancer.rb (PSDK) | ligne 44 times
+[12] : 00700 Ajout_PSDK/00002 FPSBalancer.rb (PSDK) | ligne 44 run
+[11] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 21 update
 [10] : 01450 Systems/00000 General/00003 GamePlay__Base/00000 GamePlay__Base.rb (PSDK) | ligne 260 main_process
 [9] : 01450 Systems/00000 General/00003 GamePlay__Base/00000 GamePlay__Base.rb (PSDK) | ligne 153 main
 [8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
