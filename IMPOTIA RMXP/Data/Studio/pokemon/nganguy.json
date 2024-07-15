@@ -45,15 +45,9 @@
         }
       ],
       "abilities": [
-<<<<<<< Updated upstream
-        "drizzle",
-        "rain_dish",
-        "multiscale"
-=======
         "thick_fat",
         "ice_body",
         "oblivious"
->>>>>>> Stashed changes
       ],
       "frontOffsetY": 15,
       "resources": {
@@ -72,24 +66,11 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-<<<<<<< Updated upstream
-          "move": "bubble",
-=======
           "move": "crunch",
->>>>>>> Stashed changes
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-<<<<<<< Updated upstream
-          "move": "smokescreen",
-          "level": 5
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "bite",
-          "level": 9
-=======
           "move": "defense_curl",
           "level": 1
         },
@@ -102,13 +83,10 @@
           "klass": "LevelLearnableMove",
           "move": "growl",
           "level": 1
->>>>>>> Stashed changes
         },
         {
           "klass": "LevelLearnableMove",
           "move": "water_gun",
-<<<<<<< Updated upstream
-=======
           "level": 1
         },
         {
@@ -124,34 +102,10 @@
         {
           "klass": "LevelLearnableMove",
           "move": "ice_ball",
->>>>>>> Stashed changes
           "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-<<<<<<< Updated upstream
-          "move": "twister",
-          "level": 17
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "bubble_beam",
-          "level": 21
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "focus_energy",
-          "level": 26
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "waterfall",
-          "level": 28
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "dragon_tail",
-=======
           "move": "brine",
           "level": 19
         },
@@ -168,54 +122,10 @@
         {
           "klass": "LevelLearnableMove",
           "move": "rest",
->>>>>>> Stashed changes
           "level": 31
         },
         {
           "klass": "LevelLearnableMove",
-<<<<<<< Updated upstream
-          "move": "clear_smog",
-          "level": 34
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "aqua_ring",
-          "level": 36
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "dragon_hammer",
-          "level": 41
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "dragon_dance",
-          "level": 46
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "hydro_pump",
-          "level": 51
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "agility",
-          "level": 54
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "recover",
-          "level": 57
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "heal_bell",
-          "level": 60
-        },
-        {
-          "klass": "EvolutionLearnableMove",
-          "move": "dragon_ascent"
-=======
           "move": "snore",
           "level": 31
         },
@@ -247,7 +157,6 @@
         {
           "klass": "TutorLearnableMove",
           "move": "super_fang"
->>>>>>> Stashed changes
         },
         {
           "klass": "TutorLearnableMove",
@@ -267,13 +176,10 @@
         },
         {
           "klass": "TutorLearnableMove",
-<<<<<<< Updated upstream
-=======
           "move": "block"
         },
         {
           "klass": "TutorLearnableMove",
->>>>>>> Stashed changes
           "move": "water_pulse"
         },
         {
@@ -282,35 +188,11 @@
         },
         {
           "klass": "TutorLearnableMove",
-<<<<<<< Updated upstream
-          "move": "drill_run"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "coil"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "dragon_breath"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "dragon_rush"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "bounce"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "brave_bird"
-=======
           "move": "iron_head"
         },
         {
           "klass": "TechLearnableMove",
           "move": "roar"
->>>>>>> Stashed changes
         },
         {
           "klass": "TechLearnableMove",
@@ -318,48 +200,10 @@
         },
         {
           "klass": "TechLearnableMove",
-<<<<<<< Updated upstream
-          "move": "waterfall"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "dive"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "hail"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "hidden_power"
-        },
-        {
-          "klass": "TechLearnableMove",
-=======
->>>>>>> Stashed changes
           "move": "ice_beam"
         },
         {
           "klass": "TechLearnableMove",
-<<<<<<< Updated upstream
-          "move": "solar_beam"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "protect"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "rain_dance"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "safeguard"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "return"
-=======
           "move": "blizzard"
         },
         {
@@ -377,7 +221,6 @@
         {
           "klass": "TechLearnableMove",
           "move": "toxic"
->>>>>>> Stashed changes
         },
         {
           "klass": "TechLearnableMove",
@@ -385,11 +228,7 @@
         },
         {
           "klass": "TechLearnableMove",
-<<<<<<< Updated upstream
-          "move": "facade"
-=======
           "move": "waterfall"
->>>>>>> Stashed changes
         },
         {
           "klass": "TechLearnableMove",
@@ -397,9 +236,6 @@
         },
         {
           "klass": "TechLearnableMove",
-<<<<<<< Updated upstream
-          "move": "thief"
-=======
           "move": "rock_slide"
         },
         {
@@ -465,7 +301,6 @@
         {
           "klass": "TechLearnableMove",
           "move": "giga_impact"
->>>>>>> Stashed changes
         },
         {
           "klass": "TechLearnableMove",
@@ -477,37 +312,6 @@
         },
         {
           "klass": "TechLearnableMove",
-<<<<<<< Updated upstream
-          "move": "confide"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "dragon_claw"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "psyshock"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "dazzling_gleam"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "blizzard"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "flamethrower"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "fly"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "earthquake"
-=======
           "move": "bulldoze"
         },
         {
@@ -517,7 +321,6 @@
         {
           "klass": "TechLearnableMove",
           "move": "confide"
->>>>>>> Stashed changes
         }
       ]
     }
