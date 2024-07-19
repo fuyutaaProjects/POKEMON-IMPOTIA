@@ -45,7 +45,7 @@
         }
       ],
       "abilities": [
-        "shell_armor",
+        "no_guard",
         "ice_body",
         "overcoat"
       ],
@@ -155,11 +155,6 @@
           "level": 53
         },
         {
-          "klass": "LevelLearnableMove",
-          "move": "earthquake",
-          "level": 58
-        },
-        {
           "klass": "TutorLearnableMove",
           "move": "outrage"
         },
@@ -241,15 +236,23 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "bulldoze"
+          "move": "energy_ball"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "fly"
+          "move": "shadow_claw"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "earthquake"
+          "move": "dream_eater"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dark_pulse"
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "sheer_cold"
         }
       ]
     }
