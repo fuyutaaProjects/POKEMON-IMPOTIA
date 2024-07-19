@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 4
+        "level": 6
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -132,10 +132,10 @@
     "artworkSmall": "Ivrognem_sma",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
     }
   }
 }

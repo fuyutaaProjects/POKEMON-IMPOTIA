@@ -7,7 +7,7 @@
   "baseMoney": 150,
   "bagEntries": [
     {
-      "dbSymbol": "super_potion",
+      "dbSymbol": "max_potion",
       "amount": 1
     }
   ],
@@ -23,7 +23,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 9
+        "level": 14
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -81,7 +81,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 11
+        "level": 15
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -139,7 +139,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 11
+        "level": 15
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [

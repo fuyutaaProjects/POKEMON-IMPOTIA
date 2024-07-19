@@ -7,7 +7,7 @@
   "type": "normal",
   "power": 0,
   "accuracy": 0,
-  "pp": 10,
+  "pp": 3,
   "category": "status",
   "movecriticalRate": 1,
   "priority": 0,
@@ -33,11 +33,11 @@
   "isRecharge": false,
   "isSnatchable": true,
   "isSoundAttack": false,
+  "isSlicingAttack": false,
   "isUnfreeze": false,
+  "isWind": false,
   "battleEngineAimedTarget": "user",
   "battleStageMod": [],
   "moveStatus": [],
-  "effectChance": 0,
-  "isSlicingAttack": false,
-  "isWind": false
+  "effectChance": 0
 }

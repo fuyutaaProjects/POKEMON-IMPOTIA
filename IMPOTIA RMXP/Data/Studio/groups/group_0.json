@@ -118,7 +118,7 @@
           "maximumLevel": 4
         }
       },
-      "randomEncounterChance": 10,
+      "randomEncounterChance": 15,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -160,7 +160,7 @@
           "maximumLevel": 4
         }
       },
-      "randomEncounterChance": 20,
+      "randomEncounterChance": 15,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -199,7 +199,7 @@
         "kind": "minmax",
         "level": {
           "minimumLevel": 2,
-          "maximumLevel": 4
+          "maximumLevel": 5
         }
       },
       "randomEncounterChance": 25,

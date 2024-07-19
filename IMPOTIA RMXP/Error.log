@@ -1,15 +1,15 @@
 ================================Erreur de script================================
 Message :
-undefined method `give_pokemon' for #<Interpreter:0x0e0ae880>
+undefined local variable or method `hydrozaure' for #<Interpreter:0x0fb88e10>
 
-Type : NoMethodError
+Type : NameError
 Script : (eval) (RMXP)
 Ligne : 1
-Date : 15/07/2024 15:50:31
+Date : 19/07/2024 22:50:12
 Game Version : 256
 Logiciel : PSDK 26.27
 Script used by eval command : 
-give_pokemon(:corauzaure, 50)
+add_rename_pokemon(hydrozaure)
 
 
 ===================================Backtraces===================================

@@ -10,7 +10,7 @@
   "ai": 1,
   "party": [
     {
-      "specie": "seel",
+      "specie": "coraprenti",
       "form": 0,
       "shinySetup": {
         "kind": "automatic",
@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 9
+        "level": 10
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "specie": "coraprenti",
+      "specie": "yamete",
       "form": 0,
       "shinySetup": {
         "kind": "automatic",
@@ -76,7 +76,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 8
+        "level": 11
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [

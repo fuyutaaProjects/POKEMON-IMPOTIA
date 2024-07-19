@@ -127,14 +127,14 @@
     }
   ],
   "resources": {
-    "sprite": "",
+    "sprite": "Employee_sma",
     "artworkFull": "Employee_big",
     "artworkSmall": "Employee_sma",
     "character": "",
     "musics": {
       "encounter": "",
       "victory": "",
-      "defeat": "",
+      "defeat": "victory_team_nudite.ogg",
       "bgm": "vs_sbire_nudite.ogg"
     }
   }
