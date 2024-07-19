@@ -57,8 +57,8 @@
       ],
       "abilities": [
         "truant",
-        "truant",
-        "ice_body"
+        "ice_body",
+        "flame_body"
       ],
       "frontOffsetY": 22,
       "resources": {
@@ -86,58 +86,63 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "leer",
+          "move": "astonish",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "razor_leaf",
+          "move": "leer",
           "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "icy_wind",
-          "level": 9
+          "move": "will_o_wisp",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "grass_whistle",
-          "level": 13
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "swagger",
-          "level": 17
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "mist",
-          "level": 21
+          "move": "protect",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
           "move": "ice_shard",
-          "level": 26
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "ingrain",
-          "level": 31
+          "move": "ice_fang",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "wood_hammer",
-          "level": 36
+          "move": "fire_fang",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "crunch",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "frost_breath",
+          "level": 34
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "icicle_crash",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
           "move": "blizzard",
-          "level": 41
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "sheer_cold",
-          "level": 46
+          "move": "hail",
+          "level": 45
         },
         {
           "klass": "TutorLearnableMove",

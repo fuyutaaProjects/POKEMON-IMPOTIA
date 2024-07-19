@@ -77,7 +77,7 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "leer",
+          "move": "tail_whip",
           "level": 1
         },
         {
@@ -107,7 +107,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "take_down",
+          "move": "fury_swipes",
           "level": 15
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "roar",
+          "move": "tail_slap",
           "level": 26
         },
         {
@@ -149,6 +149,11 @@
           "klass": "LevelLearnableMove",
           "move": "play_rough",
           "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "icicle_spear",
+          "level": 47
         },
         {
           "klass": "TutorLearnableMove",

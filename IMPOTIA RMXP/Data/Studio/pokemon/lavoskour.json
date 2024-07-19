@@ -58,7 +58,7 @@
       "abilities": [
         "flame_body",
         "magma_armor",
-        "flame_body"
+        "hustle"
       ],
       "frontOffsetY": 8,
       "resources": {
@@ -330,6 +330,10 @@
         {
           "klass": "TechLearnableMove",
           "move": "wild_charge"
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "beak_blast"
         }
       ]
     }

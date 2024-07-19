@@ -65,101 +65,6 @@
       },
       "moveSet": [
         {
-          "klass": "LevelLearnableMove",
-          "move": "ice_fang",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "fire_fang",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "thunder_fang",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "leer",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "tackle",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "odor_sleuth",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "bite",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "odor_sleuth",
-          "level": 5
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "bite",
-          "level": 8
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "helping_hand",
-          "level": 12
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "take_down",
-          "level": 15
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "work_up",
-          "level": 20
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "crunch",
-          "level": 24
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "roar",
-          "level": 29
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "retaliate",
-          "level": 36
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "reversal",
-          "level": 42
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "last_resort",
-          "level": 51
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "giga_impact",
-          "level": 59
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "play_rough",
-          "level": 63
-        },
-        {
           "klass": "TutorLearnableMove",
           "move": "snore"
         },
@@ -334,6 +239,98 @@
         {
           "klass": "TechLearnableMove",
           "move": "confide"
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tail_whip",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "odor_sleuth",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "baby_doll_eyes",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "helping_hand",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fury_swipes",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "work_up",
+          "level": 19
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "crunch",
+          "level": 22
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tail_slap",
+          "level": 26
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "retaliate",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "reversal",
+          "level": 33
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "last_resort",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "giga_impact",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "play_rough",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "icicle_spear",
+          "level": 47
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "thunder_fang"
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "ice_fang"
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "fire_fang"
         }
       ]
     }
