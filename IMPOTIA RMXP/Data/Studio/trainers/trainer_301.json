@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 8
+        "level": 16
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -51,10 +51,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "bite",
+            "fury_swipes",
+            "baby_doll_eyes",
+            "tail_whip"
           ]
         },
         {
@@ -64,6 +64,10 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "scrappy"
         }
       ]
     }

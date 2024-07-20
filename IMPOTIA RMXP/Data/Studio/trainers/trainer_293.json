@@ -51,9 +51,9 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
+            "leer",
+            "confusion",
+            "withdraw",
             "__undef__"
           ]
         },
@@ -64,6 +64,10 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "serene_grace"
         }
       ]
     },
@@ -109,10 +113,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "thief",
+            "wrap",
+            "bubble_beam",
+            "lick"
           ]
         },
         {
@@ -122,6 +126,14 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "gooey"
+        },
+        {
+          "type": "nature",
+          "value": "bold"
         }
       ]
     }

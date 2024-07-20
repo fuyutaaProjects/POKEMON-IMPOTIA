@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 7
+        "level": 13
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -76,7 +76,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 7
+        "level": 16
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -109,10 +109,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "rock_smash",
+            "quick_attack",
+            "spark",
+            "spikes"
           ]
         },
         {
@@ -122,6 +122,14 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "stamina"
+        },
+        {
+          "type": "nature",
+          "value": "gentle"
         }
       ]
     }

@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 7
+        "level": 14
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -51,10 +51,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "quick_attack",
+            "mud_slap",
+            "charge",
+            "tackle"
           ]
         },
         {
@@ -64,6 +64,14 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "galvanize"
+        },
+        {
+          "type": "nature",
+          "value": "brave"
         }
       ]
     },
@@ -76,7 +84,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 8
+        "level": 14
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -109,10 +117,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "astonish",
+            "bind",
+            "poison_gas",
+            "acid_armor"
           ]
         },
         {
@@ -122,6 +130,10 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "liquid_ooze"
         }
       ]
     }

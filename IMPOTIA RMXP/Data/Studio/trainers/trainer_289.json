@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 8
+        "level": 13
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -51,10 +51,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "pound",
+            "poison_gas",
+            "disable",
+            "mud_slap"
           ]
         },
         {
@@ -64,6 +64,10 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "corrosion"
         }
       ]
     }

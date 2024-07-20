@@ -5,7 +5,12 @@
   "vsType": 1,
   "isCouple": false,
   "baseMoney": 25,
-  "bagEntries": [],
+  "bagEntries": [
+    {
+      "dbSymbol": "algues_laminaires",
+      "amount": 1
+    }
+  ],
   "battleId": 0,
   "ai": 2,
   "party": [
@@ -18,7 +23,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 8
+        "level": 12
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -51,10 +56,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "pound",
+            "poison_gas",
+            "protect",
+            "disable"
           ]
         },
         {
@@ -64,6 +69,10 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "poison_point"
         }
       ]
     },
@@ -76,7 +85,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 8
+        "level": 12
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -109,10 +118,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "absorb",
+            "shadow_sneak",
+            "bubble",
+            "water_sport"
           ]
         },
         {
@@ -122,6 +131,10 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "cursed_body"
         }
       ]
     }

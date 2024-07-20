@@ -7,7 +7,7 @@
   "baseMoney": 150,
   "bagEntries": [
     {
-      "dbSymbol": "max_potion",
+      "dbSymbol": "algues_laminaires",
       "amount": 1
     }
   ],
@@ -56,10 +56,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "leech_seed",
+            "protect",
+            "bide",
+            "bite"
           ]
         },
         {
@@ -69,6 +69,14 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "shell_armor"
+        },
+        {
+          "type": "nature",
+          "value": "lax"
         }
       ]
     },
@@ -114,10 +122,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "curse",
+            "confusion",
+            "clamp",
+            "tackle"
           ]
         },
         {
@@ -127,6 +135,14 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "unaware"
+        },
+        {
+          "type": "nature",
+          "value": "naughty"
         }
       ]
     },
@@ -139,7 +155,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 15
+        "level": 16
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -172,10 +188,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "psybeam",
+            "bubble",
+            "aqua_ring",
+            "leer"
           ]
         },
         {
@@ -185,6 +201,18 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "prism_armor"
+        },
+        {
+          "type": "nature",
+          "value": "jolly"
+        },
+        {
+          "type": "caughtWith",
+          "value": "dive_ball"
         }
       ]
     }

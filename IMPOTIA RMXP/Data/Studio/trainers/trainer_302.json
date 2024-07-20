@@ -60,10 +60,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "aqua_ring",
+            "confusion",
+            "bubble",
+            "leer"
           ]
         },
         {
@@ -73,6 +73,14 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "prism_armor"
+        },
+        {
+          "type": "nature",
+          "value": "jolly"
         }
       ]
     },
@@ -118,10 +126,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "leech_seed",
+            "tackle",
+            "bite",
+            "water_gun"
           ]
         },
         {
@@ -131,6 +139,14 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "shell_armor"
+        },
+        {
+          "type": "nature",
+          "value": "lax"
         }
       ]
     },
@@ -176,10 +192,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "curse",
+            "yawn",
+            "tackle",
+            "water_gun"
           ]
         },
         {
@@ -189,6 +205,14 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "unaware"
+        },
+        {
+          "type": "nature",
+          "value": "naughty"
         }
       ]
     }

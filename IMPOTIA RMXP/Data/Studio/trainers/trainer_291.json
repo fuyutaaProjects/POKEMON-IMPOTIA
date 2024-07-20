@@ -51,10 +51,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "vise_grip",
+            "mud_sport",
+            "bubble",
+            "leer"
           ]
         },
         {
@@ -76,7 +76,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 10
+        "level": 11
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -109,9 +109,9 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
+            "confusion",
+            "pound",
+            "play_nice",
             "__undef__"
           ]
         },
@@ -122,6 +122,10 @@
         {
           "type": "originalTrainerId",
           "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "synchronize"
         }
       ]
     }
