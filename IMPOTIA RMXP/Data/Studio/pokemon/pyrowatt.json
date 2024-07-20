@@ -77,68 +77,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
+          "move": "scratch",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "growl",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "echoed_voice",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "scratch",
-          "level": 5
-        },
-        {
-          "klass": "LevelLearnableMove",
           "move": "ember",
-          "level": 7
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "round",
+          "move": "echoed_voice",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder_shock",
           "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "scary_face",
-          "level": 13
+          "move": "flame_charge",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "thunder_wave",
+          "level": 18
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "will_o_wisp",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
           "move": "fire_fang",
-          "level": 16
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "thunder_fang",
           "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "flame_burst",
-          "level": 28
+          "move": "round",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "spark",
-          "level": 34
+          "move": "lava_plume",
+          "level": 32
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "synthesis",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "uproar",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
           "move": "flamethrower",
-          "level": 37
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "fire_spin",
           "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "fire_blast",
-          "level": 46
+          "move": "boomburst",
+          "level": 48
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "blue_flare",
+          "level": 52
         },
         {
           "klass": "TutorLearnableMove",

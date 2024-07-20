@@ -10,11 +10,11 @@
       "type1": "poison",
       "type2": "__undef__",
       "baseHp": 60,
-      "baseAtk": 20,
+      "baseAtk": 30,
       "baseDfe": 80,
-      "baseSpd": 10,
+      "baseSpd": 30,
       "baseAts": 60,
-      "baseDfs": 100,
+      "baseDfs": 70,
       "evHp": 0,
       "evAtk": 0,
       "evDfe": 0,
@@ -87,7 +87,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "protect",
+          "move": "frustration",
           "level": 4
         },
         {

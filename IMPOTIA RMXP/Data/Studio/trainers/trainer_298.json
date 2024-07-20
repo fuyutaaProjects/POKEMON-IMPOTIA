@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 20
+        "level": 18
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -52,7 +52,7 @@
           "type": "moves",
           "value": [
             "odor_sleuth",
-            "body_slam",
+            "nuzzle",
             "helping_hand",
             "lick"
           ]

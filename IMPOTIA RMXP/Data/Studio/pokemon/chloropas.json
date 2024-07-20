@@ -77,78 +77,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "pound",
+          "move": "tackle",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "leer",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "leech_seed",
+          "move": "play_nice",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
           "move": "leafage",
-          "level": 1
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "stun_spore",
-          "level": 9
+          "move": "double_ironbash",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "charm",
-          "level": 12
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "sweet_scent",
-          "level": 15
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "magical_leaf",
-          "level": 16
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "growth",
-          "level": 23
+          "move": "fairy_wind",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
           "move": "mega_drain",
-          "level": 26
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "synthesis",
-          "level": 28
+          "move": "stun_spore",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "worry_seed",
-          "level": 32
+          "move": "leech_seed",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "draining_kiss",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "clear_smog",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
           "move": "giga_drain",
-          "level": 36
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "solar_beam",
-          "level": 42
+          "move": "synthesis",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aromatherapy",
+          "level": 39
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "grass_pledge",
+          "level": 41
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "energy_ball",
+          "level": 43
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flower_shield",
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
           "move": "leaf_storm",
-          "level": 50
+          "level": 52
         },
         {
           "klass": "TutorLearnableMove",

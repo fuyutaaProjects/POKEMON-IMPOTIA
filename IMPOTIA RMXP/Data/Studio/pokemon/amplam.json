@@ -66,103 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "roar",
+          "move": "scratch",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "growl",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
           "move": "ember",
-          "level": 1
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "courtcircuit",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "scratch",
-          "level": 5
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "supersonic",
-          "level": 7
+          "move": "echoed_voice",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
           "move": "thunder_shock",
-          "level": 12
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "sonic_boom",
+          "move": "flame_charge",
           "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "thunder_fang",
+          "move": "thunder_wave",
           "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "fire_fang",
-          "level": 18
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "metal_sound",
+          "move": "will_o_wisp",
           "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "scary_face",
-          "level": 24
+          "move": "fire_fang",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "spark",
-          "level": 28
+          "move": "round",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "flame_burst",
+          "move": "lava_plume",
           "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "crunch",
-          "level": 38
+          "move": "synthesis",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "thunder_wave",
+          "move": "uproar",
+          "level": 39
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fire_pledge",
           "level": 41
         },
         {
           "klass": "LevelLearnableMove",
           "move": "flamethrower",
-          "level": 46
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "thunder",
-          "level": 53
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
           "move": "boomburst",
-          "level": 60
+          "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "courtcircuit",
-          "level": 65
+          "move": "blue_flare",
+          "level": 52
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "fire_blast",
-          "level": 70
+          "move": "zap_cannon",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "roar_of_time",
+          "level": 62
         },
         {
           "klass": "TutorLearnableMove",
@@ -210,7 +205,7 @@
         },
         {
           "klass": "EvolutionLearnableMove",
-          "move": "courtcircuit"
+          "move": "thunderbolt"
         },
         {
           "klass": "TechLearnableMove",

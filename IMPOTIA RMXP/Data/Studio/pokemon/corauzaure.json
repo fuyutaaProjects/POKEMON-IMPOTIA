@@ -66,88 +66,98 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "tackle",
+          "move": "pound",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "tail_whip",
+          "move": "leer",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
           "move": "water_gun",
-          "level": 1
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "withdraw",
-          "level": 1
+          "move": "rollout",
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "tail_whip",
-          "level": 4
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "water_gun",
-          "level": 7
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "withdraw",
+          "move": "mud_shot",
           "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "bubble",
-          "level": 13
+          "move": "aqua_jet",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "bite",
-          "level": 16
+          "move": "sand_attack",
+          "level": 18
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "rapid_spin",
-          "level": 20
+          "move": "aqua_ring",
+          "level": 21
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "protect",
-          "level": 24
+          "move": "clamp",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "water_pulse",
-          "level": 28
+          "move": "ancient_power",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "aqua_tail",
+          "move": "razor_shell",
           "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "earthquake",
-          "level": 40
+          "move": "shore_up",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "iron_defense",
-          "level": 46
+          "move": "rock_slide",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "rain_dance",
-          "level": 53
+          "move": "water_pledge",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "hydro_pump",
-          "level": 60
+          "move": "aqua_tail",
+          "level": 43
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stealth_rock",
+          "level": 48
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "crabhammer",
+          "level": 52
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "precipice_blades",
+          "level": 56
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fissure",
+          "level": 62
         },
         {
           "klass": "TutorLearnableMove",
@@ -375,7 +385,7 @@
         },
         {
           "klass": "EvolutionLearnableMove",
-          "move": "morsure_coralienne"
+          "move": "earthquake"
         }
       ]
     },
