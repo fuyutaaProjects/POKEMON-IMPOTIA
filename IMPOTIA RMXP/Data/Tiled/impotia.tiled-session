@@ -68,19 +68,35 @@
             }
         },
         "Maps/TEMPLATE.tmx": {
-            "scale": 0.82828125,
+            "scale": 0.5,
+            "selectedLayer": 24,
+            "viewCenter": {
+                "x": 622,
+                "y": 320
+            }
+        },
+        "Maps/over route 1.tmx": {
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 560.1961893982268,
-                "y": 321.14695340501794
+                "x": 1661.3333333333333,
+                "y": 983.9999999999999
+            }
+        },
+        "Maps/over_route_1.tmx": {
+            "scale": 0.26040178571428574,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1328.7159266243782,
+                "y": 1148.2256128921651
             }
         },
         "Maps/player_house.tmx": {
             "scale": 4,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 374.75,
-                "y": 399.25
+                "x": 373.75,
+                "y": 398.25
             }
         },
         "Maps/rm_15_map015.tmx": {
@@ -101,10 +117,10 @@
         },
         "Maps/rm_33_port_avalon.tmx": {
             "scale": 1,
-            "selectedLayer": 14,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1248,
-                "y": 1087
+                "x": 111,
+                "y": 392
             }
         },
         "Maps/rm_35_route_02.tmx": {
@@ -124,11 +140,11 @@
             }
         },
         "Maps/rm_42_route_01.tmx": {
-            "scale": 1.5,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1128,
-                "y": 686
+                "x": 1430.6666666666665,
+                "y": 187.99999999999997
             }
         },
         "Maps/rm_43_mermesa.tmx": {
@@ -662,18 +678,18 @@
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rm_33_port_avalon.tmx",
-        "Maps/player_house.tmx",
         "Maps/rm_42_route_01.tmx",
+        "Maps/over route 1.tmx",
+        "Maps/player_house.tmx",
+        "Maps/TEMPLATE.tmx",
+        "Maps/over_route_1.tmx",
+        "Maps/rm_33_port_avalon.tmx",
         "Maps/rm_49_bar_avalons_etage.tmx",
         "Maps/rm_48_bar_avalons.tmx",
         "Maps/rm_59_oasisville_interiors.tmx",
         "Maps/rm_46_cave_sous_marine.tmx",
         "Maps/rm_47_centre_pok__mon_pa.tmx",
-        "Maps/rm_56_verdentia.tmx",
-        "Maps/rm_55_grotte_rochtherme.tmx",
-        "Maps/trailer_map.tmx",
-        "Maps/Oasisville.tmx"
+        "Maps/rm_56_verdentia.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }

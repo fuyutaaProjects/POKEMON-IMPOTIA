@@ -1,30 +1,33 @@
 ================================Erreur de script================================
 Message :
-no implicit conversion of nil into String
+undefined local variable or method `echancarbon1' for #<Interpreter:0x0f6a6308>
 
-Type : TypeError
-Script : 00700 Ajout_PSDK/00400 Text.rb (PSDK)
-Ligne : 16
-Date : 20/07/2024 11:07:18
+Type : NameError
+Script : (eval) (RMXP)
+Ligne : 1
+Date : 20/07/2024 17:47:53
 Game Version : 256
 Logiciel : PSDK 26.27
+Script used by eval command : 
+call_battle_wild(echancarbon1, nil)
+
+
 ===================================Backtraces===================================
-[26] : 00700 Ajout_PSDK/00400 Text.rb (PSDK) | ligne 16 multiline_text=
-[25] : 00700 Ajout_PSDK/00400 Text.rb (PSDK) | ligne 10 each
-[24] : 00700 Ajout_PSDK/00400 Text.rb (PSDK) | ligne 10 multiline_text=
-[23] : 01450 Systems/00101 Dex/00003 GamePlay/00100 Dex.rb (PSDK) | ligne 128 change_state
-[22] : 01450 Systems/00101 Dex/00003 GamePlay/00101 Dex_Graphics.rb (PSDK) | ligne 18 create_graphics
-[21] : 01450 Systems/00000 General/00003 GamePlay__Base/00000 GamePlay__Base.rb (PSDK) | ligne 251 main_begin
-[20] : 01450 Systems/00000 General/00003 GamePlay__Base/00000 GamePlay__Base.rb (PSDK) | ligne 152 main
-[19] : 01450 Systems/00000 General/00003 GamePlay__Base/00000 GamePlay__Base.rb (PSDK) | ligne 190 call_scene
-[18] : 01450 Systems/00000 General/00100 GamePlay.rb (PSDK) | ligne 104 open_dex_to_show_pokemon
-[17] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00101 Scene Choice.rb (PSDK) | ligne 201 update_pokedex_related_infos
-[16] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00101 Scene Choice.rb (PSDK) | ligne 177 give_pokemon_procedure
-[15] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00101 Scene Choice.rb (PSDK) | ligne 285 caught
-[14] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00101 Scene Choice.rb (PSDK) | ligne 156 special_item_choice_action
-[13] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00101 Scene Choice.rb (PSDK) | ligne 135 item_choice
-[12] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 83 next_update_process
-[11] : 01600 Alpha 25 Battle Engine/00001 Battle_Scene/00100 Scene.rb (PSDK) | ligne 73 update
+[25] : (eval) (RMXP) | ligne 1 eval_script
+[24] : 00600 Script_RMXP/03000 Interpreter_7.rb (PSDK) | ligne 124 eval
+[23] : 00600 Script_RMXP/03000 Interpreter_7.rb (PSDK) | ligne 124 eval_script
+[22] : 00600 Script_RMXP/03000 Interpreter_7.rb (PSDK) | ligne 114 command_355
+[21] : 00600 Script_RMXP/02500 Interpreter_2.rb (PSDK) | ligne 16 execute_command
+[20] : 00600 Script_RMXP/02400 Interpreter_1.rb (PSDK) | ligne 140 update
+[19] : 00600 Script_RMXP/02400 Interpreter_1.rb (PSDK) | ligne 107 loop
+[18] : 00600 Script_RMXP/02400 Interpreter_1.rb (PSDK) | ligne 107 update
+[17] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 174 auto_transfert_update
+[16] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 171 loop
+[15] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 171 auto_transfert_update
+[14] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 21 update
+[13] : 00700 Ajout_PSDK/00002 FPSBalancer.rb (PSDK) | ligne 44 times
+[12] : 00700 Ajout_PSDK/00002 FPSBalancer.rb (PSDK) | ligne 44 run
+[11] : 01450 Systems/00003 Map Engine/00003 GamePlay/00200 Scene_Map.rb (PSDK) | ligne 21 update
 [10] : 01450 Systems/00000 General/00003 GamePlay__Base/00000 GamePlay__Base.rb (PSDK) | ligne 260 main_process
 [9] : 01450 Systems/00000 General/00003 GamePlay__Base/00000 GamePlay__Base.rb (PSDK) | ligne 153 main
 [8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>

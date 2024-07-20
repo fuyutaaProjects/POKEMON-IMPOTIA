@@ -3,9 +3,7 @@
   "id": 0,
   "dbSymbol": "maplink_0",
   "mapId": 1,
-  "northMaps": [
-
-  ],
+  "northMaps": [],
   "eastMaps": [
     {
       "mapId": 9,
@@ -13,9 +11,10 @@
     }
   ],
   "southMaps": [
-
+    {
+      "mapId": 42,
+      "offset": 0
+    }
   ],
-  "westMaps": [
-
-  ]
+  "westMaps": []
 }
