@@ -60,9 +60,9 @@
         }
       ],
       "abilities": [
+        "keen_eye",
         "guts",
-        "tough_claws",
-        "no_guard"
+        "tough_claws"
       ],
       "frontOffsetY": 23,
       "resources": {
@@ -96,12 +96,12 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "bubble_beam",
+          "move": "bubble",
           "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "bubble",
+          "move": "soak",
           "level": 8
         },
         {
@@ -116,12 +116,12 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "slash",
-          "level": 15
+          "move": "rage",
+          "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "work_up",
+          "move": "detect",
           "level": 16
         },
         {
