@@ -43,7 +43,7 @@
         15
       ],
       "hatchSteps": 2560,
-      "babyDbSymbol": "__undef__",
+      "babyDbSymbol": "pakap",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -56,9 +56,9 @@
         }
       ],
       "abilities": [
-        "serene_grace",
+        "competitive",
         "hustle",
-        "super_luck"
+        "big_pecks"
       ],
       "frontOffsetY": 34,
       "resources": {
@@ -77,78 +77,63 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "growl",
+          "move": "taunt",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "charm",
+          "move": "pound",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "metronome",
-          "level": 5
+          "move": "low_kick",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "sweet_kiss",
+          "move": "fairy_wind",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "swagger",
           "level": 9
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "yawn",
-          "level": 13
+          "move": "fake_out",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "encore",
+          "move": "feint",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "reversal",
           "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "follow_me",
-          "level": 21
+          "move": "feint_attack",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "bestow",
+          "move": "crafty_shield",
+          "level": 23
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mind_reader",
           "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "wish",
-          "level": 29
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "ancient_power",
-          "level": 33
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "safeguard",
-          "level": 37
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "baton_pass",
-          "level": 41
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "double_edge",
-          "level": 45
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "last_resort",
-          "level": 49
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "after_you",
-          "level": 53
+          "move": "leaf_blade",
+          "level": 28
         },
         {
           "klass": "TutorLearnableMove",

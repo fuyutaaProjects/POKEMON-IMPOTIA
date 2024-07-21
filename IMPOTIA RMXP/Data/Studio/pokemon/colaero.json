@@ -77,58 +77,83 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "peck",
+          "move": "tackle",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "string_shot",
-          "level": 4
+          "move": "gust",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "pin_missile",
-          "level": 8
+          "move": "quick_attack",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "sand_attack",
-          "level": 10
+          "move": "double_team",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "leer",
-          "level": 12
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "wing_attack",
+          "move": "infestation",
           "level": 14
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "leech_life",
+          "move": "aerial_ace",
           "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "bug_bite",
-          "level": 18
+          "move": "detect",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "absorb",
-          "level": 20
+          "move": "supersonic",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "fury_attack",
-          "level": 23
+          "move": "x_scissor",
+          "level": 27
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sticky_web",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ancient_power",
+          "level": 33
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "vital_throw",
+          "level": 38
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "wing_attack",
+          "level": 43
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "screech",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
           "move": "air_slash",
-          "level": 30
+          "level": 54
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leech_life",
+          "level": 57
         },
         {
           "klass": "TutorLearnableMove",
@@ -143,12 +168,16 @@
           "move": "electroweb"
         },
         {
-          "klass": "TechLearnableMove",
-          "move": "roost"
+          "klass": "TutorLearnableMove",
+          "move": "leech_life"
         },
         {
-          "klass": "TechLearnableMove",
-          "move": "sleep_talk"
+          "klass": "TutorLearnableMove",
+          "move": "quiver_dance"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "brave_bird"
         },
         {
           "klass": "TechLearnableMove",
