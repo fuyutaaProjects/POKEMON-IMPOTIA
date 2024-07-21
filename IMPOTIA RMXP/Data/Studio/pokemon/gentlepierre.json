@@ -46,8 +46,8 @@
       ],
       "abilities": [
         "sturdy",
-        "rock_head",
-        "rattled"
+        "serene_grace",
+        "wonder_skin"
       ],
       "frontOffsetY": 20,
       "resources": {
@@ -70,98 +70,38 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "wood_hammer",
+          "move": "helping_hand",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "copycat",
+          "move": "tackle",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "flail",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "low_kick",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "rock_throw",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "flail",
+          "move": "acupressure",
           "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "low_kick",
+          "move": "detect",
           "level": 8
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "rock_throw",
+          "move": "rollout",
           "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "mimic",
+          "move": "stealth_rock",
           "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "slam",
-          "level": 15
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "feint_attack",
+          "move": "splash",
           "level": 19
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "rock_tomb",
-          "level": 22
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "block",
-          "level": 26
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "rock_slide",
-          "level": 29
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "counter",
-          "level": 33
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "sucker_punch",
-          "level": 36
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "double_edge",
-          "level": 40
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "stone_edge",
-          "level": 43
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "hammer_arm",
-          "level": 47
         },
         {
           "klass": "TutorLearnableMove",
