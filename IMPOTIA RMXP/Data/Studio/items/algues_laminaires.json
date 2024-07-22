@@ -1,16 +1,16 @@
 {
-  "hpCount": 20,
-  "loyaltyMalus": 0,
-  "klass": "ConstantHealItem",
   "id": 114,
   "dbSymbol": "algues_laminaires",
   "icon": "791",
-  "price": 300,
-  "socket": 6,
+  "price": 200,
+  "socket": 0,
   "position": 0,
   "isBattleUsable": true,
   "isMapUsable": true,
   "isLimited": true,
   "isHoldable": true,
-  "flingPower": 30
+  "flingPower": 30,
+  "klass": "ConstantHealItem",
+  "loyaltyMalus": 0,
+  "hpCount": 20
 }
