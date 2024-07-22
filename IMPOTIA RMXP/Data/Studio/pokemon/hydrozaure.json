@@ -71,10 +71,90 @@
         "footprint": "hydrozaure",
         "character": "hydrozaure",
         "characterShiny": "hydrozaure",
-        "cry": "Hydrozaure.ogg",
+        "cry": "007cry.ogg",
         "hasFemale": false
       },
       "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "pound",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leer",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "water_gun",
+          "level": 6
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rollout",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mud_shot",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aqua_jet",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sand_attack",
+          "level": 18
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aqua_ring",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "clamp",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ancient_power",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "razor_shell",
+          "level": 32
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shore_up",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_slide",
+          "level": 39
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aqua_tail",
+          "level": 43
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stealth_rock",
+          "level": 48
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "crabhammer",
+          "level": 52
+        },
         {
           "klass": "TutorLearnableMove",
           "move": "ice_punch"
@@ -306,86 +386,6 @@
         {
           "klass": "BreedLearnableMove",
           "move": "aqua_jet"
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "pound",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "leer",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "water_gun",
-          "level": 6
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "rollout",
-          "level": 8
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "mud_shot",
-          "level": 10
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "aqua_jet",
-          "level": 14
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "sand_attack",
-          "level": 18
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "aqua_ring",
-          "level": 21
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "clamp",
-          "level": 25
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "ancient_power",
-          "level": 29
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "razor_shell",
-          "level": 32
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "shore_up",
-          "level": 35
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "rock_slide",
-          "level": 39
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "aqua_tail",
-          "level": 43
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "stealth_rock",
-          "level": 48
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "crabhammer",
-          "level": 52
         }
       ]
     }
