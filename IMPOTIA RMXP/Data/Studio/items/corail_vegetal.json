@@ -3,7 +3,7 @@
   "dbSymbol": "corail_vegetal",
   "icon": "792",
   "price": 400,
-  "socket": 1,
+  "socket": 0,
   "position": 0,
   "isBattleUsable": true,
   "isMapUsable": true,
@@ -12,5 +12,5 @@
   "flingPower": 30,
   "klass": "ConstantHealItem",
   "loyaltyMalus": 0,
-  "hpCount": 20
+  "hpCount": 40
 }
