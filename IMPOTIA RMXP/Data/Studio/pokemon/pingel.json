@@ -28,7 +28,7 @@
           "conditions": [
             {
               "type": "minLevel",
-              "value": 42
+              "value": 28
             }
           ]
         }
@@ -56,9 +56,9 @@
         }
       ],
       "abilities": [
-        "inner_focus",
-        "ice_body",
-        "moody"
+        "slush_rush",
+        "refrigerate",
+        "swift_swim"
       ],
       "frontOffsetY": 28,
       "resources": {
