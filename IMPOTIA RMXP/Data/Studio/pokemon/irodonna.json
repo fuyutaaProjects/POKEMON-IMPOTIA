@@ -5,8 +5,8 @@
   "forms": [
     {
       "form": 0,
-      "height": 0.8,
-      "weight": 4.5,
+      "height": 1.7,
+      "weight": 80.5,
       "type1": "steel",
       "type2": "ghost",
       "baseHp": 110,
@@ -66,82 +66,136 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "tackle",
+          "move": "harden",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "swords_dance",
+          "move": "bind",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "fury_cutter",
-          "level": 5
+          "move": "astonish",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "metal_sound",
-          "level": 8
+          "move": "horn_attack",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "pursuit",
+          "move": "metal_claw",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spikes",
           "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "autotomize",
-          "level": 18
+          "move": "spiky_shield",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "shadow_sneak",
-          "level": 20
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "aerial_ace",
-          "level": 22
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "retaliate",
-          "level": 26
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "slash",
-          "level": 29
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "iron_defense",
-          "level": 32
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "night_slash",
-          "level": 36
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "power_trick",
-          "level": 41
+          "move": "screech",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
           "move": "iron_head",
-          "level": 45
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "sacred_sword",
-          "level": 51
+          "move": "iron_defense",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "confuse_ray",
+          "level": 27
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_claw",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_sound",
+          "level": 31
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "take_down",
+          "level": 34
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spirit_shackle",
+          "level": 37
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_edge",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mirror_coat",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "autotomize",
+          "level": 44
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "heavy_slam",
+          "level": 46
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "phantom_force",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_burst",
+          "level": 52
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_force",
+          "level": 55
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "play_rough",
+          "level": 58
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "guillotine",
+          "level": 66
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "trop_kick",
+          "level": 69
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "horn_drill"
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "snore"
+          "move": "metal_sound"
         },
         {
           "klass": "TutorLearnableMove",
@@ -153,11 +207,11 @@
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "shock_wave"
+          "move": "tickle"
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "magnet_rise"
+          "move": "hex"
         },
         {
           "klass": "TutorLearnableMove",
@@ -168,64 +222,12 @@
           "move": "after_you"
         },
         {
-          "klass": "TechLearnableMove",
-          "move": "swords_dance"
+          "klass": "TutorLearnableMove",
+          "move": "magnet_rise"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "cut"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "toxic"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "double_team"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "reflect"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "rest"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "rock_slide"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "substitute"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "protect"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "false_swipe"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "swagger"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "attract"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "sleep_talk"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "return"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "frustration"
+          "move": "hone_claws"
         },
         {
           "klass": "TechLearnableMove",
@@ -233,11 +235,15 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "rain_dance"
+          "move": "frustration"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "rock_smash"
+          "move": "shadow_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rock_tomb"
         },
         {
           "klass": "TechLearnableMove",
@@ -245,19 +251,11 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "brick_break"
+          "move": "acrobatics"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "secret_power"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "aerial_ace"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "gyro_ball"
+          "move": "embargo"
         },
         {
           "klass": "TechLearnableMove",
@@ -265,15 +263,23 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "flash_cannon"
+          "move": "explosion"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "retaliate"
+          "move": "swords_dance"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "confide"
+          "move": "payback"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "x_scissor"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dark_pulse"
         }
       ]
     }
