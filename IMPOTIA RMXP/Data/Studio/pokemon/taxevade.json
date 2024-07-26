@@ -76,6 +76,16 @@
         },
         {
           "klass": "LevelLearnableMove",
+          "move": "evasion_fiscale",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fraude_fiscale",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "imprison",
           "level": 8
         },
