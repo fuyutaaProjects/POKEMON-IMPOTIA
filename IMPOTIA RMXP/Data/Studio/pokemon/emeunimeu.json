@@ -45,13 +45,13 @@
         }
       ],
       "abilities": [
-        "inner_focus",
+        "dancer",
         "quick_feet",
         "defiant"
       ],
       "frontOffsetY": 21,
       "resources": {
-        "icon": "emeunimeu",
+        "icon": "emeunimeux",
         "iconShiny": "emeunimeu",
         "front": "emeunimeu",
         "frontF": "emeunimeu",
@@ -65,7 +65,7 @@
         "character": "emeunimeu",
         "characterShiny": "emeunimeu",
         "cry": "084cry.ogg",
-        "hasFemale": true
+        "hasFemale": false
       },
       "moveSet": [
         {
