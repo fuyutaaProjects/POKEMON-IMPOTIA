@@ -13,7 +13,8 @@
       54,
       55,
       56,
-      57
+      57,
+      3
     ],
     "hasChildren": true,
     "isExpanded": true,
@@ -46,6 +47,17 @@
       "klass": "MapInfoMap",
       "mapDbSymbol": "map004",
       "parentId": 1
+    }
+  },
+  "3": {
+    "id": 3,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map001",
+      "parentId": 0
     }
   },
   "4": {
