@@ -7,8 +7,8 @@
       "form": 0,
       "height": 1,
       "weight": 29.5,
-      "type1": "psychic",
-      "type2": "grass",
+      "type1": "grass",
+      "type2": "psychic",
       "baseHp": 65,
       "baseAtk": 30,
       "baseDfe": 55,
@@ -21,13 +21,7 @@
       "evSpd": 0,
       "evAts": 1,
       "evDfs": 2,
-      "evolutions": [
-        {
-          "dbSymbol": "robarome",
-          "form": 0,
-          "conditions": []
-        }
-      ],
+      "evolutions": [],
       "experienceType": 1,
       "baseExperience": 142,
       "baseLoyalty": 70,

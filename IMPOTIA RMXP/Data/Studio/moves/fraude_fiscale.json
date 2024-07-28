@@ -1,0 +1,57 @@
+{
+  "klass": "Move",
+  "id": 727,
+  "dbSymbol": "fraude_fiscale",
+  "type": "dark",
+  "category": "special",
+  "isAuthentic": true,
+  "isBallistics": false,
+  "isBite": false,
+  "isBlocable": false,
+  "isCharge": false,
+  "isDance": false,
+  "isDirect": false,
+  "isDistance": true,
+  "isEffectChance": false,
+  "isGravity": false,
+  "isHeal": false,
+  "isKingRockUtility": true,
+  "isMagicCoatAffected": false,
+  "isMental": true,
+  "isMirrorMove": true,
+  "isNonSkyBattle": false,
+  "isPowder": false,
+  "isPulse": false,
+  "isPunch": false,
+  "isRecharge": false,
+  "isSnatchable": false,
+  "isSoundAttack": false,
+  "isSlicingAttack": false,
+  "isUnfreeze": false,
+  "isWind": false,
+  "power": 120,
+  "pp": 5,
+  "priority": 0,
+  "accuracy": 100,
+  "movecriticalRate": 1,
+  "effectChance": 100,
+  "moveStatus": [
+    {
+      "status": "CONFUSED",
+      "luckRate": 100
+    }
+  ],
+  "battleEngineMethod": "s_basic",
+  "battleStageMod": [
+    {
+      "battleStage": "DFE_STAGE",
+      "modificator": -1
+    },
+    {
+      "battleStage": "DFS_STAGE",
+      "modificator": -1
+    }
+  ],
+  "battleEngineAimedTarget": "adjacent_pokemon",
+  "mapUse": 0
+}
