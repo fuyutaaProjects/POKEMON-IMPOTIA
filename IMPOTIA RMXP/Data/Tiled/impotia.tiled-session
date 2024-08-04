@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Lumicite.tmx",
+    "activeFile": "Maps/Temporis.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "PNG to tmx",
@@ -97,11 +97,11 @@
             }
         },
         "Maps/Lumicite.tmx": {
-            "scale": 0.75,
+            "scale": 0.5,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 721.3333333333333,
-                "y": 378.66666666666674
+                "x": 1248,
+                "y": 944
             }
         },
         "Maps/Oasisville.tmx": {
@@ -114,10 +114,18 @@
         },
         "Maps/TEMPLATE.tmx": {
             "scale": 0.5,
-            "selectedLayer": 27,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 618,
-                "y": 316
+                "x": 616,
+                "y": 314
+            }
+        },
+        "Maps/Temporis.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1962.6666666666665,
+                "y": 619.3333333333333
             }
         },
         "Maps/over route 1.tmx": {
@@ -162,10 +170,10 @@
         },
         "Maps/rm_33_port_avalon.tmx": {
             "scale": 1.5,
-            "selectedLayer": 22,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 591.3333333333333,
-                "y": 1355.6666666666665
+                "x": 1197.6666666666665,
+                "y": 1087.6666666666665
             }
         },
         "Maps/rm_34_sylvebrume.tmx": {
@@ -281,19 +289,19 @@
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 8,
+            "scale": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1865.3333333333333,
-                "y": 680.6666666666667
+                "x": 1545,
+                "y": 1576
             }
         },
         "Maps/rm_56_verdentia.tmx": {
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1320,
-                "y": 1202
+                "x": 1319,
+                "y": 937
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -337,27 +345,35 @@
             }
         },
         "Maps/rules_assets.tmx": {
-            "scale": 2,
-            "selectedLayer": 3,
+            "scale": 0.75,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 639.75,
-                "y": 639.75
+                "x": 778.6666666666667,
+                "y": 514.6666666666667
             }
         },
         "Maps/rules_buildings.tmx": {
-            "scale": 1,
-            "selectedLayer": 13,
+            "scale": 1.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 3199.5,
-                "y": 3199.5
+                "x": 350.66666666666663,
+                "y": 272.66666666666663
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 590.6666666666667,
-                "y": 359.3333333333333
+                "x": 1119.75,
+                "y": 799.75
+            }
+        },
+        "Maps/rules_random_tiles.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 303.33333333333337,
+                "y": 369.33333333333337
             }
         },
         "Maps/rules_terrain_basics.tmx": {
@@ -369,19 +385,19 @@
             }
         },
         "Maps/rules_terrain_basics_v2.tmx": {
-            "scale": 1,
-            "selectedLayer": 2,
+            "scale": 3,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 293,
-                "y": 392.5
+                "x": 1119.8333333333333,
+                "y": 3199.833333333333
             }
         },
         "Maps/rules_trees.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 6,
+            "scale": 3,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1166.6666666666667,
-                "y": 273.33333333333337
+                "x": 1523.3333333333333,
+                "y": 316.8333333333333
             }
         },
         "Maps/trailer_map.tmx": {
@@ -727,6 +743,10 @@
         "Tilesets/buildings.tsx": {
             "scaleInDock": 1
         },
+        "Tilesets/cave basics.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
         "Tilesets/cave_normal.tsx": {
             "scaleInDock": 1
         },
@@ -736,7 +756,7 @@
         },
         "Tilesets/common_assets.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 3
+            "scaleInEditor": 1.5
         },
         "Tilesets/forest.tsx": {
             "scaleInDock": 1
@@ -757,7 +777,8 @@
             "scaleInDock": 1
         },
         "Tilesets/nature_basics.tsx": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Tilesets/oasisville.tsx": {
             "scaleInDock": 1
@@ -771,6 +792,10 @@
         "Tilesets/port_avalon.tsx": {
             "scaleInDock": 1
         },
+        "Tilesets/random tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Tilesets/route01.tsx": {
             "scaleInDock": 1
         },
@@ -779,7 +804,7 @@
         },
         "Tilesets/terrain basics v2.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 3
         },
         "Tilesets/terrain_basics.tsx": {
             "scaleInDock": 1
@@ -807,25 +832,26 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Lumicite.tmx",
-        "Tilesets/common_assets.tsx",
-        "Maps/rules_assets.tmx",
-        "Maps/rules_buildings.tmx"
+        "Maps/Temporis.tmx",
+        "Maps/rules_nature.tmx",
+        "Maps/rm_33_port_avalon.tmx",
+        "Maps/rules_random_tiles.tmx",
+        "Maps/rules_terrain_basics_v2.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rules_buildings.tmx",
-        "Maps/rules_assets.tmx",
-        "Tilesets/common_assets.tsx",
-        "Maps/Lumicite.tmx",
         "Maps/rules_terrain_basics_v2.tmx",
-        "Tilesets/animations.tsx",
-        "Maps/rules_terrain_basics.tmx",
+        "Maps/rules_random_tiles.tmx",
+        "Maps/rm_33_port_avalon.tmx",
         "Maps/rules_nature.tmx",
+        "Maps/Temporis.tmx",
+        "Maps/rules_assets.tmx",
+        "Tilesets/random tiles.tsx",
+        "Tilesets/common_assets.tsx",
+        "Tilesets/terrain basics v2.tsx",
+        "Maps/rules_buildings.tmx",
         "Maps/rules_trees.tmx",
-        "Maps/rm_57_foret_arboreon.tmx",
-        "Maps/rm_56_verdentia.tmx",
-        "Tilesets/terrain basics v2.tsx"
+        "Maps/TEMPLATE.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }

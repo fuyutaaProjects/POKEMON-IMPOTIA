@@ -7,7 +7,7 @@
  <tileset firstgid="5289" source="../Tilesets/nature_basics.tsx"/>
  <tileset firstgid="15273" source="../Tilesets/terrain_basics.tsx"/>
  <tileset firstgid="21039" source="../Tilesets/common_assets.tsx"/>
- <layer id="1" name="floor" width="35" height="20">
+ <layer id="1" name="Floor_0" width="35" height="20">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -31,7 +31,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="19" name="terrain" width="35" height="20">
+ <layer id="19" name="Terrain_0" width="35" height="20">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
