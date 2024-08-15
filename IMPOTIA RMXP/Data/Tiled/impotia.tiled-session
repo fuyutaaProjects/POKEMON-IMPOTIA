@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Temporis.tmx",
+    "activeFile": "",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
+        "Maps",
         "PNG to tmx",
         "Tilesets",
-        "Maps",
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -112,6 +112,14 @@
                 "y": 574
             }
         },
+        "Maps/Sanctuaire Oublie.tmx": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1294,
+                "y": 1836.8333333333333
+            }
+        },
         "Maps/TEMPLATE.tmx": {
             "scale": 0.5,
             "selectedLayer": 0,
@@ -122,10 +130,10 @@
         },
         "Maps/Temporis.tmx": {
             "scale": 1.5,
-            "selectedLayer": 0,
+            "selectedLayer": 26,
             "viewCenter": {
-                "x": 1962.6666666666665,
-                "y": 619.3333333333333
+                "x": 1438,
+                "y": 917.9999999999999
             }
         },
         "Maps/over route 1.tmx": {
@@ -172,8 +180,8 @@
             "scale": 1.5,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1197.6666666666665,
-                "y": 1087.6666666666665
+                "x": 1492,
+                "y": 1099
             }
         },
         "Maps/rm_34_sylvebrume.tmx": {
@@ -361,19 +369,19 @@
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 2,
-            "selectedLayer": 4,
+            "scale": 1.5,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1119.75,
-                "y": 799.75
+                "x": 1118.6666666666665,
+                "y": 799
             }
         },
         "Maps/rules_random_tiles.tmx": {
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 303.33333333333337,
-                "y": 369.33333333333337
+                "x": 3198.6666666666665,
+                "y": 3199
             }
         },
         "Maps/rules_terrain_basics.tmx": {
@@ -385,11 +393,11 @@
             }
         },
         "Maps/rules_terrain_basics_v2.tmx": {
-            "scale": 3,
+            "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1119.8333333333333,
-                "y": 3199.833333333333
+                "x": 462.66666666666663,
+                "y": 451.33333333333326
             }
         },
         "Maps/rules_trees.tmx": {
@@ -832,26 +840,21 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Temporis.tmx",
-        "Maps/rules_nature.tmx",
-        "Maps/rm_33_port_avalon.tmx",
-        "Maps/rules_random_tiles.tmx",
-        "Maps/rules_terrain_basics_v2.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rules_terrain_basics_v2.tmx",
-        "Maps/rules_random_tiles.tmx",
-        "Maps/rm_33_port_avalon.tmx",
-        "Maps/rules_nature.tmx",
         "Maps/Temporis.tmx",
+        "Maps/rules_nature.tmx",
+        "Maps/rm_33_port_avalon.tmx",
+        "Maps/rules_random_tiles.tmx",
+        "Maps/rules_terrain_basics_v2.tmx",
+        "Maps/Sanctuaire Oublie.tmx",
         "Maps/rules_assets.tmx",
         "Tilesets/random tiles.tsx",
         "Tilesets/common_assets.tsx",
         "Tilesets/terrain basics v2.tsx",
         "Maps/rules_buildings.tmx",
-        "Maps/rules_trees.tmx",
-        "Maps/TEMPLATE.tmx"
+        "Maps/rules_trees.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
