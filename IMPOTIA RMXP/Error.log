@@ -1,25 +1,26 @@
 ================================Erreur de script================================
 Message :
-dump format error for symbol(0x72)
+min argument must be smaller than max argument
 
 Type : ArgumentError
-Script : tools/GameLoader/40_load_data_uncompiled.rb (PSDK)
-Ligne : 5
-Date : 22/07/2024 11:19:49
+Script : 4 Systems/003 Map Engine/2 Logic/50 RMXP/400 Game_Player.rb (PSDK)
+Ligne : 30
+Date : 25/08/2024 12:00:27
 Game Version : 256
-Logiciel : PSDK 26.28
+Logiciel : PSDK 26.29
 ===================================Backtraces===================================
-[21] : tools/GameLoader/40_load_data_uncompiled.rb (PSDK) | ligne 5 load
-[20] : tools/GameLoader/40_load_data_uncompiled.rb (PSDK) | ligne 5 load_data
-[19] : 020 Config.rb (PSDK) | ligne 112 load_config_data
-[18] : 020 Config.rb (PSDK) | ligne 93 load_file_data
-[17] : 020 Config.rb (PSDK) | ligne 71 register
-[16] : 4 Systems/002 Credits/002 Credit Scene.rb (PSDK) | ligne 6 initialize
-[15] : 4 Systems/001 Title/003 Actions.rb (PSDK) | ligne 39 new
-[14] : 4 Systems/001 Title/003 Actions.rb (PSDK) | ligne 39 action_show_credits
-[13] : 4 Systems/001 Title/003 Actions.rb (PSDK) | ligne 9 action_a
-[12] : 4 Systems/001 Title/002 Scene_Title.rb (PSDK) | ligne 36 update_inputs
-[11] : 4 Systems/000 General/2 GamePlay__Base/000 GamePlay__Base.rb (PSDK) | ligne 469 update
+[22] : 4 Systems/003 Map Engine/2 Logic/50 RMXP/400 Game_Player.rb (PSDK) | ligne 30 clamp
+[21] : 4 Systems/003 Map Engine/2 Logic/50 RMXP/400 Game_Player.rb (PSDK) | ligne 30 center
+[20] : 4 Systems/003 Map Engine/2 Logic/50 RMXP/400 Game_Player.rb (PSDK) | ligne 43 moveto
+[19] : 4 Systems/003 Map Engine/3 GamePlay/202 Scene_Map warp.rb (PSDK) | ligne 15 transfer_player_begin
+[18] : 4 Systems/003 Map Engine/3 GamePlay/202 Scene_Map warp.rb (PSDK) | ligne 25 transfer_player
+[17] : 4 Systems/003 Map Engine/3 GamePlay/200 Scene_Map.rb (PSDK) | ligne 182 auto_transfert_update
+[16] : 4 Systems/003 Map Engine/3 GamePlay/200 Scene_Map.rb (PSDK) | ligne 171 loop
+[15] : 4 Systems/003 Map Engine/3 GamePlay/200 Scene_Map.rb (PSDK) | ligne 171 auto_transfert_update
+[14] : 4 Systems/003 Map Engine/3 GamePlay/200 Scene_Map.rb (PSDK) | ligne 21 update
+[13] : 0 Dependencies/3 Graphics module Improvements/00002 FPSBalancer.rb (PSDK) | ligne 44 times
+[12] : 0 Dependencies/3 Graphics module Improvements/00002 FPSBalancer.rb (PSDK) | ligne 44 run
+[11] : 4 Systems/003 Map Engine/3 GamePlay/200 Scene_Map.rb (PSDK) | ligne 21 update
 [10] : 4 Systems/000 General/2 GamePlay__Base/000 GamePlay__Base.rb (PSDK) | ligne 260 main_process
 [9] : 4 Systems/000 General/2 GamePlay__Base/000 GamePlay__Base.rb (PSDK) | ligne 153 main
 [8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>

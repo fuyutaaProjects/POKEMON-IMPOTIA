@@ -95,6 +95,65 @@
       "parentId": 0
     }
   },
+  "7": {
+    "id": 7,
+    "children": [
+      8,
+      9,
+      10
+    ],
+    "hasChildren": true,
+    "isExpanded": true,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map005",
+      "parentId": 52
+    }
+  },
+  "8": {
+    "id": 8,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map006",
+      "parentId": 7
+    }
+  },
+  "9": {
+    "id": 9,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map007",
+      "parentId": 7
+    }
+  },
+  "10": {
+    "id": 10,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map012",
+      "parentId": 7
+    }
+  },
+  "11": {
+    "id": 11,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map013",
+      "parentId": 52
+    }
+  },
   "12": {
     "id": 12,
     "children": [
@@ -420,6 +479,17 @@
       "parentId": 0
     }
   },
+  "39": {
+    "id": 39,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map036",
+      "parentId": 55
+    }
+  },
   "45": {
     "id": 45,
     "children": [],
@@ -501,9 +571,12 @@
   },
   "52": {
     "id": 52,
-    "children": [],
-    "hasChildren": false,
-    "isExpanded": false,
+    "children": [
+      7,
+      11
+    ],
+    "hasChildren": true,
+    "isExpanded": true,
     "data": {
       "klass": "MapInfoMap",
       "mapDbSymbol": "map043",
@@ -534,9 +607,11 @@
   },
   "55": {
     "id": 55,
-    "children": [],
-    "hasChildren": false,
-    "isExpanded": false,
+    "children": [
+      39
+    ],
+    "hasChildren": true,
+    "isExpanded": true,
     "data": {
       "klass": "MapInfoMap",
       "mapDbSymbol": "map056",
