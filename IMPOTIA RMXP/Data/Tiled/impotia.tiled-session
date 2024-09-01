@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/whitesnakes_interior.tmx",
+    "activeFile": "Maps/Musee_Mermesa_2.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
+        "Maps",
         "PNG to tmx",
         ".",
-        "Maps",
         "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -80,6 +80,14 @@
                 "y": 158
             }
         },
+        "Maps/Gate North Mermesa.tmx": {
+            "scale": 2,
+            "selectedLayer": 27,
+            "viewCenter": {
+                "x": 205.5,
+                "y": 248
+            }
+        },
         "Maps/Gate North Oasisville.tmx": {
             "scale": 0.75,
             "selectedLayer": 0,
@@ -132,8 +140,8 @@
             "scale": 1.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 361.99999999999994,
-                "y": 531.3333333333334
+                "x": 459.99999999999994,
+                "y": 524
             }
         },
         "Maps/Musee_Mermesa_3.tmx": {
@@ -185,11 +193,27 @@
             }
         },
         "Maps/mermesa_interiors.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 28,
+            "scale": 0.33,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1082,
-                "y": 706
+                "x": 1230.3030303030303,
+                "y": 909.0909090909092
+            }
+        },
+        "Maps/mermesa_pokecenter.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 383.99999999999994,
+                "y": 189.99999999999997
+            }
+        },
+        "Maps/mermesa_pokeshop.tmx": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 336,
+                "y": 320.5
             }
         },
         "Maps/over route 1.tmx": {
@@ -233,11 +257,11 @@
             }
         },
         "Maps/rm_33_port_avalon.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 8,
+            "scale": 0.75,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1044,
-                "y": 1027.3333333333333
+                "x": 731.9999999999999,
+                "y": 458.66666666666674
             }
         },
         "Maps/rm_34_sylvebrume.tmx": {
@@ -250,10 +274,10 @@
         },
         "Maps/rm_35_route_02.tmx": {
             "scale": 1.5,
-            "selectedLayer": 7,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 877.3333333333333,
-                "y": 496.99999999999994
+                "x": 891.9999999999999,
+                "y": 257.33333333333337
             }
         },
         "Maps/rm_3_player_s_house.tmx": {
@@ -273,11 +297,11 @@
             }
         },
         "Maps/rm_43_mermesa.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 0,
+            "scale": 1.5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 727.9999999999999,
-                "y": 834.6666666666667
+                "x": 817.3333333333333,
+                "y": 237.33333333333337
             }
         },
         "Maps/rm_45_r1_h_gr1.tmx": {
@@ -345,11 +369,11 @@
             }
         },
         "Maps/rm_54_route_03.tmx": {
-            "scale": 1,
-            "selectedLayer": 7,
+            "scale": 1.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 538,
-                "y": 1082
+                "x": 959.9999999999999,
+                "y": 863.6666666666666
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
@@ -361,11 +385,11 @@
             }
         },
         "Maps/rm_56_verdentia.tmx": {
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1519,
-                "y": 1369
+                "x": 1364,
+                "y": 1019.9999999999999
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -428,8 +452,8 @@
             "scale": 0.75,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 1015.9999999999999,
-                "y": 789.3333333333333
+                "x": 1118.6666666666665,
+                "y": 797.9999999999999
             }
         },
         "Maps/rules_random_tiles.tmx": {
@@ -457,11 +481,11 @@
             }
         },
         "Maps/rules_tileset_interiors.tmx": {
-            "scale": 2,
+            "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 249.5,
-                "y": 5291
+                "x": 4757.575757575758,
+                "y": 5354.545454545454
             }
         },
         "Maps/rules_trees.tmx": {
@@ -490,10 +514,26 @@
         },
         "Maps/verdentia_interiors.tmx": {
             "scale": 1.5,
-            "selectedLayer": 5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 662,
-                "y": 529.3333333333334
+                "x": 660.6666666666666,
+                "y": 528
+            }
+        },
+        "Maps/verdentia_pokecenter.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 379.99999999999994,
+                "y": 263.33333333333337
+            }
+        },
+        "Maps/verdentia_pokeshop.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 437.33333333333337,
+                "y": 299.99999999999994
             }
         },
         "Maps/whitesnakes_interior.tmx": {
@@ -508,16 +548,24 @@
             "scale": 0.5,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1376,
-                "y": 724
+                "x": 1060,
+                "y": 1074
+            }
+        },
+        "Maps/whitesnakes_interiors_lab.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1121,
+                "y": 1307
             }
         },
         "Maps/whitesnakes_interiors_underground.tmx": {
-            "scale": 3,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 1848.3333333333333,
-                "y": 255.99999999999997
+                "x": 1510,
+                "y": 647
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -948,24 +996,24 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/mermesa_interiors.tmx",
-        "Maps/whitesnakes_interior.tmx",
-        "Maps/rm_56_verdentia.tmx"
+        "Maps/rm_54_route_03.tmx",
+        "Maps/rm_43_mermesa.tmx",
+        "Maps/Musee_Mermesa_2.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/whitesnakes_interiors_underground.tmx",
-        "Maps/whitesnakes_interior.tmx",
-        "Maps/verdentia_interiors.tmx",
-        "Maps/mermesa_interiors.tmx",
-        "Maps/rm_56_verdentia.tmx",
+        "Maps/rm_54_route_03.tmx",
         "Maps/rm_43_mermesa.tmx",
-        "Maps/Temporis.tmx",
-        "Maps/rules_assets.tmx",
-        "Maps/temporis_interiors.tmx",
-        "Maps/TEMPLATE.tmx",
-        "Maps/rules_tileset_interiors.tmx",
-        "Maps/rm_45_r1_h_gr1.tmx"
+        "Maps/Musee_Mermesa_2.tmx",
+        "Maps/rm_35_route_02.tmx",
+        "Maps/rm_56_verdentia.tmx",
+        "Maps/rm_33_port_avalon.tmx",
+        "Maps/Gate North Mermesa.tmx",
+        "Maps/verdentia_pokecenter.tmx",
+        "Maps/verdentia_interiors.tmx",
+        "Maps/verdentia_pokeshop.tmx",
+        "Maps/mermesa_pokeshop.tmx",
+        "Maps/mermesa_interiors.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }

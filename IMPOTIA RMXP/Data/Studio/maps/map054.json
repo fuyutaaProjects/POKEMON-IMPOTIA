@@ -4,7 +4,7 @@
   "dbSymbol": "map054",
   "stepsAverage": 30,
   "bgm": {
-    "name": "",
+    "name": "route3.mp3",
     "volume": 100,
     "pitch": 100
   },
@@ -14,8 +14,8 @@
     "pitch": 100
   },
   "tiledFilename": "rm_54_route_03",
-  "mtime": 1720041742865,
-  "sha1": "cdae14bc69605d7ed4ed80000d3e21834aba99b1",
+  "mtime": 1724848760840,
+  "sha1": "d2801a7f20c1224ba4e9b01498e7c1af6756e7e0",
   "tileMetadata": {
     "width": 60,
     "height": 54,
@@ -35,6 +35,10 @@
       {
         "firstGlobalId": 289,
         "source": "../Tilesets/tropical_big_mix.tsx"
+      },
+      {
+        "firstGlobalId": 4033,
+        "source": "../Tilesets/common_assets.tsx"
       }
     ],
     "tileByTileId": [
@@ -2233,7 +2237,7 @@
       ],
       [
         {
-          "globalId": 2578,
+          "globalId": 1321,
           "transformId": 0
         },
         {
@@ -2245,7 +2249,7 @@
       ],
       [
         {
-          "globalId": 2565,
+          "globalId": 1322,
           "transformId": 0
         },
         {
@@ -2257,7 +2261,7 @@
       ],
       [
         {
-          "globalId": 2564,
+          "globalId": 1323,
           "transformId": 0
         },
         {
@@ -2269,7 +2273,13 @@
       ],
       [
         {
-          "globalId": 2577,
+          "globalId": 1322,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 1324,
           "transformId": 0
         },
         {
@@ -2281,11 +2291,8 @@
       ],
       [
         {
-          "globalId": 2579,
+          "globalId": 4390,
           "transformId": 0
-        },
-        {
-          "systemTag": 398
         },
         {
           "passage": 0
@@ -2293,7 +2300,295 @@
       ],
       [
         {
-          "globalId": 2569,
+          "priority": 3
+        },
+        {
+          "globalId": 4442,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 4391,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 3
+        },
+        {
+          "globalId": 4443,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 4392,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 3
+        },
+        {
+          "globalId": 4444,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 4393,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 3
+        },
+        {
+          "globalId": 4445,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 1186,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 1331,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 1194,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4494,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4495,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4496,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4497,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 4546,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 4547,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 4548,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 4549,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 1215,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 1193,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4598,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4599,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4600,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4601,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4650,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4651,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4652,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4653,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4702,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4703,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4704,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4705,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4754,
           "transformId": 0
         }
       ],
@@ -2308,6 +2603,15 @@
       ],
       [
         {
+          "priority": 2
+        },
+        {
+          "globalId": 4755,
+          "transformId": 0
+        }
+      ],
+      [
+        {
           "globalId": 2530,
           "transformId": 0
         },
@@ -2317,11 +2621,29 @@
       ],
       [
         {
+          "priority": 2
+        },
+        {
+          "globalId": 4756,
+          "transformId": 0
+        }
+      ],
+      [
+        {
           "globalId": 2531,
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 4757,
+          "transformId": 0
         }
       ]
     ],
@@ -11043,34 +11365,35 @@
       ],
       [
         29,
-        215
+        216
       ],
       [
         29,
         216
       ],
       [
-        47
+        29,
+        216
+      ],
+      [
+        29,
+        216
+      ],
+      [
+        29,
+        216
+      ],
+      [
+        29,
+        216
+      ],
+      [
+        29,
+        216
       ],
       [
         29,
         217
-      ],
-      [
-        29,
-        215
-      ],
-      [
-        29,
-        215
-      ],
-      [
-        29,
-        215
-      ],
-      [
-        29,
-        216
       ],
       [
         29,
@@ -11200,25 +11523,32 @@
       ],
       [
         4,
+        218,
         86
-      ],
-      [
-        0
-      ],
-      [
-        0
-      ],
-      [
-        29,
-        218
-      ],
-      [
-        29,
-        215
       ],
       [
         29,
         219
+      ],
+      [
+        4,
+        220,
+        221
+      ],
+      [
+        4,
+        222,
+        223
+      ],
+      [
+        4,
+        224,
+        225
+      ],
+      [
+        4,
+        226,
+        227
       ],
       [
         0
@@ -11229,15 +11559,15 @@
       ],
       [
         4,
-        178
+        228
       ],
       [
         29,
-        220,
-        173
+        229,
+        228
       ],
       [
-        4,
+        29,
         131
       ],
       [
@@ -11372,16 +11702,20 @@
         0
       ],
       [
-        0
+        230,
+        231
       ],
       [
-        0
+        0,
+        232
       ],
       [
-        0
+        0,
+        233
       ],
       [
-        0
+        230,
+        234
       ],
       [
         0
@@ -11391,16 +11725,15 @@
         63
       ],
       [
+        0
+      ],
+      [
         4,
         159
       ],
       [
         4,
-        178
-      ],
-      [
-        4,
-        178
+        228
       ],
       [
         4,
@@ -11526,20 +11859,23 @@
       ],
       [
         4,
-        178
-      ],
-      [
-        4,
         150
       ],
       [
-        0
+        230,
+        235
       ],
       [
-        0
+        0,
+        236
       ],
       [
-        0
+        0,
+        237
+      ],
+      [
+        230,
+        238
       ],
       [
         4,
@@ -11547,14 +11883,14 @@
       ],
       [
         4,
-        131
-      ],
-      [
-        4,
-        63
+        239
       ],
       [
         0
+      ],
+      [
+        4,
+        240
       ],
       [
         0
@@ -11684,20 +12020,24 @@
         150
       ],
       [
-        0
-      ],
-      [
         4,
         86
       ],
       [
-        0
+        230,
+        241
       ],
       [
-        0
+        0,
+        242
       ],
       [
-        0
+        0,
+        243
+      ],
+      [
+        230,
+        244
       ],
       [
         4,
@@ -11709,10 +12049,11 @@
       ],
       [
         4,
-        131
+        228
       ],
       [
-        0
+        4,
+        131
       ],
       [
         0
@@ -11836,20 +12177,24 @@
         86
       ],
       [
-        0
-      ],
-      [
         4,
         86
       ],
       [
-        0
+        230,
+        245
       ],
       [
-        0
+        0,
+        246
       ],
       [
-        0
+        0,
+        247
+      ],
+      [
+        230,
+        248
       ],
       [
         4,
@@ -11857,7 +12202,7 @@
       ],
       [
         4,
-        63
+        240
       ],
       [
         0
@@ -11997,20 +12342,23 @@
       ],
       [
         4,
-        1
+        86
       ],
       [
-        4,
-        10
+        230,
+        249
       ],
       [
-        0
+        0,
+        250
       ],
       [
-        0
+        0,
+        251
       ],
       [
-        0
+        230,
+        252
       ],
       [
         4,
@@ -12018,7 +12366,7 @@
       ],
       [
         4,
-        63
+        240
       ],
       [
         0
@@ -12158,20 +12506,23 @@
       ],
       [
         4,
-        5
+        86
       ],
       [
-        4,
-        17
+        230,
+        253
       ],
       [
-        221
+        254,
+        255
       ],
       [
-        222
+        256,
+        257
       ],
       [
-        223
+        258,
+        259
       ],
       [
         4,
@@ -12179,7 +12530,7 @@
       ],
       [
         4,
-        63
+        240
       ],
       [
         0
