@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Musee_Mermesa_2.tmx",
+    "activeFile": "Maps/Lumicite.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Maps",
-        "PNG to tmx",
+        "Tilesets",
         ".",
-        "Tilesets"
+        "Maps",
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -105,11 +105,11 @@
             }
         },
         "Maps/Lumicite.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 5,
+            "scale": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1248,
-                "y": 944
+                "x": 1221.5,
+                "y": 906.5
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -140,8 +140,8 @@
             "scale": 1.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 459.99999999999994,
-                "y": 524
+                "x": 357.99999999999994,
+                "y": 485.99999999999994
             }
         },
         "Maps/Musee_Mermesa_3.tmx": {
@@ -153,27 +153,35 @@
             }
         },
         "Maps/Musee_Mermesa_4.tmx": {
-            "scale": 1,
+            "scale": 1.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 507,
-                "y": 475
+                "x": 250.66666666666663,
+                "y": 431.99999999999994
+            }
+        },
+        "Maps/Musee_Mermesa_SecurityRoom.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 386,
+                "y": 484
             }
         },
         "Maps/Oasisville.tmx": {
-            "scale": 1,
+            "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 900,
-                "y": 574
+                "x": 994.6666666666667,
+                "y": 667.9999999999999
             }
         },
         "Maps/Sanctuaire Oublie.tmx": {
-            "scale": 3,
-            "selectedLayer": 3,
+            "scale": 1.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1294,
-                "y": 1836.8333333333333
+                "x": 972.6666666666666,
+                "y": 1160.6666666666665
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -186,10 +194,10 @@
         },
         "Maps/Temporis.tmx": {
             "scale": 0.75,
-            "selectedLayer": 6,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 2120,
-                "y": 1348
+                "x": 1617.3333333333333,
+                "y": 873.3333333333333
             }
         },
         "Maps/mermesa_interiors.tmx": {
@@ -257,19 +265,23 @@
             }
         },
         "Maps/rm_33_port_avalon.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 0,
+            "scale": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 731.9999999999999,
-                "y": 458.66666666666674
+                "x": 579,
+                "y": 580.8333333333333
             }
         },
         "Maps/rm_34_sylvebrume.tmx": {
-            "scale": 0.17812499999999998,
-            "selectedLayer": 0,
+            "expandedGroupLayers": [
+                22,
+                24
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1594.3859649122812,
-                "y": 2234.3859649122805
+                "x": 1118.6666666666667,
+                "y": 957.3333333333333
             }
         },
         "Maps/rm_35_route_02.tmx": {
@@ -297,11 +309,11 @@
             }
         },
         "Maps/rm_43_mermesa.tmx": {
-            "scale": 1.5,
+            "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 817.3333333333333,
-                "y": 237.33333333333337
+                "x": 980,
+                "y": 908
             }
         },
         "Maps/rm_45_r1_h_gr1.tmx": {
@@ -369,27 +381,27 @@
             }
         },
         "Maps/rm_54_route_03.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 0,
+            "scale": 2,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 959.9999999999999,
-                "y": 863.6666666666666
+                "x": 443.5,
+                "y": 1484.5
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 3,
+            "scale": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1934.6666666666667,
-                "y": 1186
+                "x": 1517.5,
+                "y": 1869.5
             }
         },
         "Maps/rm_56_verdentia.tmx": {
-            "scale": 0.75,
+            "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1364,
-                "y": 1019.9999999999999
+                "x": 1362,
+                "y": 1031.5
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -433,19 +445,19 @@
             }
         },
         "Maps/rules_assets.tmx": {
-            "scale": 2,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 192,
-                "y": 266
+                "x": 934,
+                "y": 836
             }
         },
         "Maps/rules_buildings.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 1,
+            "scale": 0.25,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 350.66666666666663,
-                "y": 272.66666666666663
+                "x": 548,
+                "y": 712
             }
         },
         "Maps/rules_nature.tmx": {
@@ -481,11 +493,11 @@
             }
         },
         "Maps/rules_tileset_interiors.tmx": {
-            "scale": 0.33,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 4757.575757575758,
-                "y": 5354.545454545454
+                "x": 565.3333333333333,
+                "y": 297.33333333333326
             }
         },
         "Maps/rules_trees.tmx": {
@@ -545,19 +557,19 @@
             }
         },
         "Maps/whitesnakes_interiors_floor_0.tmx": {
-            "scale": 0.5,
+            "scale": 2,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1060,
-                "y": 1074
+                "x": 1917.5,
+                "y": 234.75
             }
         },
         "Maps/whitesnakes_interiors_lab.tmx": {
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1121,
-                "y": 1307
+                "x": 1441,
+                "y": 1291.5
             }
         },
         "Maps/whitesnakes_interiors_underground.tmx": {
@@ -769,6 +781,49 @@
         "P:/PSDK FOLDERS/CLEAN/testimporrt/Data/Tiled/Tilesets/systemtags.tsx": {
             "scaleInDock": 1
         },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Maps/005 River.tmx": {
+            "scale": 2,
+            "selectedLayer": 67,
+            "viewCenter": {
+                "x": 922.5,
+                "y": 1196
+            }
+        },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Maps/010 CyclingRoad.tmx": {
+            "scale": 2,
+            "selectedLayer": 84,
+            "viewCenter": {
+                "x": 654,
+                "y": 956
+            }
+        },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Tilesets/TECH-Animations.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Tilesets/TECH-Assets.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Tilesets/TECH-Buildings.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Tilesets/TECH-Misc..tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Tilesets/TECH-Mounts.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Tilesets/TECH-Nature.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Tilesets/TECH-borders.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Tilesets/passages.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Tilesets/systemtags.tsx": {
+            "scaleInDock": 1
+        },
         "P:/PSDK FOLDERS/DEMO 21-06-24/Data/Tiled/Maps/008 Marsh.tmx": {
             "scale": 1.5,
             "selectedLayer": 40,
@@ -898,7 +953,8 @@
             "scaleInEditor": 1
         },
         "Tilesets/bar_avalons.tsx": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Tilesets/buildings.tsx": {
             "scaleInDock": 1
@@ -996,24 +1052,23 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/rm_54_route_03.tmx",
-        "Maps/rm_43_mermesa.tmx",
-        "Maps/Musee_Mermesa_2.tmx"
+        "Maps/rm_34_sylvebrume.tmx",
+        "Maps/Lumicite.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rm_54_route_03.tmx",
-        "Maps/rm_43_mermesa.tmx",
-        "Maps/Musee_Mermesa_2.tmx",
-        "Maps/rm_35_route_02.tmx",
-        "Maps/rm_56_verdentia.tmx",
+        "Maps/rm_34_sylvebrume.tmx",
+        "Maps/Lumicite.tmx",
+        "Maps/rules_assets.tmx",
+        "Maps/rules_buildings.tmx",
+        "Tilesets/animations.tsx",
+        "Maps/Sanctuaire Oublie.tmx",
+        "Maps/Temporis.tmx",
+        "Maps/Oasisville.tmx",
+        "Tilesets/common_assets.tsx",
+        "Maps/whitesnakes_interiors_lab.tmx",
         "Maps/rm_33_port_avalon.tmx",
-        "Maps/Gate North Mermesa.tmx",
-        "Maps/verdentia_pokecenter.tmx",
-        "Maps/verdentia_interiors.tmx",
-        "Maps/verdentia_pokeshop.tmx",
-        "Maps/mermesa_pokeshop.tmx",
-        "Maps/mermesa_interiors.tmx"
+        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Maps/005 River.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }

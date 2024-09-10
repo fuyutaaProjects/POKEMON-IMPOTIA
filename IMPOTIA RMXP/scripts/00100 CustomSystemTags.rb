@@ -116,6 +116,7 @@ module GameData
     UnderwaterGrass = gen 2, 12
     LavaCave = gen 3, 12
     SnowCave = gen 4, 12
+    MesaSandGrass = gen 5, 12
 
 
     # Those two lines allow to reuse the original system_tag_db_symbol as psdk_system_tag_db_symbol
@@ -131,6 +132,7 @@ module GameData
       return :custom_underwater_grass if system_tag == UnderwaterGrass
       return :custom_lava_cave if system_tag == LavaCave
       return :custom_snow_cave if system_tag == SnowCave
+      return :custom_mesa_sand_grass if system_tag == MesaSandGrass
       return psdk_system_tag_db_symbol(system_tag)
     end
   end
@@ -141,6 +143,7 @@ Battle::Logic::BattleInfo::BACKGROUND_NAMES.push('back_yellow_sand_grass_no_tree
 Battle::Logic::BattleInfo::BACKGROUND_NAMES.push('back_underwater_grass')
 Battle::Logic::BattleInfo::BACKGROUND_NAMES.push('back_lava_cave')
 Battle::Logic::BattleInfo::BACKGROUND_NAMES.push('back_snow_cave')
+Battle::Logic::BattleInfo::BACKGROUND_NAMES.push('back_mesa')
 
 module CustomSystemTagsOverwrites
   # Return the zone type
@@ -152,6 +155,7 @@ module CustomSystemTagsOverwrites
     return 13 if custom_underwater_grass?
     return 14 if custom_lava_cave?
     return 15 if custom_snow_cave?
+    return 16 if custom_mesa_sand_grass?
     return super(ice_prio)
   end
 
@@ -172,6 +176,9 @@ module CustomSystemTagsOverwrites
   def custom_snow_cave?
     return @game_state.game_player.system_tag == GameData::SystemTags::SnowCave
   end
+  def custom_mesa_sand_grass?
+    return @game_state.game_player.system_tag == GameData::SystemTags::MesaSandGrass
+  end
 
   # Convert a system_tag to a zone_type
   # @param system_tag [Integer] the system tag
@@ -182,6 +189,7 @@ module CustomSystemTagsOverwrites
     return 13 if system_tag == GameData::SystemTags::UnderwaterGrass
     return 14 if system_tag == GameData::SystemTags::LavaCave
     return 15 if system_tag == GameData::SystemTags::SnowCave
+    return 16 if system_tag == GameData::SystemTags::MesaSandGrass
     return super(system_tag)
   end
 end
@@ -191,3 +199,4 @@ PFM::Environment.prepend(CustomSystemTagsOverwrites)
 Game_Character::PARTICLES_METHODS[GameData::SystemTags::YellowSandGrass] = :particle_push_grass
 Game_Character::PARTICLES_METHODS[GameData::SystemTags::YellowSandGrassNoTrees] = :particle_push_grass
 Game_Character::PARTICLES_METHODS[GameData::SystemTags::UnderwaterGrass] = :particle_push_grass
+Game_Character::PARTICLES_METHODS[GameData::SystemTags::MesaSandGrass] = :particle_push_grass

@@ -100,7 +100,8 @@
     "children": [
       8,
       9,
-      10
+      10,
+      59
     ],
     "hasChildren": true,
     "isExpanded": true,
@@ -713,6 +714,17 @@
       "klass": "MapInfoMap",
       "mapDbSymbol": "map058",
       "parentId": 0
+    }
+  },
+  "59": {
+    "id": 59,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map059",
+      "parentId": 7
     }
   }
 }
