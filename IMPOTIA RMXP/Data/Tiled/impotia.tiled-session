@@ -6,8 +6,8 @@
     "activeFile": "Maps/Lumicite.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "PNG to tmx",
         "Maps",
+        "PNG to tmx",
         ".",
         "Tilesets"
     ],
@@ -108,11 +108,11 @@
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 3713,
-                "y": 2076
+                "x": 6260.666666666666,
+                "y": 1437.3333333333333
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -403,8 +403,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1362,
-                "y": 1031.5
+                "x": 1448.5,
+                "y": 1174
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -459,24 +459,24 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 2885,
-                "y": 609.5
+                "x": 2938.5,
+                "y": 411
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 2,
-            "selectedLayer": 7,
+            "scale": 1.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 462.5,
-                "y": 720
+                "x": 1469.6666666666665,
+                "y": 918
             }
         },
         "Maps/rules_random_tiles.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 1,
+            "scale": 0.5,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 553.3333333333334,
-                "y": 358.66666666666663
+                "x": 631,
+                "y": 124
             }
         },
         "Maps/rules_terrain_basics.tmx": {
@@ -504,11 +504,11 @@
             }
         },
         "Maps/rules_trees.tmx": {
-            "scale": 3,
-            "selectedLayer": 0,
+            "scale": 2,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1106.3333333333333,
-                "y": 426.66666666666663
+                "x": 1098.25,
+                "y": 458.5
             }
         },
         "Maps/temporis_interiors.tmx": {
@@ -1027,7 +1027,7 @@
         },
         "Tilesets/terrain basics v2.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 0.75
+            "scaleInEditor": 1
         },
         "Tilesets/terrain_basics.tsx": {
             "scaleInDock": 1
@@ -1056,22 +1056,22 @@
     "map.width": 50,
     "openFiles": [
         "Maps/Lumicite.tmx",
-        "Maps/rules_buildings.tmx"
+        "Maps/rules_nature.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rules_buildings.tmx",
-        "Maps/Lumicite.tmx",
-        "Tilesets/terrain basics v2.tsx",
-        "Maps/rules_terrain_basics_v2.tmx",
-        "Maps/rules_random_tiles.tmx",
-        "Maps/rm_42_route_01.tmx",
         "Maps/rules_nature.tmx",
+        "Maps/Lumicite.tmx",
+        "Maps/rules_buildings.tmx",
+        "Maps/rules_random_tiles.tmx",
+        "Maps/rules_trees.tmx",
+        "Tilesets/terrain basics v2.tsx",
+        "Maps/rm_56_verdentia.tmx",
+        "Maps/rules_terrain_basics_v2.tmx",
+        "Maps/rm_42_route_01.tmx",
         "Maps/rm_35_route_02.tmx",
         "Maps/rm_34_sylvebrume.tmx",
-        "Maps/rules_trees.tmx",
-        "Tilesets/nature_basics.tsx",
-        "Maps/rules_terrain_basics.tmx"
+        "Tilesets/nature_basics.tsx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
