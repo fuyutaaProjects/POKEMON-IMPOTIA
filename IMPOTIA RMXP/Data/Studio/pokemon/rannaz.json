@@ -356,7 +356,11 @@
           "klass": "TutorLearnableMove",
           "move": "ice_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 703,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -429,7 +433,11 @@
         "cry": "074cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 704,
+        "description": 197
+      }
     }
   ]
 }

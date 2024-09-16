@@ -478,7 +478,11 @@
           "klass": "BreedLearnableMove",
           "move": "misty_terrain"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 561,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -889,7 +893,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 562,
+        "description": 161
+      }
     }
   ]
 }

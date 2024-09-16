@@ -336,7 +336,11 @@
           "klass": "BreedLearnableMove",
           "move": "eerie_impulse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 798,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -907,7 +911,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 799,
+        "description": 228
+      }
     }
   ]
 }

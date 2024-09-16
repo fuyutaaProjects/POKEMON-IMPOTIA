@@ -324,7 +324,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 102,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -661,7 +665,11 @@
           "klass": "BreedLearnableMove",
           "move": "leaf_storm"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 103,
+        "description": 40
+      }
     },
     {
       "form": 2,
@@ -998,7 +1006,11 @@
           "klass": "BreedLearnableMove",
           "move": "leaf_storm"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 104,
+        "description": 41
+      }
     }
   ]
 }

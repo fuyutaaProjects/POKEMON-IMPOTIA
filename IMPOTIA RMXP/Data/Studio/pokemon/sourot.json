@@ -360,7 +360,11 @@
           "klass": "TutorLearnableMove",
           "move": "nasty_plot"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 857,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -441,7 +445,11 @@
         "cry": "019cry.ogg",
         "hasFemale": true
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 858,
+        "description": 251
+      }
     },
     {
       "form": 2,
@@ -760,7 +768,11 @@
           "klass": "BreedLearnableMove",
           "move": "revenge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 859,
+        "description": 252
+      }
     },
     {
       "form": 3,
@@ -1079,7 +1091,11 @@
           "klass": "BreedLearnableMove",
           "move": "revenge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 860,
+        "description": 253
+      }
     },
     {
       "form": 4,
@@ -1398,7 +1414,11 @@
           "klass": "BreedLearnableMove",
           "move": "revenge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 861,
+        "description": 254
+      }
     }
   ]
 }

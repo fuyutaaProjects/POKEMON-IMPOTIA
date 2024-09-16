@@ -318,7 +318,11 @@
           "klass": "TechLearnableMove",
           "move": "wild_charge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 321,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -703,7 +707,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 322,
+        "description": 94
+      }
     },
     {
       "form": 30,
@@ -1078,7 +1086,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 323,
+        "description": 95
+      }
     },
     {
       "form": 31,
@@ -1453,7 +1465,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 324,
+        "description": 96
+      }
     }
   ]
 }

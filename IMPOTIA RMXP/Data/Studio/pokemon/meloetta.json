@@ -451,7 +451,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 567,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -901,7 +905,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 568,
+        "description": 163
+      }
     }
   ]
 }

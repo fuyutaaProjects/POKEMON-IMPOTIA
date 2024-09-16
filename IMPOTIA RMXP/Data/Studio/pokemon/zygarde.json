@@ -334,7 +334,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1034,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -396,7 +400,11 @@
         "cry": "718cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 1035,
+        "description": 312
+      }
     },
     {
       "form": 2,
@@ -458,7 +466,11 @@
         "cry": "718cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 1036,
+        "description": 313
+      }
     },
     {
       "form": 3,
@@ -520,7 +532,11 @@
         "cry": "718cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 1037,
+        "description": 314
+      }
     },
     {
       "form": 4,
@@ -1101,7 +1117,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1038,
+        "description": 315
+      }
     },
     {
       "form": 5,
@@ -1682,7 +1702,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1039,
+        "description": 316
+      }
     }
   ]
 }

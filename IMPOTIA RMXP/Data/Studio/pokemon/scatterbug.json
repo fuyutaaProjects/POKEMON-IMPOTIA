@@ -111,7 +111,11 @@
           "klass": "BreedLearnableMove",
           "move": "rage_powder"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 763,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -633,7 +637,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 764,
+        "description": 219
+      }
     },
     {
       "form": 9,
@@ -1155,7 +1163,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 765,
+        "description": 220
+      }
     }
   ]
 }

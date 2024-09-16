@@ -374,7 +374,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 352,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -737,7 +741,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 353,
+        "description": 110
+      }
     }
   ]
 }

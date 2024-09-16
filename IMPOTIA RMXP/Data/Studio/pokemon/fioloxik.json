@@ -269,7 +269,11 @@
           "klass": "BreedLearnableMove",
           "move": "stockpile"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 293,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -331,7 +335,11 @@
         "cry": "089cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 294,
+        "description": 80
+      }
     }
   ]
 }

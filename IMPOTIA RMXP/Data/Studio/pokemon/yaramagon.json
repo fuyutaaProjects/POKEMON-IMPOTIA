@@ -351,7 +351,11 @@
           "klass": "BreedLearnableMove",
           "move": "fire_fang"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1022,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -767,7 +771,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1023,
+        "description": 309
+      }
     },
     {
       "form": 2,
@@ -1183,7 +1191,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1024,
+        "description": 310
+      }
     },
     {
       "form": 30,
@@ -1599,7 +1611,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1025,
+        "description": 311
+      }
     }
   ]
 }

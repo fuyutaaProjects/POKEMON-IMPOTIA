@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 150,
-  "dbSymbol": "songitatwo",
+  "dbSymbol": "songeapin",
   "forms": [
     {
       "form": 0,
@@ -502,7 +502,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 0,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -994,7 +998,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 0,
+        "description": 0
+      }
     },
     {
       "form": 31,
@@ -1486,7 +1494,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 0,
+        "description": 0
+      }
     }
   ]
 }

@@ -23,7 +23,7 @@
       "evDfs": 0,
       "evolutions": [
         {
-          "dbSymbol": "kadpeion",
+          "dbSymbol": "foodelik",
           "form": 0,
           "conditions": [
             {
@@ -366,7 +366,11 @@
           "klass": "TutorLearnableMove",
           "move": "kinesis"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 655,
+        "description": 0
+      }
     }
   ]
 }

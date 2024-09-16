@@ -390,7 +390,11 @@
           "klass": "BreedLearnableMove",
           "move": "sucker_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1009,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -456,7 +460,11 @@
         "cry": "020cry.ogg",
         "hasFemale": true
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 1010,
+        "description": 304
+      }
     },
     {
       "form": 2,
@@ -522,7 +530,11 @@
         "cry": "020cry.ogg",
         "hasFemale": true
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 1011,
+        "description": 305
+      }
     }
   ]
 }

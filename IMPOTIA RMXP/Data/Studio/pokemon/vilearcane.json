@@ -1,7 +1,7 @@
 {
     "klass": "Specie",
     "id": 47,
-    "dbSymbol": "vileaect",
+    "dbSymbol": "vilearcane",
     "forms": [
         {
             "form": 0,
@@ -324,7 +324,11 @@
                     "klass": "TechLearnableMove",
                     "move": "confide"
                 }
-            ]
+            ],
+            "formTextId": {
+              "name": 0,
+              "description": 0
+            }
         }
     ]
 }

@@ -404,7 +404,11 @@
           "klass": "BreedLearnableMove",
           "move": "play_rough"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 224,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -466,7 +470,11 @@
         "cry": "051cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 225,
+        "description": 66
+      }
     }
   ]
 }

@@ -66,73 +66,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TutorLearnableMove",
@@ -530,7 +530,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 26,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -595,73 +599,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -963,7 +967,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 27,
+        "description": 9
+      }
     },
     {
       "form": 2,
@@ -1028,73 +1036,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -1396,7 +1404,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 28,
+        "description": 10
+      }
     },
     {
       "form": 3,
@@ -1461,73 +1473,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -1829,7 +1841,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 29,
+        "description": 11
+      }
     },
     {
       "form": 4,
@@ -1894,73 +1910,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -2262,7 +2278,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 30,
+        "description": 12
+      }
     },
     {
       "form": 5,
@@ -2327,73 +2347,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -2695,7 +2715,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 31,
+        "description": 13
+      }
     },
     {
       "form": 6,
@@ -2760,73 +2784,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -3128,7 +3152,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 32,
+        "description": 14
+      }
     },
     {
       "form": 7,
@@ -3193,73 +3221,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -3561,7 +3589,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 33,
+        "description": 15
+      }
     },
     {
       "form": 8,
@@ -3626,73 +3658,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -3994,7 +4026,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 34,
+        "description": 16
+      }
     },
     {
       "form": 9,
@@ -4059,73 +4095,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -4427,7 +4463,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 35,
+        "description": 17
+      }
     },
     {
       "form": 10,
@@ -4492,73 +4532,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -4860,7 +4900,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 36,
+        "description": 18
+      }
     },
     {
       "form": 11,
@@ -4925,73 +4969,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -5293,7 +5337,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 37,
+        "description": 19
+      }
     },
     {
       "form": 12,
@@ -5358,73 +5406,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -5726,7 +5774,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 38,
+        "description": 20
+      }
     },
     {
       "form": 13,
@@ -5791,73 +5843,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -6159,7 +6211,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 39,
+        "description": 21
+      }
     },
     {
       "form": 14,
@@ -6224,73 +6280,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -6592,7 +6648,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 40,
+        "description": 22
+      }
     },
     {
       "form": 15,
@@ -6657,73 +6717,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -7025,7 +7085,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 41,
+        "description": 23
+      }
     },
     {
       "form": 16,
@@ -7090,73 +7154,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -7458,7 +7522,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 42,
+        "description": 24
+      }
     },
     {
       "form": 17,
@@ -7523,73 +7591,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "punishment"
+          "move": "punishment",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "seismic_toss"
+          "move": "seismic_toss",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "cosmic_power"
+          "move": "cosmic_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "gravity"
+          "move": "gravity",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "earth_power"
+          "move": "earth_power",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "hyper_voice"
+          "move": "hyper_voice",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 40,
-          "move": "extreme_speed"
+          "move": "extreme_speed",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "refresh"
+          "move": "refresh",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 70,
-          "move": "recover"
+          "move": "recover",
+          "level": 70
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "hyper_beam"
+          "move": "hyper_beam",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 90
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 100,
-          "move": "judgment"
+          "move": "judgment",
+          "level": 100
         },
         {
           "klass": "TechLearnableMove",
@@ -7891,7 +7959,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 43,
+        "description": 25
+      }
     }
   ]
 }

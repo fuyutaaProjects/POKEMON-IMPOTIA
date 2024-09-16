@@ -308,7 +308,11 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1013,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -615,7 +619,11 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1014,
+        "description": 306
+      }
     },
     {
       "form": 2,
@@ -922,7 +930,11 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1015,
+        "description": 307
+      }
     },
     {
       "form": 3,
@@ -1483,7 +1495,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1016,
+        "description": 308
+      }
     }
   ]
 }

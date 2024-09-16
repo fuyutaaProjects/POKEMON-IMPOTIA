@@ -1,7 +1,7 @@
 {
     "klass": "Specie",
     "id": 64,
-    "dbSymbol": "kadpeion",
+    "dbSymbol": "foodelik",
     "forms": [
         {
             "form": 0,
@@ -395,7 +395,11 @@
                     "klass": "TechLearnableMove",
                     "move": "dazzling_gleam"
                 }
-            ]
+            ],
+            "formTextId": {
+              "name": 0,
+              "description": 0
+            }
         }
     ]
 }

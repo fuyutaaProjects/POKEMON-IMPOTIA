@@ -23,14 +23,14 @@
       "evDfs": 2,
       "evolutions": [
         {
+          "dbSymbol": "florges",
+          "form": 0,
           "conditions": [
             {
               "type": "stone",
               "value": "shiny_stone"
             }
-          ],
-          "dbSymbol": "florges",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -84,73 +84,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 58
         },
         {
           "klass": "TutorLearnableMove",
@@ -304,7 +304,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 304,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -326,14 +330,14 @@
       "evDfs": 2,
       "evolutions": [
         {
+          "dbSymbol": "florges",
+          "form": 1,
           "conditions": [
             {
               "type": "stone",
               "value": "shiny_stone"
             }
-          ],
-          "dbSymbol": "florges",
-          "form": 1
+          ]
         }
       ],
       "experienceType": 1,
@@ -387,73 +391,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 58
         },
         {
           "klass": "TechLearnableMove",
@@ -563,7 +567,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 305,
+        "description": 85
+      }
     },
     {
       "form": 2,
@@ -585,14 +593,14 @@
       "evDfs": 2,
       "evolutions": [
         {
+          "dbSymbol": "florges",
+          "form": 2,
           "conditions": [
             {
               "type": "stone",
               "value": "shiny_stone"
             }
-          ],
-          "dbSymbol": "florges",
-          "form": 2
+          ]
         }
       ],
       "experienceType": 1,
@@ -646,73 +654,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 58
         },
         {
           "klass": "TechLearnableMove",
@@ -822,7 +830,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 306,
+        "description": 86
+      }
     },
     {
       "form": 3,
@@ -844,14 +856,14 @@
       "evDfs": 2,
       "evolutions": [
         {
+          "dbSymbol": "florges",
+          "form": 3,
           "conditions": [
             {
               "type": "stone",
               "value": "shiny_stone"
             }
-          ],
-          "dbSymbol": "florges",
-          "form": 3
+          ]
         }
       ],
       "experienceType": 1,
@@ -905,73 +917,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 58
         },
         {
           "klass": "TechLearnableMove",
@@ -1081,7 +1093,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 307,
+        "description": 87
+      }
     },
     {
       "form": 4,
@@ -1103,14 +1119,14 @@
       "evDfs": 2,
       "evolutions": [
         {
+          "dbSymbol": "florges",
+          "form": 4,
           "conditions": [
             {
               "type": "stone",
               "value": "shiny_stone"
             }
-          ],
-          "dbSymbol": "florges",
-          "form": 4
+          ]
         }
       ],
       "experienceType": 1,
@@ -1164,73 +1180,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 58
         },
         {
           "klass": "TechLearnableMove",
@@ -1340,7 +1356,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 308,
+        "description": 88
+      }
     },
     {
       "form": 5,
@@ -1412,78 +1432,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 25,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 27,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 27
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 38,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 43,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "light_of_ruin"
+          "move": "light_of_ruin",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 51
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 58,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 58
         },
         {
           "klass": "TutorLearnableMove",
@@ -1637,7 +1657,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 309,
+        "description": 89
+      }
     }
   ]
 }

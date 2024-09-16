@@ -490,7 +490,11 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 746,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -925,7 +929,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 747,
+        "description": 213
+      }
     }
   ]
 }

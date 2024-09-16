@@ -432,7 +432,11 @@
           "klass": "TutorLearnableMove",
           "move": "spikes"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 422,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -505,7 +509,11 @@
         "cry": "052cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 423,
+        "description": 132
+      }
     }
   ]
 }

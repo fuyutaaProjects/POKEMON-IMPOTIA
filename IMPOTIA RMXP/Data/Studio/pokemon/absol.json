@@ -524,7 +524,11 @@
           "klass": "BreedLearnableMove",
           "move": "play_rough"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 0,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -977,7 +981,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1,
+        "description": 1
+      }
     }
   ]
 }

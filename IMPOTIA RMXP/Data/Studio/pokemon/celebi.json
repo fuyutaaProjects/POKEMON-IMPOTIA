@@ -66,73 +66,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "confusion"
+          "move": "confusion",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "recover"
+          "move": "recover",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "heal_bell"
+          "move": "heal_bell",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "safeguard"
+          "move": "safeguard",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 19,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "baton_pass"
+          "move": "baton_pass",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "natural_gift"
+          "move": "natural_gift",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 55,
-          "move": "heal_block"
+          "move": "heal_block",
+          "level": 55
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 64,
-          "move": "future_sight"
+          "move": "future_sight",
+          "level": 64
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 73,
-          "move": "healing_wish"
+          "move": "healing_wish",
+          "level": 73
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 82,
-          "move": "leaf_storm"
+          "move": "leaf_storm",
+          "level": 82
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 91,
-          "move": "perish_song"
+          "move": "perish_song",
+          "level": 91
         },
         {
           "klass": "TutorLearnableMove",
@@ -382,7 +382,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 143,
+        "description": 0
+      }
     }
   ]
 }

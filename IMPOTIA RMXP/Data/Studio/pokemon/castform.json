@@ -333,7 +333,11 @@
           "klass": "BreedLearnableMove",
           "move": "reflect_type"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 139,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -625,7 +629,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 140,
+        "description": 51
+      }
     },
     {
       "form": 3,
@@ -917,7 +925,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 141,
+        "description": 52
+      }
     },
     {
       "form": 6,
@@ -1209,7 +1221,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 142,
+        "description": 53
+      }
     }
   ]
 }

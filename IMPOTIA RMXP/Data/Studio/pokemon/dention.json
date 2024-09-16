@@ -326,7 +326,11 @@
           "klass": "BreedLearnableMove",
           "move": "grassy_terrain"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 226,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -388,7 +392,11 @@
         "cry": "103cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 227,
+        "description": 67
+      }
     }
   ]
 }

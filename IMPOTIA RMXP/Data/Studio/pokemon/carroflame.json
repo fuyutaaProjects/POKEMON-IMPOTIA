@@ -363,7 +363,11 @@
           "klass": "TechLearnableMove",
           "move": "shadow_ball"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 132,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -436,7 +440,11 @@
         "cry": "037cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 133,
+        "description": 48
+      }
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 771,
-  "dbSymbol": "pyukufioloxiku",
+  "dbSymbol": "pyukumuku",
   "forms": [
     {
       "form": 0,
@@ -32,7 +32,7 @@
         2
       ],
       "hatchSteps": 3840,
-      "babyDbSymbol": "pyukufioloxiku",
+      "babyDbSymbol": "pyukumuku",
       "babyForm": 0,
       "itemHeld": [],
       "abilities": [
@@ -54,7 +54,11 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 0,
+        "description": 0
+      }
     }
   ]
 }

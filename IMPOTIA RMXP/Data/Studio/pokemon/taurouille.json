@@ -437,7 +437,11 @@
           "klass": "TutorLearnableMove",
           "move": "volt_tackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 902,
+        "description": 0
+      }
     },
     {
       "form": 29,
@@ -800,7 +804,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 903,
+        "description": 266
+      }
     },
     {
       "form": 30,
@@ -1234,7 +1242,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 904,
+        "description": 267
+      }
     }
   ]
 }

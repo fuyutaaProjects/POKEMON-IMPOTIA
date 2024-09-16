@@ -390,7 +390,11 @@
           "klass": "TechLearnableMove",
           "move": "thunder_wave"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 19,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -803,7 +807,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 20,
+        "description": 7
+      }
     },
     {
       "form": 31,
@@ -1216,7 +1224,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 21,
+        "description": 8
+      }
     }
   ]
 }

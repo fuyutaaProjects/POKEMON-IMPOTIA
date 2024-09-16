@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 739,
-  "dbSymbol": "crpeionwler",
+  "dbSymbol": "crabrawler",
   "forms": [
     {
       "form": 0,
@@ -45,7 +45,7 @@
         9
       ],
       "hatchSteps": 5120,
-      "babyDbSymbol": "crpeionwler",
+      "babyDbSymbol": "crabrawler",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -76,7 +76,11 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 205,
+        "description": 0
+      }
     }
   ]
 }

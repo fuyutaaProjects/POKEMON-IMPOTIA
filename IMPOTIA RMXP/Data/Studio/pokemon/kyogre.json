@@ -66,73 +66,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "aqua_tail"
+          "move": "aqua_tail",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "aqua_ring"
+          "move": "aqua_ring",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "ice_beam"
+          "move": "ice_beam",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "origin_pulse"
+          "move": "origin_pulse",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "muddy_water"
+          "move": "muddy_water",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "sheer_cold"
+          "move": "sheer_cold",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "water_spout"
+          "move": "water_spout",
+          "level": 90
         },
         {
           "klass": "TutorLearnableMove",
@@ -322,7 +322,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 483,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -387,73 +391,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "ancient_power"
+          "move": "ancient_power",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 5,
-          "move": "scary_face"
+          "move": "scary_face",
+          "level": 5
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "aqua_tail"
+          "move": "aqua_tail",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 30,
-          "move": "aqua_ring"
+          "move": "aqua_ring",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 35,
-          "move": "ice_beam"
+          "move": "ice_beam",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "origin_pulse"
+          "move": "origin_pulse",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 50,
-          "move": "calm_mind"
+          "move": "calm_mind",
+          "level": 50
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 60,
-          "move": "muddy_water"
+          "move": "muddy_water",
+          "level": 60
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 65,
-          "move": "sheer_cold"
+          "move": "sheer_cold",
+          "level": 65
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 75,
-          "move": "hydro_pump"
+          "move": "hydro_pump",
+          "level": 75
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 80,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 80
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 90,
-          "move": "water_spout"
+          "move": "water_spout",
+          "level": 90
         },
         {
           "klass": "TutorLearnableMove",
@@ -643,7 +647,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 484,
+        "description": 144
+      }
     }
   ]
 }

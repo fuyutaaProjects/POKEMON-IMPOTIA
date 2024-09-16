@@ -505,7 +505,11 @@
           "klass": "BreedLearnableMove",
           "move": "draining_kiss"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 50,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -955,7 +959,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 51,
+        "description": 26
+      }
     }
   ]
 }

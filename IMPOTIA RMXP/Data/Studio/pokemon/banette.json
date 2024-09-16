@@ -390,7 +390,11 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 61,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -769,7 +773,11 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 62,
+        "description": 27
+      }
     }
   ]
 }

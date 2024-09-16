@@ -23,7 +23,7 @@
       "evDfs": 0,
       "evolutions": [
         {
-          "dbSymbol": "klinroubot",
+          "dbSymbol": "gentlebot",
           "form": 0,
           "conditions": [
             {
@@ -341,7 +341,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "ice_ball"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 740,
+        "description": 0
+      }
     }
   ]
 }

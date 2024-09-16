@@ -517,7 +517,11 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 671,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -579,7 +583,11 @@
         "cry": "053cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 672,
+        "description": 192
+      }
     }
   ]
 }

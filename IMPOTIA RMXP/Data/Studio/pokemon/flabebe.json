@@ -23,14 +23,14 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "floette",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 19
             }
-          ],
-          "dbSymbol": "floette",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -84,73 +84,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 48
         },
         {
           "klass": "TutorLearnableMove",
@@ -316,7 +316,11 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 295,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -338,14 +342,14 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "floette",
+          "form": 1,
           "conditions": [
             {
               "type": "minLevel",
               "value": 19
             }
-          ],
-          "dbSymbol": "floette",
-          "form": 1
+          ]
         }
       ],
       "experienceType": 1,
@@ -399,73 +403,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 48
         },
         {
           "klass": "TechLearnableMove",
@@ -587,7 +591,11 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 296,
+        "description": 81
+      }
     },
     {
       "form": 2,
@@ -609,14 +617,14 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "floette",
+          "form": 2,
           "conditions": [
             {
               "type": "minLevel",
               "value": 19
             }
-          ],
-          "dbSymbol": "floette",
-          "form": 2
+          ]
         }
       ],
       "experienceType": 1,
@@ -670,73 +678,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 48
         },
         {
           "klass": "TechLearnableMove",
@@ -858,7 +866,11 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 297,
+        "description": 82
+      }
     },
     {
       "form": 3,
@@ -880,14 +892,14 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "floette",
+          "form": 3,
           "conditions": [
             {
               "type": "minLevel",
               "value": 19
             }
-          ],
-          "dbSymbol": "floette",
-          "form": 3
+          ]
         }
       ],
       "experienceType": 1,
@@ -941,73 +953,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 48
         },
         {
           "klass": "TechLearnableMove",
@@ -1129,7 +1141,11 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 298,
+        "description": 83
+      }
     },
     {
       "form": 4,
@@ -1151,14 +1167,14 @@
       "evDfs": 1,
       "evolutions": [
         {
+          "dbSymbol": "floette",
+          "form": 4,
           "conditions": [
             {
               "type": "minLevel",
               "value": 19
             }
-          ],
-          "dbSymbol": "floette",
-          "form": 4
+          ]
         }
       ],
       "experienceType": 1,
@@ -1212,73 +1228,73 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "vine_whip"
+          "move": "vine_whip",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 6,
-          "move": "fairy_wind"
+          "move": "fairy_wind",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "lucky_chant"
+          "move": "lucky_chant",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 15,
-          "move": "razor_leaf"
+          "move": "razor_leaf",
+          "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "wish"
+          "move": "wish",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "magical_leaf"
+          "move": "magical_leaf",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "grassy_terrain"
+          "move": "grassy_terrain",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "petal_blizzard"
+          "move": "petal_blizzard",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 33,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "misty_terrain"
+          "move": "misty_terrain",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "moonblast"
+          "move": "moonblast",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 45,
-          "move": "petal_dance"
+          "move": "petal_dance",
+          "level": 45
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 48,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 48
         },
         {
           "klass": "TechLearnableMove",
@@ -1400,7 +1416,11 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 299,
+        "description": 84
+      }
     }
   ]
 }

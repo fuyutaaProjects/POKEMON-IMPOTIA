@@ -260,7 +260,11 @@
           "klass": "TechLearnableMove",
           "move": "x_scissor"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 439,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -568,7 +572,11 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 440,
+        "description": 136
+      }
     }
   ]
 }

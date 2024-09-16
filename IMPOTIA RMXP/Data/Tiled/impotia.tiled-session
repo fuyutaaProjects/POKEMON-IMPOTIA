@@ -6,10 +6,10 @@
     "activeFile": "Maps/Lumicite.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Tilesets",
-        ".",
+        "PNG to tmx",
         "Maps",
-        "PNG to tmx"
+        ".",
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -105,11 +105,14 @@
             }
         },
         "Maps/Lumicite.tmx": {
-            "scale": 2,
-            "selectedLayer": 4,
+            "expandedGroupLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1221.5,
-                "y": 906.5
+                "x": 3713,
+                "y": 2076
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -274,22 +277,22 @@
         },
         "Maps/rm_34_sylvebrume.tmx": {
             "expandedGroupLayers": [
-                22,
-                24
+                24,
+                22
             ],
-            "scale": 0.75,
-            "selectedLayer": 3,
+            "scale": 0.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1118.6666666666667,
-                "y": 957.3333333333333
+                "x": 2014,
+                "y": 1360
             }
         },
         "Maps/rm_35_route_02.tmx": {
-            "scale": 1.5,
+            "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 891.9999999999999,
-                "y": 257.33333333333337
+                "x": 1510.6666666666665,
+                "y": 546.6666666666667
             }
         },
         "Maps/rm_3_player_s_house.tmx": {
@@ -302,10 +305,10 @@
         },
         "Maps/rm_42_route_01.tmx": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 703.9999999999999,
-                "y": 1116
+                "x": 1376,
+                "y": 961.3333333333333
             }
         },
         "Maps/rm_43_mermesa.tmx": {
@@ -453,43 +456,43 @@
             }
         },
         "Maps/rules_buildings.tmx": {
-            "scale": 0.25,
-            "selectedLayer": 13,
-            "viewCenter": {
-                "x": 548,
-                "y": 712
-            }
-        },
-        "Maps/rules_nature.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 8,
-            "viewCenter": {
-                "x": 1118.6666666666665,
-                "y": 797.9999999999999
-            }
-        },
-        "Maps/rules_random_tiles.tmx": {
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1111,
-                "y": 201
+                "x": 2885,
+                "y": 609.5
+            }
+        },
+        "Maps/rules_nature.tmx": {
+            "scale": 2,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 462.5,
+                "y": 720
+            }
+        },
+        "Maps/rules_random_tiles.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 553.3333333333334,
+                "y": 358.66666666666663
             }
         },
         "Maps/rules_terrain_basics.tmx": {
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 580,
-                "y": 326.5
+                "x": 940,
+                "y": 400
             }
         },
         "Maps/rules_terrain_basics_v2.tmx": {
             "scale": 0.75,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 462.66666666666663,
-                "y": 451.33333333333326
+                "x": 1282.6666666666665,
+                "y": 2283.333333333333
             }
         },
         "Maps/rules_tileset_interiors.tmx": {
@@ -504,8 +507,8 @@
             "scale": 3,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1523.3333333333333,
-                "y": 316.8333333333333
+                "x": 1106.3333333333333,
+                "y": 426.66666666666663
             }
         },
         "Maps/temporis_interiors.tmx": {
@@ -998,7 +1001,7 @@
         },
         "Tilesets/nature_basics.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 3
         },
         "Tilesets/oasisville.tsx": {
             "scaleInDock": 1
@@ -1024,7 +1027,7 @@
         },
         "Tilesets/terrain basics v2.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 3
+            "scaleInEditor": 0.75
         },
         "Tilesets/terrain_basics.tsx": {
             "scaleInDock": 1
@@ -1052,23 +1055,23 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/rm_34_sylvebrume.tmx",
-        "Maps/Lumicite.tmx"
+        "Maps/Lumicite.tmx",
+        "Maps/rules_buildings.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rm_34_sylvebrume.tmx",
-        "Maps/Lumicite.tmx",
-        "Maps/rules_assets.tmx",
         "Maps/rules_buildings.tmx",
-        "Tilesets/animations.tsx",
-        "Maps/Sanctuaire Oublie.tmx",
-        "Maps/Temporis.tmx",
-        "Maps/Oasisville.tmx",
-        "Tilesets/common_assets.tsx",
-        "Maps/whitesnakes_interiors_lab.tmx",
-        "Maps/rm_33_port_avalon.tmx",
-        "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Maps/005 River.tmx"
+        "Maps/Lumicite.tmx",
+        "Tilesets/terrain basics v2.tsx",
+        "Maps/rules_terrain_basics_v2.tmx",
+        "Maps/rules_random_tiles.tmx",
+        "Maps/rm_42_route_01.tmx",
+        "Maps/rules_nature.tmx",
+        "Maps/rm_35_route_02.tmx",
+        "Maps/rm_34_sylvebrume.tmx",
+        "Maps/rules_trees.tmx",
+        "Tilesets/nature_basics.tsx",
+        "Maps/rules_terrain_basics.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }

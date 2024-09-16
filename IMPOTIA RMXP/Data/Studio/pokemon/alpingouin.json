@@ -257,7 +257,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "avalanche"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 11,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -578,7 +582,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 12,
+        "description": 5
+      }
     }
   ]
 }

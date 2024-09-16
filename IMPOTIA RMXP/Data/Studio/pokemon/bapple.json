@@ -326,7 +326,11 @@
           "klass": "TechLearnableMove",
           "move": "pluck"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 63,
+        "description": 0
+      }
     },
     {
       "form": 29,
@@ -713,7 +717,11 @@
           "klass": "BreedLearnableMove",
           "move": "counter"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 64,
+        "description": 28
+      }
     },
     {
       "form": 30,
@@ -1124,7 +1132,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 65,
+        "description": 29
+      }
     }
   ]
 }

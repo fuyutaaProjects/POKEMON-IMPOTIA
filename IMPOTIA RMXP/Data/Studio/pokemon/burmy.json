@@ -133,7 +133,11 @@
           "klass": "TechLearnableMove",
           "move": "hidden_power"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 118,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -253,7 +257,11 @@
           "klass": "TechLearnableMove",
           "move": "hidden_power"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 119,
+        "description": 42
+      }
     },
     {
       "form": 2,
@@ -373,7 +381,11 @@
           "klass": "TechLearnableMove",
           "move": "hidden_power"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 120,
+        "description": 43
+      }
     },
     {
       "form": 3,
@@ -913,7 +925,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 121,
+        "description": 44
+      }
     }
   ]
 }

@@ -400,7 +400,11 @@
           "klass": "BreedLearnableMove",
           "move": "rock_blast"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 419,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -749,7 +753,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 420,
+        "description": 131
+      }
     }
   ]
 }

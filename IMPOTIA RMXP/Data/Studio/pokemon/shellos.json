@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "gastrodon",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 30
             }
-          ],
-          "dbSymbol": "gastrodon",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -77,53 +77,53 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 2,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 2
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "harden"
+          "move": "harden",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "mud_bomb"
+          "move": "mud_bomb",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "muddy_water"
+          "move": "muddy_water",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "recover"
+          "move": "recover",
+          "level": 46
         },
         {
           "klass": "TutorLearnableMove",
@@ -301,7 +301,11 @@
           "klass": "BreedLearnableMove",
           "move": "clear_smog"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 792,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -323,14 +327,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "gastrodon",
+          "form": 1,
           "conditions": [
             {
               "type": "minLevel",
               "value": 30
             }
-          ],
-          "dbSymbol": "gastrodon",
-          "form": 1
+          ]
         }
       ],
       "experienceType": 1,
@@ -377,53 +381,53 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "mud_slap"
+          "move": "mud_slap",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 2,
-          "move": "mud_sport"
+          "move": "mud_sport",
+          "level": 2
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "harden"
+          "move": "harden",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "water_pulse"
+          "move": "water_pulse",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 11,
-          "move": "mud_bomb"
+          "move": "mud_bomb",
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "hidden_power"
+          "move": "hidden_power",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 22,
-          "move": "rain_dance"
+          "move": "rain_dance",
+          "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 29,
-          "move": "body_slam"
+          "move": "body_slam",
+          "level": 29
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 37,
-          "move": "muddy_water"
+          "move": "muddy_water",
+          "level": 37
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "recover"
+          "move": "recover",
+          "level": 46
         },
         {
           "klass": "TechLearnableMove",
@@ -581,7 +585,11 @@
           "klass": "BreedLearnableMove",
           "move": "clear_smog"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 793,
+        "description": 227
+      }
     }
   ]
 }

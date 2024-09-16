@@ -14,8 +14,8 @@
     "pitch": 100
   },
   "tiledFilename": "rm_42_route_01",
-  "mtime": 1721502559011,
-  "sha1": "14d2a3035c9126e501cbefb75060a6600b1d5879",
+  "mtime": 1726261264146,
+  "sha1": "446a7cc508e6bb2e1917482c22a1c68ad3487983",
   "tileMetadata": {
     "width": 55,
     "height": 70,
@@ -3918,7 +3918,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
         },
         {
           "globalId": 2459,
@@ -3939,7 +3939,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
         },
         {
           "globalId": 2460,
@@ -3960,7 +3960,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
         },
         {
           "globalId": 2461,
@@ -3981,7 +3981,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
         },
         {
           "globalId": 2462,
@@ -4002,7 +4002,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
         },
         {
           "globalId": 2463,
@@ -4023,7 +4023,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 3
         },
         {
           "globalId": 2511,
@@ -4032,7 +4032,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 3
         },
         {
           "globalId": 2512,
@@ -4041,7 +4041,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 3
         },
         {
           "globalId": 2513,
@@ -4050,7 +4050,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 3
         },
         {
           "globalId": 2514,
@@ -4059,7 +4059,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 3
         },
         {
           "globalId": 2515,
@@ -4113,7 +4113,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 1
         },
         {
           "globalId": 2615,
@@ -4122,7 +4122,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 1
         },
         {
           "globalId": 2616,
@@ -4131,7 +4131,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 1
         },
         {
           "globalId": 2617,
@@ -4140,7 +4140,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 1
         },
         {
           "globalId": 2618,
@@ -4149,7 +4149,7 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 1
         },
         {
           "globalId": 2619,
@@ -4247,18 +4247,6 @@
         {
           "globalId": 2722,
           "transformId": 0
-        }
-      ],
-      [
-        {
-          "globalId": 456,
-          "transformId": 0
-        },
-        {
-          "systemTag": 398
-        },
-        {
-          "passage": 15
         }
       ],
       [
@@ -17095,9 +17083,8 @@
         432
       ],
       [
-        16,
-        433,
-        434
+        233,
+        433
       ],
       [
         237,
@@ -17269,6 +17256,10 @@
       [
         16,
         69,
+        434
+      ],
+      [
+        107,
         435
       ],
       [
@@ -17280,12 +17271,8 @@
         437
       ],
       [
-        107,
-        438
-      ],
-      [
         233,
-        439
+        438
       ],
       [
         237,
@@ -17352,11 +17339,11 @@
       ],
       [
         0,
-        440
+        439
       ],
       [
         0,
-        441
+        440
       ],
       [
         0

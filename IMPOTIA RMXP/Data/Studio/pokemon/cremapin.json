@@ -373,7 +373,11 @@
           "klass": "TutorLearnableMove",
           "move": "nasty_plot"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 198,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -435,7 +439,11 @@
         "cry": "038cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 199,
+        "description": 60
+      }
     }
   ]
 }

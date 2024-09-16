@@ -184,7 +184,11 @@
           "klass": "TutorLearnableMove",
           "move": "wonder_room"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 880,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -592,7 +596,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 881,
+        "description": 258
+      }
     }
   ]
 }

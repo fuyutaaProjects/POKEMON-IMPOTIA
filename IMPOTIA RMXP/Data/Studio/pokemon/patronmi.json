@@ -243,7 +243,11 @@
           "klass": "TechLearnableMove",
           "move": "nature_power"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 652,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -305,7 +309,11 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 653,
+        "description": 191
+      }
     }
   ]
 }

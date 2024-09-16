@@ -317,7 +317,11 @@
           "klass": "TutorLearnableMove",
           "move": "megahorn"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 127,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -662,7 +666,11 @@
           "klass": "BreedLearnableMove",
           "move": "iron_head"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 128,
+        "description": 47
+      }
     }
   ]
 }

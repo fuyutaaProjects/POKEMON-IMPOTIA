@@ -358,7 +358,11 @@
           "klass": "TutorLearnableMove",
           "move": "draining_kiss"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 161,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -664,7 +668,11 @@
           "klass": "TechLearnableMove",
           "move": "bulldoze"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 162,
+        "description": 56
+      }
     },
     {
       "form": 30,
@@ -1010,7 +1018,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 163,
+        "description": 57
+      }
     },
     {
       "form": 31,
@@ -1600,7 +1612,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 164,
+        "description": 58
+      }
     }
   ]
 }

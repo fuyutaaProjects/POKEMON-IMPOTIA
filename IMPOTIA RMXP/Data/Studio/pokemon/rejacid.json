@@ -439,7 +439,11 @@
           "klass": "BreedLearnableMove",
           "move": "quick_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 713,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -746,7 +750,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 714,
+        "description": 200
+      }
     },
     {
       "form": 2,
@@ -1053,7 +1061,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 715,
+        "description": 201
+      }
     },
     {
       "form": 29,
@@ -1360,7 +1372,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 716,
+        "description": 202
+      }
     },
     {
       "form": 30,
@@ -1755,7 +1771,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 717,
+        "description": 203
+      }
     }
   ]
 }

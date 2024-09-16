@@ -1,28 +1,42 @@
 ================================Erreur de script================================
 Message :
-min argument must be smaller than max argument
+no implicit conversion of nil into String
 
-Type : ArgumentError
-Script : 4 Systems/003 Map Engine/2 Logic/50 RMXP/400 Game_Player.rb (PSDK)
-Ligne : 30
-Date : 25/08/2024 12:00:27
+Type : TypeError
+Script : 0_Dependencies.rb (PSDK)
+Ligne : 2476
+Date : 13/09/2024 22:58:25
 Game Version : 256
 Logiciel : PSDK 26.29
 ===================================Backtraces===================================
-[22] : 4 Systems/003 Map Engine/2 Logic/50 RMXP/400 Game_Player.rb (PSDK) | ligne 30 clamp
-[21] : 4 Systems/003 Map Engine/2 Logic/50 RMXP/400 Game_Player.rb (PSDK) | ligne 30 center
-[20] : 4 Systems/003 Map Engine/2 Logic/50 RMXP/400 Game_Player.rb (PSDK) | ligne 43 moveto
-[19] : 4 Systems/003 Map Engine/3 GamePlay/202 Scene_Map warp.rb (PSDK) | ligne 15 transfer_player_begin
-[18] : 4 Systems/003 Map Engine/3 GamePlay/202 Scene_Map warp.rb (PSDK) | ligne 25 transfer_player
-[17] : 4 Systems/003 Map Engine/3 GamePlay/200 Scene_Map.rb (PSDK) | ligne 182 auto_transfert_update
-[16] : 4 Systems/003 Map Engine/3 GamePlay/200 Scene_Map.rb (PSDK) | ligne 171 loop
-[15] : 4 Systems/003 Map Engine/3 GamePlay/200 Scene_Map.rb (PSDK) | ligne 171 auto_transfert_update
-[14] : 4 Systems/003 Map Engine/3 GamePlay/200 Scene_Map.rb (PSDK) | ligne 21 update
-[13] : 0 Dependencies/3 Graphics module Improvements/00002 FPSBalancer.rb (PSDK) | ligne 44 times
-[12] : 0 Dependencies/3 Graphics module Improvements/00002 FPSBalancer.rb (PSDK) | ligne 44 run
-[11] : 4 Systems/003 Map Engine/3 GamePlay/200 Scene_Map.rb (PSDK) | ligne 21 update
-[10] : 4 Systems/000 General/2 GamePlay__Base/000 GamePlay__Base.rb (PSDK) | ligne 260 main_process
-[9] : 4 Systems/000 General/2 GamePlay__Base/000 GamePlay__Base.rb (PSDK) | ligne 153 main
+[36] : 0_Dependencies.rb (PSDK) | ligne 2476 multiline_text=
+[35] : 0_Dependencies.rb (PSDK) | ligne 2470 each
+[34] : 0_Dependencies.rb (PSDK) | ligne 2470 multiline_text=
+[33] : 4_Systems_101_Dex.rb (PSDK) | ligne 577 change_state
+[32] : 4_Systems_101_Dex.rb (PSDK) | ligne 540 action_A
+[31] : 4_Systems_101_Dex.rb (PSDK) | ligne 487 update_inputs
+[30] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 421 update
+[29] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 451 update
+[28] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 229 main_process
+[27] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 140 main
+[26] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 170 call_scene
+[25] : 4_Systems_000_General.rb (PSDK) | ligne 193 open_dex
+[24] : 4_Systems_100_Menu.rb (PSDK) | ligne 187 open_dex
+[23] : 4_Systems_100_Menu.rb (PSDK) | ligne 183 action
+[22] : 4_Systems_100_Menu.rb (PSDK) | ligne 69 update_inputs
+[21] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 421 update
+[20] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 451 update
+[19] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 229 main_process
+[18] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 140 main
+[17] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 170 call_scene
+[16] : 4_Systems_000_General.rb (PSDK) | ligne 130 open_menu
+[15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9187 call_menu
+[14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9121 update_scene_calling
+[13] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9119 each
+[12] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9119 update_scene_calling
+[11] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8913 update
+[10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 229 main_process
+[9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 140 main
 [8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
 [7] : tools/GameLoader/3_load_extensions.rb (PSDK) | ligne 46 rgss_main
 [6] : tools/GameLoader/50_load_game_uncompiled.rb (PSDK) | ligne 48 <top (required)>

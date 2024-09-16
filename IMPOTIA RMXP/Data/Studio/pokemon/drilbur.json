@@ -334,7 +334,11 @@
           "klass": "BreedLearnableMove",
           "move": "rock_climb"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 256,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -861,7 +865,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 257,
+        "description": 78
+      }
     }
   ]
 }

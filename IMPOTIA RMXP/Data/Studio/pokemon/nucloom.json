@@ -256,7 +256,11 @@
           "klass": "TechLearnableMove",
           "move": "dark_pulse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 619,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -323,7 +327,11 @@
         "cry": "",
         "hasFemale": true
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 620,
+        "description": 183
+      }
     }
   ]
 }

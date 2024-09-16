@@ -23,14 +23,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "sawsbuck",
+          "form": 0,
           "conditions": [
             {
               "type": "minLevel",
               "value": 34
             }
-          ],
-          "dbSymbol": "sawsbuck",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 1,
@@ -77,78 +77,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "camouflage"
+          "move": "camouflage",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "growl"
+          "move": "growl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "double_kick"
+          "move": "double_kick",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "jump_kick"
+          "move": "jump_kick",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "energy_ball"
+          "move": "energy_ball",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "charm"
+          "move": "charm",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "nature_power"
+          "move": "nature_power",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 51
         },
         {
           "klass": "TutorLearnableMove",
@@ -330,7 +330,11 @@
           "klass": "BreedLearnableMove",
           "move": "worry_seed"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 217,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -352,14 +356,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "sawsbuck",
+          "form": 1,
           "conditions": [
             {
               "type": "minLevel",
               "value": 34
             }
-          ],
-          "dbSymbol": "sawsbuck",
-          "form": 1
+          ]
         }
       ],
       "experienceType": 1,
@@ -406,78 +410,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "camouflage"
+          "move": "camouflage",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "growl"
+          "move": "growl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "double_kick"
+          "move": "double_kick",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "jump_kick"
+          "move": "jump_kick",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "energy_ball"
+          "move": "energy_ball",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "charm"
+          "move": "charm",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "nature_power"
+          "move": "nature_power",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 51
         },
         {
           "klass": "TechLearnableMove",
@@ -631,7 +635,11 @@
           "klass": "BreedLearnableMove",
           "move": "worry_seed"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 218,
+        "description": 63
+      }
     },
     {
       "form": 2,
@@ -653,14 +661,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "sawsbuck",
+          "form": 2,
           "conditions": [
             {
               "type": "minLevel",
               "value": 34
             }
-          ],
-          "dbSymbol": "sawsbuck",
-          "form": 2
+          ]
         }
       ],
       "experienceType": 1,
@@ -707,78 +715,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "camouflage"
+          "move": "camouflage",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "growl"
+          "move": "growl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "double_kick"
+          "move": "double_kick",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "jump_kick"
+          "move": "jump_kick",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "energy_ball"
+          "move": "energy_ball",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "charm"
+          "move": "charm",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "nature_power"
+          "move": "nature_power",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 51
         },
         {
           "klass": "TechLearnableMove",
@@ -932,7 +940,11 @@
           "klass": "BreedLearnableMove",
           "move": "worry_seed"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 219,
+        "description": 64
+      }
     },
     {
       "form": 3,
@@ -954,14 +966,14 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "sawsbuck",
+          "form": 3,
           "conditions": [
             {
               "type": "minLevel",
               "value": 34
             }
-          ],
-          "dbSymbol": "sawsbuck",
-          "form": 3
+          ]
         }
       ],
       "experienceType": 1,
@@ -1008,78 +1020,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "camouflage"
+          "move": "camouflage",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 1,
-          "move": "tackle"
+          "move": "tackle",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 4,
-          "move": "growl"
+          "move": "growl",
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 7,
-          "move": "sand_attack"
+          "move": "sand_attack",
+          "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 10,
-          "move": "double_kick"
+          "move": "double_kick",
+          "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 13,
-          "move": "leech_seed"
+          "move": "leech_seed",
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 16,
-          "move": "feint_attack"
+          "move": "feint_attack",
+          "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 20,
-          "move": "take_down"
+          "move": "take_down",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 24,
-          "move": "jump_kick"
+          "move": "jump_kick",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 28,
-          "move": "aromatherapy"
+          "move": "aromatherapy",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 32,
-          "move": "energy_ball"
+          "move": "energy_ball",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 36,
-          "move": "charm"
+          "move": "charm",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 41,
-          "move": "nature_power"
+          "move": "nature_power",
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 46,
-          "move": "double_edge"
+          "move": "double_edge",
+          "level": 46
         },
         {
           "klass": "LevelLearnableMove",
-          "level": 51,
-          "move": "solar_beam"
+          "move": "solar_beam",
+          "level": 51
         },
         {
           "klass": "TechLearnableMove",
@@ -1233,7 +1245,11 @@
           "klass": "BreedLearnableMove",
           "move": "worry_seed"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 220,
+        "description": 65
+      }
     }
   ]
 }
