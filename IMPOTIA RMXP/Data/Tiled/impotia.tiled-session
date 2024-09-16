@@ -6,10 +6,10 @@
     "activeFile": "Maps/Lumicite.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Maps",
-        "PNG to tmx",
         ".",
-        "Tilesets"
+        "PNG to tmx",
+        "Tilesets",
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -109,10 +109,10 @@
                 2
             ],
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 6260.666666666666,
-                "y": 1437.3333333333333
+                "x": 8434.666666666666,
+                "y": 1689.3333333333333
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -467,8 +467,8 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1469.6666666666665,
-                "y": 918
+                "x": 1119.6666666666665,
+                "y": 799.6666666666667
             }
         },
         "Maps/rules_random_tiles.tmx": {
