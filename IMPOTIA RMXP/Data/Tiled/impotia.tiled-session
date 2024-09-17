@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Lumicite.tmx",
-    "automapping.whileDrawing": false,
+    "activeFile": "Maps/Sylveria.tmx",
+    "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Tilesets",
-        "Maps",
         ".",
-        "PNG to tmx"
+        "PNG to tmx",
+        "Tilesets",
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -108,11 +108,11 @@
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 0.75,
-            "selectedLayer": 4,
+            "scale": 0.5,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 7293.999999999999,
-                "y": 1698.6666666666665
+                "x": 1500,
+                "y": 1104
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -179,12 +179,36 @@
                 "y": 667.9999999999999
             }
         },
+        "Maps/Route_04.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 28,
+            "viewCenter": {
+                "x": 1794,
+                "y": 1087
+            }
+        },
+        "Maps/Route_05.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 28,
+            "viewCenter": {
+                "x": 2514,
+                "y": 619
+            }
+        },
         "Maps/Sanctuaire Oublie.tmx": {
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 972.6666666666666,
-                "y": 1160.6666666666665
+                "x": 969.9999999999999,
+                "y": 1158
+            }
+        },
+        "Maps/Sylveria.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 4222,
+                "y": 1538
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -384,11 +408,11 @@
             }
         },
         "Maps/rm_54_route_03.tmx": {
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 443.5,
-                "y": 1484.5
+                "x": 861,
+                "y": -18.5
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
@@ -443,8 +467,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 135.33333333333326,
-                "y": 289.33333333333326
+                "x": 133.33333333333326,
+                "y": 288.66666666666663
             }
         },
         "Maps/rules_assets.tmx": {
@@ -456,19 +480,19 @@
             }
         },
         "Maps/rules_buildings.tmx": {
-            "scale": 1,
+            "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 2938.5,
-                "y": 411
+                "x": 2838,
+                "y": 259.5
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 1.5,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1118.3333333333335,
-                "y": 798
+                "x": 920,
+                "y": 860.6666666666667
             }
         },
         "Maps/rules_random_tiles.tmx": {
@@ -504,11 +528,11 @@
             }
         },
         "Maps/rules_trees.tmx": {
-            "scale": 2,
-            "selectedLayer": 1,
+            "scale": 1.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1098.25,
-                "y": 458.5
+                "x": 1184,
+                "y": 351.99999999999994
             }
         },
         "Maps/temporis_interiors.tmx": {
@@ -1022,15 +1046,20 @@
         "Tilesets/route01.tsx": {
             "scaleInDock": 1
         },
+        "Tilesets/sylveria_alt_terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Tilesets/systemtags.tsx": {
             "scaleInDock": 1
         },
         "Tilesets/terrain basics v2.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 1.5
         },
         "Tilesets/terrain_basics.tsx": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
         },
         "Tilesets/terrain_tag.tsx": {
             "scaleInDock": 1
@@ -1049,30 +1078,29 @@
         }
     },
     "frame.defaultDuration": 150,
-    "last.externalTilesetPath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/PNG to tmx",
+    "last.externalTilesetPath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/Tilesets",
     "last.imagePath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/Assets",
     "map.height": 50,
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Lumicite.tmx",
-        "Maps/rules_nature.tmx",
-        "Maps/rules_animations.tmx"
+        "Maps/Sylveria.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rules_animations.tmx",
-        "Maps/rules_nature.tmx",
+        "Maps/Sylveria.tmx",
         "Maps/Lumicite.tmx",
         "Maps/rules_buildings.tmx",
-        "Maps/rules_random_tiles.tmx",
-        "Maps/rules_trees.tmx",
         "Tilesets/terrain basics v2.tsx",
-        "Maps/rm_56_verdentia.tmx",
-        "Maps/rules_terrain_basics_v2.tmx",
-        "Maps/rm_42_route_01.tmx",
-        "Maps/rm_35_route_02.tmx",
-        "Maps/rm_34_sylvebrume.tmx"
+        "Tilesets/terrain_basics.tsx",
+        "Maps/Sanctuaire Oublie.tmx",
+        "Maps/rules_trees.tmx",
+        "Tilesets/sylveria_alt_terrain.tsx",
+        "Maps/Route_04.tmx",
+        "Maps/Route_05.tmx",
+        "Maps/rules_animations.tmx",
+        "Maps/rules_nature.tmx"
     ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
 }

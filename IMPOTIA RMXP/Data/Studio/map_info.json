@@ -12,11 +12,14 @@
       53,
       54,
       55,
-      56,
       57,
-      3,
       5,
-      6
+      6,
+      56,
+      61,
+      3,
+      62,
+      63
     ],
     "hasChildren": true,
     "isExpanded": true,
@@ -672,7 +675,7 @@
       43
     ],
     "hasChildren": true,
-    "isExpanded": true,
+    "isExpanded": false,
     "data": {
       "klass": "MapInfoMap",
       "mapDbSymbol": "map056",
@@ -725,6 +728,39 @@
       "klass": "MapInfoMap",
       "mapDbSymbol": "map059",
       "parentId": 7
+    }
+  },
+  "61": {
+    "id": 61,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map061",
+      "parentId": 0
+    }
+  },
+  "62": {
+    "id": 62,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map062",
+      "parentId": 0
+    }
+  },
+  "63": {
+    "id": 63,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map063",
+      "parentId": 0
     }
   }
 }

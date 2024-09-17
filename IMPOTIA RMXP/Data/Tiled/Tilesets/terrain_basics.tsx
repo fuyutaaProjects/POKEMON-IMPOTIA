@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.10" tiledversion="1.10.2" name="terrain_basics" tilewidth="32" tileheight="32" tilecount="5766" columns="62">
- <image source="../Assets/terrain_basics.png" width="2000" height="3000"/>
+ <image source="../Assets/old_terrain_basics_v1.png" width="2000" height="3000"/>
  <wangsets>
   <wangset name="path" type="corner" tile="-1">
    <wangcolor name="path grass" color="#ff0000" tile="-1" probability="1"/>
@@ -9,7 +9,6 @@
    <wangcolor name="path mesa" color="#ff7700" tile="-1" probability="1"/>
    <wangcolor name="path dead leaves automn" color="#00e9ff" tile="-1" probability="1"/>
    <wangcolor name="path snow" color="#ff00d8" tile="-1" probability="1"/>
-   <wangcolor name="rock test" color="#ffff00" tile="-1" probability="1"/>
    <wangtile tileid="442" wangid="0,0,0,1,0,0,0,0"/>
    <wangtile tileid="443" wangid="0,0,0,1,0,1,0,0"/>
    <wangtile tileid="444" wangid="0,0,0,1,0,1,0,0"/>
@@ -111,26 +110,6 @@
    <wangtile tileid="669" wangid="0,6,0,0,0,0,0,6"/>
    <wangtile tileid="670" wangid="0,6,0,0,0,0,0,6"/>
    <wangtile tileid="671" wangid="0,0,0,0,0,0,0,6"/>
-   <wangtile tileid="3372" wangid="0,0,0,7,0,0,0,0"/>
-   <wangtile tileid="3373" wangid="0,0,0,7,0,7,0,0"/>
-   <wangtile tileid="3374" wangid="0,0,0,7,0,7,0,0"/>
-   <wangtile tileid="3375" wangid="0,0,0,0,0,7,0,0"/>
-   <wangtile tileid="3376" wangid="0,7,0,7,0,7,0,7"/>
-   <wangtile tileid="3377" wangid="0,7,0,7,0,7,0,7"/>
-   <wangtile tileid="3434" wangid="0,7,0,7,0,0,0,0"/>
-   <wangtile tileid="3435" wangid="0,7,0,0,0,7,0,7"/>
-   <wangtile tileid="3436" wangid="0,7,0,7,0,0,0,7"/>
-   <wangtile tileid="3437" wangid="0,0,0,0,0,7,0,7"/>
-   <wangtile tileid="3438" wangid="0,7,0,7,0,7,0,7"/>
-   <wangtile tileid="3439" wangid="0,7,0,7,0,7,0,7"/>
-   <wangtile tileid="3496" wangid="0,7,0,7,0,0,0,0"/>
-   <wangtile tileid="3497" wangid="0,0,0,7,0,7,0,7"/>
-   <wangtile tileid="3498" wangid="0,7,0,7,0,7,0,0"/>
-   <wangtile tileid="3499" wangid="0,0,0,0,0,7,0,7"/>
-   <wangtile tileid="3558" wangid="0,7,0,0,0,0,0,0"/>
-   <wangtile tileid="3559" wangid="0,7,0,0,0,0,0,7"/>
-   <wangtile tileid="3560" wangid="0,7,0,0,0,0,0,7"/>
-   <wangtile tileid="3561" wangid="0,0,0,0,0,0,0,7"/>
   </wangset>
  </wangsets>
 </tileset>
