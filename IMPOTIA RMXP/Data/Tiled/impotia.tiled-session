@@ -6,8 +6,8 @@
     "activeFile": "Maps/Sylveria.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Maps",
         "PNG to tmx",
+        "Maps",
         "Tilesets",
         "."
     ],
@@ -204,11 +204,11 @@
             }
         },
         "Maps/Sylveria.tmx": {
-            "scale": 0.75,
+            "scale": 1,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 3942,
-                "y": 1817.333333333333
+                "x": 4712,
+                "y": 2600
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -488,19 +488,19 @@
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 0.75,
+            "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 920,
-                "y": 860.6666666666667
+                "x": 1042.3333333333333,
+                "y": 799.6666666666667
             }
         },
         "Maps/rules_random_tiles.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 7,
+            "scale": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 631,
-                "y": 124
+                "x": 3199.75,
+                "y": 3199.75
             }
         },
         "Maps/rules_terrain_basics.tmx": {
@@ -1084,10 +1084,14 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
+        "Maps/rules_random_tiles.tmx",
+        "Maps/rules_nature.tmx",
         "Maps/Sylveria.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/rules_random_tiles.tmx",
+        "Maps/rules_nature.tmx",
         "Maps/Sylveria.tmx",
         "Maps/Lumicite.tmx",
         "Maps/rules_buildings.tmx",
@@ -1097,9 +1101,7 @@
         "Maps/rules_trees.tmx",
         "Tilesets/sylveria_alt_terrain.tsx",
         "Maps/Route_04.tmx",
-        "Maps/Route_05.tmx",
-        "Maps/rules_animations.tmx",
-        "Maps/rules_nature.tmx"
+        "Maps/Route_05.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
