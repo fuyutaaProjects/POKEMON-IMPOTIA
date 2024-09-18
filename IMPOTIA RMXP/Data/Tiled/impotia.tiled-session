@@ -6,10 +6,10 @@
     "activeFile": "Maps/Sylveria.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        ".",
+        "Maps",
         "PNG to tmx",
         "Tilesets",
-        "Maps"
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -204,11 +204,11 @@
             }
         },
         "Maps/Sylveria.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 6,
+            "scale": 0.75,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 4222,
-                "y": 1538
+                "x": 3942,
+                "y": 1817.333333333333
             }
         },
         "Maps/TEMPLATE.tmx": {
