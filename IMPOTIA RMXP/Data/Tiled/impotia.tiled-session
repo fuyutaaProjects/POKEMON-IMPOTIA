@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Laboursol.tmx",
+    "activeFile": "",
     "automapping.whileDrawing": false,
     "expandedProjectPaths": [
+        "Maps",
         ".",
-        "PNG to tmx",
         "Tilesets",
-        "Maps"
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -108,8 +108,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 712.6666666666666,
-                "y": 2152
+                "x": 826.6666666666666,
+                "y": 1478
             }
         },
         "Maps/Lumicite.tmx": {
@@ -499,16 +499,16 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1056.3333333333335,
-                "y": 798.6666666666665
+                "x": 1055.3333333333335,
+                "y": 797.6666666666666
             }
         },
         "Maps/rules_random_tiles.tmx": {
             "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 3200,
-                "y": 3199.75
+                "x": 3199.5,
+                "y": 3199.25
             }
         },
         "Maps/rules_terrain_basics.tmx": {
@@ -1092,9 +1092,6 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/rules_random_tiles.tmx",
-        "Maps/rules_nature.tmx",
-        "Maps/Laboursol.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
