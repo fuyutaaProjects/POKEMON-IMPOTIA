@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Sylveria.tmx",
-    "automapping.whileDrawing": true,
+    "activeFile": "Maps/Laboursol.tmx",
+    "automapping.whileDrawing": false,
     "expandedProjectPaths": [
+        ".",
         "PNG to tmx",
-        "Maps",
         "Tilesets",
-        "."
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -102,6 +102,14 @@
             "viewCenter": {
                 "x": 248.5,
                 "y": 265
+            }
+        },
+        "Maps/Laboursol.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 712.6666666666666,
+                "y": 2152
             }
         },
         "Maps/Lumicite.tmx": {
@@ -204,11 +212,11 @@
             }
         },
         "Maps/Sylveria.tmx": {
-            "scale": 1,
+            "scale": 0.33,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 4712,
-                "y": 2600
+                "x": 2325.7575757575755,
+                "y": 1342.4242424242425
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -491,15 +499,15 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1042.3333333333333,
-                "y": 799.6666666666667
+                "x": 1056.3333333333335,
+                "y": 798.6666666666665
             }
         },
         "Maps/rules_random_tiles.tmx": {
             "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 3199.75,
+                "x": 3200,
                 "y": 3199.75
             }
         },
@@ -1086,12 +1094,13 @@
     "openFiles": [
         "Maps/rules_random_tiles.tmx",
         "Maps/rules_nature.tmx",
-        "Maps/Sylveria.tmx"
+        "Maps/Laboursol.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
         "Maps/rules_random_tiles.tmx",
         "Maps/rules_nature.tmx",
+        "Maps/Laboursol.tmx",
         "Maps/Sylveria.tmx",
         "Maps/Lumicite.tmx",
         "Maps/rules_buildings.tmx",
@@ -1100,8 +1109,7 @@
         "Maps/Sanctuaire Oublie.tmx",
         "Maps/rules_trees.tmx",
         "Tilesets/sylveria_alt_terrain.tsx",
-        "Maps/Route_04.tmx",
-        "Maps/Route_05.tmx"
+        "Maps/Route_04.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

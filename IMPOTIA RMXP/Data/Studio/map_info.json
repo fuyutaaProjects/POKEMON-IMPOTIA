@@ -19,7 +19,8 @@
       61,
       3,
       62,
-      63
+      63,
+      60
     ],
     "hasChildren": true,
     "isExpanded": true,
@@ -728,6 +729,17 @@
       "klass": "MapInfoMap",
       "mapDbSymbol": "map059",
       "parentId": 7
+    }
+  },
+  "60": {
+    "id": 60,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map060",
+      "parentId": 0
     }
   },
   "61": {
