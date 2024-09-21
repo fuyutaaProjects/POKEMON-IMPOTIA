@@ -6,10 +6,10 @@
     "activeFile": "",
     "automapping.whileDrawing": false,
     "expandedProjectPaths": [
-        "Maps",
         ".",
-        "Tilesets",
-        "PNG to tmx"
+        "PNG to tmx",
+        "Maps",
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -504,11 +504,11 @@
             }
         },
         "Maps/rules_random_tiles.tmx": {
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 3199.5,
-                "y": 3199.25
+                "x": 717,
+                "y": 457.5
             }
         },
         "Maps/rules_terrain_basics.tmx": {

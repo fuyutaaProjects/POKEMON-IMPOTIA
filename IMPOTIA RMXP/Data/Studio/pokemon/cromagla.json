@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 220,
-  "dbSymbol": "cromagla",
+  "dbSymbol": "stalglama",
   "forms": [
     {
       "form": 0,
@@ -43,7 +43,7 @@
         5
       ],
       "hatchSteps": 5120,
-      "babyDbSymbol": "cromagla",
+      "babyDbSymbol": "stalglama",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -62,15 +62,15 @@
       ],
       "frontOffsetY": 37,
       "resources": {
-        "icon": "cromagla",
-        "iconShiny": "cromagla",
-        "front": "cromagla",
-        "frontShiny": "cromagla",
-        "back": "cromagla",
-        "backShiny": "cromagla",
-        "footprint": "cromagla",
-        "character": "cromagla",
-        "characterShiny": "cromagla",
+        "icon": "stalglama",
+        "iconShiny": "stalglama",
+        "front": "stalglama",
+        "frontShiny": "stalglama",
+        "back": "stalglama",
+        "backShiny": "stalglama",
+        "footprint": "stalglama",
+        "character": "stalglama",
+        "characterShiny": "stalglama",
         "cry": "220cry.ogg",
         "hasFemale": false
       },
