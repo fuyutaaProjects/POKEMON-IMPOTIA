@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 291,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 15.2,
       "type1": "electric",
@@ -21,18 +25,7 @@
       "evSpd": 1,
       "evAts": 0,
       "evDfs": 0,
-      "evolutions": [
-        {
-          "dbSymbol": "manectric",
-          "form": 0,
-          "conditions": [
-            {
-              "type": "minLevel",
-              "value": 26
-            }
-          ]
-        }
-      ],
+      "evolutions": [],
       "experienceType": 2,
       "baseExperience": 59,
       "baseLoyalty": 70,
@@ -342,11 +335,7 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 291,
-        "description": 0
-      }
+      ]
     }
   ]
 }
