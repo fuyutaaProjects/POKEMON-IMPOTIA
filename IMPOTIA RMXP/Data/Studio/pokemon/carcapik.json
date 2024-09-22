@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 130,
+        "description": 0
+      },
       "height": 1.1,
       "weight": 39,
       "type1": "fighting",
@@ -64,9 +68,9 @@
       "resources": {
         "icon": "carcapik",
         "iconShiny": "carcapik",
-        "front": "carcapik",
+        "front": "Carcapik",
         "frontShiny": "carcapik",
-        "back": "carcapik",
+        "back": "Carcapik",
         "backShiny": "carcapik",
         "footprint": "carcapik",
         "character": "carcapik",
@@ -358,11 +362,7 @@
           "klass": "TutorLearnableMove",
           "move": "hydro_pump"
         }
-      ],
-      "formTextId": {
-        "name": 130,
-        "description": 0
-      }
+      ]
     }
   ]
 }

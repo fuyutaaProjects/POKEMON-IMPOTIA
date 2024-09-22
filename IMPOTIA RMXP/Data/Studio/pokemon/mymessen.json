@@ -13,15 +13,15 @@
       "weight": 58.5,
       "type1": "bug",
       "type2": "fighting",
-      "baseHp": 40,
-      "baseAtk": 55,
-      "baseDfe": 99,
-      "baseSpd": 47,
-      "baseAts": 40,
-      "baseDfs": 79,
+      "baseHp": 55,
+      "baseAtk": 125,
+      "baseDfe": 50,
+      "baseSpd": 110,
+      "baseAts": 30,
+      "baseDfs": 50,
       "evHp": 0,
-      "evAtk": 0,
-      "evDfe": 2,
+      "evAtk": 2,
+      "evDfe": 0,
       "evSpd": 0,
       "evAts": 0,
       "evDfs": 0,
@@ -49,9 +49,9 @@
         }
       ],
       "abilities": [
-        "poison_point",
+        "compound_eyes",
         "swarm",
-        "speed_boost"
+        "tough_claws"
       ],
       "frontOffsetY": 26,
       "resources": {
@@ -70,93 +70,88 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "defense_curl",
+          "move": "fury_cutter",
           "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "rollout",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "poison_sting",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "screech",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "poison_sting",
-          "level": 5
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "screech",
-          "level": 8
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "pursuit",
-          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
           "move": "protect",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "howl",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fake_out",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "defense_curl",
+          "level": 11
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "circle_throw",
           "level": 15
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "poison_tail",
+          "move": "rock_smash",
           "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "iron_defense",
-          "level": 22
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "bug_bite",
+          "move": "bullet_punch",
           "level": 23
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "venoshock",
+          "move": "wide_guard",
+          "level": 26
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bug_bite",
           "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "agility",
-          "level": 32
+          "move": "u_turn",
+          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "steamroller",
-          "level": 37
+          "move": "slash",
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "toxic",
-          "level": 41
+          "move": "high_jump_kick",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "venom_drench",
-          "level": 43
+          "move": "extreme_speed",
+          "level": 42
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "rock_climb",
-          "level": 46
+          "move": "thrash",
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "double_edge",
-          "level": 50
+          "move": "substitute",
+          "level": 55
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "cross_chop",
+          "level": 58
         },
         {
           "klass": "TutorLearnableMove",
@@ -179,52 +174,24 @@
           "move": "bug_bite"
         },
         {
-          "klass": "TechLearnableMove",
-          "move": "solar_beam"
+          "klass": "EvolutionLearnableMove",
+          "move": "swords_dance"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "toxic"
+          "move": "cut"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "double_team"
+          "move": "hone_claws"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "rest"
+          "move": "dragon_claw"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "substitute"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "protect"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "sludge_bomb"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "swagger"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "attract"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "sleep_talk"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "return"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "frustration"
+          "move": "bulk_up"
         },
         {
           "klass": "TechLearnableMove",
@@ -232,11 +199,27 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "sunny_day"
+          "move": "safeguard"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "rock_smash"
+          "move": "frustration"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "solar_beam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "retaliate"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dig"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "aerial_ace"
         },
         {
           "klass": "TechLearnableMove",
@@ -244,11 +227,19 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "secret_power"
+          "move": "flame_charge"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "gyro_ball"
+          "move": "low_sweep"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "false_swipe"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "acrobatics"
         },
         {
           "klass": "TechLearnableMove",
@@ -256,15 +247,7 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "poison_jab"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "venoshock"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "round"
+          "move": "swords_dance"
         },
         {
           "klass": "TechLearnableMove",
@@ -272,11 +255,35 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "confide"
+          "move": "psych_up"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "infestation"
+          "move": "frost_breath"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "poison_jab"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "swagger"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rock_smash"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "confide"
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "astonish"
         }
       ]
     }

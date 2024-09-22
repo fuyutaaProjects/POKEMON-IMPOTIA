@@ -13,16 +13,16 @@
       "weight": 3.5,
       "type1": "dark",
       "type2": "poison",
-      "baseHp": 36,
-      "baseAtk": 63,
-      "baseDfe": 47,
-      "baseSpd": 71,
-      "baseAts": 61,
-      "baseDfs": 49,
+      "baseHp": 61,
+      "baseAtk": 71,
+      "baseDfe": 56,
+      "baseSpd": 60,
+      "baseAts": 40,
+      "baseDfs": 63,
       "evHp": 0,
-      "evAtk": 0,
+      "evAtk": 1,
       "evDfe": 0,
-      "evSpd": 1,
+      "evSpd": 0,
       "evAts": 0,
       "evDfs": 0,
       "evolutions": [
@@ -32,7 +32,7 @@
           "conditions": [
             {
               "type": "minLevel",
-              "value": 20
+              "value": 32
             }
           ]
         }
@@ -43,8 +43,8 @@
       "catchRate": 255,
       "femaleRate": 50,
       "breedGroups": [
-        5,
-        5
+        8,
+        8
       ],
       "hatchSteps": 3840,
       "babyDbSymbol": "jongbat",
@@ -61,7 +61,7 @@
       ],
       "abilities": [
         "run_away",
-        "poison_point",
+        "prankster",
         "hustle"
       ],
       "frontOffsetY": 26,
@@ -85,68 +85,108 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "tail_whip",
+          "move": "astonish",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "quick_attack",
-          "level": 3
+          "move": "smog",
+          "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "poison_sting",
+          "move": "play_nice",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "defense_curl",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "toxic_spikes",
           "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "focus_energy",
-          "level": 7
+          "move": "rollout",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "bite",
+          "move": "night_shade",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "protect",
           "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "sludge",
-          "level": 13
+          "move": "confuse_ray",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "hyper_fang",
+          "move": "ice_ball",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hex",
           "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "sucker_punch",
-          "level": 19
+          "move": "clear_smog",
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "crunch",
+          "move": "trick_room",
           "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "baneful_bunker",
-          "level": 25
+          "move": "heal_block",
+          "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "super_fang",
+          "move": "psybeam",
           "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "double_edge",
-          "level": 31
+          "move": "phantom_force",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "endeavor",
-          "level": 34
+          "move": "poison_jab",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "grudge",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "nightmare",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dream_eater",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_force",
+          "level": 45
         },
         {
           "klass": "TutorLearnableMove",

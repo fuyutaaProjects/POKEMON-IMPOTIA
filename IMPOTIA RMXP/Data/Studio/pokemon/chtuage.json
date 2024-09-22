@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 165,
+        "description": 0
+      },
       "height": 1.4,
       "weight": 62,
       "type1": "poison",
@@ -53,9 +57,9 @@
       "resources": {
         "icon": "cthuage",
         "iconShiny": "chtuage",
-        "front": "chtuage",
+        "front": "Chtuage",
         "frontShiny": "chtuage",
-        "back": "chtuage",
+        "back": "Chtuage",
         "backShiny": "chtuage",
         "footprint": "chtuage",
         "character": "chtuage",
@@ -430,11 +434,7 @@
           "klass": "TutorLearnableMove",
           "move": "splash"
         }
-      ],
-      "formTextId": {
-        "name": 165,
-        "description": 0
-      }
+      ]
     }
   ]
 }

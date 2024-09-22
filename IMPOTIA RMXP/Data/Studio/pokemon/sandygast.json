@@ -5,21 +5,25 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 754,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 70,
       "type1": "ghost",
-      "type2": "ground",
-      "baseHp": 55,
-      "baseAtk": 55,
-      "baseDfe": 80,
-      "baseSpd": 15,
-      "baseAts": 70,
-      "baseDfs": 45,
+      "type2": "electric",
+      "baseHp": 42,
+      "baseAtk": 65,
+      "baseDfe": 64,
+      "baseSpd": 42,
+      "baseAts": 69,
+      "baseDfs": 63,
       "evHp": 0,
       "evAtk": 0,
-      "evDfe": 1,
+      "evDfe": 0,
       "evSpd": 0,
-      "evAts": 0,
+      "evAts": 1,
       "evDfs": 0,
       "evolutions": [
         {
@@ -27,8 +31,8 @@
           "form": 0,
           "conditions": [
             {
-              "type": "minLevel",
-              "value": 42
+              "type": "stone",
+              "value": "thunder_stone"
             }
           ]
         }
@@ -56,17 +60,17 @@
         }
       ],
       "abilities": [
-        "water_compaction",
-        "water_compaction",
-        "sand_veil"
+        "tangled_feet",
+        "damp",
+        "magic_bounce"
       ],
       "frontOffsetY": 27,
       "resources": {
         "icon": "769",
         "iconShiny": "769",
-        "front": "769",
+        "front": "Boutois",
         "frontShiny": "769",
-        "back": "769",
+        "back": "Boutois",
         "backShiny": "769",
         "footprint": "769",
         "character": "769",
@@ -74,11 +78,196 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 754,
-        "description": 0
-      }
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "astonish",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fake_tears",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sing",
+          "level": 3
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rapid_spin",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spark",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "disarming_voice",
+          "level": 11
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fake_out",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "eerie_impulse",
+          "level": 18
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ominous_wind",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "confuse_ray",
+          "level": 26
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "volt_switch",
+          "level": 31
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "teeter_dance",
+          "level": 34
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bounce",
+          "level": 41
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "discharge",
+          "level": 47
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "trick_room",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "trick",
+          "level": 52
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dragon_claw"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "psyshock"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "roar"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "toxic"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "hidden_power"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "taunt"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "hyper_beam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "telekinesis"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "safeguard"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "thunderbolt"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "thunder"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "double_team"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "reflect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "torment"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "thief"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "echoed_voice"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "fling"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "quash"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "explosion"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "payback"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "thunder_wave"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dream_eater"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dark_pulse"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "wild_charge"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dazzling_gleam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "confide"
+        }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 280,
+        "description": 0
+      },
       "height": 1,
       "weight": 20,
       "type1": "water",
@@ -21,7 +25,18 @@
       "evSpd": 0,
       "evAts": 0,
       "evDfs": 2,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "dbSymbol": "steelix",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 40
+            }
+          ]
+        }
+      ],
       "experienceType": 3,
       "baseExperience": 175,
       "baseLoyalty": 70,
@@ -53,9 +68,9 @@
       "resources": {
         "icon": "errancton",
         "iconShiny": "errancton",
-        "front": "errancton",
+        "front": "Erranctonn",
         "frontShiny": "errancton",
-        "back": "errancton",
+        "back": "Erranctonn",
         "backShiny": "errancton",
         "footprint": "errancton",
         "character": "errancton",
@@ -347,11 +362,7 @@
           "klass": "BreedLearnableMove",
           "move": "amnesia"
         }
-      ],
-      "formTextId": {
-        "name": 280,
-        "description": 0
-      }
+      ]
     }
   ]
 }

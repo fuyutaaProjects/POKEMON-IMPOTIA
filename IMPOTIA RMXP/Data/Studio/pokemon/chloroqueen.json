@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 161,
+        "description": 0
+      },
       "height": 1.8,
       "weight": 34.5,
       "type1": "grass",
@@ -53,11 +57,11 @@
       "resources": {
         "icon": "chloroqueen",
         "iconShiny": "chloroqueen",
-        "front": "chloroqueen",
+        "front": "Chloroqueen",
         "frontF": "chloroqueen",
         "frontShiny": "chloroqueen",
         "frontShinyF": "chloroqueen",
-        "back": "chloroqueen",
+        "back": "Chloroqueen",
         "backF": "chloroqueen",
         "backShiny": "chloroqueen",
         "backShinyF": "chloroqueen",
@@ -358,14 +362,14 @@
           "klass": "TutorLearnableMove",
           "move": "draining_kiss"
         }
-      ],
-      "formTextId": {
-        "name": 161,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 162,
+        "description": 56
+      },
       "height": 2,
       "weight": 100,
       "type1": "grass",
@@ -668,14 +672,14 @@
           "klass": "TechLearnableMove",
           "move": "bulldoze"
         }
-      ],
-      "formTextId": {
-        "name": 162,
-        "description": 56
-      }
+      ]
     },
     {
       "form": 30,
+      "formTextId": {
+        "name": 163,
+        "description": 57
+      },
       "height": 2.4,
       "weight": 155.5,
       "type1": "grass",
@@ -1018,14 +1022,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 163,
-        "description": 57
-      }
+      ]
     },
     {
       "form": 31,
+      "formTextId": {
+        "name": 164,
+        "description": 58
+      },
       "height": 2.4,
       "weight": 155.5,
       "type1": "grass",
@@ -1612,11 +1616,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 164,
-        "description": 58
-      }
+      ]
     }
   ]
 }

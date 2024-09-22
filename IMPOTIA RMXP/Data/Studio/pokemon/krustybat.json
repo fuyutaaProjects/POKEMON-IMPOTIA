@@ -13,18 +13,18 @@
       "weight": 18.5,
       "type1": "dark",
       "type2": "poison",
-      "baseHp": 56,
-      "baseAtk": 89,
-      "baseDfe": 69,
-      "baseSpd": 91,
-      "baseAts": 87,
-      "baseDfs": 71,
+      "baseHp": 104,
+      "baseAtk": 110,
+      "baseDfe": 104,
+      "baseSpd": 20,
+      "baseAts": 76,
+      "baseDfs": 106,
       "evHp": 0,
-      "evAtk": 1,
+      "evAtk": 2,
       "evDfe": 0,
-      "evSpd": 1,
+      "evSpd": 0,
       "evAts": 0,
-      "evDfs": 0,
+      "evDfs": 1,
       "evolutions": [],
       "experienceType": 1,
       "baseExperience": 145,
@@ -32,11 +32,11 @@
       "catchRate": 127,
       "femaleRate": 50,
       "breedGroups": [
-        5,
-        5
+        8,
+        1
       ],
       "hatchSteps": 3840,
-      "babyDbSymbol": "sourot",
+      "babyDbSymbol": "jongbat",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -49,9 +49,9 @@
         }
       ],
       "abilities": [
-        "run_away",
-        "poison_point",
-        "hustle"
+        "innards_out",
+        "merciless",
+        "beast_boost"
       ],
       "frontOffsetY": 22,
       "resources": {
@@ -74,93 +74,123 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "sludge",
+          "move": "astonish",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "quick_attack",
+          "move": "smog",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "tail_whip",
+          "move": "play_nice",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "poison_sting",
+          "move": "defense_curl",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "focus_energy",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "quick_attack",
+          "move": "toxic_spikes",
           "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "focus_energy",
-          "level": 7
+          "move": "rollout",
+          "level": 6
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "bite",
+          "move": "night_shade",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "protect",
           "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "pursuit",
-          "level": 13
+          "move": "confuse_ray",
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "hyper_fang",
+          "move": "ice_ball",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hex",
           "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "sucker_punch",
-          "level": 19
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "scary_face",
+          "move": "clear_smog",
           "level": 20
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "crunch",
+          "move": "heal_block",
           "level": 24
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "baneful_bunker",
-          "level": 29
+          "move": "psybeam",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "shadow_claw",
-          "level": 31
+          "move": "phantom_force",
+          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "super_fang",
-          "level": 34
+          "move": "poison_jab",
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "double_edge",
-          "level": 39
+          "move": "horn_drill",
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "endeavor",
-          "level": 44
+          "move": "grudge",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "nightmare",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dream_eater",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_force",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mean_look",
+          "level": 47
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "gunk_shot",
+          "level": 49
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "skull_bash",
+          "level": 53
         },
         {
           "klass": "TutorLearnableMove",

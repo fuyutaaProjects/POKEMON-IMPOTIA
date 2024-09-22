@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 670,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 6,
       "type1": "water",
@@ -64,9 +68,9 @@
       "resources": {
         "icon": "plancto",
         "iconShiny": "plancto",
-        "front": "plancto",
+        "front": "Plancto",
         "frontShiny": "plancto",
-        "back": "plancto",
+        "back": "Plancto",
         "backShiny": "plancto",
         "footprint": "plancto",
         "character": "plancto",
@@ -334,11 +338,7 @@
           "klass": "TutorLearnableMove",
           "move": "teleport"
         }
-      ],
-      "formTextId": {
-        "name": 670,
-        "description": 0
-      }
+      ]
     }
   ]
 }
