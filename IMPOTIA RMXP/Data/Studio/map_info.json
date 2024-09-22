@@ -673,10 +673,13 @@
     "children": [
       39,
       42,
-      43
+      43,
+      64,
+      65,
+      66
     ],
     "hasChildren": true,
-    "isExpanded": false,
+    "isExpanded": true,
     "data": {
       "klass": "MapInfoMap",
       "mapDbSymbol": "map056",
@@ -773,6 +776,39 @@
       "klass": "MapInfoMap",
       "mapDbSymbol": "map063",
       "parentId": 0
+    }
+  },
+  "64": {
+    "id": 64,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map064",
+      "parentId": 55
+    }
+  },
+  "65": {
+    "id": 65,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map065",
+      "parentId": 55
+    }
+  },
+  "66": {
+    "id": 66,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map066",
+      "parentId": 55
     }
   }
 }

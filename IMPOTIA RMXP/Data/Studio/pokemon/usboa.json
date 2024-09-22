@@ -1,38 +1,53 @@
 {
   "klass": "Specie",
-  "id": 26,
+  "id": 25,
   "dbSymbol": "usboa",
   "forms": [
     {
       "form": 0,
-      "height": 3.8,
-      "weight": 58.6,
+      "formTextId": {
+        "name": 22,
+        "description": 0
+      },
+      "height": 0.5,
+      "weight": 3.8,
       "type1": "electric",
       "type2": "__undef__",
-      "baseHp": 78,
-      "baseAtk": 73,
-      "baseDfe": 66,
-      "baseSpd": 100,
-      "baseAts": 133,
-      "baseDfs": 66,
+      "baseHp": 48,
+      "baseAtk": 43,
+      "baseDfe": 46,
+      "baseSpd": 70,
+      "baseAts": 83,
+      "baseDfs": 46,
       "evHp": 0,
       "evAtk": 0,
       "evDfe": 0,
-      "evSpd": 1,
-      "evAts": 2,
+      "evSpd": 0,
+      "evAts": 1,
       "evDfs": 0,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "dbSymbol": "amprise",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "thunder_stone"
+            }
+          ]
+        }
+      ],
       "experienceType": 1,
-      "baseExperience": 218,
+      "baseExperience": 112,
       "baseLoyalty": 70,
-      "catchRate": 75,
+      "catchRate": 190,
       "femaleRate": -1,
       "breedGroups": [
         5,
         6
       ],
       "hatchSteps": 2560,
-      "babyDbSymbol": "amprise",
+      "babyDbSymbol": "usboa",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -46,25 +61,27 @@
       ],
       "abilities": [
         "static",
-        "download",
+        "static",
         "lightning_rod"
       ],
-      "frontOffsetY": 17,
+      "frontOffsetY": 25,
       "resources": {
         "icon": "usboa",
         "iconShiny": "usboa",
-        "front": "usboa",
+        "front": "Usboa",
         "frontF": "usboa",
-        "frontShiny": "usboa",
+        "frontShiny": "",
         "frontShinyF": "usboa",
-        "back": "usboa",
+        "back": "Usboa",
         "backF": "usboa",
-        "backShiny": "usboa",
+        "backShiny": "",
         "backShinyF": "usboa",
         "footprint": "usboa",
         "character": "usboa",
+        "characterF": "Usboa",
         "characterShiny": "usboa",
-        "cry": "026cry.ogg",
+        "characterShinyF": "Usboa",
+        "cry": "025cry.ogg",
         "hasFemale": false
       },
       "moveSet": [
@@ -75,108 +92,83 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "conversion",
+          "move": "leer",
           "level": 1
         },
         {
           "klass": "LevelLearnableMove",
           "move": "thunder_wave",
-          "level": 6
+          "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "tri_attack",
-          "level": 11
+          "move": "bite",
+          "level": 9
         },
         {
           "klass": "LevelLearnableMove",
           "move": "glare",
-          "level": 14
+          "level": 12
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "trick_room",
-          "level": 19
+          "move": "screech",
+          "level": 17
         },
         {
           "klass": "LevelLearnableMove",
           "move": "electro_ball",
-          "level": 22
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "electric_terrain",
-          "level": 25
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
           "move": "double_team",
-          "level": 27
+          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "lock_on",
-          "level": 30
+          "move": "spark",
+          "level": 28
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "swallow",
-          "level": 32
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "spit_up",
-          "level": 32
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "stockpile",
-          "level": 32
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "coil",
-          "level": 35
+          "move": "nuzzle",
+          "level": 33
         },
         {
           "klass": "LevelLearnableMove",
           "move": "discharge",
-          "level": 38
+          "level": 36
         },
         {
           "klass": "LevelLearnableMove",
           "move": "slam",
-          "level": 40
+          "level": 38
         },
         {
           "klass": "LevelLearnableMove",
           "move": "roar",
-          "level": 43
+          "level": 41
         },
         {
           "klass": "LevelLearnableMove",
           "move": "agility",
-          "level": 46
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
           "move": "thunder_fang",
-          "level": 51
+          "level": 49
         },
         {
           "klass": "LevelLearnableMove",
           "move": "light_screen",
-          "level": 55
+          "level": 53
         },
         {
           "klass": "LevelLearnableMove",
           "move": "thunder",
-          "level": 60
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "wild_charge",
-          "level": 62
+          "level": 58
         },
         {
           "klass": "TutorLearnableMove",
@@ -223,68 +215,12 @@
           "move": "electroweb"
         },
         {
-          "klass": "TutorLearnableMove",
-          "move": "spark"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "wrap"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "encore"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "thunder"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "tri_attack"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "round"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "boomburst"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "hyper_beam"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "quick_attack"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "extreme_speed"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "coil"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "gastro_acid"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "sucker_punch"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "cut"
-        },
-        {
           "klass": "TechLearnableMove",
           "move": "strength"
         },
         {
           "klass": "TechLearnableMove",
-          "move": "venoshock"
+          "move": "roar"
         },
         {
           "klass": "TechLearnableMove",
@@ -292,7 +228,11 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "taunt"
+          "move": "venoshock"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dig"
         },
         {
           "klass": "TechLearnableMove",
@@ -316,7 +256,7 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "dig"
+          "move": "taunt"
         },
         {
           "klass": "TechLearnableMove",
@@ -324,7 +264,7 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "torment"
+          "move": "echoed_voice"
         },
         {
           "klass": "TechLearnableMove",
@@ -332,15 +272,7 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "echoed_voice"
-        },
-        {
-          "klass": "TechLearnableMove",
           "move": "charge_beam"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "payback"
         },
         {
           "klass": "TechLearnableMove",
@@ -352,11 +284,19 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "flash_cannon"
+          "move": "payback"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "torment"
         },
         {
           "klass": "TechLearnableMove",
           "move": "snarl"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "flash_cannon"
         },
         {
           "klass": "BreedLearnableMove",
@@ -443,34 +383,58 @@
           "move": "splash"
         },
         {
-          "klass": "EvolutionLearnableMove",
-          "move": "ion_deluge"
+          "klass": "TutorLearnableMove",
+          "move": "spark"
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "magic_coat"
+          "move": "wrap"
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "nasty_plot"
+          "move": "encore"
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "gunk_shot"
+          "move": "thunder"
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "soak"
+          "move": "tri_attack"
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "psychic"
+          "move": "round"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "boomburst"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "hyper_beam"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "quick_attack"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "extreme_speed"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "coil"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "gastro_acid"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "sucker_punch"
         }
-      ],
-      "formTextId": {
-        "name": 947,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -1,14 +1,18 @@
 {
   "klass": "Specie",
   "id": 544,
-  "dbSymbol": "whirlipede",
+  "dbSymbol": "mymessen",
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 998,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 58.5,
       "type1": "bug",
-      "type2": "poison",
+      "type2": "fighting",
       "baseHp": 40,
       "baseAtk": 55,
       "baseDfe": 99,
@@ -21,18 +25,7 @@
       "evSpd": 0,
       "evAts": 0,
       "evDfs": 0,
-      "evolutions": [
-        {
-          "dbSymbol": "scolipede",
-          "form": 0,
-          "conditions": [
-            {
-              "type": "minLevel",
-              "value": 30
-            }
-          ]
-        }
-      ],
+      "evolutions": [],
       "experienceType": 3,
       "baseExperience": 126,
       "baseLoyalty": 70,
@@ -43,7 +36,7 @@
         3
       ],
       "hatchSteps": 5120,
-      "babyDbSymbol": "venipede",
+      "babyDbSymbol": "mymidisk",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -64,9 +57,9 @@
       "resources": {
         "icon": "544",
         "iconShiny": "544",
-        "front": "544",
+        "front": "mymessen",
         "frontShiny": "544",
-        "back": "544",
+        "back": "mymessen",
         "backShiny": "544",
         "footprint": "544",
         "character": "544",
@@ -285,11 +278,7 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ],
-      "formTextId": {
-        "name": 998,
-        "description": 0
-      }
+      ]
     }
   ]
 }

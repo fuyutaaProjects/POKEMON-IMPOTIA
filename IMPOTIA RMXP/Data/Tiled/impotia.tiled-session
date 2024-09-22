@@ -4,12 +4,12 @@
         "width": 2
     },
     "activeFile": "",
-    "automapping.whileDrawing": false,
+    "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        ".",
-        "PNG to tmx",
         "Maps",
-        "Tilesets"
+        "Tilesets",
+        "PNG to tmx",
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -141,10 +141,10 @@
         },
         "Maps/Musee_Mermesa_1.tmx": {
             "scale": 0.75,
-            "selectedLayer": 28,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 549.3333333333333,
-                "y": 663.9999999999999
+                "x": 558.6666666666667,
+                "y": 558.6666666666667
             }
         },
         "Maps/Musee_Mermesa_2.tmx": {
@@ -173,10 +173,10 @@
         },
         "Maps/Musee_Mermesa_SecurityRoom.tmx": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 386,
-                "y": 484
+                "x": 385,
+                "y": 483
             }
         },
         "Maps/Oasisville.tmx": {
@@ -409,10 +409,10 @@
         },
         "Maps/rm_53_pok__shop_pa.tmx": {
             "scale": 1.5,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 394.66666666666663,
-                "y": 231.99999999999997
+                "x": 379.33333333333337,
+                "y": 290.66666666666663
             }
         },
         "Maps/rm_54_route_03.tmx": {
@@ -456,11 +456,11 @@
             }
         },
         "Maps/rm_59_oasisville_interiors.tmx": {
-            "scale": 1.5,
+            "scale": 0.125,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1753.3333333333333,
-                "y": 1437.3333333333333
+                "x": 1320,
+                "y": 1408
             }
         },
         "Maps/rm_5_centre_pok__mon.tmx": {
@@ -595,8 +595,8 @@
             "scale": 2,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1917.5,
-                "y": 234.75
+                "x": 539,
+                "y": 1782.25
             }
         },
         "Maps/whitesnakes_interiors_lab.tmx": {
@@ -1095,18 +1095,18 @@
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/Musee_Mermesa_SecurityRoom.tmx",
+        "Maps/Musee_Mermesa_1.tmx",
+        "Maps/rm_59_oasisville_interiors.tmx",
+        "Maps/whitesnakes_interiors_floor_0.tmx",
+        "Maps/rm_53_pok__shop_pa.tmx",
         "Maps/rules_random_tiles.tmx",
         "Maps/rules_nature.tmx",
         "Maps/Laboursol.tmx",
         "Maps/Sylveria.tmx",
         "Maps/Lumicite.tmx",
         "Maps/rules_buildings.tmx",
-        "Tilesets/terrain basics v2.tsx",
-        "Tilesets/terrain_basics.tsx",
-        "Maps/Sanctuaire Oublie.tmx",
-        "Maps/rules_trees.tmx",
-        "Tilesets/sylveria_alt_terrain.tsx",
-        "Maps/Route_04.tmx"
+        "Tilesets/terrain basics v2.tsx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

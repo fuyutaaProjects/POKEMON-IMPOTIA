@@ -1,10 +1,14 @@
 {
   "klass": "Specie",
   "id": 20,
-  "dbSymbol": "wombrat",
+  "dbSymbol": "krustybat",
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1009,
+        "description": 0
+      },
       "height": 0.7,
       "weight": 18.5,
       "type1": "dark",
@@ -51,19 +55,19 @@
       ],
       "frontOffsetY": 22,
       "resources": {
-        "icon": "wombrat",
-        "iconShiny": "wombrat",
+        "icon": "krustybat",
+        "iconShiny": "krustybat",
         "front": "Krustybat",
-        "frontF": "wombrat",
-        "frontShiny": "wombrat",
-        "frontShinyF": "wombrat",
+        "frontF": "krustybat",
+        "frontShiny": "krustybat",
+        "frontShinyF": "krustybat",
         "back": "Krustybat",
-        "backF": "wombrat",
-        "backShiny": "wombrat",
-        "backShinyF": "wombrat",
-        "footprint": "wombrat",
-        "character": "wombrat",
-        "characterShiny": "wombrat",
+        "backF": "krustybat",
+        "backShiny": "krustybat",
+        "backShinyF": "krustybat",
+        "footprint": "krustybat",
+        "character": "krustybat",
+        "characterShiny": "krustybat",
         "cry": "020cry.ogg",
         "hasFemale": false
       },
@@ -390,151 +394,7 @@
           "klass": "BreedLearnableMove",
           "move": "sucker_punch"
         }
-      ],
-      "formTextId": {
-        "name": 1009,
-        "description": 0
-      }
-    },
-    {
-      "form": 1,
-      "height": 0.7,
-      "weight": 25.5,
-      "type1": "dark",
-      "type2": "normal",
-      "baseHp": 75,
-      "baseAtk": 71,
-      "baseDfe": 70,
-      "baseSpd": 77,
-      "baseAts": 40,
-      "baseDfs": 80,
-      "evHp": 0,
-      "evAtk": 0,
-      "evDfe": 0,
-      "evSpd": 2,
-      "evAts": 0,
-      "evDfs": 0,
-      "evolutions": [],
-      "experienceType": 1,
-      "baseExperience": 145,
-      "baseLoyalty": 70,
-      "catchRate": 127,
-      "femaleRate": 50,
-      "breedGroups": [
-        5,
-        5
-      ],
-      "hatchSteps": 3840,
-      "babyDbSymbol": "sourot",
-      "babyForm": 1,
-      "itemHeld": [
-        {
-          "dbSymbol": "none",
-          "chance": 0
-        },
-        {
-          "dbSymbol": "none",
-          "chance": 0
-        }
-      ],
-      "abilities": [
-        "gluttony",
-        "guts",
-        "thick_fat"
-      ],
-      "frontOffsetY": 0,
-      "resources": {
-        "icon": "020_01",
-        "iconShiny": "Wombrat",
-        "front": "Wombrat",
-        "frontF": "Wombrat",
-        "frontShiny": "Wombrat",
-        "frontShinyF": "Wombrat",
-        "back": "Wombrat",
-        "backF": "Wombrat",
-        "backShiny": "Wombrat",
-        "backShinyF": "Wombrat",
-        "footprint": "Wombrat",
-        "character": "Wombrat",
-        "characterShiny": "Wombrat",
-        "cry": "020cry.ogg",
-        "hasFemale": true
-      },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1010,
-        "description": 304
-      }
-    },
-    {
-      "form": 2,
-      "height": 1.4,
-      "weight": 105,
-      "type1": "normal",
-      "type2": "__undef__",
-      "baseHp": 55,
-      "baseAtk": 81,
-      "baseDfe": 60,
-      "baseSpd": 97,
-      "baseAts": 50,
-      "baseDfs": 70,
-      "evHp": 0,
-      "evAtk": 0,
-      "evDfe": 0,
-      "evSpd": 2,
-      "evAts": 0,
-      "evDfs": 0,
-      "evolutions": [],
-      "experienceType": 1,
-      "baseExperience": 145,
-      "baseLoyalty": 70,
-      "catchRate": 127,
-      "femaleRate": 50,
-      "breedGroups": [
-        5,
-        5
-      ],
-      "hatchSteps": 3840,
-      "babyDbSymbol": "sourot",
-      "babyForm": 2,
-      "itemHeld": [
-        {
-          "dbSymbol": "none",
-          "chance": 0
-        },
-        {
-          "dbSymbol": "none",
-          "chance": 0
-        }
-      ],
-      "abilities": [
-        "run_away",
-        "guts",
-        "hustle"
-      ],
-      "frontOffsetY": 22,
-      "resources": {
-        "icon": "020",
-        "iconShiny": "Wombrat",
-        "front": "Wombrat",
-        "frontF": "Wombrat",
-        "frontShiny": "Wombrat",
-        "frontShinyF": "Wombrat",
-        "back": "Wombrat",
-        "backF": "Wombrat",
-        "backShiny": "Wombrat",
-        "backShinyF": "Wombrat",
-        "footprint": "Wombrat",
-        "character": "Wombrat",
-        "characterShiny": "Wombrat",
-        "cry": "020cry.ogg",
-        "hasFemale": true
-      },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1011,
-        "description": 305
-      }
+      ]
     }
   ]
 }

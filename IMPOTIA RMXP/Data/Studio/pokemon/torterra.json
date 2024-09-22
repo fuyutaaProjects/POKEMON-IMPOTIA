@@ -5,10 +5,14 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 923,
+        "description": 0
+      },
       "height": 2.2,
       "weight": 310,
       "type1": "grass",
-      "type2": "ground",
+      "type2": "ghost",
       "baseHp": 95,
       "baseAtk": 109,
       "baseDfe": 105,
@@ -53,9 +57,9 @@
       "resources": {
         "icon": "389",
         "iconShiny": "389",
-        "front": "389",
+        "front": "Bigbocage",
         "frontShiny": "389",
-        "back": "389",
+        "back": "Bigbocage",
         "backShiny": "389",
         "footprint": "389",
         "character": "389",
@@ -357,11 +361,7 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 923,
-        "description": 0
-      }
+      ]
     }
   ]
 }

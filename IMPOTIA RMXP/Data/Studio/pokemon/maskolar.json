@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 188,
+        "description": 0
+      },
       "height": 0.1,
       "weight": 999.9,
       "type1": "fairy",
@@ -66,7 +70,7 @@
       ],
       "frontOffsetY": 16,
       "resources": {
-        "icon": "Maskolar",
+        "icon": "maskolar",
         "iconShiny": "Maskolar",
         "front": "Maskolar",
         "frontShiny": "Maskolar",
@@ -335,11 +339,7 @@
           "klass": "TechLearnableMove",
           "move": "flash"
         }
-      ],
-      "formTextId": {
-        "name": 188,
-        "description": 0
-      }
+      ]
     }
   ]
 }

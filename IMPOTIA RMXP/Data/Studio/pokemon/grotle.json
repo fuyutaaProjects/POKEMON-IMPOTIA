@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 401,
+        "description": 0
+      },
       "height": 1.1,
       "weight": 97,
       "type1": "grass",
@@ -64,9 +68,9 @@
       "resources": {
         "icon": "388",
         "iconShiny": "388",
-        "front": "388",
+        "front": "Bosquairelle",
         "frontShiny": "388",
-        "back": "388",
+        "back": "Bosquairelle",
         "backShiny": "388",
         "footprint": "388",
         "character": "388",
@@ -292,11 +296,7 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 401,
-        "description": 0
-      }
+      ]
     }
   ]
 }

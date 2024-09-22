@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 939,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 10.2,
       "type1": "grass",
@@ -64,9 +68,9 @@
       "resources": {
         "icon": "387",
         "iconShiny": "387",
-        "front": "387",
+        "front": "Broussard",
         "frontShiny": "387",
-        "back": "387",
+        "back": "Broussard",
         "backShiny": "387",
         "footprint": "387",
         "character": "387",
@@ -351,11 +355,7 @@
           "klass": "BreedLearnableMove",
           "move": "grassy_terrain"
         }
-      ],
-      "formTextId": {
-        "name": 939,
-        "description": 0
-      }
+      ]
     }
   ]
 }

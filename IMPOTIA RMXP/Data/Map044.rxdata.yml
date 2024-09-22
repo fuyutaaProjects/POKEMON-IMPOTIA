@@ -787,7 +787,7 @@ events:
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - ajouter_pokemon(:wombrat, 40)
+        - ajouter_pokemon(:krustybat, 40)
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand

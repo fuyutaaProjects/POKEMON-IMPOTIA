@@ -1,14 +1,18 @@
 {
   "klass": "Specie",
   "id": 543,
-  "dbSymbol": "venipede",
+  "dbSymbol": "mymidisk",
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 950,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 5.3,
       "type1": "bug",
-      "type2": "poison",
+      "type2": "fighting",
       "baseHp": 30,
       "baseAtk": 45,
       "baseDfe": 59,
@@ -23,7 +27,7 @@
       "evDfs": 0,
       "evolutions": [
         {
-          "dbSymbol": "whirlipede",
+          "dbSymbol": "mymessen",
           "form": 0,
           "conditions": [
             {
@@ -43,7 +47,7 @@
         3
       ],
       "hatchSteps": 5120,
-      "babyDbSymbol": "venipede",
+      "babyDbSymbol": "mymidisk",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -64,9 +68,9 @@
       "resources": {
         "icon": "543",
         "iconShiny": "543",
-        "front": "543",
+        "front": "mymidisk",
         "frontShiny": "543",
-        "back": "543",
+        "back": "mymidisk",
         "backShiny": "543",
         "footprint": "543",
         "character": "543",
@@ -294,11 +298,7 @@
           "klass": "BreedLearnableMove",
           "move": "rock_climb"
         }
-      ],
-      "formTextId": {
-        "name": 950,
-        "description": 0
-      }
+      ]
     }
   ]
 }
