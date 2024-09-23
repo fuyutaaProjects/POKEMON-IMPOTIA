@@ -7,8 +7,8 @@
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
-        "Tilesets",
         "PNG to tmx",
+        "Tilesets",
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -105,11 +105,11 @@
             }
         },
         "Maps/Laboursol.tmx": {
-            "scale": 0.75,
+            "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 826.6666666666666,
-                "y": 1478
+                "x": 1024.242424242424,
+                "y": 1990.909090909091
             }
         },
         "Maps/Lumicite.tmx": {
@@ -592,11 +592,11 @@
             }
         },
         "Maps/whitesnakes_interiors_floor_0.tmx": {
-            "scale": 2,
+            "scale": 1.5,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 539,
-                "y": 1782.25
+                "x": 463.99999999999994,
+                "y": 1703.3333333333333
             }
         },
         "Maps/whitesnakes_interiors_lab.tmx": {
@@ -1095,14 +1095,14 @@
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/whitesnakes_interiors_floor_0.tmx",
+        "Maps/Laboursol.tmx",
         "Maps/Musee_Mermesa_SecurityRoom.tmx",
         "Maps/Musee_Mermesa_1.tmx",
         "Maps/rm_59_oasisville_interiors.tmx",
-        "Maps/whitesnakes_interiors_floor_0.tmx",
         "Maps/rm_53_pok__shop_pa.tmx",
         "Maps/rules_random_tiles.tmx",
         "Maps/rules_nature.tmx",
-        "Maps/Laboursol.tmx",
         "Maps/Sylveria.tmx",
         "Maps/Lumicite.tmx",
         "Maps/rules_buildings.tmx",
