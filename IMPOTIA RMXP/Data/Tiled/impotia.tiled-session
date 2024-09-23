@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Maps/whitesnakes_interiors_lab.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Maps",
-        "PNG to tmx",
         "Tilesets",
-        "."
+        ".",
+        "PNG to tmx",
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -480,11 +480,11 @@
             }
         },
         "Maps/rules_assets.tmx": {
-            "scale": 1,
+            "scale": 3,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 934,
-                "y": 836
+                "x": 612.3333333333333,
+                "y": 539
             }
         },
         "Maps/rules_buildings.tmx": {
@@ -601,18 +601,18 @@
         },
         "Maps/whitesnakes_interiors_lab.tmx": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 1441,
-                "y": 1291.5
+                "x": 1259,
+                "y": 1222
             }
         },
         "Maps/whitesnakes_interiors_underground.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 28,
+            "scale": 0.75,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1510,
-                "y": 647
+                "x": 992,
+                "y": 529.9999999999999
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1092,9 +1092,14 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
+        "Maps/whitesnakes_interiors_lab.tmx",
+        "Maps/whitesnakes_interiors_underground.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/whitesnakes_interiors_underground.tmx",
+        "Maps/whitesnakes_interiors_lab.tmx",
+        "Maps/rules_assets.tmx",
         "Maps/whitesnakes_interiors_floor_0.tmx",
         "Maps/Laboursol.tmx",
         "Maps/Musee_Mermesa_SecurityRoom.tmx",
@@ -1103,10 +1108,7 @@
         "Maps/rm_53_pok__shop_pa.tmx",
         "Maps/rules_random_tiles.tmx",
         "Maps/rules_nature.tmx",
-        "Maps/Sylveria.tmx",
-        "Maps/Lumicite.tmx",
-        "Maps/rules_buildings.tmx",
-        "Tilesets/terrain basics v2.tsx"
+        "Maps/Sylveria.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
