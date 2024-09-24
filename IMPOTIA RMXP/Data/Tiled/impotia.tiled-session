@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/whitesnakes_interiors_lab.tmx",
+    "activeFile": "Maps/whitesnakes_interiors_underground.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
+        "Maps",
         "Tilesets",
         ".",
-        "PNG to tmx",
-        "Maps"
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -600,19 +600,19 @@
             }
         },
         "Maps/whitesnakes_interiors_lab.tmx": {
-            "scale": 1,
-            "selectedLayer": 28,
+            "scale": 0.33,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1259,
-                "y": 1222
+                "x": 2118.1818181818185,
+                "y": 1001.5151515151515
             }
         },
         "Maps/whitesnakes_interiors_underground.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 1,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 992,
-                "y": 529.9999999999999
+                "x": 2115,
+                "y": 435
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1092,7 +1092,6 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/whitesnakes_interiors_lab.tmx",
         "Maps/whitesnakes_interiors_underground.tmx"
     ],
     "project": "impotia.tiled-project",
