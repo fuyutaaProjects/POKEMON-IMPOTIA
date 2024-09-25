@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/whitesnakes_interiors_underground.tmx",
+    "activeFile": "Maps/DEBUG_ROOM.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Maps",
-        "Tilesets",
+        "PNG to tmx",
         ".",
-        "PNG to tmx"
+        "Tilesets",
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -71,6 +71,14 @@
         },
         "C:/Users/Nakoru/Downloads/Tiled/Tilesets/ville_4g.tsx": {
             "scaleInDock": 1
+        },
+        "Maps/DEBUG_ROOM.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 365,
+                "y": 708
+            }
         },
         "Maps/Gate Left Port Avalon.tmx": {
             "scale": 1.5,
@@ -611,8 +619,8 @@
             "scale": 1,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 2115,
-                "y": 435
+                "x": 2113.5,
+                "y": 434
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1092,10 +1100,11 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/whitesnakes_interiors_underground.tmx"
+        "Maps/DEBUG_ROOM.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/DEBUG_ROOM.tmx",
         "Maps/whitesnakes_interiors_underground.tmx",
         "Maps/whitesnakes_interiors_lab.tmx",
         "Maps/rules_assets.tmx",
@@ -1106,8 +1115,7 @@
         "Maps/rm_59_oasisville_interiors.tmx",
         "Maps/rm_53_pok__shop_pa.tmx",
         "Maps/rules_random_tiles.tmx",
-        "Maps/rules_nature.tmx",
-        "Maps/Sylveria.tmx"
+        "Maps/rules_nature.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
