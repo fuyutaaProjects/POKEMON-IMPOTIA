@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/rm_56_verdentia.tmx",
+    "activeFile": "Maps/lumi_interiors.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
-        "Tilesets",
         "PNG to tmx",
+        "Tilesets",
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -124,11 +124,11 @@
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 0.5,
+            "scale": 0.75,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 1500,
-                "y": 1104
+                "x": 1320,
+                "y": 1140.6666666666665
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -167,8 +167,8 @@
             "scale": 1,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 222,
-                "y": 382
+                "x": 298,
+                "y": 340
             }
         },
         "Maps/Musee_Mermesa_4.tmx": {
@@ -243,6 +243,14 @@
                 "y": 873.3333333333333
             }
         },
+        "Maps/lumi_interiors.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 4128,
+                "y": 616
+            }
+        },
         "Maps/mermesa_interiors.tmx": {
             "scale": 0.33,
             "selectedLayer": 0,
@@ -284,35 +292,67 @@
             }
         },
         "Maps/player_house.tmx": {
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 511.5,
-                "y": 329.5
+                "x": 488,
+                "y": 320
+            }
+        },
+        "Maps/rm_13_village_psdk_est.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 762,
+                "y": 1024
+            }
+        },
+        "Maps/rm_14_psdk__25_0.tmx": {
+            "scale": 1.5318749999999999,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 320.52223582211343,
+                "y": 240.22847817217468
             }
         },
         "Maps/rm_15_map015.tmx": {
             "scale": 1.661015625,
             "selectedLayer": -1,
             "viewCenter": {
-                "x": 345.87272470721035,
-                "y": 183.62259536240066
+                "x": 344.36762146653496,
+                "y": 183.0205540661305
+            }
+        },
+        "Maps/rm_16_map016.tmx": {
+            "scale": 1.5,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 290.66666666666663,
+                "y": 276.66666666666663
+            }
+        },
+        "Maps/rm_17_map017.tmx": {
+            "scale": 1.5318749999999999,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 320.52223582211343,
+                "y": 240.22847817217468
             }
         },
         "Maps/rm_26_port_avalon_interiors.tmx": {
             "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 3814.666666666666,
-                "y": 1449.3333333333333
+                "x": 2193.333333333333,
+                "y": 1600
             }
         },
         "Maps/rm_33_port_avalon.tmx": {
-            "scale": 3,
+            "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 579,
-                "y": 580.8333333333333
+                "x": 548,
+                "y": 589
             }
         },
         "Maps/rm_34_sylvebrume.tmx": {
@@ -376,19 +416,19 @@
             }
         },
         "Maps/rm_47_centre_pok__mon_pa.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 1,
+            "scale": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 411.99999999999994,
-                "y": 312.66666666666663
+                "x": 370,
+                "y": 312
             }
         },
         "Maps/rm_48_bar_avalons.tmx": {
             "scale": 2,
-            "selectedLayer": 4,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 571,
-                "y": 287
+                "x": 529.5,
+                "y": 428.5
             }
         },
         "Maps/rm_49_bar_avalons_etage.tmx": {
@@ -443,8 +483,8 @@
             "scale": 1,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 1596,
-                "y": 1558
+                "x": 1481,
+                "y": 1584
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -536,11 +576,11 @@
             }
         },
         "Maps/rules_tileset_interiors.tmx": {
-            "scale": 0.75,
+            "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 565.3333333333333,
-                "y": 297.33333333333326
+                "x": 2296.5,
+                "y": 849
             }
         },
         "Maps/rules_trees.tmx": {
@@ -568,11 +608,11 @@
             }
         },
         "Maps/verdentia_interiors.tmx": {
-            "scale": 1.5,
+            "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 660.6666666666666,
-                "y": 528
+                "x": 737,
+                "y": 453
             }
         },
         "Maps/verdentia_pokecenter.tmx": {
@@ -1034,7 +1074,7 @@
         },
         "Tilesets/interiors.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 4
         },
         "Tilesets/mermesa.tsx": {
             "scaleInDock": 1
@@ -1100,22 +1140,23 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/rm_56_verdentia.tmx"
+        "Maps/Lumicite.tmx",
+        "Maps/lumi_interiors.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rm_56_verdentia.tmx",
-        "Maps/rm_55_grotte_rochtherme.tmx",
-        "Maps/mermesa_pokeshop.tmx",
-        "Maps/verdentia_pokecenter.tmx",
-        "Maps/mermesa_pokecenter.tmx",
-        "Maps/whitesnakes_interiors_underground.tmx",
-        "Maps/whitesnakes_interiors_lab.tmx",
-        "Maps/DEBUG_ROOM.tmx",
-        "Maps/rules_assets.tmx",
-        "Maps/whitesnakes_interiors_floor_0.tmx",
-        "Maps/Laboursol.tmx",
-        "Maps/Musee_Mermesa_SecurityRoom.tmx"
+        "Maps/Lumicite.tmx",
+        "Maps/lumi_interiors.tmx",
+        "Maps/rules_tileset_interiors.tmx",
+        "Maps/rm_26_port_avalon_interiors.tmx",
+        "Maps/rm_48_bar_avalons.tmx",
+        "Tilesets/interiors.tsx",
+        "Maps/verdentia_interiors.tmx",
+        "Maps/rm_33_port_avalon.tmx",
+        "Maps/rm_13_village_psdk_est.tmx",
+        "Maps/rm_14_psdk__25_0.tmx",
+        "Maps/rm_15_map015.tmx",
+        "Maps/rm_16_map016.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
