@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/DEBUG_ROOM.tmx",
+    "activeFile": "Maps/rm_56_verdentia.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "PNG to tmx",
-        ".",
+        "Maps",
         "Tilesets",
-        "Maps"
+        "PNG to tmx",
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -76,8 +76,8 @@
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 365,
-                "y": 708
+                "x": 968,
+                "y": 752
             }
         },
         "Maps/Gate Left Port Avalon.tmx": {
@@ -253,18 +253,18 @@
         },
         "Maps/mermesa_pokecenter.tmx": {
             "scale": 1.5,
-            "selectedLayer": 4,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 383.99999999999994,
-                "y": 189.99999999999997
+                "x": 382.66666666666663,
+                "y": 189.33333333333337
             }
         },
         "Maps/mermesa_pokeshop.tmx": {
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 336,
-                "y": 320.5
+                "x": 378,
+                "y": 314.5
             }
         },
         "Maps/over route 1.tmx": {
@@ -432,19 +432,19 @@
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
-            "scale": 2,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1517.5,
-                "y": 1869.5
+                "x": 1800,
+                "y": 1230.5
             }
         },
         "Maps/rm_56_verdentia.tmx": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 1448.5,
-                "y": 1174
+                "x": 1596,
+                "y": 1558
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -577,10 +577,10 @@
         },
         "Maps/verdentia_pokecenter.tmx": {
             "scale": 1.5,
-            "selectedLayer": 4,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 379.99999999999994,
-                "y": 263.33333333333337
+                "x": 378.66666666666663,
+                "y": 175.33333333333337
             }
         },
         "Maps/verdentia_pokeshop.tmx": {
@@ -608,19 +608,19 @@
             }
         },
         "Maps/whitesnakes_interiors_lab.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 0,
+            "scale": 0.5,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 2118.1818181818185,
-                "y": 1001.5151515151515
+                "x": 1486,
+                "y": 874
             }
         },
         "Maps/whitesnakes_interiors_underground.tmx": {
-            "scale": 1,
-            "selectedLayer": 15,
+            "scale": 0.5,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 2113.5,
-                "y": 434
+                "x": 1258,
+                "y": 526
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1100,22 +1100,22 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/DEBUG_ROOM.tmx"
+        "Maps/rm_56_verdentia.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/DEBUG_ROOM.tmx",
+        "Maps/rm_56_verdentia.tmx",
+        "Maps/rm_55_grotte_rochtherme.tmx",
+        "Maps/mermesa_pokeshop.tmx",
+        "Maps/verdentia_pokecenter.tmx",
+        "Maps/mermesa_pokecenter.tmx",
         "Maps/whitesnakes_interiors_underground.tmx",
         "Maps/whitesnakes_interiors_lab.tmx",
+        "Maps/DEBUG_ROOM.tmx",
         "Maps/rules_assets.tmx",
         "Maps/whitesnakes_interiors_floor_0.tmx",
         "Maps/Laboursol.tmx",
-        "Maps/Musee_Mermesa_SecurityRoom.tmx",
-        "Maps/Musee_Mermesa_1.tmx",
-        "Maps/rm_59_oasisville_interiors.tmx",
-        "Maps/rm_53_pok__shop_pa.tmx",
-        "Maps/rules_random_tiles.tmx",
-        "Maps/rules_nature.tmx"
+        "Maps/Musee_Mermesa_SecurityRoom.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
