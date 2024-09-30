@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/rm_6_grotte_de_glace.tmx",
+    "activeFile": "",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Tilesets",
-        "Maps",
         ".",
-        "PNG to tmx"
+        "PNG to tmx",
+        "Maps",
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -204,11 +204,11 @@
             }
         },
         "Maps/Route_05.tmx": {
-            "scale": 0.5,
+            "scale": 0.75,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 2514,
-                "y": 619
+                "x": 3154.666666666667,
+                "y": 1743.3333333333333
             }
         },
         "Maps/Sanctuaire Oublie.tmx": {
@@ -244,11 +244,11 @@
             }
         },
         "Maps/grotte_gelume.tmx": {
-            "scale": 2,
-            "selectedLayer": 6,
+            "scale": 0.75,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 684,
-                "y": 1485
+                "x": 2244,
+                "y": 1206
             }
         },
         "Maps/lumi_interior_houses.tmx": {
@@ -269,10 +269,10 @@
         },
         "Maps/lumi_interiors.tmx": {
             "scale": 0.75,
-            "selectedLayer": 28,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 5460,
-                "y": 889.3333333333333
+                "x": 6049.333333333333,
+                "y": 912.6666666666667
             }
         },
         "Maps/mermesa_interiors.tmx": {
@@ -507,8 +507,8 @@
             "scale": 1,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 1480,
-                "y": 1582.5
+                "x": 1922,
+                "y": 1599.5
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -547,8 +547,8 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 345.33333333333337,
-                "y": 247.33333333333337
+                "x": 614.6666666666666,
+                "y": 252.33333333333337
             }
         },
         "Maps/rules_animations.tmx": {
@@ -576,19 +576,19 @@
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 272,
-                "y": 1304
+                "x": 1240,
+                "y": 548.6666666666667
             }
         },
         "Maps/rules_random_tiles.tmx": {
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 717,
-                "y": 457.5
+                "x": 881,
+                "y": 357.5
             }
         },
         "Maps/rules_terrain_basics.tmx": {
@@ -600,19 +600,19 @@
             }
         },
         "Maps/rules_terrain_basics_v2.tmx": {
-            "scale": 1.5,
+            "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 752,
-                "y": 2658.333333333333
+                "x": 802,
+                "y": 2157
             }
         },
         "Maps/rules_tileset_interiors.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2120.6666666666665,
-                "y": 708
+                "x": 1001.3333333333333,
+                "y": 4940.666666666666
             }
         },
         "Maps/rules_trees.tmx": {
@@ -691,16 +691,24 @@
             "scale": 0.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 1258,
-                "y": 526
+                "x": 1802,
+                "y": 767
             }
         },
         "Maps/z_TEMPLATE.tmx": {
             "scale": 0.26718749999999997,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1601.8713450292398,
-                "y": 1601.8713450292403
+                "x": 3259.8830409356733,
+                "y": 1674.853801169591
+            }
+        },
+        "Maps/zenith_interiors.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1949.3333333333333,
+                "y": 355.33333333333326
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1183,24 +1191,21 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/grotte_gelume.tmx",
-        "Tilesets/terrain basics v2.tsx",
-        "Maps/rm_6_grotte_de_glace.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/grotte_gelume.tmx",
+        "Maps/lumi_interiors.tmx",
+        "Maps/rules_tileset_interiors.tmx",
+        "Maps/Route_05.tmx",
+        "Maps/zenith_interiors.tmx",
+        "Maps/whitesnakes_interiors_underground.tmx",
+        "Maps/rules_random_tiles.tmx",
         "Tilesets/terrain basics v2.tsx",
+        "Maps/grotte_gelume.tmx",
         "Maps/rm_6_grotte_de_glace.tmx",
         "Maps/rm_56_verdentia.tmx",
         "Maps/z_TEMPLATE.tmx",
-        "Maps/rules_nature.tmx",
-        "Maps/rules_terrain_basics_v2.tmx",
-        "Maps/rules_terrain_basics.tmx",
-        "Maps/Laboursol.tmx",
-        "Maps/Lumicite.tmx",
-        "Maps/rules_tileset_interiors.tmx",
-        "Maps/lumi_interior_houses.tmx"
+        "Maps/rules_nature.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
