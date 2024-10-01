@@ -1,40 +1,31 @@
 ================================Erreur de script================================
 Message :
-no implicit conversion of nil into String
+undefined method `find_path' for nil:NilClass
 
-Type : TypeError
-Script : 0_Dependencies.rb (PSDK)
-Ligne : 2476
-Date : 13/09/2024 22:58:25
+Type : NoMethodError
+Script : (eval) (RMXP)
+Ligne : 2
+Date : 01/10/2024 18:01:32
 Game Version : 256
-Logiciel : PSDK 26.29
+Logiciel : PSDK 26.30
+Script used by eval command : 
+get_character(14).find_path(to: [42,36], radius: 1)
+
+
 ===================================Backtraces===================================
-[36] : 0_Dependencies.rb (PSDK) | ligne 2476 multiline_text=
-[35] : 0_Dependencies.rb (PSDK) | ligne 2470 each
-[34] : 0_Dependencies.rb (PSDK) | ligne 2470 multiline_text=
-[33] : 4_Systems_101_Dex.rb (PSDK) | ligne 577 change_state
-[32] : 4_Systems_101_Dex.rb (PSDK) | ligne 540 action_A
-[31] : 4_Systems_101_Dex.rb (PSDK) | ligne 487 update_inputs
-[30] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 421 update
-[29] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 451 update
-[28] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 229 main_process
-[27] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 140 main
-[26] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 170 call_scene
-[25] : 4_Systems_000_General.rb (PSDK) | ligne 193 open_dex
-[24] : 4_Systems_100_Menu.rb (PSDK) | ligne 187 open_dex
-[23] : 4_Systems_100_Menu.rb (PSDK) | ligne 183 action
-[22] : 4_Systems_100_Menu.rb (PSDK) | ligne 69 update_inputs
-[21] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 421 update
-[20] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 451 update
-[19] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 229 main_process
-[18] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 140 main
-[17] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 170 call_scene
-[16] : 4_Systems_000_General.rb (PSDK) | ligne 130 open_menu
-[15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9187 call_menu
-[14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9121 update_scene_calling
-[13] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9119 each
-[12] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9119 update_scene_calling
-[11] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8913 update
+[23] : (eval) (RMXP) | ligne 2 eval_X3
+[22] : 1_RMXP_Scripts.rb (PSDK) | ligne 2105 eval_script
+[21] : 1_RMXP_Scripts.rb (PSDK) | ligne 2097 command_355
+[20] : 1_RMXP_Scripts.rb (PSDK) | ligne 1081 execute_command
+[19] : 1_RMXP_Scripts.rb (PSDK) | ligne 961 update
+[18] : 1_RMXP_Scripts.rb (PSDK) | ligne 942 loop
+[17] : 1_RMXP_Scripts.rb (PSDK) | ligne 942 update
+[16] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9035 auto_transfert_update
+[15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9033 loop
+[14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9033 auto_transfert_update
+[13] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8908 update
+[12] : 0_Dependencies.rb (PSDK) | ligne 1325 run
+[11] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8908 update
 [10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 229 main_process
 [9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 140 main
 [8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
@@ -42,7 +33,7 @@ Logiciel : PSDK 26.29
 [6] : tools/GameLoader/50_load_game_uncompiled.rb (PSDK) | ligne 48 <top (required)>
 [5] : ScriptLoad.rb (PSDK) | ligne 198 require
 [4] : ScriptLoad.rb (PSDK) | ligne 198 load_tool
-[3] : tools/GameLoader/Z_load_uncompiled.rb (PSDK) | ligne 16 <top (required)>
+[3] : tools/GameLoader/Z_load_uncompiled.rb (PSDK) | ligne 17 <top (required)>
 [2] : ScriptLoad.rb (PSDK) | ligne 198 require
 [1] : ScriptLoad.rb (PSDK) | ligne 198 load_tool
 [0] : Game.rb (RMXP) | ligne 11 <main>

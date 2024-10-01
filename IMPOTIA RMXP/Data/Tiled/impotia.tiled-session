@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Maps/whitesnakes_interiors_underground.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        ".",
+        "Maps",
         "Tilesets",
         "PNG to tmx",
-        "Maps"
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -148,11 +148,11 @@
             }
         },
         "Maps/Musee_Mermesa_1.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 1.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 558.6666666666667,
-                "y": 558.6666666666667
+                "x": 518,
+                "y": 943.9999999999999
             }
         },
         "Maps/Musee_Mermesa_2.tmx": {
@@ -175,8 +175,8 @@
             "scale": 1.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 250.66666666666663,
-                "y": 431.99999999999994
+                "x": 644.6666666666666,
+                "y": 460.66666666666663
             }
         },
         "Maps/Musee_Mermesa_SecurityRoom.tmx": {
@@ -504,11 +504,11 @@
             }
         },
         "Maps/rm_56_verdentia.tmx": {
-            "scale": 1,
-            "selectedLayer": 10,
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1922,
-                "y": 1599.5
+                "x": 1314.6666666666665,
+                "y": 1360.6666666666665
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -640,19 +640,19 @@
             }
         },
         "Maps/verdentia_interiors.tmx": {
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 737,
-                "y": 453
+                "x": 1292,
+                "y": 764.6666666666667
             }
         },
         "Maps/verdentia_pokecenter.tmx": {
             "scale": 1.5,
-            "selectedLayer": 28,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 378.66666666666663,
-                "y": 175.33333333333337
+                "x": 391.33333333333337,
+                "y": 281.99999999999994
             }
         },
         "Maps/verdentia_pokeshop.tmx": {
@@ -672,11 +672,11 @@
             }
         },
         "Maps/whitesnakes_interiors_floor_0.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 5,
+            "scale": 1,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 463.99999999999994,
-                "y": 1703.3333333333333
+                "x": 1936,
+                "y": 802
             }
         },
         "Maps/whitesnakes_interiors_lab.tmx": {
@@ -688,11 +688,11 @@
             }
         },
         "Maps/whitesnakes_interiors_underground.tmx": {
-            "scale": 0.33,
+            "scale": 3,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 1613.6363636363637,
-                "y": 1063.6363636363637
+                "x": 2325,
+                "y": 383.3333333333333
             }
         },
         "Maps/z_TEMPLATE.tmx": {
@@ -1191,21 +1191,22 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
+        "Maps/whitesnakes_interiors_underground.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/whitesnakes_interiors_underground.tmx",
+        "Maps/verdentia_pokecenter.tmx",
+        "Maps/Musee_Mermesa_4.tmx",
+        "Maps/Musee_Mermesa_1.tmx",
+        "Maps/whitesnakes_interiors_floor_0.tmx",
+        "Maps/rm_56_verdentia.tmx",
+        "Maps/verdentia_interiors.tmx",
         "Maps/zenith_interiors.tmx",
         "Maps/grotte_gelume.tmx",
         "Maps/rules_tileset_interiors.tmx",
         "Maps/z_TEMPLATE.tmx",
-        "Maps/rm_52_pa_gym.tmx",
-        "Maps/Sylveria.tmx",
-        "Maps/Route_05.tmx",
-        "Maps/lumi_interiors.tmx",
-        "Maps/whitesnakes_interiors_underground.tmx",
-        "Maps/rules_random_tiles.tmx",
-        "Tilesets/terrain basics v2.tsx",
-        "Maps/rm_6_grotte_de_glace.tmx"
+        "Maps/rm_52_pa_gym.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

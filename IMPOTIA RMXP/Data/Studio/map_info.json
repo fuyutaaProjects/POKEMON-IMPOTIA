@@ -105,7 +105,9 @@
       8,
       9,
       10,
-      59
+      59,
+      66,
+      67
     ],
     "hasChildren": true,
     "isExpanded": true,
@@ -797,6 +799,28 @@
       "klass": "MapInfoMap",
       "mapDbSymbol": "map065",
       "parentId": 55
+    }
+  },
+  "66": {
+    "id": 66,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map066",
+      "parentId": 7
+    }
+  },
+  "67": {
+    "id": 67,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map067",
+      "parentId": 7
     }
   }
 }
