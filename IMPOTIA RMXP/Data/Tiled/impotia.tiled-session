@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/whitesnakes_interiors_underground.tmx",
+    "activeFile": "Maps/verdentia_gym.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
+        ".",
         "Maps",
         "Tilesets",
-        "PNG to tmx",
-        "."
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -504,11 +504,11 @@
             }
         },
         "Maps/rm_56_verdentia.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 3,
+            "scale": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1314.6666666666665,
-                "y": 1360.6666666666665
+                "x": 1596.5,
+                "y": 1597.5
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -560,51 +560,51 @@
             }
         },
         "Maps/rules_assets.tmx": {
-            "scale": 3,
+            "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 612.3333333333333,
-                "y": 539
+                "x": 839,
+                "y": 486.5
             }
         },
         "Maps/rules_buildings.tmx": {
-            "scale": 2,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 2838,
-                "y": 259.5
+                "x": 3468,
+                "y": 319.99999999999994
             }
         },
         "Maps/rules_nature.tmx": {
             "scale": 0.75,
-            "selectedLayer": 8,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1240,
-                "y": 548.6666666666667
+                "x": 1233.3333333333333,
+                "y": 1310
             }
         },
         "Maps/rules_random_tiles.tmx": {
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 0.5,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 880.5,
-                "y": 356
+                "x": 1066,
+                "y": 288
             }
         },
         "Maps/rules_terrain_basics.tmx": {
-            "scale": 1,
-            "selectedLayer": 2,
+            "scale": 0.33,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 938,
-                "y": 398
+                "x": 1381.818181818182,
+                "y": 604.5454545454546
             }
         },
         "Maps/rules_terrain_basics_v2.tmx": {
             "scale": 0.5,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 802,
-                "y": 2157
+                "x": 298,
+                "y": 358
             }
         },
         "Maps/rules_tileset_interiors.tmx": {
@@ -619,8 +619,8 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1184,
-                "y": 351.99999999999994
+                "x": 294,
+                "y": 192.33333333333337
             }
         },
         "Maps/temporis_interiors.tmx": {
@@ -639,19 +639,27 @@
                 "y": 1250
             }
         },
+        "Maps/verdentia_gym.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 790,
+                "y": 1534.6666666666665
+            }
+        },
         "Maps/verdentia_interiors.tmx": {
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1292,
-                "y": 764.6666666666667
+                "x": 1594.6666666666665,
+                "y": 850.6666666666667
             }
         },
         "Maps/verdentia_pokecenter.tmx": {
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 391.33333333333337,
+                "x": 390.66666666666663,
                 "y": 281.99999999999994
             }
         },
@@ -688,11 +696,11 @@
             }
         },
         "Maps/whitesnakes_interiors_underground.tmx": {
-            "scale": 3,
-            "selectedLayer": 28,
+            "scale": 0.75,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 2325,
-                "y": 383.3333333333333
+                "x": 2113.333333333333,
+                "y": 609.3333333333333
             }
         },
         "Maps/z_TEMPLATE.tmx": {
@@ -1162,7 +1170,7 @@
         },
         "Tilesets/terrain basics v2.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 2
+            "scaleInEditor": 1
         },
         "Tilesets/terrain_basics.tsx": {
             "scaleInDock": 1,
@@ -1191,22 +1199,22 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/whitesnakes_interiors_underground.tmx"
+        "Maps/verdentia_gym.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/whitesnakes_interiors_underground.tmx",
+        "Maps/verdentia_gym.tmx",
         "Maps/verdentia_pokecenter.tmx",
-        "Maps/Musee_Mermesa_4.tmx",
-        "Maps/Musee_Mermesa_1.tmx",
-        "Maps/whitesnakes_interiors_floor_0.tmx",
-        "Maps/rm_56_verdentia.tmx",
         "Maps/verdentia_interiors.tmx",
-        "Maps/zenith_interiors.tmx",
-        "Maps/grotte_gelume.tmx",
-        "Maps/rules_tileset_interiors.tmx",
-        "Maps/z_TEMPLATE.tmx",
-        "Maps/rm_52_pa_gym.tmx"
+        "Tilesets/terrain basics v2.tsx",
+        "Maps/rules_trees.tmx",
+        "Maps/rules_assets.tmx",
+        "Maps/rules_nature.tmx",
+        "Maps/rm_56_verdentia.tmx",
+        "Tilesets/nature_basics.tsx",
+        "Maps/rules_buildings.tmx",
+        "Maps/rules_terrain_basics_v2.tmx",
+        "Maps/rules_terrain_basics.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

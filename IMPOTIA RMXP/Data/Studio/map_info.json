@@ -677,7 +677,8 @@
       42,
       43,
       64,
-      65
+      65,
+      68
     ],
     "hasChildren": true,
     "isExpanded": true,
@@ -821,6 +822,17 @@
       "klass": "MapInfoMap",
       "mapDbSymbol": "map067",
       "parentId": 7
+    }
+  },
+  "68": {
+    "id": 68,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map068",
+      "parentId": 55
     }
   }
 }
