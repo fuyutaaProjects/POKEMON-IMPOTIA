@@ -7,9 +7,9 @@
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         ".",
-        "Maps",
         "Tilesets",
-        "PNG to tmx"
+        "PNG to tmx",
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -640,11 +640,11 @@
             }
         },
         "Maps/verdentia_gym.tmx": {
-            "scale": 3,
-            "selectedLayer": 0,
+            "scale": 1.5,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 790,
-                "y": 1534.6666666666665
+                "x": 1075.3333333333333,
+                "y": 1780
             }
         },
         "Maps/verdentia_interiors.tmx": {
