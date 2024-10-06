@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1030,
+        "description": 0
+      },
       "height": 0.9,
       "weight": 6.4,
       "type1": "grass",
@@ -82,9 +86,9 @@
       "resources": {
         "icon": "zanitus",
         "iconShiny": "zanitus",
-        "front": "zanitus",
+        "front": "Zanitus",
         "frontShiny": "zanitus",
-        "back": "zanitus",
+        "back": "Zanitus",
         "backShiny": "zanitus",
         "footprint": "zanitus",
         "character": "zanitus",
@@ -343,11 +347,7 @@
           "klass": "TutorLearnableMove",
           "move": "ingrain"
         }
-      ],
-      "formTextId": {
-        "name": 1030,
-        "description": 0
-      }
+      ]
     }
   ]
 }
