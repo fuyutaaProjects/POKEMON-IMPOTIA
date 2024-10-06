@@ -1,30 +1,30 @@
 ================================Erreur de script================================
 Message :
-undefined method `find_path' for nil:NilClass
+undefined method `>=' for [true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]:Array
 
 Type : NoMethodError
 Script : (eval) (RMXP)
 Ligne : 2
-Date : 01/10/2024 18:01:32
+Date : 06/10/2024 10:54:23
 Game Version : 256
 Logiciel : PSDK 26.30
 Script used by eval command : 
-get_character(14).find_path(to: [42,36], radius: 1)
-
+$trainer.badges >= 1
 
 ===================================Backtraces===================================
-[23] : (eval) (RMXP) | ligne 2 eval_X3
-[22] : 1_RMXP_Scripts.rb (PSDK) | ligne 2105 eval_script
-[21] : 1_RMXP_Scripts.rb (PSDK) | ligne 2097 command_355
-[20] : 1_RMXP_Scripts.rb (PSDK) | ligne 1081 execute_command
-[19] : 1_RMXP_Scripts.rb (PSDK) | ligne 961 update
-[18] : 1_RMXP_Scripts.rb (PSDK) | ligne 942 loop
-[17] : 1_RMXP_Scripts.rb (PSDK) | ligne 942 update
-[16] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9035 auto_transfert_update
-[15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9033 loop
-[14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9033 auto_transfert_update
-[13] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8908 update
-[12] : 0_Dependencies.rb (PSDK) | ligne 1325 run
+[24] : (eval) (RMXP) | ligne 2 eval_X3
+[23] : 1_RMXP_Scripts.rb (PSDK) | ligne 1329 eval_condition_script
+[22] : 1_RMXP_Scripts.rb (PSDK) | ligne 1314 command_111
+[21] : 1_RMXP_Scripts.rb (PSDK) | ligne 1081 execute_command
+[20] : 1_RMXP_Scripts.rb (PSDK) | ligne 961 update
+[19] : 1_RMXP_Scripts.rb (PSDK) | ligne 942 loop
+[18] : 1_RMXP_Scripts.rb (PSDK) | ligne 942 update
+[17] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9035 auto_transfert_update
+[16] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9033 loop
+[15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9033 auto_transfert_update
+[14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8908 update
+[13] : 0_Dependencies.rb (PSDK) | ligne 1326 times
+[12] : 0_Dependencies.rb (PSDK) | ligne 1326 run
 [11] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8908 update
 [10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 229 main_process
 [9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 140 main

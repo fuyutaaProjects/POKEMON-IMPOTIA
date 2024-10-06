@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Maps/Route_04.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "PNG to tmx",
         ".",
         "Maps",
-        "Tilesets"
+        "Tilesets",
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -127,8 +127,8 @@
             "scale": 0.75,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 637.3333333333333,
-                "y": 1093.3333333333333
+                "x": 1120,
+                "y": 1232
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -196,11 +196,11 @@
             }
         },
         "Maps/Route_04.tmx": {
-            "scale": 0.5,
+            "scale": 1,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 1794,
-                "y": 1087
+                "x": 1483,
+                "y": 1008
             }
         },
         "Maps/Route_05.tmx": {
@@ -648,11 +648,11 @@
             }
         },
         "Maps/verdentia_gym.tmx": {
-            "scale": 1.5,
+            "scale": 0.75,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 1074.6666666666665,
-                "y": 1779.3333333333333
+                "x": 2399.333333333333,
+                "y": 1039.3333333333335
             }
         },
         "Maps/verdentia_interiors.tmx": {
@@ -731,8 +731,8 @@
             "scale": 0.25,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1680,
-                "y": 1556
+                "x": 1676,
+                "y": 1552
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1215,21 +1215,24 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
+        "Maps/verdentia_gym.tmx",
+        "Maps/Lumicite.tmx",
+        "Maps/Route_04.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/Route_04.tmx",
+        "Maps/Lumicite.tmx",
+        "Maps/verdentia_gym.tmx",
         "Maps/zephyrion.tmx",
         "Maps/tuto_layers.tmx",
         "Maps/z_TEMPLATE.tmx",
         "Maps/rm_26_port_avalon_interiors.tmx",
-        "Maps/verdentia_gym.tmx",
         "Maps/verdentia_pokecenter.tmx",
         "Maps/verdentia_interiors.tmx",
         "Tilesets/terrain basics v2.tsx",
         "Maps/rules_trees.tmx",
-        "Maps/rules_assets.tmx",
-        "Maps/rules_nature.tmx",
-        "Maps/rm_56_verdentia.tmx"
+        "Maps/rules_assets.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
