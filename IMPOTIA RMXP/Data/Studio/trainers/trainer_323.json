@@ -5,6 +5,8 @@
   "vsType": 1,
   "isCouple": false,
   "baseMoney": 150,
+  "bagEntries": [],
+  "battleId": 0,
   "ai": 6,
   "party": [
     {
@@ -240,18 +242,16 @@
       ]
     }
   ],
-  "bagEntries": [],
-  "battleId": 0,
   "resources": {
+    "sprite": "ChampionMoïra_sma",
     "artworkFull": "ChampionMoïra_big",
     "artworkSmall": "ChampionMoïra_sma",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
-    },
-    "sprite": "ChampionMoïra_sma"
+      "victory": "",
+      "defeat": "",
+      "bgm": "gym_leader.ogg"
+    }
   }
 }

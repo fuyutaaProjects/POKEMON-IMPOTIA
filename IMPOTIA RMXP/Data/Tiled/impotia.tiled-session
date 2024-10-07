@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Route_04.tmx",
+    "activeFile": "Maps/mermesa_pokecenter.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        ".",
         "Maps",
-        "Tilesets",
-        "PNG to tmx"
+        "PNG to tmx",
+        ".",
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -287,7 +287,7 @@
             "scale": 1.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 382.66666666666663,
+                "x": 381.99999999999994,
                 "y": 189.33333333333337
             }
         },
@@ -648,11 +648,11 @@
             }
         },
         "Maps/verdentia_gym.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 29,
+            "scale": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 2399.333333333333,
-                "y": 1039.3333333333335
+                "x": 969,
+                "y": 1296
             }
         },
         "Maps/verdentia_interiors.tmx": {
@@ -1215,15 +1215,14 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/verdentia_gym.tmx",
-        "Maps/Lumicite.tmx",
-        "Maps/Route_04.tmx"
+        "Maps/mermesa_pokecenter.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/mermesa_pokecenter.tmx",
+        "Maps/verdentia_gym.tmx",
         "Maps/Route_04.tmx",
         "Maps/Lumicite.tmx",
-        "Maps/verdentia_gym.tmx",
         "Maps/zephyrion.tmx",
         "Maps/tuto_layers.tmx",
         "Maps/z_TEMPLATE.tmx",
@@ -1231,8 +1230,7 @@
         "Maps/verdentia_pokecenter.tmx",
         "Maps/verdentia_interiors.tmx",
         "Tilesets/terrain basics v2.tsx",
-        "Maps/rules_trees.tmx",
-        "Maps/rules_assets.tmx"
+        "Maps/rules_trees.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

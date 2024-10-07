@@ -2,9 +2,21 @@
   "klass": "Group",
   "id": 8,
   "dbSymbol": "group_8",
+  "systemTag": "Custom_mesa_sand_grass",
+  "terrainTag": 0,
+  "tool": null,
+  "isDoubleBattle": false,
+  "isHordeBattle": false,
+  "customConditions": [
+    {
+      "type": "mapId",
+      "value": 54,
+      "relationWithPreviousCondition": "AND"
+    }
+  ],
   "encounters": [
     {
-      "specie": "caracamor",
+      "specie": "magmouette",
       "form": 0,
       "shinySetup": {
         "kind": "automatic",
@@ -13,11 +25,11 @@
       "levelSetup": {
         "kind": "minmax",
         "level": {
-          "minimumLevel": 9,
-          "maximumLevel": 11
+          "minimumLevel": 10,
+          "maximumLevel": 13
         }
       },
-      "randomEncounterChance": 20,
+      "randomEncounterChance": 30,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -55,11 +67,11 @@
       "levelSetup": {
         "kind": "minmax",
         "level": {
-          "minimumLevel": 9,
-          "maximumLevel": 11
+          "minimumLevel": 10,
+          "maximumLevel": 13
         }
       },
-      "randomEncounterChance": 30,
+      "randomEncounterChance": 25,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -97,11 +109,11 @@
       "levelSetup": {
         "kind": "minmax",
         "level": {
-          "minimumLevel": 9,
-          "maximumLevel": 11
+          "minimumLevel": 10,
+          "maximumLevel": 13
         }
       },
-      "randomEncounterChance": 20,
+      "randomEncounterChance": 25,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -139,11 +151,11 @@
       "levelSetup": {
         "kind": "minmax",
         "level": {
-          "minimumLevel": 9,
-          "maximumLevel": 11
+          "minimumLevel": 10,
+          "maximumLevel": 13
         }
       },
-      "randomEncounterChance": 30,
+      "randomEncounterChance": 20,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -172,17 +184,5 @@
       ]
     }
   ],
-  "isDoubleBattle": false,
-  "systemTag": "Custom_mesa_sand_grass",
-  "terrainTag": 0,
-  "customConditions": [
-    {
-      "type": "mapId",
-      "relationWithPreviousCondition": "AND",
-      "value": 54
-    }
-  ],
-  "tool": null,
-  "isHordeBattle": false,
   "stepsAverage": 7
 }

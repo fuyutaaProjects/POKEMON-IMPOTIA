@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 742,
+        "description": 0
+      },
       "height": 1.4,
       "weight": 23,
       "type1": "water",
@@ -117,6 +121,11 @@
         },
         {
           "klass": "LevelLearnableMove",
+          "move": "razor_shell",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "clamp",
           "level": 25
         },
@@ -124,11 +133,6 @@
           "klass": "LevelLearnableMove",
           "move": "ancient_power",
           "level": 29
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "razor_shell",
-          "level": 32
         },
         {
           "klass": "LevelLearnableMove",
@@ -328,11 +332,7 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 742,
-        "description": 0
-      }
+      ]
     }
   ]
 }

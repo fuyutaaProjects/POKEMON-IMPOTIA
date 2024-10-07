@@ -25,7 +25,18 @@
       "evSpd": 0,
       "evAts": 1,
       "evDfs": 2,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "dbSymbol": "robarome",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 35
+            }
+          ]
+        }
+      ],
       "experienceType": 1,
       "baseExperience": 142,
       "baseLoyalty": 70,
