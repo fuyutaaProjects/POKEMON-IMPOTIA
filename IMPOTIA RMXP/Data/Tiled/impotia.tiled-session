@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/mermesa_pokecenter.tmx",
+    "activeFile": "Maps/lumi_interior_offices.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
-        "PNG to tmx",
         ".",
+        "PNG to tmx",
         "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -124,11 +124,11 @@
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 0.75,
+            "scale": 4,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 1120,
-                "y": 1232
+                "x": 772.75,
+                "y": 1008.5
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -164,11 +164,11 @@
             }
         },
         "Maps/Musee_Mermesa_3.tmx": {
-            "scale": 1,
-            "selectedLayer": 28,
+            "scale": 1.5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 298,
-                "y": 340
+                "x": 205.99999999999997,
+                "y": 183.99999999999997
             }
         },
         "Maps/Musee_Mermesa_4.tmx": {
@@ -252,19 +252,19 @@
             }
         },
         "Maps/lumi_interior_houses.tmx": {
-            "scale": 0.33,
+            "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 2757.575757575758,
-                "y": 500.0000000000001
+                "x": 3626,
+                "y": 2328.5
             }
         },
         "Maps/lumi_interior_offices.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 28,
+            "scale": 2,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 2093.939393939394,
-                "y": 1200
+                "x": 424.5,
+                "y": 2111
             }
         },
         "Maps/lumi_interiors.tmx": {
@@ -287,8 +287,8 @@
             "scale": 1.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 381.99999999999994,
-                "y": 189.33333333333337
+                "x": 379.99999999999994,
+                "y": 188.66666666666663
             }
         },
         "Maps/mermesa_pokeshop.tmx": {
@@ -1215,22 +1215,26 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/mermesa_pokecenter.tmx"
+        "Maps/mermesa_pokecenter.tmx",
+        "Maps/Lumicite.tmx",
+        "Maps/lumi_interior_offices.tmx",
+        "Maps/lumi_interior_houses.tmx",
+        "Maps/Musee_Mermesa_3.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
         "Maps/mermesa_pokecenter.tmx",
+        "Maps/Lumicite.tmx",
+        "Maps/Musee_Mermesa_3.tmx",
+        "Maps/lumi_interior_houses.tmx",
+        "Maps/lumi_interior_offices.tmx",
         "Maps/verdentia_gym.tmx",
         "Maps/Route_04.tmx",
-        "Maps/Lumicite.tmx",
         "Maps/zephyrion.tmx",
         "Maps/tuto_layers.tmx",
         "Maps/z_TEMPLATE.tmx",
         "Maps/rm_26_port_avalon_interiors.tmx",
-        "Maps/verdentia_pokecenter.tmx",
-        "Maps/verdentia_interiors.tmx",
-        "Tilesets/terrain basics v2.tsx",
-        "Maps/rules_trees.tmx"
+        "Maps/verdentia_pokecenter.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 845,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 120.8,
       "type1": "grass",
@@ -91,23 +95,13 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "synthesis",
-          "level": 12
-        },
-        {
-          "klass": "LevelLearnableMove",
           "move": "reflect",
           "level": 17
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "giga_drain",
-          "level": 20
-        },
-        {
-          "klass": "LevelLearnableMove",
           "move": "leech_seed",
-          "level": 23
+          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
@@ -136,6 +130,11 @@
         },
         {
           "klass": "LevelLearnableMove",
+          "move": "giga_drain",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "volt_switch",
           "level": 36
         },
@@ -158,6 +157,11 @@
           "klass": "LevelLearnableMove",
           "move": "blast_burn",
           "level": 52
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "synthesis",
+          "level": 70
         },
         {
           "klass": "TutorLearnableMove",
@@ -319,11 +323,7 @@
           "klass": "TechLearnableMove",
           "move": "nature_power"
         }
-      ],
-      "formTextId": {
-        "name": 845,
-        "description": 0
-      }
+      ]
     }
   ]
 }

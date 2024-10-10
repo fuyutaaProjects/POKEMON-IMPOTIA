@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 520,
+        "description": 0
+      },
       "height": 1.8,
       "weight": 100.5,
       "type1": "grass",
@@ -71,10 +75,6 @@
       },
       "moveSet": [
         {
-          "klass": "EvolutionLearnableMove",
-          "move": "cross_poison"
-        },
-        {
           "klass": "LevelLearnableMove",
           "move": "ember",
           "level": 1
@@ -101,18 +101,8 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "synthesis",
-          "level": 12
-        },
-        {
-          "klass": "LevelLearnableMove",
           "move": "reflect",
           "level": 17
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "giga_drain",
-          "level": 20
         },
         {
           "klass": "LevelLearnableMove",
@@ -146,6 +136,11 @@
         },
         {
           "klass": "LevelLearnableMove",
+          "move": "giga_drain",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "night_slash",
           "level": 36
         },
@@ -168,6 +163,15 @@
           "klass": "LevelLearnableMove",
           "move": "power_whip",
           "level": 52
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "synthesis",
+          "level": 70
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "cross_poison"
         },
         {
           "klass": "TutorLearnableMove",
@@ -337,11 +341,7 @@
           "klass": "TechLearnableMove",
           "move": "poison_jab"
         }
-      ],
-      "formTextId": {
-        "name": 520,
-        "description": 0
-      }
+      ]
     }
   ]
 }

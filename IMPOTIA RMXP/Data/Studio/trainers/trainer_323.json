@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 23
+        "level": 19
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -51,10 +51,10 @@
         {
           "type": "moves",
           "value": [
-            "__undef__",
-            "__undef__",
-            "__undef__",
-            "__undef__"
+            "stun_spore",
+            "aromatherapy",
+            "scratch",
+            "leech_life"
           ]
         },
         {
