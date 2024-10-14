@@ -2,6 +2,18 @@
   "klass": "Group",
   "id": 9,
   "dbSymbol": "group_9",
+  "systemTag": "Grass",
+  "terrainTag": 0,
+  "tool": null,
+  "isDoubleBattle": false,
+  "isHordeBattle": false,
+  "customConditions": [
+    {
+      "type": "mapId",
+      "relationWithPreviousCondition": "AND",
+      "value": 57
+    }
+  ],
   "encounters": [
     {
       "specie": "bouri",
@@ -340,11 +352,5 @@
       ]
     }
   ],
-  "isDoubleBattle": false,
-  "systemTag": "Grass",
-  "terrainTag": 0,
-  "customConditions": [],
-  "tool": null,
-  "isHordeBattle": false,
   "stepsAverage": 7
 }
