@@ -82,9 +82,11 @@
   },
   "5": {
     "id": 5,
-    "children": [],
-    "hasChildren": false,
-    "isExpanded": false,
+    "children": [
+      72
+    ],
+    "hasChildren": true,
+    "isExpanded": true,
     "data": {
       "klass": "MapInfoMap",
       "mapDbSymbol": "map002",
@@ -870,6 +872,17 @@
       "klass": "MapInfoMap",
       "mapDbSymbol": "map071",
       "parentId": 3
+    }
+  },
+  "72": {
+    "id": 72,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map072",
+      "parentId": 5
     }
   }
 }

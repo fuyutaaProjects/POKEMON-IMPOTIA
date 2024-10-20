@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/lumi_interior_offices.tmx",
+    "activeFile": "Maps/Sanctuaire Oublie.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Maps",
         ".",
         "PNG to tmx",
-        "Tilesets"
+        "Tilesets",
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -124,11 +124,11 @@
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 4,
+            "scale": 0.75,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 772.75,
-                "y": 1008.5
+                "x": 1256,
+                "y": 1468.6666666666665
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -167,8 +167,8 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 205.99999999999997,
-                "y": 183.99999999999997
+                "x": 205.33333333333331,
+                "y": 183.66666666666663
             }
         },
         "Maps/Musee_Mermesa_4.tmx": {
@@ -213,10 +213,10 @@
         },
         "Maps/Sanctuaire Oublie.tmx": {
             "scale": 1.5,
-            "selectedLayer": 0,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 969.9999999999999,
-                "y": 1158
+                "x": 950.6666666666666,
+                "y": 999.9999999999999
             }
         },
         "Maps/Sylveria.tmx": {
@@ -236,11 +236,11 @@
             }
         },
         "Maps/Temporis.tmx": {
-            "scale": 0.75,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1617.3333333333333,
-                "y": 873.3333333333333
+                "x": 1049,
+                "y": 1359
             }
         },
         "Maps/grotte_gelume.tmx": {
@@ -252,19 +252,19 @@
             }
         },
         "Maps/lumi_interior_houses.tmx": {
-            "scale": 1,
+            "scale": 0.5,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 3626,
-                "y": 2328.5
+                "x": 3098,
+                "y": 2237
             }
         },
         "Maps/lumi_interior_offices.tmx": {
-            "scale": 2,
-            "selectedLayer": 3,
+            "scale": 0.5,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 424.5,
-                "y": 2111
+                "x": 1540,
+                "y": 1017
             }
         },
         "Maps/lumi_interiors.tmx": {
@@ -287,8 +287,8 @@
             "scale": 1.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 379.99999999999994,
-                "y": 188.66666666666663
+                "x": 799.6666666666666,
+                "y": 799.6666666666667
             }
         },
         "Maps/mermesa_pokeshop.tmx": {
@@ -624,19 +624,19 @@
             }
         },
         "Maps/temporis_interiors.tmx": {
-            "scale": 0.5,
+            "scale": 1.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 686,
-                "y": 452
+                "x": 1062,
+                "y": 547.3333333333334
             }
         },
         "Maps/trailer_map.tmx": {
             "scale": 0.75,
             "selectedLayer": 22,
             "viewCenter": {
-                "x": 1026.6666666666665,
-                "y": 1250
+                "x": 930.6666666666667,
+                "y": 1310.6666666666665
             }
         },
         "Maps/tuto_layers.tmx": {
@@ -1216,25 +1216,23 @@
     "map.width": 50,
     "openFiles": [
         "Maps/mermesa_pokecenter.tmx",
-        "Maps/Lumicite.tmx",
-        "Maps/lumi_interior_offices.tmx",
-        "Maps/lumi_interior_houses.tmx",
-        "Maps/Musee_Mermesa_3.tmx"
+        "Maps/Temporis.tmx",
+        "Maps/Sanctuaire Oublie.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
         "Maps/mermesa_pokecenter.tmx",
+        "Maps/Temporis.tmx",
+        "Maps/Sanctuaire Oublie.tmx",
+        "Maps/temporis_interiors.tmx",
+        "Maps/trailer_map.tmx",
         "Maps/Lumicite.tmx",
         "Maps/Musee_Mermesa_3.tmx",
         "Maps/lumi_interior_houses.tmx",
         "Maps/lumi_interior_offices.tmx",
         "Maps/verdentia_gym.tmx",
         "Maps/Route_04.tmx",
-        "Maps/zephyrion.tmx",
-        "Maps/tuto_layers.tmx",
-        "Maps/z_TEMPLATE.tmx",
-        "Maps/rm_26_port_avalon_interiors.tmx",
-        "Maps/verdentia_pokecenter.tmx"
+        "Maps/zephyrion.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
