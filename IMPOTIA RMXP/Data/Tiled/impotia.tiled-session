@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Sanctuaire Oublie.tmx",
+    "activeFile": "Maps/lumi_mall.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         ".",
-        "PNG to tmx",
+        "Maps",
         "Tilesets",
-        "Maps"
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -80,6 +80,14 @@
                 "y": 752
             }
         },
+        "Maps/Gate Left Lumi.tmx": {
+            "scale": 2.0425,
+            "selectedLayer": 27,
+            "viewCenter": {
+                "x": 237.45410036719704,
+                "y": 153.24357405140756
+            }
+        },
         "Maps/Gate Left Port Avalon.tmx": {
             "scale": 1.5,
             "selectedLayer": 27,
@@ -104,6 +112,22 @@
                 "y": 309.3333333333333
             }
         },
+        "Maps/Gate Right Lumi.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 309.33333333333337,
+                "y": 162.66666666666663
+            }
+        },
+        "Maps/Gate South Lumi.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 27,
+            "viewCenter": {
+                "x": 269.33333333333337,
+                "y": 267.33333333333337
+            }
+        },
         "Maps/Gate South Port Avalon.tmx": {
             "scale": 2,
             "selectedLayer": 4,
@@ -124,11 +148,11 @@
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 0.75,
-            "selectedLayer": 6,
+            "scale": 1.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1256,
-                "y": 1468.6666666666665
+                "x": 1165.3333333333333,
+                "y": 929.9999999999999
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -204,19 +228,19 @@
             }
         },
         "Maps/Route_05.tmx": {
-            "scale": 1.5,
+            "scale": 1,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 2426.333333333333,
-                "y": 1714.6666666666665
+                "x": 1210,
+                "y": 271.5
             }
         },
         "Maps/Sanctuaire Oublie.tmx": {
-            "scale": 1.5,
+            "scale": 1,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 950.6666666666666,
-                "y": 999.9999999999999
+                "x": 1135,
+                "y": 726.5
             }
         },
         "Maps/Sylveria.tmx": {
@@ -239,16 +263,24 @@
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1049,
-                "y": 1359
+                "x": 1048,
+                "y": 1357
+            }
+        },
+        "Maps/Zenith.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 28,
+            "viewCenter": {
+                "x": 1448,
+                "y": 378
             }
         },
         "Maps/grotte_gelume.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 0,
+            "scale": 0.33,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 2538,
-                "y": 1364
+                "x": 1687.8787878787878,
+                "y": 1578.7878787878788
             }
         },
         "Maps/lumi_interior_houses.tmx": {
@@ -275,6 +307,30 @@
                 "y": 718
             }
         },
+        "Maps/lumi_mall.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 514.6666666666666,
+                "y": 214.66666666666663
+            }
+        },
+        "Maps/lumi_pokecenter.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 28,
+            "viewCenter": {
+                "x": 362.66666666666663,
+                "y": 287.99999999999994
+            }
+        },
+        "Maps/lumi_pokeshop.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 285,
+                "y": 360.5
+            }
+        },
         "Maps/mermesa_interiors.tmx": {
             "scale": 0.33,
             "selectedLayer": 0,
@@ -285,10 +341,10 @@
         },
         "Maps/mermesa_pokecenter.tmx": {
             "scale": 1.5,
-            "selectedLayer": 28,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 799.6666666666666,
-                "y": 799.6666666666667
+                "x": 324.66666666666663,
+                "y": 220.66666666666663
             }
         },
         "Maps/mermesa_pokeshop.tmx": {
@@ -665,10 +721,10 @@
         },
         "Maps/verdentia_pokecenter.tmx": {
             "scale": 1.5,
-            "selectedLayer": 2,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 390.66666666666663,
-                "y": 281.99999999999994
+                "x": 389.99999999999994,
+                "y": 281.33333333333337
             }
         },
         "Maps/verdentia_pokeshop.tmx": {
@@ -979,6 +1035,44 @@
         "P:/PSDK FOLDERS/DEMO 04-08-2024/Data/Tiled/Tilesets/systemtags.tsx": {
             "scaleInDock": 1
         },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Maps/003 Hub.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 969,
+                "y": 1165
+            }
+        },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Tilesets/TECH-Assets.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Tilesets/TECH-Buildings.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Tilesets/TECH-Hub.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Tilesets/TECH-Misc..tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Tilesets/TECH-Mounts.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Tilesets/TECH-Nature.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Tilesets/TECH-borders.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Tilesets/TECH_Lab.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Tilesets/passages.tsx": {
+            "scaleInDock": 1
+        },
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Tilesets/systemtags.tsx": {
+            "scaleInDock": 1
+        },
         "P:/PSDK FOLDERS/DEMO 21-06-24/Data/Tiled/Maps/008 Marsh.tmx": {
             "scale": 1.5,
             "selectedLayer": 40,
@@ -1103,6 +1197,10 @@
             "scaleInDock": 1,
             "scaleInEditor": 3
         },
+        "Tilesets/Hub-Mall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Tilesets/animations.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -1215,24 +1313,24 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/mermesa_pokecenter.tmx",
-        "Maps/Temporis.tmx",
-        "Maps/Sanctuaire Oublie.tmx"
+        "Maps/Lumicite.tmx",
+        "Maps/lumi_mall.tmx",
+        "Maps/lumi_pokecenter.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/mermesa_pokecenter.tmx",
-        "Maps/Temporis.tmx",
-        "Maps/Sanctuaire Oublie.tmx",
-        "Maps/temporis_interiors.tmx",
-        "Maps/trailer_map.tmx",
         "Maps/Lumicite.tmx",
-        "Maps/Musee_Mermesa_3.tmx",
-        "Maps/lumi_interior_houses.tmx",
-        "Maps/lumi_interior_offices.tmx",
-        "Maps/verdentia_gym.tmx",
-        "Maps/Route_04.tmx",
-        "Maps/zephyrion.tmx"
+        "Maps/lumi_pokecenter.tmx",
+        "Maps/lumi_mall.tmx",
+        "Tilesets/Hub-Mall.tsx",
+        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Maps/003 Hub.tmx",
+        "Maps/lumi_pokeshop.tmx",
+        "Maps/mermesa_pokecenter.tmx",
+        "Maps/verdentia_pokecenter.tmx",
+        "Maps/Gate South Lumi.tmx",
+        "Maps/Route_05.tmx",
+        "Maps/Zenith.tmx",
+        "Maps/Gate Left Lumi.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

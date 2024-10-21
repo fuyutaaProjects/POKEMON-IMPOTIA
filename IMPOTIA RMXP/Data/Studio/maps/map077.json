@@ -1,0 +1,619 @@
+{
+  "klass": "Map",
+  "id": 77,
+  "dbSymbol": "map077",
+  "stepsAverage": 30,
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "mtime": 1729453946808,
+  "sha1": "56f3b2e9546fa1044a1ca9e58d7883da7cb09bc4",
+  "tiledFilename": "Gate South Lumi",
+  "tileMetadata": {
+    "width": 15,
+    "height": 15,
+    "tilesets": [
+      {
+        "firstGlobalId": 1,
+        "source": "../Tilesets/forest.tsx"
+      },
+      {
+        "firstGlobalId": 5001,
+        "source": "../Tilesets/passages.tsx"
+      },
+      {
+        "firstGlobalId": 5145,
+        "source": "../Tilesets/systemtags.tsx"
+      },
+      {
+        "firstGlobalId": 5273,
+        "source": "../Tilesets/terrain_tag.tsx"
+      },
+      {
+        "firstGlobalId": 5289,
+        "source": "../Tilesets/nature_basics.tsx"
+      },
+      {
+        "firstGlobalId": 15273,
+        "source": "../Tilesets/terrain_basics.tsx"
+      },
+      {
+        "firstGlobalId": 21039,
+        "source": "../Tilesets/common_assets.tsx"
+      },
+      {
+        "firstGlobalId": 31023,
+        "source": "../Tilesets/common building interiors.tsx"
+      }
+    ],
+    "tileByTileId": [
+      [
+        {
+          "globalId": 31319,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 31036,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31320,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31322,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31323,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31231,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 31232,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31044,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 31232,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31076,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31073,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31084,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 31081,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 31092,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 31089,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 7,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 22013,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 22014,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 22016,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 22017,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ]
+    ],
+    "layerData": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0,
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4,
+        1
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        5
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        5
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        5
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        6,
+        10
+      ],
+      [
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        5
+      ],
+      [
+        6,
+        11
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        6,
+        12
+      ],
+      [
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        5
+      ],
+      [
+        6,
+        13
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        6,
+        14
+      ],
+      [
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        5
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        5
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        5
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        5
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        5
+      ],
+      [],
+      [],
+      [],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [],
+      [],
+      [],
+      [
+        5
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        8
+      ],
+      [
+        8
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        5
+      ],
+      [],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [],
+      [],
+      [],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        16
+      ],
+      [
+        17
+      ],
+      [
+        18
+      ],
+      [
+        19
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  }
+}
