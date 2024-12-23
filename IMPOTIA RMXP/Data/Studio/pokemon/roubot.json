@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 740,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 51,
       "type1": "steel",
@@ -341,11 +345,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "ice_ball"
         }
-      ],
-      "formTextId": {
-        "name": 740,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 875,
+        "description": 0
+      },
       "height": 0.7,
       "weight": 8.2,
       "type1": "grass",
@@ -39,8 +43,8 @@
       "catchRate": 120,
       "femaleRate": 100,
       "breedGroups": [
-        0,
-        0
+        15,
+        15
       ],
       "hatchSteps": 5120,
       "babyDbSymbol": "bounsweet",
@@ -79,11 +83,7 @@
         "cry": "",
         "hasFemale": true
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 875,
-        "description": 0
-      }
+      "moveSet": []
     }
   ]
 }

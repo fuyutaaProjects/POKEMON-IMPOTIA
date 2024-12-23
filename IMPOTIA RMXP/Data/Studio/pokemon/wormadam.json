@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1013,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 6.5,
       "type1": "bug",
@@ -308,14 +312,14 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ],
-      "formTextId": {
-        "name": 1013,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 1014,
+        "description": 306
+      },
       "height": 0.5,
       "weight": 6.5,
       "type1": "bug",
@@ -619,14 +623,14 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ],
-      "formTextId": {
-        "name": 1014,
-        "description": 306
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 1015,
+        "description": 307
+      },
       "height": 0.5,
       "weight": 6.5,
       "type1": "bug",
@@ -930,14 +934,14 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ],
-      "formTextId": {
-        "name": 1015,
-        "description": 307
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 1016,
+        "description": 308
+      },
       "height": 0.5,
       "weight": 6.5,
       "type1": "bug",
@@ -1495,11 +1499,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 1016,
-        "description": 308
-      }
+      ]
     }
   ]
 }

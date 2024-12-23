@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 618,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 85,
       "type1": "flying",
@@ -394,11 +398,7 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 618,
-        "description": 0
-      }
+      ]
     }
   ]
 }

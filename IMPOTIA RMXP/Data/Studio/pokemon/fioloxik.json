@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 293,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 40,
       "type1": "poison",
@@ -269,14 +273,14 @@
           "klass": "BreedLearnableMove",
           "move": "stockpile"
         }
-      ],
-      "formTextId": {
-        "name": 293,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 294,
+        "description": 80
+      },
       "height": 1,
       "weight": 52,
       "type1": "poison",
@@ -335,11 +339,7 @@
         "cry": "089cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 294,
-        "description": 80
-      }
+      "moveSet": []
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 907,
+        "description": 0
+      },
       "height": 0.9,
       "weight": 19.5,
       "type1": "poison",
@@ -298,11 +302,7 @@
           "klass": "BreedLearnableMove",
           "move": "rock_blast"
         }
-      ],
-      "formTextId": {
-        "name": 907,
-        "description": 0
-      }
+      ]
     }
   ]
 }

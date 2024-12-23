@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 797,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 71,
       "type1": "dark",
@@ -365,11 +369,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "pollen_puff"
         }
-      ],
-      "formTextId": {
-        "name": 797,
-        "description": 0
-      }
+      ]
     }
   ]
 }

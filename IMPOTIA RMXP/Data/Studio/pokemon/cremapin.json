@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 198,
+        "description": 0
+      },
       "height": 1.6,
       "weight": 47,
       "type1": "fire",
@@ -373,14 +377,14 @@
           "klass": "TutorLearnableMove",
           "move": "nasty_plot"
         }
-      ],
-      "formTextId": {
-        "name": 198,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 199,
+        "description": 60
+      },
       "height": 1.1,
       "weight": 19.9,
       "type1": "ice",
@@ -439,11 +443,7 @@
         "cry": "038cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 199,
-        "description": 60
-      }
+      "moveSet": []
     }
   ]
 }

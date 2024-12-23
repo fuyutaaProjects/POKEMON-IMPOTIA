@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 766,
+        "description": 0
+      },
       "height": 1.7,
       "weight": 52.2,
       "type1": "grass",
@@ -423,14 +427,14 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 766,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 29,
+      "formTextId": {
+        "name": 767,
+        "description": 221
+      },
       "height": 1.7,
       "weight": 52.2,
       "type1": "grass",
@@ -1023,14 +1027,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 767,
-        "description": 221
-      }
+      ]
     },
     {
       "form": 30,
+      "formTextId": {
+        "name": 768,
+        "description": 222
+      },
       "height": 1.9,
       "weight": 55.2,
       "type1": "grass",
@@ -1439,11 +1443,7 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 768,
-        "description": 222
-      }
+      ]
     }
   ]
 }

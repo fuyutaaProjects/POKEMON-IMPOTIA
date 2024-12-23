@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 258,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 21,
       "type1": "steel",
@@ -369,11 +373,7 @@
           "klass": "BreedLearnableMove",
           "move": "cross_poison"
         }
-      ],
-      "formTextId": {
-        "name": 258,
-        "description": 0
-      }
+      ]
     }
   ]
 }

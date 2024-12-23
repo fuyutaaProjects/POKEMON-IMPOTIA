@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 256,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 8.5,
       "type1": "ground",
@@ -334,14 +338,14 @@
           "klass": "BreedLearnableMove",
           "move": "rock_climb"
         }
-      ],
-      "formTextId": {
-        "name": 256,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 257,
+        "description": 78
+      },
       "height": 0.3,
       "weight": 8.5,
       "type1": "ground",
@@ -377,7 +381,7 @@
       "femaleRate": 50,
       "breedGroups": [
         5,
-        0
+        15
       ],
       "hatchSteps": 5355,
       "babyDbSymbol": "__undef__",
@@ -865,11 +869,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 257,
-        "description": 78
-      }
+      ]
     }
   ]
 }

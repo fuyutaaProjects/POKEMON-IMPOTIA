@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 132,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 12,
       "type1": "fire",
@@ -363,14 +367,14 @@
           "klass": "TechLearnableMove",
           "move": "shadow_ball"
         }
-      ],
-      "formTextId": {
-        "name": 132,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 133,
+        "description": 48
+      },
       "height": 0.6,
       "weight": 9.9,
       "type1": "ice",
@@ -440,11 +444,7 @@
         "cry": "037cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 133,
-        "description": 48
-      }
+      "moveSet": []
     }
   ]
 }

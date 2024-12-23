@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 699,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 9.5,
       "type1": "poison",
@@ -264,11 +268,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "triple_kick"
         }
-      ],
-      "formTextId": {
-        "name": 699,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 645,
+        "description": 0
+      },
       "height": 2.1,
       "weight": 136,
       "type1": "fighting",
@@ -479,11 +483,7 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 645,
-        "description": 0
-      }
+      ]
     }
   ]
 }

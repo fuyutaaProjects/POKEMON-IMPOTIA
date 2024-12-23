@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 180,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 65.5,
       "type1": "poison",
@@ -332,11 +336,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "formTextId": {
-        "name": 180,
-        "description": 0
-      }
+      ]
     }
   ]
 }

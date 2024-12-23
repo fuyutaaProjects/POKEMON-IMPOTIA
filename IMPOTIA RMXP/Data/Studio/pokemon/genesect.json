@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 362,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 82.5,
       "type1": "bug",
@@ -392,14 +396,14 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ],
-      "formTextId": {
-        "name": 362,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 363,
+        "description": 114
+      },
       "height": 1.5,
       "weight": 82.5,
       "type1": "bug",
@@ -727,14 +731,14 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ],
-      "formTextId": {
-        "name": 363,
-        "description": 114
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 364,
+        "description": 115
+      },
       "height": 1.5,
       "weight": 82.5,
       "type1": "bug",
@@ -1062,14 +1066,14 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ],
-      "formTextId": {
-        "name": 364,
-        "description": 115
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 365,
+        "description": 116
+      },
       "height": 1.5,
       "weight": 82.5,
       "type1": "bug",
@@ -1397,14 +1401,14 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ],
-      "formTextId": {
-        "name": 365,
-        "description": 116
-      }
+      ]
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 366,
+        "description": 117
+      },
       "height": 1.5,
       "weight": 82.5,
       "type1": "bug",
@@ -1732,14 +1736,14 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ],
-      "formTextId": {
-        "name": 366,
-        "description": 117
-      }
+      ]
     },
     {
       "form": 5,
+      "formTextId": {
+        "name": 367,
+        "description": 118
+      },
       "height": 1.5,
       "weight": 82.5,
       "type1": "bug",
@@ -1764,7 +1768,7 @@
       "femaleRate": -1,
       "breedGroups": [
         15,
-        0
+        15
       ],
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
@@ -2327,14 +2331,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 367,
-        "description": 118
-      }
+      ]
     },
     {
       "form": 6,
+      "formTextId": {
+        "name": 368,
+        "description": 119
+      },
       "height": 1.5,
       "weight": 82.5,
       "type1": "bug",
@@ -2359,7 +2363,7 @@
       "femaleRate": -1,
       "breedGroups": [
         15,
-        0
+        15
       ],
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
@@ -2922,14 +2926,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 368,
-        "description": 119
-      }
+      ]
     },
     {
       "form": 7,
+      "formTextId": {
+        "name": 369,
+        "description": 120
+      },
       "height": 1.5,
       "weight": 82.5,
       "type1": "bug",
@@ -2954,7 +2958,7 @@
       "femaleRate": -1,
       "breedGroups": [
         15,
-        0
+        15
       ],
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
@@ -3517,14 +3521,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 369,
-        "description": 120
-      }
+      ]
     },
     {
       "form": 8,
+      "formTextId": {
+        "name": 370,
+        "description": 121
+      },
       "height": 1.5,
       "weight": 82.5,
       "type1": "bug",
@@ -3549,7 +3553,7 @@
       "femaleRate": -1,
       "breedGroups": [
         15,
-        0
+        15
       ],
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
@@ -4112,14 +4116,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 370,
-        "description": 121
-      }
+      ]
     },
     {
       "form": 9,
+      "formTextId": {
+        "name": 371,
+        "description": 122
+      },
       "height": 1.5,
       "weight": 82.5,
       "type1": "bug",
@@ -4144,7 +4148,7 @@
       "femaleRate": -1,
       "breedGroups": [
         15,
-        0
+        15
       ],
       "hatchSteps": 30855,
       "babyDbSymbol": "__undef__",
@@ -4707,11 +4711,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 371,
-        "description": 122
-      }
+      ]
     }
   ]
 }

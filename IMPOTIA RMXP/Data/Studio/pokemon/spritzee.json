@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 869,
+        "description": 0
+      },
       "height": 0.2,
       "weight": 0.5,
       "type1": "fairy",
@@ -339,11 +343,7 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ],
-      "formTextId": {
-        "name": 869,
-        "description": 0
-      }
+      ]
     }
   ]
 }

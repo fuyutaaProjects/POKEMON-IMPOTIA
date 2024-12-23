@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 8,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 8.5,
       "type1": "ghost",
@@ -372,11 +376,7 @@
           "klass": "BreedLearnableMove",
           "move": "venom_drench"
         }
-      ],
-      "formTextId": {
-        "name": 8,
-        "description": 0
-      }
+      ]
     }
   ]
 }

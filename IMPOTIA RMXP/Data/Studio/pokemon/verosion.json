@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 952,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 132.5,
       "type1": "water",
@@ -349,11 +353,7 @@
           "klass": "BreedLearnableMove",
           "move": "avalanche"
         }
-      ],
-      "formTextId": {
-        "name": 952,
-        "description": 0
-      }
+      ]
     }
   ]
 }

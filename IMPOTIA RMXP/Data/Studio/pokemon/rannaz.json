@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 703,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 20,
       "type1": "rock",
@@ -356,14 +360,14 @@
           "klass": "TutorLearnableMove",
           "move": "ice_beam"
         }
-      ],
-      "formTextId": {
-        "name": 703,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 704,
+        "description": 197
+      },
       "height": 0.4,
       "weight": 20.3,
       "type1": "rock",
@@ -433,11 +437,7 @@
         "cry": "074cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 704,
-        "description": 197
-      }
+      "moveSet": []
     }
   ]
 }

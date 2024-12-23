@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 226,
+        "description": 0
+      },
       "height": 2,
       "weight": 120,
       "type1": "grass",
@@ -326,14 +330,14 @@
           "klass": "BreedLearnableMove",
           "move": "grassy_terrain"
         }
-      ],
-      "formTextId": {
-        "name": 226,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 227,
+        "description": 67
+      },
       "height": 10.9,
       "weight": 415.6,
       "type1": "grass",
@@ -392,11 +396,7 @@
         "cry": "103cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 227,
-        "description": 67
-      }
+      "moveSet": []
     }
   ]
 }

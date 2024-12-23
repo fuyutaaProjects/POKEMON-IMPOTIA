@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 385,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 41.6,
       "type1": "grass",
@@ -329,11 +333,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "bestow"
         }
-      ],
-      "formTextId": {
-        "name": 385,
-        "description": 0
-      }
+      ]
     }
   ]
 }

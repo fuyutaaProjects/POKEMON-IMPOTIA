@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 304,
+        "description": 0
+      },
       "height": 0.2,
       "weight": 0.9,
       "type1": "fairy",
@@ -304,14 +308,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 304,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 305,
+        "description": 85
+      },
       "height": 0.2,
       "weight": 0.9,
       "type1": "fairy",
@@ -567,14 +571,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 305,
-        "description": 85
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 306,
+        "description": 86
+      },
       "height": 0.2,
       "weight": 0.9,
       "type1": "fairy",
@@ -830,14 +834,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 306,
-        "description": 86
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 307,
+        "description": 87
+      },
       "height": 0.2,
       "weight": 0.9,
       "type1": "fairy",
@@ -1093,14 +1097,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 307,
-        "description": 87
-      }
+      ]
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 308,
+        "description": 88
+      },
       "height": 0.2,
       "weight": 0.9,
       "type1": "fairy",
@@ -1356,14 +1360,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 308,
-        "description": 88
-      }
+      ]
     },
     {
       "form": 5,
+      "formTextId": {
+        "name": 309,
+        "description": 89
+      },
       "height": 0.2,
       "weight": 0.9,
       "type1": "fairy",
@@ -1657,11 +1661,7 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 309,
-        "description": 89
-      }
+      ]
     }
   ]
 }

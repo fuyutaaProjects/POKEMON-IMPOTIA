@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 576,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 75.5,
       "type1": "normal",
@@ -424,11 +428,7 @@
           "klass": "BreedLearnableMove",
           "move": "belch"
         }
-      ],
-      "formTextId": {
-        "name": 576,
-        "description": 0
-      }
+      ]
     }
   ]
 }

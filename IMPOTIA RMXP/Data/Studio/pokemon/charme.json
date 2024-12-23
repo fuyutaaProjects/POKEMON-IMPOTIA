@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 150,
+        "description": 0
+      },
       "height": 2.2,
       "weight": 106.6,
       "type1": "ghost",
@@ -265,11 +269,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "judgment"
         }
-      ],
-      "formTextId": {
-        "name": 150,
-        "description": 0
-      }
+      ]
     }
   ]
 }

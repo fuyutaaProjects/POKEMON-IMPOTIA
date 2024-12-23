@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/lumi_mall.tmx",
-    "automapping.whileDrawing": true,
+    "activeFile": "",
+    "automapping.whileDrawing": false,
     "expandedProjectPaths": [
-        ".",
-        "Maps",
+        "PNG to tmx",
         "Tilesets",
-        "PNG to tmx"
+        ".",
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -80,79 +80,95 @@
                 "y": 752
             }
         },
+        "Maps/Elevator Mall Lumi.tmx": {
+            "scale": 0.6773148148148147,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400.10936431989074,
+                "y": 432.5905673274095
+            }
+        },
+        "Maps/Gate Left Laboursol.tmx": {
+            "scale": 2.0425,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 280.0489596083231,
+                "y": 172.82741738066096
+            }
+        },
         "Maps/Gate Left Lumi.tmx": {
             "scale": 2.0425,
-            "selectedLayer": 27,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 237.45410036719704,
-                "y": 153.24357405140756
+                "x": 235.4957160342717,
+                "y": 165.97307221542226
             }
         },
         "Maps/Gate Left Port Avalon.tmx": {
             "scale": 1.5,
-            "selectedLayer": 27,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 324.6666666666667,
-                "y": 158
+                "x": 323.33333333333337,
+                "y": 156.66666666666663
             }
         },
         "Maps/Gate North Mermesa.tmx": {
             "scale": 2,
-            "selectedLayer": 27,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 205.5,
-                "y": 248
+                "x": 204.5,
+                "y": 247
             }
         },
         "Maps/Gate North Oasisville.tmx": {
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 345.33333333333337,
-                "y": 309.3333333333333
+                "x": 342.66666666666663,
+                "y": 306.66666666666663
             }
         },
         "Maps/Gate Right Lumi.tmx": {
-            "scale": 1.5,
+            "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 309.33333333333337,
-                "y": 162.66666666666663
+                "x": 291.5,
+                "y": 173
             }
         },
         "Maps/Gate South Lumi.tmx": {
             "scale": 1.5,
-            "selectedLayer": 27,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 269.33333333333337,
-                "y": 267.33333333333337
+                "x": 268.66666666666663,
+                "y": 266.66666666666663
             }
         },
         "Maps/Gate South Port Avalon.tmx": {
             "scale": 2,
-            "selectedLayer": 4,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 248.5,
-                "y": 265
+                "x": 247.5,
+                "y": 263.5
             }
         },
         "Maps/Laboursol.tmx": {
-            "scale": 1,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1800,
-                "y": 3011
+                "x": 1117.3333333333333,
+                "y": 1597.3333333333333
             }
         },
         "Maps/Lumicite.tmx": {
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 1.5,
-            "selectedLayer": 0,
+            "scale": 3,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1165.3333333333333,
-                "y": 929.9999999999999
+                "x": 804.3333333333333,
+                "y": 693.3333333333333
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -203,6 +219,14 @@
                 "y": 460.66666666666663
             }
         },
+        "Maps/Musee_Mermesa_No_Fossils.tmx": {
+            "scale": 0.7659374999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 641.0444716442269,
+                "y": 480.45695634434935
+            }
+        },
         "Maps/Musee_Mermesa_SecurityRoom.tmx": {
             "scale": 1,
             "selectedLayer": 28,
@@ -220,35 +244,35 @@
             }
         },
         "Maps/Route_04.tmx": {
-            "scale": 1,
-            "selectedLayer": 28,
+            "scale": 0.75,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1483,
-                "y": 1008
+                "x": 1085.3333333333333,
+                "y": 979.9999999999999
             }
         },
         "Maps/Route_05.tmx": {
-            "scale": 1,
-            "selectedLayer": 28,
+            "scale": 2,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1210,
-                "y": 271.5
+                "x": 705,
+                "y": 707.5
             }
         },
         "Maps/Sanctuaire Oublie.tmx": {
-            "scale": 1,
+            "scale": 0.75,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 1135,
-                "y": 726.5
+                "x": 961.3333333333333,
+                "y": 961.3333333333333
             }
         },
         "Maps/Sylveria.tmx": {
             "scale": 0.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 2367,
-                "y": 1212
+                "x": 2214,
+                "y": 1289
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -260,75 +284,107 @@
             }
         },
         "Maps/Temporis.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 1048,
-                "y": 1357
+                "x": 1745.3333333333333,
+                "y": 1544.6666666666665
             }
         },
         "Maps/Zenith.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 28,
+            "scale": 1.5,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1448,
-                "y": 378
+                "x": 2448.6666666666665,
+                "y": 353.33333333333337
+            }
+        },
+        "Maps/bike_shop_lumi.tmx": {
+            "scale": 1,
+            "selectedLayer": 30,
+            "viewCenter": {
+                "x": 373,
+                "y": 508
             }
         },
         "Maps/grotte_gelume.tmx": {
             "scale": 0.33,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 1687.8787878787878,
-                "y": 1578.7878787878788
+                "x": 1600.0000000000002,
+                "y": 1871.2121212121212
+            }
+        },
+        "Maps/lumi school.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 766,
+                "y": 540.6666666666666
+            }
+        },
+        "Maps/lumi_gym.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2163,
+                "y": 697.5
             }
         },
         "Maps/lumi_interior_houses.tmx": {
-            "scale": 0.5,
+            "scale": 0.125,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 3098,
-                "y": 2237
+                "x": 1680,
+                "y": 2020
             }
         },
         "Maps/lumi_interior_offices.tmx": {
             "scale": 0.5,
-            "selectedLayer": 5,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 1540,
-                "y": 1017
+                "x": 1336,
+                "y": 1795
             }
         },
         "Maps/lumi_interiors.tmx": {
             "scale": 0.5,
-            "selectedLayer": 0,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 2569,
-                "y": 718
+                "x": 312,
+                "y": 1993
             }
         },
         "Maps/lumi_mall.tmx": {
             "scale": 1.5,
-            "selectedLayer": 7,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 514.6666666666666,
-                "y": 214.66666666666663
+                "x": 460,
+                "y": 5323
             }
         },
         "Maps/lumi_pokecenter.tmx": {
             "scale": 1.5,
-            "selectedLayer": 28,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 362.66666666666663,
-                "y": 287.99999999999994
+                "x": 377.99999999999994,
+                "y": 323.99999999999994
             }
         },
         "Maps/lumi_pokeshop.tmx": {
-            "scale": 1,
-            "selectedLayer": 0,
+            "scale": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 285,
-                "y": 360.5
+                "x": 358.5,
+                "y": 338.5
+            }
+        },
+        "Maps/mall elevator lumi.tmx": {
+            "scale": 2,
+            "selectedLayer": 22,
+            "viewCenter": {
+                "x": 397.5,
+                "y": 510.5
             }
         },
         "Maps/mermesa_interiors.tmx": {
@@ -341,18 +397,18 @@
         },
         "Maps/mermesa_pokecenter.tmx": {
             "scale": 1.5,
-            "selectedLayer": 5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 324.66666666666663,
-                "y": 220.66666666666663
+                "x": 283.33333333333337,
+                "y": 267.33333333333337
             }
         },
         "Maps/mermesa_pokeshop.tmx": {
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 378,
-                "y": 314.5
+                "x": 415.5,
+                "y": 310.5
             }
         },
         "Maps/over route 1.tmx": {
@@ -377,6 +433,14 @@
             "viewCenter": {
                 "x": 488,
                 "y": 320
+            }
+        },
+        "Maps/r2_house.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 264,
+                "y": 311
             }
         },
         "Maps/rm_13_village_psdk_est.tmx": {
@@ -443,16 +507,16 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 2014,
-                "y": 1360
+                "x": 1760,
+                "y": 958
             }
         },
         "Maps/rm_35_route_02.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 2,
+            "scale": 1,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 1510.6666666666665,
-                "y": 546.6666666666667
+                "x": 783,
+                "y": 484.5
             }
         },
         "Maps/rm_3_player_s_house.tmx": {
@@ -483,8 +547,8 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 517,
-                "y": 517
+                "x": 476,
+                "y": 560.5
             }
         },
         "Maps/rm_46_cave_sous_marine.tmx": {
@@ -496,11 +560,11 @@
             }
         },
         "Maps/rm_47_centre_pok__mon_pa.tmx": {
-            "scale": 1,
-            "selectedLayer": 5,
+            "scale": 1.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 370,
-                "y": 312
+                "x": 370.66666666666663,
+                "y": 341.33333333333337
             }
         },
         "Maps/rm_48_bar_avalons.tmx": {
@@ -523,8 +587,8 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 305.66666666666663,
-                "y": 420.3333333333333
+                "x": 311.33333333333337,
+                "y": 305.99999999999994
             }
         },
         "Maps/rm_52_pa_gym.tmx": {
@@ -547,8 +611,8 @@
             "scale": 1,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 861,
-                "y": -18.5
+                "x": 960,
+                "y": 299
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
@@ -560,11 +624,11 @@
             }
         },
         "Maps/rm_56_verdentia.tmx": {
-            "scale": 2,
-            "selectedLayer": 0,
+            "scale": 1.5,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 1596.5,
-                "y": 1597.5
+                "x": 762,
+                "y": 781.3333333333333
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
@@ -593,10 +657,10 @@
         },
         "Maps/rm_5_centre_pok__mon.tmx": {
             "scale": 2,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 338.75,
-                "y": 356.75
+                "x": 349,
+                "y": 292.5
             }
         },
         "Maps/rm_6_grotte_de_glace.tmx": {
@@ -632,19 +696,19 @@
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 0.75,
+            "scale": 2,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1233.3333333333333,
-                "y": 1310
+                "x": 1119.5,
+                "y": 202.75
             }
         },
         "Maps/rules_random_tiles.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 18,
+            "scale": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1066,
-                "y": 288
+                "x": 202.5,
+                "y": 1172.25
             }
         },
         "Maps/rules_terrain_basics.tmx": {
@@ -664,11 +728,11 @@
             }
         },
         "Maps/rules_tileset_interiors.tmx": {
-            "scale": 4,
-            "selectedLayer": 7,
+            "scale": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 866.625,
-                "y": 719.5
+                "x": 775,
+                "y": 1273.5
             }
         },
         "Maps/rules_trees.tmx": {
@@ -677,6 +741,14 @@
             "viewCenter": {
                 "x": 294,
                 "y": 192.33333333333337
+            }
+        },
+        "Maps/sylveria_caves.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 30,
+            "viewCenter": {
+                "x": 2062,
+                "y": 483.99999999999994
             }
         },
         "Maps/temporis_interiors.tmx": {
@@ -723,8 +795,8 @@
             "scale": 1.5,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 389.99999999999994,
-                "y": 281.33333333333337
+                "x": 357.33333333333337,
+                "y": 300.66666666666663
             }
         },
         "Maps/verdentia_pokeshop.tmx": {
@@ -1201,6 +1273,9 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Tilesets/TECH-Elevator.tsx": {
+            "scaleInDock": 1
+        },
         "Tilesets/animations.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -1237,7 +1312,7 @@
             "scaleInDock": 1
         },
         "Tilesets/int__rieur_4g.tsx": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "Tilesets/interieurs_oasisville.tsx": {
             "scaleInDock": 1
@@ -1252,9 +1327,12 @@
         "Tilesets/mermesa.tsx": {
             "scaleInDock": 1
         },
+        "Tilesets/musee no fossils interiors.tsx": {
+            "scaleInDock": 1
+        },
         "Tilesets/nature_basics.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 3
+            "scaleInEditor": 1.5
         },
         "Tilesets/oasisville.tsx": {
             "scaleInDock": 1
@@ -1313,24 +1391,21 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Lumicite.tmx",
-        "Maps/lumi_mall.tmx",
-        "Maps/lumi_pokecenter.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
         "Maps/Lumicite.tmx",
-        "Maps/lumi_pokecenter.tmx",
+        "Maps/lumi_interior_houses.tmx",
+        "Maps/lumi_interiors.tmx",
+        "Maps/lumi_interior_offices.tmx",
         "Maps/lumi_mall.tmx",
-        "Tilesets/Hub-Mall.tsx",
-        "P:/PSDK FOLDERS/DEMO 13 octobre 2024/Data/Tiled/Maps/003 Hub.tmx",
-        "Maps/lumi_pokeshop.tmx",
-        "Maps/mermesa_pokecenter.tmx",
-        "Maps/verdentia_pokecenter.tmx",
-        "Maps/Gate South Lumi.tmx",
-        "Maps/Route_05.tmx",
-        "Maps/Zenith.tmx",
-        "Maps/Gate Left Lumi.tmx"
+        "Maps/mall elevator lumi.tmx",
+        "Maps/Temporis.tmx",
+        "Maps/Elevator Mall Lumi.tmx",
+        "Maps/lumi_gym.tmx",
+        "Maps/rules_random_tiles.tmx",
+        "Tilesets/nature_basics.tsx",
+        "Maps/rules_nature.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

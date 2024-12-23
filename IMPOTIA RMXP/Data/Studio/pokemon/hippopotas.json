@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 424,
+        "description": 0
+      },
       "height": 0.8,
       "weight": 49.5,
       "type1": "ground",
@@ -300,11 +304,7 @@
           "klass": "BreedLearnableMove",
           "move": "sand_tomb"
         }
-      ],
-      "formTextId": {
-        "name": 424,
-        "description": 0
-      }
+      ]
     }
   ]
 }

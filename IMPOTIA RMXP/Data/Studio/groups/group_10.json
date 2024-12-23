@@ -1,0 +1,188 @@
+{
+  "klass": "Group",
+  "id": 10,
+  "dbSymbol": "group_10",
+  "encounters": [
+    {
+      "specie": "manar",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "minmax",
+        "level": {
+          "minimumLevel": 17,
+          "maximumLevel": 22
+        }
+      },
+      "randomEncounterChance": 25,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        }
+      ]
+    },
+    {
+      "specie": "gorgorm",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "minmax",
+        "level": {
+          "minimumLevel": 16,
+          "maximumLevel": 21
+        }
+      },
+      "randomEncounterChance": 20,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        }
+      ]
+    },
+    {
+      "specie": "aimantpeine",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "minmax",
+        "level": {
+          "minimumLevel": 17,
+          "maximumLevel": 22
+        }
+      },
+      "randomEncounterChance": 30,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        }
+      ]
+    },
+    {
+      "specie": "polake",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "minmax",
+        "level": {
+          "minimumLevel": 17,
+          "maximumLevel": 22
+        }
+      },
+      "randomEncounterChance": 25,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        }
+      ]
+    }
+  ],
+  "isDoubleBattle": false,
+  "systemTag": "Cave",
+  "terrainTag": 0,
+  "customConditions": [
+    {
+      "type": "mapId",
+      "relationWithPreviousCondition": "AND",
+      "value": 34
+    }
+  ],
+  "tool": null,
+  "isHordeBattle": false,
+  "stepsAverage": 7
+}

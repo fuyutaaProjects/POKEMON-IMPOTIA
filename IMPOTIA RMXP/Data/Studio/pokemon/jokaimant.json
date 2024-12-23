@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 457,
+        "description": 0
+      },
       "height": 1,
       "weight": 60,
       "type1": "electric",
@@ -292,11 +296,7 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 457,
-        "description": 0
-      }
+      ]
     }
   ]
 }

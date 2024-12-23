@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 933,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 49.8,
       "type1": "steel",
@@ -352,11 +356,7 @@
           "klass": "BreedLearnableMove",
           "move": "feint"
         }
-      ],
-      "formTextId": {
-        "name": 933,
-        "description": 0
-      }
+      ]
     }
   ]
 }

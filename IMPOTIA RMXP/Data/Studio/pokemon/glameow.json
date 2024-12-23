@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 382,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 3.9,
       "type1": "normal",
@@ -369,11 +373,7 @@
           "klass": "BreedLearnableMove",
           "move": "last_resort"
         }
-      ],
-      "formTextId": {
-        "name": 382,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 85,
+        "description": 0
+      },
       "height": 1.9,
       "weight": 52,
       "type1": "fire",
@@ -439,14 +443,14 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 85,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 86,
+        "description": 31
+      },
       "height": 1.9,
       "weight": 52,
       "type1": "fire",
@@ -1038,14 +1042,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 86,
-        "description": 31
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 87,
+        "description": 32
+      },
       "height": 1.9,
       "weight": 52,
       "type1": "fire",
@@ -1637,14 +1641,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 87,
-        "description": 32
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 88,
+        "description": 33
+      },
       "height": 1.9,
       "weight": 52,
       "type1": "fire",
@@ -2236,14 +2240,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 88,
-        "description": 33
-      }
+      ]
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 89,
+        "description": 34
+      },
       "height": 1.9,
       "weight": 52,
       "type1": "fire",
@@ -2835,14 +2839,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 89,
-        "description": 34
-      }
+      ]
     },
     {
       "form": 5,
+      "formTextId": {
+        "name": 90,
+        "description": 35
+      },
       "height": 1.9,
       "weight": 52,
       "type1": "fire",
@@ -3434,14 +3438,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 90,
-        "description": 35
-      }
+      ]
     },
     {
       "form": 6,
+      "formTextId": {
+        "name": 91,
+        "description": 36
+      },
       "height": 1.9,
       "weight": 52,
       "type1": "fire",
@@ -4033,14 +4037,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 91,
-        "description": 36
-      }
+      ]
     },
     {
       "form": 7,
+      "formTextId": {
+        "name": 92,
+        "description": 37
+      },
       "height": 1.9,
       "weight": 52,
       "type1": "fire",
@@ -4632,14 +4636,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 92,
-        "description": 37
-      }
+      ]
     },
     {
       "form": 30,
+      "formTextId": {
+        "name": 93,
+        "description": 38
+      },
       "height": 1.9,
       "weight": 52,
       "type1": "fire",
@@ -5055,14 +5059,14 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 93,
-        "description": 38
-      }
+      ]
     },
     {
       "form": 31,
+      "formTextId": {
+        "name": 94,
+        "description": 39
+      },
       "height": 1.9,
       "weight": 52,
       "type1": "fire",
@@ -5654,11 +5658,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 94,
-        "description": 39
-      }
+      ]
     }
   ]
 }

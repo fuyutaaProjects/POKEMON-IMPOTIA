@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 50,
+        "description": 0
+      },
       "height": 1.1,
       "weight": 31,
       "type1": "normal",
@@ -505,14 +509,14 @@
           "klass": "BreedLearnableMove",
           "move": "draining_kiss"
         }
-      ],
-      "formTextId": {
-        "name": 50,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 30,
+      "formTextId": {
+        "name": 51,
+        "description": 26
+      },
       "height": 1.5,
       "weight": 32,
       "type1": "normal",
@@ -959,11 +963,7 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 51,
-        "description": 26
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 838,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 10.4,
       "type1": "electric",
@@ -324,11 +328,7 @@
           "klass": "BreedLearnableMove",
           "move": "bubble_beam"
         }
-      ],
-      "formTextId": {
-        "name": 838,
-        "description": 0
-      }
+      ]
     }
   ]
 }

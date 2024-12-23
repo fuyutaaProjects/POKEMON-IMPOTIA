@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 877,
+        "description": 0
+      },
       "height": 0.7,
       "weight": 11,
       "type1": "ground",
@@ -395,11 +399,7 @@
           "klass": "BreedLearnableMove",
           "move": "eerie_impulse"
         }
-      ],
-      "formTextId": {
-        "name": 877,
-        "description": 0
-      }
+      ]
     }
   ]
 }

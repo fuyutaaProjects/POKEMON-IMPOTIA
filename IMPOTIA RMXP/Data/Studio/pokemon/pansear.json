@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 649,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 11,
       "type1": "fire",
@@ -407,11 +411,7 @@
           "klass": "BreedLearnableMove",
           "move": "disarming_voice"
         }
-      ],
-      "formTextId": {
-        "name": 649,
-        "description": 0
-      }
+      ]
     }
   ]
 }

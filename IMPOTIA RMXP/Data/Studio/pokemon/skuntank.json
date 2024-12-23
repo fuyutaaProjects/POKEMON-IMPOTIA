@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 833,
+        "description": 0
+      },
       "height": 1,
       "weight": 38,
       "type1": "poison",
@@ -320,11 +324,7 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 833,
-        "description": 0
-      }
+      ]
     }
   ]
 }

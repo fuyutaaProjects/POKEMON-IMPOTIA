@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 478,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 2.3,
       "type1": "flying",
@@ -356,11 +360,7 @@
           "klass": "BreedLearnableMove",
           "move": "ally_switch"
         }
-      ],
-      "formTextId": {
-        "name": 478,
-        "description": 0
-      }
+      ]
     }
   ]
 }

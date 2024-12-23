@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 181,
+        "description": 0
+      },
       "height": 1.6,
       "weight": 90,
       "type1": "grass",
@@ -367,11 +371,7 @@
           "klass": "TutorLearnableMove",
           "move": "steel_wing"
         }
-      ],
-      "formTextId": {
-        "name": 181,
-        "description": 0
-      }
+      ]
     }
   ]
 }

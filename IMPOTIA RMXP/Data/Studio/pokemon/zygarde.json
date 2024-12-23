@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1034,
+        "description": 0
+      },
       "height": 5,
       "weight": 305,
       "type1": "dragon",
@@ -334,14 +338,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 1034,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 1035,
+        "description": 312
+      },
       "height": 1.2,
       "weight": 33.5,
       "type1": "dragon",
@@ -400,14 +404,14 @@
         "cry": "718cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1035,
-        "description": 312
-      }
+      "moveSet": []
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 1036,
+        "description": 313
+      },
       "height": 1.2,
       "weight": 33.5,
       "type1": "dragon",
@@ -466,14 +470,14 @@
         "cry": "718cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1036,
-        "description": 313
-      }
+      "moveSet": []
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 1037,
+        "description": 314
+      },
       "height": 4.5,
       "weight": 610,
       "type1": "dragon",
@@ -532,14 +536,14 @@
         "cry": "718cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1037,
-        "description": 314
-      }
+      "moveSet": []
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 1038,
+        "description": 315
+      },
       "height": 5,
       "weight": 305,
       "type1": "dragon",
@@ -1117,14 +1121,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 1038,
-        "description": 315
-      }
+      ]
     },
     {
       "form": 5,
+      "formTextId": {
+        "name": 1039,
+        "description": 316
+      },
       "height": 5,
       "weight": 305,
       "type1": "dragon",
@@ -1702,11 +1706,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 1039,
-        "description": 316
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 372,
+        "description": 0
+      },
       "height": 1,
       "weight": 105,
       "type1": "rock",
@@ -360,14 +364,14 @@
           "klass": "BreedLearnableMove",
           "move": "autotomize"
         }
-      ],
-      "formTextId": {
-        "name": 372,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 373,
+        "description": 123
+      },
       "height": 1,
       "weight": 110,
       "type1": "rock",
@@ -437,14 +441,14 @@
         "cry": "075cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 373,
-        "description": 123
-      }
+      "moveSet": []
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 374,
+        "description": 124
+      },
       "height": 1,
       "weight": 110,
       "type1": "rock",
@@ -745,11 +749,7 @@
           "klass": "TechLearnableMove",
           "move": "strength"
         }
-      ],
-      "formTextId": {
-        "name": 374,
-        "description": 124
-      }
+      ]
     }
   ]
 }

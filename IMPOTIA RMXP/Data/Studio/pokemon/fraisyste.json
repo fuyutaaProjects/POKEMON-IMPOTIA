@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 327,
+        "description": 0
+      },
       "height": 1,
       "weight": 6.4,
       "type1": "grass",
@@ -316,11 +320,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "hyper_beam"
         }
-      ],
-      "formTextId": {
-        "name": 327,
-        "description": 0
-      }
+      ]
     }
   ]
 }

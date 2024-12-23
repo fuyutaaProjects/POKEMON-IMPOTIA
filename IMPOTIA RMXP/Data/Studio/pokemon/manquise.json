@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 546,
+        "description": 0
+      },
       "height": 1.4,
       "weight": 87,
       "type1": "fighting",
@@ -268,11 +272,7 @@
           "move": "ice_hammer",
           "level": 59
         }
-      ],
-      "formTextId": {
-        "name": 546,
-        "description": 0
-      }
+      ]
     }
   ]
 }

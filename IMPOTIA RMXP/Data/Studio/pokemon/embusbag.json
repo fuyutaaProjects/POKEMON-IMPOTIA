@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 276,
+        "description": 0
+      },
       "height": 1.6,
       "weight": 55,
       "type1": "fighting",
@@ -360,11 +364,7 @@
           "klass": "TutorLearnableMove",
           "move": "cotton_guard"
         }
-      ],
-      "formTextId": {
-        "name": 276,
-        "description": 0
-      }
+      ]
     }
   ]
 }

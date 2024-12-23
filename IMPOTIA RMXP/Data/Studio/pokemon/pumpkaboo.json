@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 685,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 5,
       "type1": "ghost",
@@ -366,14 +370,14 @@
           "klass": "BreedLearnableMove",
           "move": "bestow"
         }
-      ],
-      "formTextId": {
-        "name": 685,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 686,
+        "description": 193
+      },
       "height": 0.3,
       "weight": 3.5,
       "type1": "ghost",
@@ -723,14 +727,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 686,
-        "description": 193
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 687,
+        "description": 194
+      },
       "height": 0.5,
       "weight": 7.5,
       "type1": "ghost",
@@ -1080,14 +1084,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 687,
-        "description": 194
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 688,
+        "description": 195
+      },
       "height": 0.8,
       "weight": 15,
       "type1": "ghost",
@@ -1437,14 +1441,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 688,
-        "description": 195
-      }
+      ]
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 689,
+        "description": 196
+      },
       "height": 0.4,
       "weight": 5,
       "type1": "ghost",
@@ -1480,7 +1484,7 @@
       "femaleRate": 50,
       "breedGroups": [
         11,
-        0
+        15
       ],
       "hatchSteps": 5355,
       "babyDbSymbol": "__undef__",
@@ -2018,11 +2022,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 689,
-        "description": 196
-      }
+      ]
     }
   ]
 }

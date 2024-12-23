@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 744,
+        "description": 0
+      },
       "height": 1.4,
       "weight": 300,
       "type1": "rock",
@@ -378,14 +382,14 @@
           "klass": "BreedLearnableMove",
           "move": "autotomize"
         }
-      ],
-      "formTextId": {
-        "name": 744,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 745,
+        "description": 212
+      },
       "height": 1.7,
       "weight": 316,
       "type1": "rock",
@@ -444,11 +448,7 @@
         "cry": "076cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 745,
-        "description": 212
-      }
+      "moveSet": []
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 895,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 18.6,
       "type1": "psychic",
@@ -63,14 +67,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 895,
-        "description": 0
-      }
+      "moveSet": []
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 896,
+        "description": 260
+      },
       "height": 1.2,
       "weight": 18.6,
       "type1": "psychic",
@@ -129,14 +133,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 896,
-        "description": 260
-      }
+      "moveSet": []
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 897,
+        "description": 261
+      },
       "height": 1.2,
       "weight": 18.6,
       "type1": "psychic",
@@ -195,14 +199,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 897,
-        "description": 261
-      }
+      "moveSet": []
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 898,
+        "description": 262
+      },
       "height": 1.2,
       "weight": 18.6,
       "type1": "psychic",
@@ -261,14 +265,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 898,
-        "description": 262
-      }
+      "moveSet": []
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 899,
+        "description": 263
+      },
       "height": 1.2,
       "weight": 18.6,
       "type1": "psychic",
@@ -327,14 +331,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 899,
-        "description": 263
-      }
+      "moveSet": []
     },
     {
       "form": 5,
+      "formTextId": {
+        "name": 900,
+        "description": 264
+      },
       "height": 1.2,
       "weight": 18.6,
       "type1": "psychic",
@@ -393,14 +397,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 900,
-        "description": 264
-      }
+      "moveSet": []
     },
     {
       "form": 6,
+      "formTextId": {
+        "name": 901,
+        "description": 265
+      },
       "height": 1.2,
       "weight": 18.6,
       "type1": "psychic",
@@ -459,11 +463,7 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 901,
-        "description": 265
-      }
+      "moveSet": []
     }
   ]
 }

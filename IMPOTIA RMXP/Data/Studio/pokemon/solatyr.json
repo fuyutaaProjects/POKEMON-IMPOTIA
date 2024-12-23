@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 844,
+        "description": 0
+      },
       "height": 4,
       "weight": 120,
       "type1": "fairy",
@@ -324,11 +328,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "brave_bird"
         }
-      ],
-      "formTextId": {
-        "name": 844,
-        "description": 0
-      }
+      ]
     }
   ]
 }

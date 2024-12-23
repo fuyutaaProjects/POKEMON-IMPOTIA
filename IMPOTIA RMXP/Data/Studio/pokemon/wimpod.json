@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1001,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 12,
       "type1": "bug",
@@ -74,14 +78,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1001,
-        "description": 0
-      }
+      "moveSet": []
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 1002,
+        "description": 299
+      },
       "height": 0.5,
       "weight": 12,
       "type1": "bug",
@@ -151,14 +155,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1002,
-        "description": 299
-      }
+      "moveSet": []
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 1003,
+        "description": 300
+      },
       "height": 0.5,
       "weight": 12,
       "type1": "bug",
@@ -228,14 +232,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1003,
-        "description": 300
-      }
+      "moveSet": []
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 1004,
+        "description": 301
+      },
       "height": 0.5,
       "weight": 12,
       "type1": "bug",
@@ -305,14 +309,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1004,
-        "description": 301
-      }
+      "moveSet": []
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 1005,
+        "description": 302
+      },
       "height": 0.5,
       "weight": 12,
       "type1": "bug",
@@ -382,11 +386,7 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1005,
-        "description": 302
-      }
+      "moveSet": []
     }
   ]
 }

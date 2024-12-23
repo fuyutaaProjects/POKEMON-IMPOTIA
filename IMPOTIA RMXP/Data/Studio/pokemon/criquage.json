@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 201,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 6.9,
       "type1": "bug",
@@ -313,11 +317,7 @@
           "klass": "TutorLearnableMove",
           "move": "razor_leaf"
         }
-      ],
-      "formTextId": {
-        "name": 201,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -1,0 +1,230 @@
+{
+  "klass": "Group",
+  "id": 11,
+  "dbSymbol": "group_11",
+  "encounters": [
+    {
+      "specie": "sabluscade",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "minmax",
+        "level": {
+          "minimumLevel": 19,
+          "maximumLevel": 25
+        }
+      },
+      "randomEncounterChance": 20,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        }
+      ]
+    },
+    {
+      "specie": "dention",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "minmax",
+        "level": {
+          "minimumLevel": 19,
+          "maximumLevel": 25
+        }
+      },
+      "randomEncounterChance": 15,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        }
+      ]
+    },
+    {
+      "specie": "crobol",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "minmax",
+        "level": {
+          "minimumLevel": 19,
+          "maximumLevel": 25
+        }
+      },
+      "randomEncounterChance": 25,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        }
+      ]
+    },
+    {
+      "specie": "brulotin",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "minmax",
+        "level": {
+          "minimumLevel": 19,
+          "maximumLevel": 25
+        }
+      },
+      "randomEncounterChance": 25,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        }
+      ]
+    },
+    {
+      "specie": "tentaj",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "minmax",
+        "level": {
+          "minimumLevel": 19,
+          "maximumLevel": 25
+        }
+      },
+      "randomEncounterChance": 15,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        }
+      ]
+    }
+  ],
+  "isDoubleBattle": false,
+  "systemTag": "Grass",
+  "terrainTag": 0,
+  "customConditions": [
+    {
+      "type": "mapId",
+      "relationWithPreviousCondition": "AND",
+      "value": 61
+    }
+  ],
+  "tool": null,
+  "isHordeBattle": false,
+  "stepsAverage": 30
+}

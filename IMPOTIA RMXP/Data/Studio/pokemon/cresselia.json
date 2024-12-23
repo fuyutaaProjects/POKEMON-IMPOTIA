@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 200,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 85.6,
       "type1": "psychic",
@@ -344,11 +348,7 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 200,
-        "description": 0
-      }
+      ]
     }
   ]
 }

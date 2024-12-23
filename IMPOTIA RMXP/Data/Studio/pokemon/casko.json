@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 136,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 12,
       "type1": "ground",
@@ -340,14 +344,14 @@
           "klass": "TechLearnableMove",
           "move": "nature_power"
         }
-      ],
-      "formTextId": {
-        "name": 136,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 137,
+        "description": 49
+      },
       "height": 0.7,
       "weight": 40,
       "type1": "ice",
@@ -417,14 +421,14 @@
         "cry": "027cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 137,
-        "description": 49
-      }
+      "moveSet": []
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 138,
+        "description": 50
+      },
       "height": 0.7,
       "weight": 40,
       "type1": "ice",
@@ -768,11 +772,7 @@
           "klass": "BreedLearnableMove",
           "move": "night_slash"
         }
-      ],
-      "formTextId": {
-        "name": 138,
-        "description": 50
-      }
+      ]
     }
   ]
 }

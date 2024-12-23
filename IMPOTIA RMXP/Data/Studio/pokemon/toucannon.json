@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 928,
+        "description": 0
+      },
       "height": 1.1,
       "weight": 26,
       "type1": "normal",
@@ -63,11 +67,7 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 928,
-        "description": 0
-      }
+      "moveSet": []
     }
   ]
 }

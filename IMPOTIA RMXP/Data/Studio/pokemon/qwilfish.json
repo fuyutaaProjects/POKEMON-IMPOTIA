@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 698,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 3.9,
       "type1": "water",
@@ -383,11 +387,7 @@
           "klass": "BreedLearnableMove",
           "move": "acid_spray"
         }
-      ],
-      "formTextId": {
-        "name": 698,
-        "description": 0
-      }
+      ]
     }
   ]
 }

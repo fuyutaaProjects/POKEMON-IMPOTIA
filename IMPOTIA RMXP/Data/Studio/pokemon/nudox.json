@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 621,
+        "description": 0
+      },
       "height": 1.3,
       "weight": 44.5,
       "type1": "fire",
@@ -351,11 +355,7 @@
           "klass": "TutorLearnableMove",
           "move": "tail_slap"
         }
-      ],
-      "formTextId": {
-        "name": 621,
-        "description": 0
-      }
+      ]
     }
   ]
 }

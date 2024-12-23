@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 277,
+        "description": 0
+      },
       "height": 1.4,
       "weight": 39.2,
       "type1": "poison",
@@ -320,11 +324,7 @@
           "klass": "TutorLearnableMove",
           "move": "confuse_ray"
         }
-      ],
-      "formTextId": {
-        "name": 277,
-        "description": 0
-      }
+      ]
     }
   ]
 }

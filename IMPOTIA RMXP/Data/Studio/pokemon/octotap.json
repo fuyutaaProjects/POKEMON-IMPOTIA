@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 624,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 38,
       "type1": "bug",
@@ -323,11 +327,7 @@
           "klass": "TechLearnableMove",
           "move": "nature_power"
         }
-      ],
-      "formTextId": {
-        "name": 624,
-        "description": 0
-      }
+      ]
     }
   ]
 }

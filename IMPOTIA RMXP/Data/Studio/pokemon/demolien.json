@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 224,
+        "description": 0
+      },
       "height": 0.7,
       "weight": 33.3,
       "type1": "ground",
@@ -404,14 +408,14 @@
           "klass": "BreedLearnableMove",
           "move": "play_rough"
         }
-      ],
-      "formTextId": {
-        "name": 224,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 225,
+        "description": 66
+      },
       "height": 0.7,
       "weight": 66.6,
       "type1": "ground",
@@ -470,11 +474,7 @@
         "cry": "051cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 225,
-        "description": 66
-      }
+      "moveSet": []
     }
   ]
 }

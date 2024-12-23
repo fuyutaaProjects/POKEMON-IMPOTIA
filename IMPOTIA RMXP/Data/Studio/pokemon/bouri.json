@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 105,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 1,
       "type1": "poison",
@@ -308,11 +312,7 @@
           "klass": "TutorLearnableMove",
           "move": "leech_seed"
         }
-      ],
-      "formTextId": {
-        "name": 105,
-        "description": 0
-      }
+      ]
     }
   ]
 }

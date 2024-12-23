@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 619,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 22.2,
       "type1": "poison",
@@ -256,14 +260,14 @@
           "klass": "TechLearnableMove",
           "move": "dark_pulse"
         }
-      ],
-      "formTextId": {
-        "name": 619,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 620,
+        "description": 183
+      },
       "height": 2.1,
       "weight": 81,
       "type1": "poison",
@@ -327,11 +331,7 @@
         "cry": "",
         "hasFemale": true
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 620,
-        "description": 183
-      }
+      "moveSet": []
     }
   ]
 }

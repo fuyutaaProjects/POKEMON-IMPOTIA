@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 135,
+        "description": 0
+      },
       "height": 0.7,
       "weight": 11.5,
       "type1": "bug",
@@ -97,11 +101,7 @@
           "klass": "TutorLearnableMove",
           "move": "electroweb"
         }
-      ],
-      "formTextId": {
-        "name": 135,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 9,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 6,
       "type1": "electric",
@@ -294,11 +298,7 @@
           "klass": "BreedLearnableMove",
           "move": "wish"
         }
-      ],
-      "formTextId": {
-        "name": 9,
-        "description": 0
-      }
+      ]
     }
   ]
 }

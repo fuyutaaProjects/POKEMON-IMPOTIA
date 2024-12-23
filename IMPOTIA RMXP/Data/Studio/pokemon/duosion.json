@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 262,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 8,
       "type1": "psychic",
@@ -382,11 +386,7 @@
           "klass": "TechLearnableMove",
           "move": "infestation"
         }
-      ],
-      "formTextId": {
-        "name": 262,
-        "description": 0
-      }
+      ]
     }
   ]
 }

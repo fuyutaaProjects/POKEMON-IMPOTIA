@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 655,
+        "description": 0
+      },
       "height": 0.9,
       "weight": 8,
       "type1": "psychic",
@@ -366,11 +370,7 @@
           "klass": "TutorLearnableMove",
           "move": "kinesis"
         }
-      ],
-      "formTextId": {
-        "name": 655,
-        "description": 0
-      }
+      ]
     }
   ]
 }

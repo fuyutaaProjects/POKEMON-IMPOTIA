@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 354,
+        "description": 0
+      },
       "height": 1,
       "weight": 29.5,
       "type1": "ground",
@@ -447,14 +451,14 @@
           "move": "dragon_breath",
           "level": 54
         }
-      ],
-      "formTextId": {
-        "name": 354,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 355,
+        "description": 111
+      },
       "height": 1.2,
       "weight": 55,
       "type1": "ice",
@@ -513,11 +517,7 @@
         "cry": "028cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 355,
-        "description": 111
-      }
+      "moveSet": []
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 310,
+        "description": 0
+      },
       "height": 1.1,
       "weight": 10,
       "type1": "fairy",
@@ -295,14 +299,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 310,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 311,
+        "description": 90
+      },
       "height": 1.1,
       "weight": 10,
       "type1": "fairy",
@@ -549,14 +553,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 311,
-        "description": 90
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 312,
+        "description": 91
+      },
       "height": 1.1,
       "weight": 10,
       "type1": "fairy",
@@ -803,14 +807,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 312,
-        "description": 91
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 313,
+        "description": 92
+      },
       "height": 1.1,
       "weight": 10,
       "type1": "fairy",
@@ -1057,14 +1061,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 313,
-        "description": 92
-      }
+      ]
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 314,
+        "description": 93
+      },
       "height": 1.1,
       "weight": 10,
       "type1": "fairy",
@@ -1311,11 +1315,7 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 314,
-        "description": 93
-      }
+      ]
     }
   ]
 }

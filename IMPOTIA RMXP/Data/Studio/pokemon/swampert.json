@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 886,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 81.9,
       "type1": "water",
@@ -388,14 +392,14 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 886,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 30,
+      "formTextId": {
+        "name": 887,
+        "description": 259
+      },
       "height": 1.9,
       "weight": 102,
       "type1": "water",
@@ -769,11 +773,7 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 887,
-        "description": 259
-      }
+      ]
     }
   ]
 }

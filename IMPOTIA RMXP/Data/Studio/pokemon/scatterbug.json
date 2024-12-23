@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 763,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 2.5,
       "type1": "bug",
@@ -111,14 +115,14 @@
           "klass": "BreedLearnableMove",
           "move": "rage_powder"
         }
-      ],
-      "formTextId": {
-        "name": 763,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 764,
+        "description": 219
+      },
       "height": 0.3,
       "weight": 2.5,
       "type1": "bug",
@@ -154,7 +158,7 @@
       "femaleRate": 50,
       "breedGroups": [
         3,
-        0
+        15
       ],
       "hatchSteps": 4080,
       "babyDbSymbol": "__undef__",
@@ -637,14 +641,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 764,
-        "description": 219
-      }
+      ]
     },
     {
       "form": 9,
+      "formTextId": {
+        "name": 765,
+        "description": 220
+      },
       "height": 0.3,
       "weight": 2.5,
       "type1": "bug",
@@ -680,7 +684,7 @@
       "femaleRate": 50,
       "breedGroups": [
         3,
-        0
+        15
       ],
       "hatchSteps": 4080,
       "babyDbSymbol": "__undef__",
@@ -1163,11 +1167,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 765,
-        "description": 220
-      }
+      ]
     }
   ]
 }

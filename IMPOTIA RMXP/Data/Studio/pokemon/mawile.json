@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 561,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 11.5,
       "type1": "steel",
@@ -478,14 +482,14 @@
           "klass": "BreedLearnableMove",
           "move": "misty_terrain"
         }
-      ],
-      "formTextId": {
-        "name": 561,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 30,
+      "formTextId": {
+        "name": 562,
+        "description": 161
+      },
       "height": 1,
       "weight": 23.5,
       "type1": "steel",
@@ -893,11 +897,7 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 562,
-        "description": 161
-      }
+      ]
     }
   ]
 }

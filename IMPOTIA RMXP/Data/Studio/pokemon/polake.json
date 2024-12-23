@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 675,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 8.8,
       "type1": "fighting",
@@ -333,11 +337,7 @@
           "klass": "TutorLearnableMove",
           "move": "yawn"
         }
-      ],
-      "formTextId": {
-        "name": 675,
-        "description": 0
-      }
+      ]
     }
   ]
 }

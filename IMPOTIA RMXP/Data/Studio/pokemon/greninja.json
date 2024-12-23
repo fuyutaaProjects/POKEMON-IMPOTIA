@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 398,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 40,
       "type1": "water",
@@ -381,14 +385,14 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 398,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 399,
+        "description": 127
+      },
       "height": 1.5,
       "weight": 40,
       "type1": "water",
@@ -447,14 +451,14 @@
         "cry": "658cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 399,
-        "description": 127
-      }
+      "moveSet": []
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 400,
+        "description": 128
+      },
       "height": 1.5,
       "weight": 40,
       "type1": "water",
@@ -513,11 +517,7 @@
         "cry": "658cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 400,
-        "description": 128
-      }
+      "moveSet": []
     }
   ]
 }

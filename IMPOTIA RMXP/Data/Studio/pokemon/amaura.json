@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 16,
+        "description": 0
+      },
       "height": 1.3,
       "weight": 25.2,
       "type1": "rock",
@@ -417,11 +421,7 @@
           "klass": "BreedLearnableMove",
           "move": "discharge"
         }
-      ],
-      "formTextId": {
-        "name": 16,
-        "description": 0
-      }
+      ]
     }
   ]
 }

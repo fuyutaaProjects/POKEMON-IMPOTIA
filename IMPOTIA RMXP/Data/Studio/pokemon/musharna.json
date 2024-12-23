@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 607,
+        "description": 0
+      },
       "height": 1.1,
       "weight": 60.5,
       "type1": "psychic",
@@ -288,14 +292,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 607,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 608,
+        "description": 179
+      },
       "height": 1.1,
       "weight": 60.5,
       "type1": "psychic",
@@ -320,7 +324,7 @@
       "femaleRate": 50,
       "breedGroups": [
         5,
-        0
+        15
       ],
       "hatchSteps": 2805,
       "babyDbSymbol": "__undef__",
@@ -803,11 +807,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 608,
-        "description": 179
-      }
+      ]
     }
   ]
 }

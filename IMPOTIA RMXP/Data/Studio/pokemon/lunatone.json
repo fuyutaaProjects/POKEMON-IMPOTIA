@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 521,
+        "description": 0
+      },
       "height": 1,
       "weight": 168,
       "type1": "rock",
@@ -381,11 +385,7 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 521,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 192,
+        "description": 0
+      },
       "height": 1.7,
       "weight": 180,
       "type1": "fighting",
@@ -63,11 +67,7 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 192,
-        "description": 0
-      }
+      "moveSet": []
     }
   ]
 }

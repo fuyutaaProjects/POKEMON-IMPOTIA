@@ -256,6 +256,7 @@
    <wangcolor name="dark grass" color="#00e9ff" tile="-1" probability="1"/>
    <wangcolor name="dark grass path" color="#ff00d8" tile="-1" probability="1"/>
    <wangcolor name="normal grass dirt path" color="#ffff00" tile="-1" probability="1"/>
+   <wangcolor name="orange grass" color="#a000ff" tile="-1" probability="1"/>
    <wangtile tileid="190" wangid="0,4,0,4,0,4,0,4"/>
    <wangtile tileid="252" wangid="0,2,0,2,0,2,0,2"/>
    <wangtile tileid="310" wangid="0,0,0,2,0,0,0,0"/>
@@ -385,6 +386,26 @@
    <wangtile tileid="1023" wangid="0,5,0,0,0,0,0,5"/>
    <wangtile tileid="1024" wangid="0,5,0,0,0,0,0,5"/>
    <wangtile tileid="1025" wangid="0,0,0,0,0,0,0,5"/>
+   <wangtile tileid="1058" wangid="0,8,0,8,0,8,0,8"/>
+   <wangtile tileid="1059" wangid="0,8,0,8,0,8,0,8"/>
+   <wangtile tileid="1084" wangid="0,0,0,8,0,0,0,0"/>
+   <wangtile tileid="1085" wangid="0,0,0,8,0,8,0,0"/>
+   <wangtile tileid="1086" wangid="0,0,0,8,0,8,0,0"/>
+   <wangtile tileid="1087" wangid="0,0,0,0,0,8,0,0"/>
+   <wangtile tileid="1120" wangid="0,8,0,8,0,8,0,8"/>
+   <wangtile tileid="1121" wangid="0,8,0,8,0,8,0,8"/>
+   <wangtile tileid="1146" wangid="0,8,0,8,0,0,0,0"/>
+   <wangtile tileid="1147" wangid="0,8,0,0,0,8,0,8"/>
+   <wangtile tileid="1148" wangid="0,8,0,8,0,0,0,8"/>
+   <wangtile tileid="1149" wangid="0,0,0,0,0,8,0,8"/>
+   <wangtile tileid="1208" wangid="0,8,0,8,0,0,0,0"/>
+   <wangtile tileid="1209" wangid="0,0,0,8,0,8,0,8"/>
+   <wangtile tileid="1210" wangid="0,8,0,8,0,8,0,0"/>
+   <wangtile tileid="1211" wangid="0,0,0,0,0,8,0,8"/>
+   <wangtile tileid="1270" wangid="0,8,0,0,0,0,0,0"/>
+   <wangtile tileid="1271" wangid="0,8,0,0,0,0,0,8"/>
+   <wangtile tileid="1272" wangid="0,8,0,0,0,0,0,8"/>
+   <wangtile tileid="1273" wangid="0,0,0,0,0,0,0,8"/>
   </wangset>
   <wangset name="ice sets" type="corner" tile="-1">
    <wangcolor name="ice path" color="#ff0000" tile="-1" probability="1"/>

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 286,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 68.2,
       "type1": "bug",
@@ -255,11 +259,7 @@
           "move": "spectral_thief",
           "level": 54
         }
-      ],
-      "formTextId": {
-        "name": 286,
-        "description": 0
-      }
+      ]
     }
   ]
 }

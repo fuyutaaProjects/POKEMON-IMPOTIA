@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 102,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 2.5,
       "type1": "grass",
@@ -324,14 +328,14 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 102,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 103,
+        "description": 40
+      },
       "height": 0.4,
       "weight": 2.5,
       "type1": "grass",
@@ -665,14 +669,14 @@
           "klass": "BreedLearnableMove",
           "move": "leaf_storm"
         }
-      ],
-      "formTextId": {
-        "name": 103,
-        "description": 40
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 104,
+        "description": 41
+      },
       "height": 0.4,
       "weight": 2.5,
       "type1": "grass",
@@ -1006,11 +1010,7 @@
           "klass": "BreedLearnableMove",
           "move": "leaf_storm"
         }
-      ],
-      "formTextId": {
-        "name": 104,
-        "description": 41
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1018,
+        "description": 0
+      },
       "height": 2.2,
       "weight": 210,
       "type1": "dragon",
@@ -319,11 +323,7 @@
           "klass": "TechLearnableMove",
           "move": "fire_blast"
         }
-      ],
-      "formTextId": {
-        "name": 1018,
-        "description": 0
-      }
+      ]
     }
   ]
 }

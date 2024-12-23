@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 505,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 5.5,
       "type1": "fairy",
@@ -451,11 +455,7 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ],
-      "formTextId": {
-        "name": 505,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 445,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 3.5,
       "type1": "dark",
@@ -379,11 +383,7 @@
           "klass": "BreedLearnableMove",
           "move": "simple_beam"
         }
-      ],
-      "formTextId": {
-        "name": 445,
-        "description": 0
-      }
+      ]
     }
   ]
 }

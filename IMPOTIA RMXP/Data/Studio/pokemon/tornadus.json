@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 919,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 63,
       "type1": "flying",
@@ -373,14 +377,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 919,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 920,
+        "description": 270
+      },
       "height": 1.4,
       "weight": 63,
       "type1": "flying",
@@ -749,11 +753,7 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 920,
-        "description": 270
-      }
+      ]
     }
   ]
 }

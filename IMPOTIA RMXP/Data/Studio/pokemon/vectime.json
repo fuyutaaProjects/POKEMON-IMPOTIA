@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 949,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 4.8,
       "type1": "flying",
@@ -319,11 +323,7 @@
           "klass": "TutorLearnableMove",
           "move": "hyper_beam"
         }
-      ],
-      "formTextId": {
-        "name": 949,
-        "description": 0
-      }
+      ]
     }
   ]
 }

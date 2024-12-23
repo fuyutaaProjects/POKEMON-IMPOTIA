@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1020,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 1.5,
       "type1": "ghost",
@@ -374,11 +378,7 @@
           "klass": "BreedLearnableMove",
           "move": "ally_switch"
         }
-      ],
-      "formTextId": {
-        "name": 1020,
-        "description": 0
-      }
+      ]
     }
   ]
 }

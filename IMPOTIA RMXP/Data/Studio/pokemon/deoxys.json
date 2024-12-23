@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 228,
+        "description": 0
+      },
       "height": 1.7,
       "weight": 60.8,
       "type1": "psychic",
@@ -438,14 +442,14 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 228,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 229,
+        "description": 68
+      },
       "height": 1.7,
       "weight": 60.8,
       "type1": "psychic",
@@ -863,14 +867,14 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 229,
-        "description": 68
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 230,
+        "description": 69
+      },
       "height": 1.7,
       "weight": 60.8,
       "type1": "psychic",
@@ -1302,14 +1306,14 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 230,
-        "description": 69
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 231,
+        "description": 70
+      },
       "height": 1.7,
       "weight": 60.8,
       "type1": "psychic",
@@ -1739,14 +1743,14 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 231,
-        "description": 70
-      }
+      ]
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 232,
+        "description": 71
+      },
       "height": 1.7,
       "weight": 60.8,
       "type1": "psychic",
@@ -2304,14 +2308,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 232,
-        "description": 71
-      }
+      ]
     },
     {
       "form": 5,
+      "formTextId": {
+        "name": 233,
+        "description": 72
+      },
       "height": 1.7,
       "weight": 60.8,
       "type1": "psychic",
@@ -2869,14 +2873,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 233,
-        "description": 72
-      }
+      ]
     },
     {
       "form": 6,
+      "formTextId": {
+        "name": 234,
+        "description": 73
+      },
       "height": 1.7,
       "weight": 60.8,
       "type1": "psychic",
@@ -3434,14 +3438,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 234,
-        "description": 73
-      }
+      ]
     },
     {
       "form": 17,
+      "formTextId": {
+        "name": 235,
+        "description": 74
+      },
       "height": 1.7,
       "weight": 60.8,
       "type1": "psychic",
@@ -3999,14 +4003,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 235,
-        "description": 74
-      }
+      ]
     },
     {
       "form": 21,
+      "formTextId": {
+        "name": 236,
+        "description": 75
+      },
       "height": 1.7,
       "weight": 60.8,
       "type1": "psychic",
@@ -4564,11 +4568,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 236,
-        "description": 75
-      }
+      ]
     }
   ]
 }

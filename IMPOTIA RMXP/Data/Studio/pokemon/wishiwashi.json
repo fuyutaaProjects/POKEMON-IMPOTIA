@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1007,
+        "description": 0
+      },
       "height": 0.2,
       "weight": 0.3,
       "type1": "water",
@@ -63,14 +67,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1007,
-        "description": 0
-      }
+      "moveSet": []
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 1008,
+        "description": 303
+      },
       "height": 8.2,
       "weight": 78.6,
       "type1": "water",
@@ -129,11 +133,7 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 1008,
-        "description": 303
-      }
+      "moveSet": []
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 412,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 24.4,
       "type1": "normal",
@@ -347,11 +351,7 @@
           "klass": "BreedLearnableMove",
           "move": "mud_bomb"
         }
-      ],
-      "formTextId": {
-        "name": 412,
-        "description": 0
-      }
+      ]
     }
   ]
 }

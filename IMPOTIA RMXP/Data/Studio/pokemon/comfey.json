@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 178,
+        "description": 0
+      },
       "height": 0.1,
       "weight": 0.3,
       "type1": "fairy",
@@ -28,8 +32,8 @@
       "catchRate": 40,
       "femaleRate": 75,
       "breedGroups": [
-        0,
-        0
+        15,
+        15
       ],
       "hatchSteps": 5120,
       "babyDbSymbol": "comfey",
@@ -63,11 +67,7 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 178,
-        "description": 0
-      }
+      "moveSet": []
     }
   ]
 }

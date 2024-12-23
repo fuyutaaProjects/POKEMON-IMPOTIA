@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 553,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 8,
       "type1": "poison",
@@ -74,14 +78,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 553,
-        "description": 0
-      }
+      "moveSet": []
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 554,
+        "description": 159
+      },
       "height": 0.4,
       "weight": 8,
       "type1": "poison",
@@ -151,14 +155,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 554,
-        "description": 159
-      }
+      "moveSet": []
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 555,
+        "description": 160
+      },
       "height": 0.4,
       "weight": 8,
       "type1": "poison",
@@ -228,11 +232,7 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 555,
-        "description": 160
-      }
+      "moveSet": []
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 203,
+        "description": 0
+      },
       "height": 1,
       "weight": 10,
       "type1": "ground",
@@ -39,8 +43,8 @@
       "catchRate": 45,
       "femaleRate": 50,
       "breedGroups": [
-        0,
-        0
+        15,
+        15
       ],
       "hatchSteps": 1024,
       "babyDbSymbol": "crobol",
@@ -74,11 +78,7 @@
         "cry": "118cry.ogg",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 203,
-        "description": 0
-      }
+      "moveSet": []
     }
   ]
 }

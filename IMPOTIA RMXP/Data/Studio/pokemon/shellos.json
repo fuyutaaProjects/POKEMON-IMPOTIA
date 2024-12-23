@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 792,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 6.3,
       "type1": "water",
@@ -301,14 +305,14 @@
           "klass": "BreedLearnableMove",
           "move": "clear_smog"
         }
-      ],
-      "formTextId": {
-        "name": 792,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 793,
+        "description": 227
+      },
       "height": 0.3,
       "weight": 6.3,
       "type1": "water",
@@ -585,11 +589,7 @@
           "klass": "BreedLearnableMove",
           "move": "clear_smog"
         }
-      ],
-      "formTextId": {
-        "name": 793,
-        "description": 227
-      }
+      ]
     }
   ]
 }

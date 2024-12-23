@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 63,
+        "description": 0
+      },
       "height": 2.2,
       "weight": 80,
       "type1": "grass",
@@ -326,14 +330,14 @@
           "klass": "TechLearnableMove",
           "move": "pluck"
         }
-      ],
-      "formTextId": {
-        "name": 63,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 29,
+      "formTextId": {
+        "name": 64,
+        "description": 28
+      },
       "height": 2.2,
       "weight": 80,
       "type1": "normal",
@@ -717,14 +721,14 @@
           "klass": "BreedLearnableMove",
           "move": "counter"
         }
-      ],
-      "formTextId": {
-        "name": 64,
-        "description": 28
-      }
+      ]
     },
     {
       "form": 30,
+      "formTextId": {
+        "name": 65,
+        "description": 29
+      },
       "height": 2.2,
       "weight": 100,
       "type1": "normal",
@@ -1132,11 +1136,7 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "formTextId": {
-        "name": 65,
-        "description": 29
-      }
+      ]
     }
   ]
 }

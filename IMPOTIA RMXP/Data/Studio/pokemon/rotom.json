@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 734,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 0.3,
       "type1": "electric",
@@ -304,14 +308,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 734,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 735,
+        "description": 207
+      },
       "height": 0.3,
       "weight": 0.3,
       "type1": "electric",
@@ -611,14 +615,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 735,
-        "description": 207
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 736,
+        "description": 208
+      },
       "height": 0.3,
       "weight": 0.3,
       "type1": "electric",
@@ -918,14 +922,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 736,
-        "description": 208
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 737,
+        "description": 209
+      },
       "height": 0.3,
       "weight": 0.3,
       "type1": "electric",
@@ -1225,14 +1229,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 737,
-        "description": 209
-      }
+      ]
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 738,
+        "description": 210
+      },
       "height": 0.3,
       "weight": 0.3,
       "type1": "electric",
@@ -1532,14 +1536,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 738,
-        "description": 210
-      }
+      ]
     },
     {
       "form": 5,
+      "formTextId": {
+        "name": 739,
+        "description": 211
+      },
       "height": 0.3,
       "weight": 0.3,
       "type1": "electric",
@@ -1839,11 +1843,7 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 739,
-        "description": 211
-      }
+      ]
     }
   ]
 }

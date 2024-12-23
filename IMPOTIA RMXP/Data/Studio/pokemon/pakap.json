@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 638,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 1.5,
       "type1": "fighting",
@@ -342,11 +346,7 @@
           "klass": "BreedLearnableMove",
           "move": "quick_guard"
         }
-      ],
-      "formTextId": {
-        "name": 638,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 937,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 21.4,
       "type1": "grass",
@@ -68,11 +72,7 @@
         "cry": "",
         "hasFemale": true
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 937,
-        "description": 0
-      }
+      "moveSet": []
     }
   ]
 }

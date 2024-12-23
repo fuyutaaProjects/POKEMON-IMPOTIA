@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 69,
+        "description": 0
+      },
       "height": 1,
       "weight": 18,
       "type1": "water",
@@ -323,14 +327,14 @@
           "klass": "BreedLearnableMove",
           "move": "brine"
         }
-      ],
-      "formTextId": {
-        "name": 69,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 70,
+        "description": 30
+      },
       "height": 1,
       "weight": 18,
       "type1": "water",
@@ -649,11 +653,7 @@
           "klass": "BreedLearnableMove",
           "move": "brine"
         }
-      ],
-      "formTextId": {
-        "name": 70,
-        "description": 30
-      }
+      ]
     }
   ]
 }

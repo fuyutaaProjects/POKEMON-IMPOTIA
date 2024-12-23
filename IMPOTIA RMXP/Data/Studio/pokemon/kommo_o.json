@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 475,
+        "description": 0
+      },
       "height": 1.6,
       "weight": 78.2,
       "type1": "dragon",
@@ -63,14 +67,14 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 475,
-        "description": 0
-      }
+      "moveSet": []
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 476,
+        "description": 143
+      },
       "height": 2.4,
       "weight": 207.5,
       "type1": "dragon",
@@ -129,11 +133,7 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [],
-      "formTextId": {
-        "name": 476,
-        "description": 143
-      }
+      "moveSet": []
     }
   ]
 }

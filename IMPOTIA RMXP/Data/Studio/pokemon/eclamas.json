@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 268,
+        "description": 0
+      },
       "height": 1.1,
       "weight": 41,
       "type1": "ice",
@@ -278,11 +282,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "horn_drill"
         }
-      ],
-      "formTextId": {
-        "name": 268,
-        "description": 0
-      }
+      ]
     }
   ]
 }

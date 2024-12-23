@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 295,
+        "description": 0
+      },
       "height": 0.1,
       "weight": 0.1,
       "type1": "fairy",
@@ -316,14 +320,14 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ],
-      "formTextId": {
-        "name": 295,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 296,
+        "description": 81
+      },
       "height": 0.1,
       "weight": 0.1,
       "type1": "fairy",
@@ -591,14 +595,14 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ],
-      "formTextId": {
-        "name": 296,
-        "description": 81
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 297,
+        "description": 82
+      },
       "height": 0.1,
       "weight": 0.1,
       "type1": "fairy",
@@ -866,14 +870,14 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ],
-      "formTextId": {
-        "name": 297,
-        "description": 82
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 298,
+        "description": 83
+      },
       "height": 0.1,
       "weight": 0.1,
       "type1": "fairy",
@@ -1141,14 +1145,14 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ],
-      "formTextId": {
-        "name": 298,
-        "description": 83
-      }
+      ]
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 299,
+        "description": 84
+      },
       "height": 0.1,
       "weight": 0.1,
       "type1": "fairy",
@@ -1416,11 +1420,7 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ],
-      "formTextId": {
-        "name": 299,
-        "description": 84
-      }
+      ]
     }
   ]
 }

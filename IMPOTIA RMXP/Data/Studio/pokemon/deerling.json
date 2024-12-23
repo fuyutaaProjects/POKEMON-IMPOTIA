@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 217,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 19.5,
       "type1": "normal",
@@ -330,14 +334,14 @@
           "klass": "BreedLearnableMove",
           "move": "worry_seed"
         }
-      ],
-      "formTextId": {
-        "name": 217,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 218,
+        "description": 63
+      },
       "height": 0.6,
       "weight": 19.5,
       "type1": "normal",
@@ -635,14 +639,14 @@
           "klass": "BreedLearnableMove",
           "move": "worry_seed"
         }
-      ],
-      "formTextId": {
-        "name": 218,
-        "description": 63
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 219,
+        "description": 64
+      },
       "height": 0.6,
       "weight": 19.5,
       "type1": "normal",
@@ -940,14 +944,14 @@
           "klass": "BreedLearnableMove",
           "move": "worry_seed"
         }
-      ],
-      "formTextId": {
-        "name": 219,
-        "description": 64
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 220,
+        "description": 65
+      },
       "height": 0.6,
       "weight": 19.5,
       "type1": "normal",
@@ -1245,11 +1249,7 @@
           "klass": "BreedLearnableMove",
           "move": "worry_seed"
         }
-      ],
-      "formTextId": {
-        "name": 220,
-        "description": 65
-      }
+      ]
     }
   ]
 }

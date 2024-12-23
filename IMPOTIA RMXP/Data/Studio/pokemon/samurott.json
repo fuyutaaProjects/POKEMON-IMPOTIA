@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 751,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 94.6,
       "type1": "water",
@@ -364,14 +368,14 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 751,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 7,
+      "formTextId": {
+        "name": 752,
+        "description": 215
+      },
       "height": 1.5,
       "weight": 94.6,
       "type1": "water",
@@ -396,7 +400,7 @@
       "femaleRate": 12.5,
       "breedGroups": [
         5,
-        0
+        15
       ],
       "hatchSteps": 5355,
       "babyDbSymbol": "__undef__",
@@ -937,11 +941,7 @@
           "klass": "BreedLearnableMove",
           "move": "amnesia"
         }
-      ],
-      "formTextId": {
-        "name": 752,
-        "description": 215
-      }
+      ]
     }
   ]
 }

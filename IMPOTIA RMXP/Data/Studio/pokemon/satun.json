@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 189,
+        "description": 0
+      },
       "height": 0.2,
       "weight": 0.1,
       "type1": "fairy",
@@ -355,11 +359,7 @@
           "klass": "BreedLearnableMove",
           "move": "heal_pulse"
         }
-      ],
-      "formTextId": {
-        "name": 189,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 558,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 7.5,
       "type1": "steel",
@@ -320,11 +324,7 @@
           "klass": "BreedLearnableMove",
           "move": "sky_uppercut"
         }
-      ],
-      "formTextId": {
-        "name": 558,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 862,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 8.4,
       "type1": "bug",
@@ -101,14 +105,14 @@
           "klass": "TechLearnableMove",
           "move": "protect"
         }
-      ],
-      "formTextId": {
-        "name": 862,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 863,
+        "description": 255
+      },
       "height": 0.3,
       "weight": 8.4,
       "type1": "bug",
@@ -144,7 +148,7 @@
       "femaleRate": 50,
       "breedGroups": [
         3,
-        0
+        15
       ],
       "hatchSteps": 4080,
       "babyDbSymbol": "__undef__",
@@ -617,14 +621,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 863,
-        "description": 255
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 864,
+        "description": 256
+      },
       "height": 0.3,
       "weight": 8.4,
       "type1": "bug",
@@ -660,7 +664,7 @@
       "femaleRate": 50,
       "breedGroups": [
         3,
-        0
+        15
       ],
       "hatchSteps": 4080,
       "babyDbSymbol": "__undef__",
@@ -1133,11 +1137,7 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 864,
-        "description": 256
-      }
+      ]
     }
   ]
 }

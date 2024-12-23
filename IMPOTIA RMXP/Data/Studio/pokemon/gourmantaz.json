@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 396,
+        "description": 0
+      },
       "height": 2.1,
       "weight": 120.5,
       "type1": "fairy",
@@ -333,11 +337,7 @@
           "klass": "TechLearnableMove",
           "move": "snarl"
         }
-      ],
-      "formTextId": {
-        "name": 396,
-        "description": 0
-      }
+      ]
     }
   ]
 }

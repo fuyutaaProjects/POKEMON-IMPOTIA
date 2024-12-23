@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 902,
+        "description": 0
+      },
       "height": 1.6,
       "weight": 78.5,
       "type1": "water",
@@ -437,14 +441,14 @@
           "klass": "TutorLearnableMove",
           "move": "volt_tackle"
         }
-      ],
-      "formTextId": {
-        "name": 902,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 29,
+      "formTextId": {
+        "name": 903,
+        "description": 266
+      },
       "height": 1.6,
       "weight": 78.5,
       "type1": "water",
@@ -804,14 +808,14 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ],
-      "formTextId": {
-        "name": 903,
-        "description": 266
-      }
+      ]
     },
     {
       "form": 30,
+      "formTextId": {
+        "name": 904,
+        "description": 267
+      },
       "height": 2,
       "weight": 120,
       "type1": "water",
@@ -1242,11 +1246,7 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ],
-      "formTextId": {
-        "name": 904,
-        "description": 267
-      }
+      ]
     }
   ]
 }

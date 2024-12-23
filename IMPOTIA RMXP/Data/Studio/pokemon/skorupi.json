@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 831,
+        "description": 0
+      },
       "height": 0.8,
       "weight": 12,
       "type1": "poison",
@@ -392,11 +396,7 @@
           "klass": "BreedLearnableMove",
           "move": "night_slash"
         }
-      ],
-      "formTextId": {
-        "name": 831,
-        "description": 0
-      }
+      ]
     }
   ]
 }

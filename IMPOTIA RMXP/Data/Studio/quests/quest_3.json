@@ -1,0 +1,19 @@
+{
+  "klass": "Quest",
+  "id": 3,
+  "dbSymbol": "quest_3",
+  "isPrimary": false,
+  "resolution": "default",
+  "objectives": [
+    {
+      "objectiveMethodName": "objective_speak_to",
+      "objectiveMethodArgs": [
+        0,
+        "Donner x1 Algues laminaires à papi."
+      ],
+      "textFormatMethodName": "text_speak_to",
+      "hiddenByDefault": false
+    }
+  ],
+  "earnings": []
+}

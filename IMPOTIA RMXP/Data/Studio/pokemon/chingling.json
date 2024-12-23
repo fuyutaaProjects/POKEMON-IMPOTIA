@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 158,
+        "description": 0
+      },
       "height": 0.2,
       "weight": 0.6,
       "type1": "psychic",
@@ -367,11 +371,7 @@
           "klass": "BreedLearnableMove",
           "move": "stored_power"
         }
-      ],
-      "formTextId": {
-        "name": 158,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 261,
+        "description": 0
+      },
       "height": 0.5,
       "weight": 5.5,
       "type1": "water",
@@ -306,11 +310,7 @@
           "klass": "BreedLearnableMove",
           "move": "me_first"
         }
-      ],
-      "formTextId": {
-        "name": 261,
-        "description": 0
-      }
+      ]
     }
   ]
 }

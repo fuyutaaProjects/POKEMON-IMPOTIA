@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 333,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 28,
       "type1": "normal",
@@ -313,14 +317,14 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ],
-      "formTextId": {
-        "name": 333,
-        "description": 0
-      }
+      ]
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 334,
+        "description": 97
+      },
       "height": 1.2,
       "weight": 28,
       "type1": "normal",
@@ -593,14 +597,14 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ],
-      "formTextId": {
-        "name": 334,
-        "description": 97
-      }
+      ]
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 335,
+        "description": 98
+      },
       "height": 1.2,
       "weight": 28,
       "type1": "normal",
@@ -873,14 +877,14 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ],
-      "formTextId": {
-        "name": 335,
-        "description": 98
-      }
+      ]
     },
     {
       "form": 3,
+      "formTextId": {
+        "name": 336,
+        "description": 99
+      },
       "height": 1.2,
       "weight": 28,
       "type1": "normal",
@@ -1153,14 +1157,14 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ],
-      "formTextId": {
-        "name": 336,
-        "description": 99
-      }
+      ]
     },
     {
       "form": 4,
+      "formTextId": {
+        "name": 337,
+        "description": 100
+      },
       "height": 1.2,
       "weight": 28,
       "type1": "normal",
@@ -1433,14 +1437,14 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ],
-      "formTextId": {
-        "name": 337,
-        "description": 100
-      }
+      ]
     },
     {
       "form": 5,
+      "formTextId": {
+        "name": 338,
+        "description": 101
+      },
       "height": 1.2,
       "weight": 28,
       "type1": "normal",
@@ -1713,14 +1717,14 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ],
-      "formTextId": {
-        "name": 338,
-        "description": 101
-      }
+      ]
     },
     {
       "form": 6,
+      "formTextId": {
+        "name": 339,
+        "description": 102
+      },
       "height": 1.2,
       "weight": 28,
       "type1": "normal",
@@ -1993,14 +1997,14 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ],
-      "formTextId": {
-        "name": 339,
-        "description": 102
-      }
+      ]
     },
     {
       "form": 7,
+      "formTextId": {
+        "name": 340,
+        "description": 103
+      },
       "height": 1.2,
       "weight": 28,
       "type1": "normal",
@@ -2273,14 +2277,14 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ],
-      "formTextId": {
-        "name": 340,
-        "description": 103
-      }
+      ]
     },
     {
       "form": 8,
+      "formTextId": {
+        "name": 341,
+        "description": 104
+      },
       "height": 1.2,
       "weight": 28,
       "type1": "normal",
@@ -2553,14 +2557,14 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ],
-      "formTextId": {
-        "name": 341,
-        "description": 104
-      }
+      ]
     },
     {
       "form": 9,
+      "formTextId": {
+        "name": 342,
+        "description": 105
+      },
       "height": 1.2,
       "weight": 28,
       "type1": "normal",
@@ -2833,11 +2837,7 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ],
-      "formTextId": {
-        "name": 342,
-        "description": 105
-      }
+      ]
     }
   ]
 }

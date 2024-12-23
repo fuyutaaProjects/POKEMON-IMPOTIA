@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 205,
+        "description": 0
+      },
       "height": 0.6,
       "weight": 7,
       "type1": "fighting",
@@ -23,6 +27,8 @@
       "evDfs": 0,
       "evolutions": [
         {
+          "dbSymbol": "crabominable",
+          "form": 0,
           "conditions": [
             {
               "type": "maps",
@@ -30,9 +36,7 @@
                 -1
               ]
             }
-          ],
-          "dbSymbol": "crabominable",
-          "form": 0
+          ]
         }
       ],
       "experienceType": 0,
@@ -47,7 +51,16 @@
       "hatchSteps": 5120,
       "babyDbSymbol": "crabrawler",
       "babyForm": 0,
-      "itemHeld": [],
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
       "abilities": [
         "hyper_cutter",
         "iron_fist",
@@ -67,13 +80,7 @@
         "cry": "",
         "hasFemale": false
       },
-      "moveSet": [
-        
-      ],
-      "formTextId": {
-        "name": 0,
-        "description": 0
-      }
+      "moveSet": []
     }
   ]
 }

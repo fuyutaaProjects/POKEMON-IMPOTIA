@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 841,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 6,
       "type1": "ice",
@@ -393,11 +397,7 @@
           "klass": "BreedLearnableMove",
           "move": "captivate"
         }
-      ],
-      "formTextId": {
-        "name": 841,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 622,
+        "description": 0
+      },
       "height": 0.7,
       "weight": 24,
       "type1": "fire",
@@ -370,11 +374,7 @@
           "klass": "BreedLearnableMove",
           "move": "iron_head"
         }
-      ],
-      "formTextId": {
-        "name": 622,
-        "description": 0
-      }
+      ]
     }
   ]
 }

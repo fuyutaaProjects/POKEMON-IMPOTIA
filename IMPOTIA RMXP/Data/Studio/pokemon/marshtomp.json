@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 557,
+        "description": 0
+      },
       "height": 0.7,
       "weight": 28,
       "type1": "water",
@@ -207,11 +211,7 @@
           "klass": "TutorLearnableMove",
           "move": "water_pledge"
         }
-      ],
-      "formTextId": {
-        "name": 557,
-        "description": 0
-      }
+      ]
     }
   ]
 }
