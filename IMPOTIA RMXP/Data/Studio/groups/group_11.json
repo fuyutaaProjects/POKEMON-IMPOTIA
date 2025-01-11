@@ -2,6 +2,18 @@
   "klass": "Group",
   "id": 11,
   "dbSymbol": "group_11",
+  "systemTag": "Custom_yellow_sand_grass",
+  "terrainTag": 0,
+  "tool": null,
+  "isDoubleBattle": false,
+  "isHordeBattle": false,
+  "customConditions": [
+    {
+      "type": "mapId",
+      "value": 61,
+      "relationWithPreviousCondition": "AND"
+    }
+  ],
   "encounters": [
     {
       "specie": "sabluscade",
@@ -214,17 +226,5 @@
       ]
     }
   ],
-  "isDoubleBattle": false,
-  "systemTag": "Grass",
-  "terrainTag": 0,
-  "customConditions": [
-    {
-      "type": "mapId",
-      "relationWithPreviousCondition": "AND",
-      "value": 61
-    }
-  ],
-  "tool": null,
-  "isHordeBattle": false,
-  "stepsAverage": 30
+  "stepsAverage": 7
 }

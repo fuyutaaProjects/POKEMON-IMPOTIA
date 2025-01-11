@@ -105,6 +105,11 @@
         },
         {
           "klass": "LevelLearnableMove",
+          "move": "take_down",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "odor_sleuth",
           "level": 23
         },

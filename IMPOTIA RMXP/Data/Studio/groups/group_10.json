@@ -2,6 +2,18 @@
   "klass": "Group",
   "id": 10,
   "dbSymbol": "group_10",
+  "systemTag": "Custom_yellow_sand_grass",
+  "terrainTag": 0,
+  "tool": null,
+  "isDoubleBattle": false,
+  "isHordeBattle": false,
+  "customConditions": [
+    {
+      "type": "mapId",
+      "value": 34,
+      "relationWithPreviousCondition": "AND"
+    }
+  ],
   "encounters": [
     {
       "specie": "manar",
@@ -172,17 +184,5 @@
       ]
     }
   ],
-  "isDoubleBattle": false,
-  "systemTag": "Cave",
-  "terrainTag": 0,
-  "customConditions": [
-    {
-      "type": "mapId",
-      "relationWithPreviousCondition": "AND",
-      "value": 34
-    }
-  ],
-  "tool": null,
-  "isHordeBattle": false,
   "stepsAverage": 7
 }

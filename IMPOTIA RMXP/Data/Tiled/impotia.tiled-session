@@ -6,10 +6,10 @@
     "activeFile": "",
     "automapping.whileDrawing": false,
     "expandedProjectPaths": [
-        "PNG to tmx",
-        "Tilesets",
         ".",
-        "Maps"
+        "PNG to tmx",
+        "Maps",
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -167,8 +167,8 @@
             "scale": 3,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 804.3333333333333,
-                "y": 693.3333333333333
+                "x": 803.6666666666666,
+                "y": 692.6666666666666
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -244,11 +244,11 @@
             }
         },
         "Maps/Route_04.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 1.5,
+            "selectedLayer": 27,
             "viewCenter": {
-                "x": 1085.3333333333333,
-                "y": 979.9999999999999
+                "x": 1253.3333333333335,
+                "y": 1003.6666666666666
             }
         },
         "Maps/Route_05.tmx": {
@@ -284,19 +284,19 @@
             }
         },
         "Maps/Temporis.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 29,
+            "scale": 1.5,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1745.3333333333333,
-                "y": 1544.6666666666665
+                "x": 1902,
+                "y": 1060.6666666666665
             }
         },
         "Maps/Zenith.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 27,
             "viewCenter": {
-                "x": 2448.6666666666665,
-                "y": 353.33333333333337
+                "x": 1928,
+                "y": 282
             }
         },
         "Maps/bike_shop_lumi.tmx": {
@@ -327,8 +327,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 2163,
-                "y": 697.5
+                "x": 1343,
+                "y": 666
             }
         },
         "Maps/lumi_interior_houses.tmx": {
@@ -388,11 +388,11 @@
             }
         },
         "Maps/mermesa_interiors.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 1230.3030303030303,
-                "y": 909.0909090909092
+                "x": 1187,
+                "y": -153.5
             }
         },
         "Maps/mermesa_pokecenter.tmx": {
@@ -501,14 +501,14 @@
         },
         "Maps/rm_34_sylvebrume.tmx": {
             "expandedGroupLayers": [
-                24,
-                22
+                22,
+                24
             ],
-            "scale": 0.5,
-            "selectedLayer": 1,
+            "scale": 1,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1760,
-                "y": 958
+                "x": 1176,
+                "y": 1098.5
             }
         },
         "Maps/rm_35_route_02.tmx": {
@@ -624,19 +624,19 @@
             }
         },
         "Maps/rm_56_verdentia.tmx": {
-            "scale": 1.5,
+            "scale": 0.75,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 762,
-                "y": 781.3333333333333
+                "x": 1317.3333333333333,
+                "y": 1349.3333333333333
             }
         },
         "Maps/rm_57_foret_arboreon.tmx": {
-            "scale": 2,
+            "scale": 1.5,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 847,
-                "y": 1799.5
+                "x": 857.3333333333333,
+                "y": 520.6666666666666
             }
         },
         "Maps/rm_58_oasisville.tmx": {
@@ -819,8 +819,8 @@
             "scale": 1,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 1936,
-                "y": 802
+                "x": 1935,
+                "y": 801
             }
         },
         "Maps/whitesnakes_interiors_lab.tmx": {
@@ -1394,18 +1394,18 @@
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/rm_56_verdentia.tmx",
         "Maps/Lumicite.tmx",
-        "Maps/lumi_interior_houses.tmx",
-        "Maps/lumi_interiors.tmx",
-        "Maps/lumi_interior_offices.tmx",
-        "Maps/lumi_mall.tmx",
-        "Maps/mall elevator lumi.tmx",
+        "Maps/whitesnakes_interiors_floor_0.tmx",
+        "Maps/Zenith.tmx",
+        "Maps/Route_04.tmx",
+        "Maps/rm_34_sylvebrume.tmx",
+        "Maps/mermesa_interiors.tmx",
+        "Maps/rm_57_foret_arboreon.tmx",
         "Maps/Temporis.tmx",
-        "Maps/Elevator Mall Lumi.tmx",
         "Maps/lumi_gym.tmx",
-        "Maps/rules_random_tiles.tmx",
-        "Tilesets/nature_basics.tsx",
-        "Maps/rules_nature.tmx"
+        "Maps/lumi_interior_houses.tmx",
+        "Maps/lumi_interiors.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

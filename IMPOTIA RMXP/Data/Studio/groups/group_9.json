@@ -2,7 +2,7 @@
   "klass": "Group",
   "id": 9,
   "dbSymbol": "group_9",
-  "systemTag": "Grass",
+  "systemTag": "TallGrass",
   "terrainTag": 0,
   "tool": null,
   "isDoubleBattle": false,
@@ -10,8 +10,8 @@
   "customConditions": [
     {
       "type": "mapId",
-      "relationWithPreviousCondition": "AND",
-      "value": 57
+      "value": 57,
+      "relationWithPreviousCondition": "AND"
     }
   ],
   "encounters": [
