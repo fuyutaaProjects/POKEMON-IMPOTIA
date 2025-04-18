@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
-    "automapping.whileDrawing": false,
+    "activeFile": "Maps/grotte_gelume.tmx",
+    "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        ".",
-        "PNG to tmx",
         "Maps",
+        "PNG to tmx",
+        ".",
         "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -239,32 +239,32 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 994.6666666666667,
-                "y": 667.9999999999999
+                "x": 1614.6666666666665,
+                "y": 647.3333333333333
             }
         },
         "Maps/Route_04.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 27,
+            "scale": 0.75,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1253.3333333333335,
-                "y": 1003.6666666666666
+                "x": 1234.6666666666665,
+                "y": 961.9999999999999
             }
         },
         "Maps/Route_05.tmx": {
-            "scale": 2,
-            "selectedLayer": 16,
+            "scale": 0.5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 705,
-                "y": 707.5
+                "x": 1260,
+                "y": 1185
             }
         },
         "Maps/Sanctuaire Oublie.tmx": {
-            "scale": 0.75,
+            "scale": 1.5,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 961.3333333333333,
-                "y": 961.3333333333333
+                "x": 1211.3333333333335,
+                "y": 702.3333333333333
             }
         },
         "Maps/Sylveria.tmx": {
@@ -308,11 +308,11 @@
             }
         },
         "Maps/grotte_gelume.tmx": {
-            "scale": 0.33,
+            "scale": 0.5,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 1600.0000000000002,
-                "y": 1871.2121212121212
+                "x": 1846,
+                "y": 764
             }
         },
         "Maps/lumi school.tmx": {
@@ -324,11 +324,11 @@
             }
         },
         "Maps/lumi_gym.tmx": {
-            "scale": 1,
-            "selectedLayer": 1,
+            "scale": 2,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1343,
-                "y": 666
+                "x": 232,
+                "y": 1019.5
             }
         },
         "Maps/lumi_interior_houses.tmx": {
@@ -609,10 +609,10 @@
         },
         "Maps/rm_54_route_03.tmx": {
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 960,
-                "y": 299
+                "x": 479,
+                "y": 1052
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
@@ -736,11 +736,11 @@
             }
         },
         "Maps/rules_trees.tmx": {
-            "scale": 1.5,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 294,
-                "y": 192.33333333333337
+                "x": 533.3333333333333,
+                "y": 268.66666666666663
             }
         },
         "Maps/sylveria_caves.tmx": {
@@ -1391,21 +1391,23 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
+        "Maps/lumi_gym.tmx",
+        "Maps/grotte_gelume.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/lumi_gym.tmx",
+        "Maps/grotte_gelume.tmx",
+        "Maps/rules_trees.tmx",
+        "Maps/Sanctuaire Oublie.tmx",
+        "Maps/Oasisville.tmx",
+        "Maps/Route_04.tmx",
+        "Maps/rm_54_route_03.tmx",
+        "Maps/Route_05.tmx",
         "Maps/rm_56_verdentia.tmx",
         "Maps/Lumicite.tmx",
         "Maps/whitesnakes_interiors_floor_0.tmx",
-        "Maps/Zenith.tmx",
-        "Maps/Route_04.tmx",
-        "Maps/rm_34_sylvebrume.tmx",
-        "Maps/mermesa_interiors.tmx",
-        "Maps/rm_57_foret_arboreon.tmx",
-        "Maps/Temporis.tmx",
-        "Maps/lumi_gym.tmx",
-        "Maps/lumi_interior_houses.tmx",
-        "Maps/lumi_interiors.tmx"
+        "Maps/Zenith.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
