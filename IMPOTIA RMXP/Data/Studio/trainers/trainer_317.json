@@ -5,6 +5,8 @@
   "vsType": 2,
   "isCouple": false,
   "baseMoney": 70,
+  "bagEntries": [],
+  "battleId": 0,
   "ai": 3,
   "party": [
     {
@@ -182,18 +184,17 @@
       ]
     }
   ],
-  "bagEntries": [],
-  "battleId": 0,
   "resources": {
+    "sprite": "Policier_sma",
     "artworkFull": "Policier_big",
     "artworkSmall": "Policier_sma",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
-    },
-    "sprite": "Policier_sma"
-  }
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
+    }
+  },
+  "additionalDialogs": []
 }

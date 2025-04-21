@@ -13,6 +13,8 @@
    <wangcolor name="light grass path" color="#a000ff" tile="-1" probability="1"/>
    <wangcolor name="light grass" color="#00ffa1" tile="-1" probability="1"/>
    <wangcolor name="dirt v2" color="#ffa8a8" tile="-1" probability="1"/>
+   <wangcolor name="pure light grass path" color="#b4a8ff" tile="-1" probability="1"/>
+   <wangcolor name="pure mid grass path" color="#96ffa7" tile="-1" probability="1"/>
    <wangtile tileid="190" wangid="0,3,0,3,0,3,0,3"/>
    <wangtile tileid="252" wangid="0,8,0,8,0,8,0,8"/>
    <wangtile tileid="310" wangid="0,0,0,8,0,0,0,0"/>
@@ -176,7 +178,7 @@
    <wangtile tileid="2295" wangid="0,0,0,5,0,5,0,0"/>
    <wangtile tileid="2296" wangid="0,0,0,5,0,5,0,0"/>
    <wangtile tileid="2297" wangid="0,0,0,0,0,5,0,0"/>
-   <wangtile tileid="2298" wangid="0,5,0,5,0,5,0,5"/>
+   <wangtile tileid="2299" wangid="0,5,0,5,0,5,0,5"/>
    <wangtile tileid="2356" wangid="0,5,0,5,0,0,0,0"/>
    <wangtile tileid="2357" wangid="0,5,0,0,0,5,0,5"/>
    <wangtile tileid="2358" wangid="0,5,0,5,0,0,0,5"/>
@@ -189,6 +191,40 @@
    <wangtile tileid="2481" wangid="0,5,0,0,0,0,0,5"/>
    <wangtile tileid="2482" wangid="0,5,0,0,0,0,0,5"/>
    <wangtile tileid="2483" wangid="0,0,0,0,0,0,0,5"/>
+   <wangtile tileid="3100" wangid="0,0,0,11,0,0,0,0"/>
+   <wangtile tileid="3101" wangid="0,0,0,11,0,11,0,0"/>
+   <wangtile tileid="3102" wangid="0,0,0,11,0,11,0,0"/>
+   <wangtile tileid="3103" wangid="0,0,0,0,0,11,0,0"/>
+   <wangtile tileid="3104" wangid="0,11,0,11,0,11,0,11"/>
+   <wangtile tileid="3162" wangid="0,11,0,11,0,0,0,0"/>
+   <wangtile tileid="3163" wangid="0,11,0,0,0,11,0,11"/>
+   <wangtile tileid="3164" wangid="0,11,0,11,0,0,0,11"/>
+   <wangtile tileid="3165" wangid="0,0,0,0,0,11,0,11"/>
+   <wangtile tileid="3224" wangid="0,11,0,11,0,0,0,0"/>
+   <wangtile tileid="3225" wangid="0,0,0,11,0,11,0,11"/>
+   <wangtile tileid="3226" wangid="0,11,0,11,0,11,0,0"/>
+   <wangtile tileid="3227" wangid="0,0,0,0,0,11,0,11"/>
+   <wangtile tileid="3286" wangid="0,11,0,0,0,0,0,0"/>
+   <wangtile tileid="3287" wangid="0,11,0,0,0,0,0,11"/>
+   <wangtile tileid="3288" wangid="0,11,0,0,0,0,0,11"/>
+   <wangtile tileid="3289" wangid="0,0,0,0,0,0,0,11"/>
+   <wangtile tileid="3348" wangid="0,0,0,12,0,0,0,0"/>
+   <wangtile tileid="3349" wangid="0,0,0,12,0,12,0,0"/>
+   <wangtile tileid="3350" wangid="0,0,0,12,0,12,0,0"/>
+   <wangtile tileid="3351" wangid="0,0,0,0,0,12,0,0"/>
+   <wangtile tileid="3352" wangid="0,12,0,12,0,12,0,12"/>
+   <wangtile tileid="3410" wangid="0,12,0,12,0,0,0,0"/>
+   <wangtile tileid="3411" wangid="0,12,0,0,0,12,0,12"/>
+   <wangtile tileid="3412" wangid="0,12,0,12,0,0,0,12"/>
+   <wangtile tileid="3413" wangid="0,0,0,0,0,12,0,12"/>
+   <wangtile tileid="3472" wangid="0,12,0,12,0,0,0,0"/>
+   <wangtile tileid="3473" wangid="0,0,0,12,0,12,0,12"/>
+   <wangtile tileid="3474" wangid="0,12,0,12,0,12,0,0"/>
+   <wangtile tileid="3475" wangid="0,0,0,0,0,12,0,12"/>
+   <wangtile tileid="3534" wangid="0,12,0,0,0,0,0,0"/>
+   <wangtile tileid="3535" wangid="0,12,0,0,0,0,0,12"/>
+   <wangtile tileid="3536" wangid="0,12,0,0,0,0,0,12"/>
+   <wangtile tileid="3537" wangid="0,0,0,0,0,0,0,12"/>
   </wangset>
   <wangset name="desertic sets" type="corner" tile="-1">
    <wangcolor name="sand v2 path" color="#ff0000" tile="-1" probability="1"/>

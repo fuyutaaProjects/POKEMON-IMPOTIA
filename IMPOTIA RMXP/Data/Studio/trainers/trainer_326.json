@@ -5,6 +5,8 @@
   "vsType": 2,
   "isCouple": false,
   "baseMoney": 30,
+  "bagEntries": [],
+  "battleId": 0,
   "ai": 4,
   "party": [
     {
@@ -66,18 +68,17 @@
       ]
     }
   ],
-  "bagEntries": [],
-  "battleId": 0,
   "resources": {
+    "sprite": "Scout_sma",
     "artworkFull": "Scout_big",
     "artworkSmall": "Scout_sma",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
-    },
-    "sprite": "Scout_sma"
-  }
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
+    }
+  },
+  "additionalDialogs": []
 }

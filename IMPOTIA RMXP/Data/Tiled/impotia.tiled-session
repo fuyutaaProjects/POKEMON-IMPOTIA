@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/grotte_gelume.tmx",
+    "activeFile": "Tilesets/terrain basics v2.tsx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
+        ".",
         "Maps",
         "PNG to tmx",
-        ".",
         "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -164,11 +164,11 @@
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 3,
-            "selectedLayer": 8,
+            "scale": 1,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 803.6666666666666,
-                "y": 692.6666666666666
+                "x": 988,
+                "y": 1219.5
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -236,27 +236,27 @@
             }
         },
         "Maps/Oasisville.tmx": {
-            "scale": 0.75,
+            "scale": 3,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1614.6666666666665,
-                "y": 647.3333333333333
+                "x": 1113,
+                "y": 472.66666666666663
             }
         },
         "Maps/Route_04.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 4,
+            "scale": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1234.6666666666665,
-                "y": 961.9999999999999
+                "x": 1182,
+                "y": 1118
             }
         },
         "Maps/Route_05.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 2,
+            "scale": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1260,
-                "y": 1185
+                "x": 1311,
+                "y": 398.5
             }
         },
         "Maps/Sanctuaire Oublie.tmx": {
@@ -268,11 +268,11 @@
             }
         },
         "Maps/Sylveria.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 28,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 2214,
-                "y": 1289
+                "x": 1065.3333333333333,
+                "y": 959.3333333333333
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -308,11 +308,11 @@
             }
         },
         "Maps/grotte_gelume.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 29,
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1846,
-                "y": 764
+                "x": 1754.6666666666665,
+                "y": 1180
             }
         },
         "Maps/lumi school.tmx": {
@@ -327,8 +327,8 @@
             "scale": 2,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 232,
-                "y": 1019.5
+                "x": 231.5,
+                "y": 1019
             }
         },
         "Maps/lumi_interior_houses.tmx": {
@@ -492,23 +492,23 @@
             }
         },
         "Maps/rm_33_port_avalon.tmx": {
-            "scale": 1,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 548,
-                "y": 589
+                "x": 426.66666666666674,
+                "y": 881.3333333333333
             }
         },
         "Maps/rm_34_sylvebrume.tmx": {
             "expandedGroupLayers": [
-                22,
-                24
+                24,
+                22
             ],
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1176,
-                "y": 1098.5
+                "x": 1315,
+                "y": 1131.5
             }
         },
         "Maps/rm_35_route_02.tmx": {
@@ -528,19 +528,19 @@
             }
         },
         "Maps/rm_42_route_01.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 3,
+            "scale": 1.5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1376,
-                "y": 961.3333333333333
+                "x": 900.6666666666666,
+                "y": 1812
             }
         },
         "Maps/rm_43_mermesa.tmx": {
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 980,
-                "y": 908
+                "x": 803,
+                "y": 1111.5
             }
         },
         "Maps/rm_45_r1_h_gr1.tmx": {
@@ -591,6 +591,14 @@
                 "y": 305.99999999999994
             }
         },
+        "Maps/rm_51_debug_room_z2.tmx": {
+            "scale": 0.890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.5614035087719,
+                "y": 480.5614035087719
+            }
+        },
         "Maps/rm_52_pa_gym.tmx": {
             "scale": 1,
             "selectedLayer": 1,
@@ -611,16 +619,16 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 479,
-                "y": 1052
+                "x": 773,
+                "y": 1235.5
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
             "scale": 1,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 1800,
-                "y": 1230.5
+                "x": 1767,
+                "y": 1252.5
             }
         },
         "Maps/rm_56_verdentia.tmx": {
@@ -696,11 +704,11 @@
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 2,
+            "scale": 3,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1119.5,
-                "y": 202.75
+                "x": 1682.3333333333333,
+                "y": 520
             }
         },
         "Maps/rules_random_tiles.tmx": {
@@ -720,11 +728,11 @@
             }
         },
         "Maps/rules_terrain_basics_v2.tmx": {
-            "scale": 0.5,
+            "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 298,
-                "y": 358
+                "x": 190.5,
+                "y": 2806
             }
         },
         "Maps/rules_tileset_interiors.tmx": {
@@ -736,11 +744,11 @@
             }
         },
         "Maps/rules_trees.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 0,
+            "scale": 2,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 533.3333333333333,
-                "y": 268.66666666666663
+                "x": 959,
+                "y": 639
             }
         },
         "Maps/sylveria_caves.tmx": {
@@ -1344,7 +1352,8 @@
             "scaleInDock": 1
         },
         "Tilesets/port_avalon.tsx": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Tilesets/random tiles.tsx": {
             "scaleInDock": 1,
@@ -1362,7 +1371,7 @@
         },
         "Tilesets/terrain basics v2.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 0.75
         },
         "Tilesets/terrain_basics.tsx": {
             "scaleInDock": 1,
@@ -1384,30 +1393,33 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 150,
+    "frame.defaultDuration": 600,
     "last.externalTilesetPath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/Tilesets",
     "last.imagePath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/Assets",
+    "last.worldFilePath": "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/Maps",
+    "loadedWorlds": [
+        "P:/github/fuyutaaProjecs/POKEMON-IMPOTIA/IMPOTIA RMXP/Data/Tiled/Maps/IMPOTIA WORLD.world"
+    ],
     "map.height": 50,
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/lumi_gym.tmx",
-        "Maps/grotte_gelume.tmx"
+        "Tilesets/terrain basics v2.tsx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/lumi_gym.tmx",
-        "Maps/grotte_gelume.tmx",
-        "Maps/rules_trees.tmx",
-        "Maps/Sanctuaire Oublie.tmx",
+        "Tilesets/terrain basics v2.tsx",
+        "Maps/Sylveria.tmx",
+        "Maps/rm_34_sylvebrume.tmx",
+        "Maps/rules_nature.tmx",
+        "Tilesets/nature_basics.tsx",
         "Maps/Oasisville.tmx",
-        "Maps/Route_04.tmx",
-        "Maps/rm_54_route_03.tmx",
-        "Maps/Route_05.tmx",
-        "Maps/rm_56_verdentia.tmx",
         "Maps/Lumicite.tmx",
-        "Maps/whitesnakes_interiors_floor_0.tmx",
-        "Maps/Zenith.tmx"
+        "Maps/Route_05.tmx",
+        "Maps/rm_42_route_01.tmx",
+        "Maps/rm_55_grotte_rochtherme.tmx",
+        "Maps/rm_54_route_03.tmx",
+        "Maps/rm_43_mermesa.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
