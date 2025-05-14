@@ -56,7 +56,7 @@
       "frontOffsetY": 15,
       "resources": {
         "icon": "majorbot",
-        "iconShiny": "majorbot_shiny",
+        "iconShiny": "gentlebot",
         "front": "gentlebot",
         "frontShiny": "gentlebot",
         "back": "gentlebot",
@@ -65,7 +65,9 @@
         "character": "gentlebot",
         "characterShiny": "gentlebot",
         "cry": "601cry.ogg",
-        "hasFemale": false
+        "hasFemale": false,
+        "egg": "",
+        "iconEgg": ""
       },
       "moveSet": [
         {
