@@ -22,7 +22,8 @@
       76,
       63,
       60,
-      73
+      73,
+      88
     ],
     "hasChildren": true,
     "isExpanded": true,
@@ -1068,6 +1069,17 @@
       "klass": "MapInfoMap",
       "mapDbSymbol": "map087",
       "parentId": 84
+    }
+  },
+  "88": {
+    "id": 88,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map088",
+      "parentId": 0
     }
   }
 }
