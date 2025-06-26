@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.10" tiledversion="1.10.2" name="terrain basics v2" tilewidth="32" tileheight="32" tilecount="5766" columns="62">
+<tileset version="1.10" tiledversion="1.11.2" name="terrain basics v2" tilewidth="32" tileheight="32" tilecount="5766" columns="62">
  <image source="../Assets/terrain_basics_v2.png" width="2000" height="3000"/>
  <wangsets>
   <wangset name="paths" type="corner" tile="-1">
@@ -15,6 +15,7 @@
    <wangcolor name="dirt v2" color="#ffa8a8" tile="-1" probability="1"/>
    <wangcolor name="pure light grass path" color="#b4a8ff" tile="-1" probability="1"/>
    <wangcolor name="pure mid grass path" color="#96ffa7" tile="-1" probability="1"/>
+   <wangcolor name="passage carpia floor" color="#8e7848" tile="-1" probability="1"/>
    <wangtile tileid="190" wangid="0,3,0,3,0,3,0,3"/>
    <wangtile tileid="252" wangid="0,8,0,8,0,8,0,8"/>
    <wangtile tileid="310" wangid="0,0,0,8,0,0,0,0"/>
@@ -225,6 +226,23 @@
    <wangtile tileid="3535" wangid="0,12,0,0,0,0,0,12"/>
    <wangtile tileid="3536" wangid="0,12,0,0,0,0,0,12"/>
    <wangtile tileid="3537" wangid="0,0,0,0,0,0,0,12"/>
+   <wangtile tileid="3844" wangid="0,0,0,13,0,0,0,0"/>
+   <wangtile tileid="3845" wangid="0,0,0,13,0,13,0,0"/>
+   <wangtile tileid="3846" wangid="0,0,0,13,0,13,0,0"/>
+   <wangtile tileid="3847" wangid="0,0,0,0,0,13,0,0"/>
+   <wangtile tileid="3848" wangid="0,13,0,13,0,13,0,13"/>
+   <wangtile tileid="3906" wangid="0,13,0,13,0,0,0,0"/>
+   <wangtile tileid="3907" wangid="0,13,0,0,0,13,0,13"/>
+   <wangtile tileid="3908" wangid="0,13,0,13,0,0,0,13"/>
+   <wangtile tileid="3909" wangid="0,0,0,0,0,13,0,13"/>
+   <wangtile tileid="3968" wangid="0,13,0,13,0,0,0,0"/>
+   <wangtile tileid="3969" wangid="0,0,0,13,0,13,0,13"/>
+   <wangtile tileid="3970" wangid="0,13,0,13,0,13,0,0"/>
+   <wangtile tileid="3971" wangid="0,0,0,0,0,13,0,13"/>
+   <wangtile tileid="4030" wangid="0,13,0,0,0,0,0,0"/>
+   <wangtile tileid="4031" wangid="0,13,0,0,0,0,0,13"/>
+   <wangtile tileid="4032" wangid="0,13,0,0,0,0,0,13"/>
+   <wangtile tileid="4033" wangid="0,0,0,0,0,0,0,13"/>
   </wangset>
   <wangset name="desertic sets" type="corner" tile="-1">
    <wangcolor name="sand v2 path" color="#ff0000" tile="-1" probability="1"/>

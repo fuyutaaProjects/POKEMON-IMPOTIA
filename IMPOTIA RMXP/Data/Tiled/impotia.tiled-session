@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Maps/Somegon.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Tilesets",
+        "Maps",
         ".",
-        "PNG to tmx",
-        "Maps"
+        "Tilesets",
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -164,11 +164,11 @@
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 1,
-            "selectedLayer": 18,
+            "scale": 0.75,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 988,
-                "y": 1219.5
+                "x": 156.66666666666663,
+                "y": 874.6666666666666
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -244,19 +244,19 @@
             }
         },
         "Maps/Route_04.tmx": {
-            "scale": 1,
-            "selectedLayer": 21,
+            "scale": 2,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1334,
-                "y": 737.5
+                "x": 2405.25,
+                "y": 891
             }
         },
         "Maps/Route_05.tmx": {
             "scale": 1,
-            "selectedLayer": 21,
+            "selectedLayer": 24,
             "viewCenter": {
-                "x": 1158,
-                "y": 391.5
+                "x": 1086,
+                "y": 221.5
             }
         },
         "Maps/Sanctuaire Oublie.tmx": {
@@ -268,19 +268,19 @@
             }
         },
         "Maps/Somegon.tmx": {
-            "scale": 1,
-            "selectedLayer": 6,
+            "scale": 1.5,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1423,
-                "y": 1496.5
+                "x": 1550.3333333333333,
+                "y": 3563.333333333333
             }
         },
         "Maps/Sylveria.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 4,
+            "scale": 1.5,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 2154.6666666666665,
-                "y": 1196
+                "x": 2766.333333333333,
+                "y": 914.6666666666665
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -292,11 +292,11 @@
             }
         },
         "Maps/Temporis.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 8,
+            "scale": 0.5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1902,
-                "y": 1060.6666666666665
+                "x": 1733,
+                "y": 1480
             }
         },
         "Maps/Zenith.tmx": {
@@ -503,11 +503,11 @@
             }
         },
         "Maps/rm_33_port_avalon.tmx": {
-            "scale": 1,
-            "selectedLayer": 24,
+            "scale": 3,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1033,
-                "y": 1769.5
+                "x": 1089.1666666666665,
+                "y": 1639
             }
         },
         "Maps/rm_34_sylvebrume.tmx": {
@@ -707,27 +707,27 @@
             }
         },
         "Maps/rules_buildings.tmx": {
-            "scale": 0.75,
+            "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 3468,
-                "y": 319.99999999999994
+                "x": 1952.25,
+                "y": 877
             }
         },
         "Maps/rules_nature.tmx": {
             "scale": 1.5,
-            "selectedLayer": 7,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1993.3333333333333,
-                "y": 254.66666666666663
+                "x": 1600.3333333333333,
+                "y": 800
             }
         },
         "Maps/rules_random_tiles.tmx": {
-            "scale": 3,
-            "selectedLayer": 19,
+            "scale": 1.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 667,
-                "y": 922
+                "x": 1089.6666666666665,
+                "y": 929.3333333333333
             }
         },
         "Maps/rules_terrain_basics.tmx": {
@@ -1382,7 +1382,7 @@
         },
         "Tilesets/terrain basics v2.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 0.75
+            "scaleInEditor": 2
         },
         "Tilesets/terrain_basics.tsx": {
             "scaleInDock": 1,
@@ -1415,21 +1415,23 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
+        "Maps/Somegon.tmx",
+        "Maps/rules_buildings.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rm_33_port_avalon.tmx",
+        "Maps/rules_buildings.tmx",
         "Maps/Sylveria.tmx",
-        "Maps/rm_55_grotte_rochtherme.tmx",
-        "Maps/rm_57_foret_arboreon.tmx",
-        "Maps/Zenith.tmx",
+        "Maps/Temporis.tmx",
         "Maps/Somegon.tmx",
-        "Maps/rm_35_route_02.tmx",
         "Maps/Route_04.tmx",
+        "Maps/Lumicite.tmx",
+        "Maps/rm_33_port_avalon.tmx",
+        "Tilesets/terrain basics v2.tsx",
+        "Maps/rules_nature.tmx",
+        "Maps/rules_random_tiles.tmx",
         "Maps/Route_05.tmx",
-        "Maps/rm_54_route_03.tmx",
-        "Maps/rules_terrain_basics_v2.tmx",
-        "Maps/rm_42_route_01.tmx"
+        "Maps/rm_55_grotte_rochtherme.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
