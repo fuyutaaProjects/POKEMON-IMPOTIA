@@ -44,3 +44,5 @@ All game data is unencrypted and openly accessible. However, I kindly ask that y
 Feel free to use my custom Ruby scripts if you find them useful! If you use a substantial script, I'd appreciate it if you could give credit.
 
 **Pokédex available [here](https://pokemon-impotia.github.io/) !**
+
+This project is developped by volunteers, no one is getting paid to do this and we make no revenue on it.
