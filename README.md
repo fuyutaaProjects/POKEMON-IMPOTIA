@@ -1,8 +1,12 @@
 ---
 ## Pokémon Impôtia: A Pokémon Fan Game !
 
-Regardez le [TEASER - POKEMON IMPOTIA](http://www.youtube.com/watch?v=XWo_kZPxQcg).
+![logo](Logo.png)
+![visual](PortAvalon.png)
+
+###Regardez le [TEASER - POKEMON IMPOTIA](http://www.youtube.com/watch?v=XWo_kZPxQcg).
 ---
+**Pokédex available [here](https://pokemon-impotia.github.io/) !**
 
 This repository holds the RPG Maker XP project files for **Pokémon Impôtia**, a fan game built using the Pokémon SDK devkit.
 
