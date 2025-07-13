@@ -14,5 +14,5 @@ This repository holds the RPG Maker XP project files for **Pokémon Impôtia**, 
 All game data is unencrypted and openly accessible. However, I kindly ask that you **do not steal my spritesheets, tilesets, or original soundtracks (OSTs)**. These are my private assets.
 
 Feel free to use my custom Ruby scripts if you find them useful! If you use a substantial script, I'd appreciate it if you could give credit.
----
+
 **Pokédex available [here](https://pokemon-impotia.github.io/) !**
