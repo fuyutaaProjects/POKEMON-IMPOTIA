@@ -28,7 +28,7 @@ The game includes a lot of custom content:
 This project wouldn't have been possible without the incredible talent and dedication of our team members:
 
 * 🔵 **Fuyutaa** 🇫🇷 : Game Director. Responsible for **Fakemon sprites (v1 & v2), custom textures, NPCs, UI elements**, all event making, mapping, storyboard development and team leadership.
-* 🟢 **.gablamenace** 🇫🇷 : Game Sub-Director. Our **Pokedex concept artist (Fakemon), Fakemon sprites (v2), Gym Leaders, storyboard contributor, Pokedex Pokémon icons**, and cutscene artworks.
+* 🟢 **Gab La Menace** 🇫🇷 : Game Sub-Director. Our **Pokedex concept artist (Fakemon), Fakemon sprites (v2), Gym Leaders, storyboard contributor, Pokedex Pokémon icons**, and cutscene artworks.
 * 💜 **BeelzebubArt** 🇵🇱 : One of our two **lead OST composers**.
 * 💜 **Ultradieu** 🇫🇷 : One of our two **lead OST composers**.
 * 🟠 **Stef.R** 🇨🇦 : **Concept artist and illustrator for Gym Leaders**, and a composer (contributed 2 tracks).
