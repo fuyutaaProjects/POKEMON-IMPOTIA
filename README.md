@@ -4,7 +4,7 @@
 ![logo](Logo.png)
 ![visual](PortAvalon.png)
 
-###Regardez le [TEASER - POKEMON IMPOTIA](http://www.youtube.com/watch?v=XWo_kZPxQcg).
+Regardez le [TEASER - POKEMON IMPOTIA](http://www.youtube.com/watch?v=XWo_kZPxQcg).
 ---
 **Pokédex available [here](https://pokemon-impotia.github.io/) !**
 
