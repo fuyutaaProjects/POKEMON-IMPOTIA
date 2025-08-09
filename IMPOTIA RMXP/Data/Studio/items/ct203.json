@@ -1,7 +1,4 @@
 {
-  "isHm": false,
-  "move": "feint_attack",
-  "klass": "TechItem",
   "id": 777,
   "dbSymbol": "ct203",
   "icon": "331",
@@ -12,5 +9,9 @@
   "isMapUsable": false,
   "isLimited": false,
   "isHoldable": false,
-  "flingPower": 30
+  "flingPower": 30,
+  "klass": "TechItem",
+  "isHm": false,
+  "move": "feint_attack",
+  "isAllowingMega": false
 }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.10" tiledversion="1.11.2" name="terrain basics v2" tilewidth="32" tileheight="32" tilecount="5766" columns="62">
+<tileset version="1.10" tiledversion="1.10.2" name="terrain basics v2" tilewidth="32" tileheight="32" tilecount="5766" columns="62">
  <image source="../Assets/terrain_basics_v2.png" width="2000" height="3000"/>
  <wangsets>
   <wangset name="paths" type="corner" tile="-1">
@@ -16,6 +16,7 @@
    <wangcolor name="pure light grass path" color="#b4a8ff" tile="-1" probability="1"/>
    <wangcolor name="pure mid grass path" color="#96ffa7" tile="-1" probability="1"/>
    <wangcolor name="passage carpia floor" color="#8e7848" tile="-1" probability="1"/>
+   <wangcolor name="newgrass path" color="#5a5a5a" tile="-1" probability="1"/>
    <wangtile tileid="190" wangid="0,3,0,3,0,3,0,3"/>
    <wangtile tileid="252" wangid="0,8,0,8,0,8,0,8"/>
    <wangtile tileid="310" wangid="0,0,0,8,0,0,0,0"/>
@@ -214,18 +215,35 @@
    <wangtile tileid="3350" wangid="0,0,0,12,0,12,0,0"/>
    <wangtile tileid="3351" wangid="0,0,0,0,0,12,0,0"/>
    <wangtile tileid="3352" wangid="0,12,0,12,0,12,0,12"/>
+   <wangtile tileid="3354" wangid="0,0,0,14,0,0,0,0"/>
+   <wangtile tileid="3355" wangid="0,0,0,14,0,14,0,0"/>
+   <wangtile tileid="3356" wangid="0,0,0,14,0,14,0,0"/>
+   <wangtile tileid="3357" wangid="0,0,0,0,0,14,0,0"/>
+   <wangtile tileid="3358" wangid="0,14,0,14,0,14,0,14"/>
    <wangtile tileid="3410" wangid="0,12,0,12,0,0,0,0"/>
    <wangtile tileid="3411" wangid="0,12,0,0,0,12,0,12"/>
    <wangtile tileid="3412" wangid="0,12,0,12,0,0,0,12"/>
    <wangtile tileid="3413" wangid="0,0,0,0,0,12,0,12"/>
+   <wangtile tileid="3416" wangid="0,14,0,14,0,0,0,0"/>
+   <wangtile tileid="3417" wangid="0,14,0,0,0,14,0,14"/>
+   <wangtile tileid="3418" wangid="0,14,0,14,0,0,0,14"/>
+   <wangtile tileid="3419" wangid="0,0,0,0,0,14,0,14"/>
    <wangtile tileid="3472" wangid="0,12,0,12,0,0,0,0"/>
    <wangtile tileid="3473" wangid="0,0,0,12,0,12,0,12"/>
    <wangtile tileid="3474" wangid="0,12,0,12,0,12,0,0"/>
    <wangtile tileid="3475" wangid="0,0,0,0,0,12,0,12"/>
+   <wangtile tileid="3478" wangid="0,14,0,14,0,0,0,0"/>
+   <wangtile tileid="3479" wangid="0,0,0,14,0,14,0,14"/>
+   <wangtile tileid="3480" wangid="0,14,0,14,0,14,0,0"/>
+   <wangtile tileid="3481" wangid="0,0,0,0,0,14,0,14"/>
    <wangtile tileid="3534" wangid="0,12,0,0,0,0,0,0"/>
    <wangtile tileid="3535" wangid="0,12,0,0,0,0,0,12"/>
    <wangtile tileid="3536" wangid="0,12,0,0,0,0,0,12"/>
    <wangtile tileid="3537" wangid="0,0,0,0,0,0,0,12"/>
+   <wangtile tileid="3540" wangid="0,14,0,0,0,0,0,0"/>
+   <wangtile tileid="3541" wangid="0,14,0,0,0,0,0,14"/>
+   <wangtile tileid="3542" wangid="0,14,0,0,0,0,0,14"/>
+   <wangtile tileid="3543" wangid="0,0,0,0,0,0,0,14"/>
    <wangtile tileid="3844" wangid="0,0,0,13,0,0,0,0"/>
    <wangtile tileid="3845" wangid="0,0,0,13,0,13,0,0"/>
    <wangtile tileid="3846" wangid="0,0,0,13,0,13,0,0"/>

@@ -1,0 +1,524 @@
+--- !ruby/object:RPG::Map
+tileset_id: 88
+width: 15
+height: 15
+autoplay_bgm: true
+bgm: !ruby/object:RPG::AudioFile
+  name: gate
+  volume: 100
+  pitch: 100
+autoplay_bgs: false
+bgs: !ruby/object:RPG::AudioFile
+  name: ''
+  volume: 100
+  pitch: 100
+encounter_list: []
+encounter_step: 30
+data: !ruby/object:Table
+  data: |
+    init 15 15 3
+    z = 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 384 386 387 388 0 0 0 0 0 0 0
+    0 0 0 389 390 392 392 390 389 0 0 0 0 0 0
+    0 0 0 389 392 392 392 392 389 0 0 0 0 0 0
+    0 0 0 389 390 392 392 390 389 0 0 0 0 0 0
+    0 0 0 389 390 392 392 390 389 0 0 0 0 0 0
+    0 0 0 389 390 392 392 390 389 0 0 0 0 0 0
+    0 0 0 389 392 392 392 392 389 0 0 0 0 0 0
+    0 0 0 389 392 392 392 392 389 0 0 0 0 0 0
+    0 0 0 389 392 392 392 392 389 0 0 0 399 399 399
+    0 0 0 389 390 392 392 390 389 0 399 399 0 0 0
+    399 399 399 399 400 401 402 403 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    z = 1
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 385 0 0 385 0 0 0 0 0 0 0
+    0 0 0 0 391 0 0 391 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 393 0 0 394 0 0 0 0 0 0 0
+    0 0 0 0 395 0 0 396 0 0 0 0 0 0 0
+    0 0 0 0 397 0 0 398 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 385 0 0 385 0 0 0 0 0 0 0
+    0 0 0 0 391 0 0 391 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    z = 2
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+events:
+  1: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          RGlzYWJsaW5nIHRoZSBmb2xsb3dlciBQb2vDqW1vbiBpZiB0aGlzIG9wdGlvbiB3YXMgYWN0aXZhdGVk
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Yuki::FollowMe.smart_disable
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:RPG::AudioFile
+          name: door_exit
+          volume: 80
+          pitch: 100
+        indent: 0
+        code: 250
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 221
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: -255
+          green: -255
+          blue: -255
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 1
+        - 30
+        - 51
+        - 0
+        - 1
+        indent: 0
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: 0
+          green: 0
+          blue: 0
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: true
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 31
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 35
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 39
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 1
+      step_anime: true
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: true
+      walk_anime: false
+      move_speed: 2
+      through: false
+    name: !binary |-
+      wqcgZXhpdCBkb29y
+    y: 3
+    x: 6
+    id: 1
+  2: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          RGlzYWJsaW5nIHRoZSBmb2xsb3dlciBQb2vDqW1vbiBpZiB0aGlzIG9wdGlvbiB3YXMgYWN0aXZhdGVk
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Yuki::FollowMe.smart_disable
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:RPG::AudioFile
+          name: door_exit
+          volume: 80
+          pitch: 100
+        indent: 0
+        code: 250
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 221
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: -255
+          green: -255
+          blue: -255
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 1
+        - 29
+        - 51
+        - 0
+        - 1
+        indent: 0
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: 0
+          green: 0
+          blue: 0
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: true
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 31
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 35
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 39
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 1
+      step_anime: true
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: true
+      walk_anime: false
+      move_speed: 2
+      through: false
+    name: !binary |-
+      wqcgZXhpdCBkb29y
+    y: 3
+    x: 5
+    id: 2
+  3: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          RGlzYWJsaW5nIHRoZSBmb2xsb3dlciBQb2vDqW1vbiBpZiB0aGlzIG9wdGlvbiB3YXMgYWN0aXZhdGVk
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Yuki::FollowMe.smart_disable
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:RPG::AudioFile
+          name: door_exit
+          volume: 80
+          pitch: 100
+        indent: 0
+        code: 250
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 221
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: -255
+          green: -255
+          blue: -255
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 62
+        - 29
+        - 4
+        - 0
+        - 1
+        indent: 0
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: 0
+          green: 0
+          blue: 0
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: true
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 31
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 35
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 39
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 1
+      step_anime: true
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: true
+      walk_anime: false
+      move_speed: 2
+      through: false
+    name: !binary |-
+      wqcgZXhpdCBkb29y
+    y: 13
+    x: 5
+    id: 3
+  4: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          RGlzYWJsaW5nIHRoZSBmb2xsb3dlciBQb2vDqW1vbiBpZiB0aGlzIG9wdGlvbiB3YXMgYWN0aXZhdGVk
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Yuki::FollowMe.smart_disable
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:RPG::AudioFile
+          name: door_exit
+          volume: 80
+          pitch: 100
+        indent: 0
+        code: 250
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 221
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: -255
+          green: -255
+          blue: -255
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 62
+        - 30
+        - 4
+        - 0
+        - 1
+        indent: 0
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: 0
+          green: 0
+          blue: 0
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: true
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 31
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 35
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 39
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 1
+      step_anime: true
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: true
+      walk_anime: false
+      move_speed: 2
+      through: false
+    name: !binary |-
+      wqcgZXhpdCBkb29y
+    y: 13
+    x: 6
+    id: 4

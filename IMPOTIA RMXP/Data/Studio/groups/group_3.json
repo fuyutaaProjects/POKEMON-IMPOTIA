@@ -5,8 +5,6 @@
   "systemTag": "Ocean",
   "terrainTag": 0,
   "tool": null,
-  "isDoubleBattle": false,
-  "isHordeBattle": false,
   "customConditions": [],
   "encounters": [
     {
@@ -136,5 +134,6 @@
       ]
     }
   ],
-  "stepsAverage": 0
+  "stepsAverage": 0,
+  "vsType": "simple"
 }

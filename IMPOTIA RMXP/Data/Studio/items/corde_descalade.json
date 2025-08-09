@@ -1,6 +1,4 @@
 {
-  "eventId": 1,
-  "klass": "EventItem",
   "id": 789,
   "dbSymbol": "corde_descalade",
   "icon": "799",
@@ -11,5 +9,8 @@
   "isMapUsable": false,
   "isLimited": false,
   "isHoldable": false,
-  "flingPower": 30
+  "flingPower": 30,
+  "klass": "EventItem",
+  "eventId": 1,
+  "isAllowingMega": false
 }

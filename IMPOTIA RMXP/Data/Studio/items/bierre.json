@@ -1,6 +1,4 @@
 {
-  "loyaltyMalus": -2,
-  "klass": "HealingItem",
   "id": 130,
   "dbSymbol": "bierre",
   "icon": "795",
@@ -11,5 +9,8 @@
   "isMapUsable": true,
   "isLimited": true,
   "isHoldable": true,
-  "flingPower": 30
+  "flingPower": 30,
+  "klass": "HealingItem",
+  "loyaltyMalus": -2,
+  "isAllowingMega": false
 }

@@ -1,7 +1,4 @@
 {
-  "isHm": false,
-  "move": "splash",
-  "klass": "TechItem",
   "id": 781,
   "dbSymbol": "ct207",
   "icon": "331",
@@ -12,5 +9,9 @@
   "isMapUsable": false,
   "isLimited": false,
   "isHoldable": false,
-  "flingPower": 30
+  "flingPower": 30,
+  "klass": "TechItem",
+  "isHm": false,
+  "move": "splash",
+  "isAllowingMega": false
 }

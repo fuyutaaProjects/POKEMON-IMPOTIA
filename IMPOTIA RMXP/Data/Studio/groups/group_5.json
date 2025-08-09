@@ -5,13 +5,11 @@
   "systemTag": "Custom_underwater_grass",
   "terrainTag": 0,
   "tool": null,
-  "isDoubleBattle": false,
-  "isHordeBattle": false,
   "customConditions": [
     {
       "type": "mapId",
-      "relationWithPreviousCondition": "AND",
-      "value": 46
+      "value": 46,
+      "relationWithPreviousCondition": "AND"
     }
   ],
   "encounters": [
@@ -184,5 +182,6 @@
       ]
     }
   ],
-  "stepsAverage": 7
+  "stepsAverage": 7,
+  "vsType": "simple"
 }

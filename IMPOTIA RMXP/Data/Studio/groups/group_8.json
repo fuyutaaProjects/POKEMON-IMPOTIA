@@ -5,8 +5,6 @@
   "systemTag": "Custom_mesa_sand_grass",
   "terrainTag": 0,
   "tool": null,
-  "isDoubleBattle": false,
-  "isHordeBattle": false,
   "customConditions": [
     {
       "type": "mapId",
@@ -142,5 +140,6 @@
       ]
     }
   ],
-  "stepsAverage": 7
+  "stepsAverage": 7,
+  "vsType": "simple"
 }

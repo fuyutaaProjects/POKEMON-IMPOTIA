@@ -5,13 +5,11 @@
   "systemTag": "Grass",
   "terrainTag": 0,
   "tool": null,
-  "isDoubleBattle": false,
-  "isHordeBattle": false,
   "customConditions": [
     {
       "type": "mapId",
-      "relationWithPreviousCondition": "AND",
-      "value": 42
+      "value": 42,
+      "relationWithPreviousCondition": "AND"
     }
   ],
   "encounters": [
@@ -226,5 +224,6 @@
       ]
     }
   ],
-  "stepsAverage": 0
+  "stepsAverage": 0,
+  "vsType": "simple"
 }

@@ -112,11 +112,11 @@ variables:
 - "--- Reserved"
 - Suie
 - Pathfinding_cross_map
+- elevator floor
 - ''
 - ''
 - ''
-- ''
-- ''
+- pokemon/curseur
 - ''
 - ''
 - ''
@@ -138,8 +138,8 @@ variables:
 - NEWS_TV_EVENT
 - chosen_starter
 - jd_won_starter_battle
-- ''
-- ''
+- etage_ascenceur
+- TMP_Impotia
 - ''
 - ''
 - ''
@@ -518,7 +518,7 @@ escape_se: !ruby/object:RPG::AudioFile
   name: Fleee
   volume: 80
   pitch: 70
-magic_number: 39078154
+magic_number: 1345721
 gameover_name: ''
 shop_se: !ruby/object:RPG::AudioFile
   name: Down
@@ -639,85 +639,87 @@ switches:
   UG9rw6lkZXggZW5hYmxlZA==
 - !binary |-
   Um9jaGVyIGJyaXPDqQ==
-- Evoli ajouté
-- Songita rencontrable
+- !binary |-
+  RXZvbGkgYWpvdXTDqQ==
+- Mew rencontrable
 - Jumelles battues
 - test_path_crossmap
 - WATCHING_THE_NEWS_INTRO
 - Momtalk_after_dad_bodypillow
 - jd_alabourre
 - trainerbackpackexist
-- readyToReceivePkm
-- rtrp2
-- rtrp3
+- player_got_starter
+- t_cactusevent_oasisville
+- leaving_map
 - starters_bag_exists
-- got starter jd is challenging
-- starters_bag_exists
+- afficher_images
+- curseurs_animes
 - jd_still_at_oasisville
 - cactus_at_oasisville
-- trigger_cactus_oasisville
-- vsjd avant pa
-- vsjd av pa not won battle
+- jd_at_route_1
+- choix_pkm_fini
+- jd_force_positionned
 - poissonPasFraisNPC
 - poissonierFollowNPC
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
+- alvis_appears_bar_avalons
+- alvis_at_bar
+- alvis_at_quai
+- brigandu_2
+- p_end_underwater_cave
+- toptile_underw_end
+- alvis_arrives_endunderwater
+- echan1_uderwater
+- echan2_uderwater
+- echan3_uderwater
+- brigands_caught_officer
+- alvis_merci_flic
+- pagym_boat1_left
+- pagym_boat1_right
+- pagym_boat2_left
+- pagym_boat2_right
+- just_defeated_alvis
+- alvis_not_at_gym
+- tn_pa_propaganda
+- alvis_interrupts_tn_pa
+- tn_pa_propaganda_flee
+- tn_pa_prop_runners
+- tn_prop_trainers_r2
+- alvisnplayer_vs_etnr2
+- marinbateauporthere
+- marinbateauport
+- clientpoisson_a_fuit
+- oasisevent_moveplayer
+- oasisevent_movingjd
+- cartons_bloque_le_port
+- tnpa_ceux_qui_partent
+- after_r2_alvisETmaire
+- tnpa_sur_route_2
+- transport_marin_unlocked
+- mermesa_unlocked
+- temporis_unlocked
+- lumi_unlocked
+- musee_heist_mode
+- cops_can_move
+- museum_robbed
+- rochthermes_brigands
+- verdentia_cops_here
+- yacine_and_bapt_plan
+- verdentia_go_to_building_with_yacin
+- door_tp_to_hidden_entrance
+- after_wsfr_raid_reveil_avec_wsfr_moira
+- wsfr_pokeball_seller
+- !binary |-
+  dmVyZGVudMOuYV9pbnRybw==
+- after_heist_merci
+- pass_lumi_acquired
+- colis_wsfr_1_delivered
+- colis_wsfr_1_quest_still_active
+- temporis_unlocked
+- partition_placed
+- roche_placed
+- corde_placed
+- carnet_placed
+- yvar_defeated
 - ''
 - ''
 - ''
@@ -1067,7 +1069,7 @@ battle_start_se: !ruby/object:RPG::AudioFile
   name: ''
   volume: 80
   pitch: 100
-edit_map_id: 46
+edit_map_id: 89
 title_name: ''
 equip_se: !ruby/object:RPG::AudioFile
   name: ''
@@ -1085,6 +1087,7 @@ enemy_collapse_se: !ruby/object:RPG::AudioFile
   name: ''
   volume: 80
   pitch: 100
+_: 7829367
 title_bgm: !ruby/object:RPG::AudioFile
   name: PkmRS-Oceanic
   volume: 100
@@ -1127,4 +1130,3 @@ save_se: !ruby/object:RPG::AudioFile
   volume: 80
   pitch: 150
 battler_name: battler
-_: 7829367

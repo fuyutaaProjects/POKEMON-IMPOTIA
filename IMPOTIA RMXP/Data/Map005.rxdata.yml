@@ -1,70 +1,130 @@
 --- !ruby/object:RPG::Map
-tileset_id: 7
-width: 20
-height: 15
-autoplay_bgm: true
+tileset_id: 58
+width: 35
+height: 35
+autoplay_bgm: false
 bgm: !ruby/object:RPG::AudioFile
-  name: 24 Pokemon Center
-  volume: 80
+  name: ''
+  volume: 100
   pitch: 100
 autoplay_bgs: false
 bgs: !ruby/object:RPG::AudioFile
   name: ''
-  volume: 80
+  volume: 100
   pitch: 100
 encounter_list: []
-encounter_step: 30
+encounter_step: 7
 data: !ruby/object:Table
   data: |
-    init 20 15 3
+    init 35 35 3
     z = 0
-    640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640
-    640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640
-    640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640
-    640 640 640 640 640 640 675 675 675 675 675 675 675 675 675 640 640 640 640 640
-    640 640 640 640 640 640 683 683 683 683 683 683 683 683 683 640 640 640 640 640
-    640 640 640 640 640 642 657 648 648 648 648 648 648 648 656 642 640 640 640 640
-    640 640 640 640 640 665 641 641 641 641 641 641 641 641 641 664 640 640 640 640
-    640 640 640 640 640 641 641 641 641 641 641 641 641 641 641 641 640 640 640 640
-    640 640 640 640 640 641 641 641 641 641 641 641 641 641 641 641 640 640 640 640
-    640 640 640 640 640 641 641 641 641 641 641 641 641 641 641 641 640 640 640 640
-    640 640 640 640 640 641 641 641 641 641 641 641 641 641 641 641 640 640 640 640
-    640 640 640 640 640 641 641 641 641 641 641 641 641 641 641 641 640 640 640 640
-    640 640 640 640 640 641 641 641 641 641 641 641 641 641 641 641 640 640 640 640
-    640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640
-    640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640 640
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 384 385 386 387 388 389 390 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 391 384 392 393 394 389 0 0 0 0 0 0
+    0 395 396 397 398 399 400 401 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 402 395 403 405 407 400 0 0 0 0 0 0
+    0 409 410 411 412 413 414 415 392 393 394 392 393 394 392 393 394 392 393 394 392 393 394 416 409 417 419 421 414 0 0 0 0 0 0
+    0 423 424 425 426 427 428 429 430 431 432 430 431 432 403 405 407 430 431 432 430 431 432 436 423 437 439 441 428 0 0 0 0 0 0
+    0 443 446 447 446 447 448 443 448 443 448 443 448 443 448 443 448 443 448 443 448 443 448 443 448 447 446 447 448 467 0 0 0 0 0
+    467 468 470 471 470 471 470 468 473 468 473 468 473 468 473 468 473 468 473 468 473 468 473 468 470 471 470 471 473 467 0 0 0 0 0
+    467 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 467 0 0 0 0 0
+    467 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 467 0 0 0 0 0
+    467 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 447 446 467 0 0 0 0 0
+    467 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 471 470 467 0 0 0 0 0
+    467 443 446 447 446 447 446 447 446 447 446 443 446 447 446 447 446 447 448 447 446 447 446 447 446 447 446 447 448 467 0 0 0 0 0
+    0 467 467 467 467 467 467 467 467 467 467 467 470 471 473 468 473 471 467 467 467 467 467 467 467 467 467 467 467 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 467 446 447 448 443 448 447 467 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 467 473 468 473 468 473 471 467 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 467 446 443 448 443 448 443 467 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 467 470 468 473 468 473 468 467 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 467 446 504 448 443 448 447 467 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 467 473 468 473 468 473 471 467 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 467 448 443 448 443 448 447 467 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 467 473 471 470 471 470 468 467 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 467 467 513 513 467 467 467 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 467 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     z = 1
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 674 0 0 0 0 0 0 0 0 0 676 0 0 0 0
-    0 0 0 0 0 682 0 680 694 695 0 0 681 0 0 684 0 0 0 0
-    0 0 0 0 0 690 569 688 702 703 0 0 689 655 569 692 0 0 0 0
-    0 0 0 0 0 0 0 696 710 711 0 0 689 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 706 707 708 705 707 709 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 714 715 716 716 715 717 0 450 0 0 0 0 0
-    0 0 0 0 0 726 727 0 0 0 0 0 450 488 489 0 0 0 0 0
-    0 0 0 0 0 734 735 0 0 0 0 0 450 496 497 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 569 0 0 0 540 541 542 0 0 0 569 0 0 0 0
-    0 0 0 0 0 0 0 0 0 548 549 543 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 404 406 408 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 418 420 422 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 433 434 435 0 0 0 0 0 0 0 0 438 440 442 0 0 0 0 0 0 0
+    0 444 0 0 0 0 449 450 417 419 421 417 419 421 417 419 421 417 419 421 417 419 421 466 444 0 0 0 449 0 0 0 0 0 0
+    0 469 0 0 0 0 0 472 474 475 476 474 475 476 437 439 441 474 475 476 474 475 476 480 0 0 0 0 469 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 445 0 0 0 0 0 0 0 0 0 445 0 0 0 0 0 0 445 0 0 0 0 0 0 0 0 0 445 0 0 0 0 0 0
+    0 469 0 0 0 0 0 0 0 0 0 469 0 0 0 0 0 0 469 0 0 0 0 0 0 0 0 0 469 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 481 482 483 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 484 485 486 487 488 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 489 490 486 487 488 493 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 494 495 487 497 499 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 494 495 487 497 502 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 503 505 486 487 488 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 506 507 486 487 488 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 508 509 510 511 512 445 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 469 0 0 0 0 469 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 514 515 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     z = 2
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 561 0 0 0 0 663 0 647 561 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 671 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 699 699 699 699 679 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 480 481 0 0 0 0 0
-    0 0 0 0 0 742 743 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 750 751 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 561 0 0 0 0 0 0 0 0 0 561 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 445 0 0 0 0 0 0 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 0 0 0 0 0 445 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 477 478 479 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 491 0 492 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 496 0 498 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 501 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 445 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 events:
   1: !ruby/object:RPG::Event
     pages:
@@ -73,1325 +133,62 @@ events:
       list:
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 4
-        indent: 0
-        code: 117
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
-      move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
-        list:
-        - !ruby/object:RPG::MoveCommand
-          code: 0
-          parameters: []
-      trigger: 0
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: joelle_hgss
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
-      move_speed: 3
-      through: false
-    name: Joelle
-    y: 6
-    x: 10
-    id: 1
-  10: !ruby/object:RPG::Event
-    pages:
-    - !ruby/object:RPG::Event::Page
-      move_type: 0
-      list:
-      - !ruby/object:RPG::EventCommand
-        parameters:
         - !binary |-
-          MSwgOCBcQ1syXUlzYWFjIGxlIFNjaWVudGlmaXF1ZSA6XENbMF0gQm9uam91ciAhIEwnYXBwYXJlaWwgcXVlIHR1IHZvaXMgw6AgbWEgZHJvaXRlIGVzdCB1biBPcmRpbmF0ZXVyIGRlIFN0b2NrYWdlIFBva8OpbW9uLiBJbCB0ZSBwZXJtZXQsIGNvbW1lIHNvbiBub20gbCdpbmRpcXVlLCBkZSBnw6lyZXIgbGVzIFBva8OpbW9uIHF1ZSB0dSBwb3Nzw6hkZXMgZW4gbGVzIHJhbmdlYW50IGRhbnMgZGVzIGJvw650ZXMuIExvcnNxdWUgdHUgcG9zc8OoZGVzIGTDqWrDoCA2IFBva8OpbW9uIGRhbnMgdG9uIMOpcXVpcGUsIGxlIGRlcm5pZXIgUG9rw6ltb24gY2FwdHVyw6kgZXN0IGRpcmVjdGVtZW50IGVudm95w6kgZGFucyBsJ09yZGluYXRldXIu
+          RGlzYWJsaW5nIHRoZSBmb2xsb3dlciBQb2vDqW1vbiBpZiB0aGlzIG9wdGlvbiB3YXMgYWN0aXZhdGVk
         indent: 0
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1, 9 \C[2]Isaac le Scientifique :\C[0] Veux-tu en apprendre plus ?
-        indent: 0
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - - 0, 2 Oui
-          - 0, 3 Non
-        - 2
-        indent: 0
-        code: 102
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - 0, 2 Oui
-        indent: 0
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - Choix infos
-        indent: 1
-        code: 118
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          MSwgMTAgXENbMl1Jc2FhYyBsZSBTY2llbnRpZmlxdWUgOlxDWzBdIMOAIHF1ZWwgc3VqZXQgPw==
-        indent: 1
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - - !binary |-
-            MSwgMTEgU3RvY2thZ2UgZCd1biBQb2vDqW1vbg==
-          - !binary |-
-            MSwgMTIgR8OpbsOpcmF0aW9uIGQndW4gUG9rw6ltb24gcGFyYW3DqXRyw6k=
-        - 2
-        indent: 1
-        code: 102
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - !binary |-
-          MSwgMTEgU3RvY2thZ2UgZCd1biBQb2vDqW1vbg==
-        indent: 1
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          MSwgMTMgXENbMl1Jc2FhYyBsZSBTY2llbnRpZmlxdWUgOlxDWzBdIFBvdXIgc3RvY2tlciB1biBQb2vDqW1vbiwgaWwgZmF1dCB1dGlsaXNlciBsYSBjb21tYW5kZSAic3RvY2tlcl9wb2tlbW9uKHBva2Vtb25fb3JfaWQsIGxldmVsLCBzaGlueSkiLiBDb21tZSB0dSBwZXV4IGxlIHZvaXIsIG9uIHBldXQgc3RvY2tlciB1biBQb2vDqW1vbiBlbiBsZSBnw6luw6lyYW50IGF2ZWMgc29uIGlkLCBvdSBzdG9ja2VyIHVuIFBva8OpbW9uIGTDqWrDoCBnw6luw6lyw6kuIERhbnMgY2UgY2FzLCBpbCBuJ2VzdCBwYXMgdXRpbGUgZGUgcmVtcGxpciAibGV2ZWwiIGV0ICJzaGlueSIu
-        indent: 2
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          R8OpbsOpcmF0aW9uIGV0IHN0b2NrYWdlIGQndW4gUG9rw6ltb24gcGFyYW3DqXRyw6kgOg==
-        indent: 2
         code: 108
       - !ruby/object:RPG::EventCommand
         parameters:
-        - pokemon = ::PFM::Pokemon.generate_from_hash({:id=>133, :level=>25, :gender=>1,
-          :ability=>102})
-        indent: 2
-        code: 408
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - stocker_pokemon(pokemon)
-        indent: 2
-        code: 408
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          MSwgMTQgXENbMl1Jc2FhYyBsZSBTY2llbnRpZmlxdWUgOlxDWzBdIETDqXNpcmVzLXR1IHNhdm9pciBhdXRyZSBjaG9zZSA/
-        indent: 2
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - - 0, 2 Oui
-          - 0, 3 Non
-        - 2
-        indent: 2
-        code: 102
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - 0, 2 Oui
-        indent: 2
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - Choix infos
-        indent: 3
-        code: 119
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 3
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - 0, 3 Non
-        indent: 2
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - Fin event
-        indent: 3
-        code: 119
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 3
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 2
-        code: 404
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 2
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - !binary |-
-          MSwgMTIgR8OpbsOpcmF0aW9uIGQndW4gUG9rw6ltb24gcGFyYW3DqXRyw6k=
-        indent: 1
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          MSwgMTUgXENbMl1Jc2FhYyBsZSBTY2llbnRpZmlxdWUgOlxDWzBdIFBvdXIgZ8OpbsOpcmVyIHVuIFBva8OpbW9uIHBhcmFtw6l0csOpLCBpbCBmYXV0IHV0aWxpc2VyIGxhIGNvbW1hbmRlICI6OlBGTTo6UG9rZW1vbi5nZW5lcmF0ZV9mcm9tX2hhc2goKSIuIFBhciBleGVtcGxlLCBzaSBqZSB2ZXV4IGNyw6llciB1biDDiXZvbGkgcGFyYW3DqXRyw6ksIGplIHJlbnRyZSBkYW5zIHVuZSBjb21tYW5kZSBkZSBzY3JpcHQgOiAiOjpQRk06OlBva2Vtb24uZ2VuZXJhdGVfZnJvbV9oYXNoKHs6aWQ9PjEzMywgOmxldmVsPT4yNSwgOmdlbmRlcj0+MSwgOmFiaWxpdHk9PjEwMn0pIi4gSmUgZ8OpbsOocmUgYWxvcnMgdW4gw4l2b2xpIGRlIG5pdmVhdSAyNSwgZmVtZWxsZSwgYXZlYyBsZSBUYWxlbnQgQW50aWNpcGF0aW9uLiBMaWJyZSDDoCBtb2kgZW5zdWl0ZSBkZSBsJ2Fqb3V0ZXIgw6AgbCfDqXF1aXBlIGR1IGpvdWV1ciBhdmVjICJham91dGVyX3Bva2Vtb24ocG9rZW1vbikiIHVuIGZvaXMgcXVlIGonYWkgc3RvY2vDqSBjZSBkZXJuaWVyIGRhbnMgdW5lIHZhcmlhYmxlIChpY2kgInBva2Vtb24iKS4=
-        indent: 2
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          R8OpbsOpcmF0aW9uIGV0IGFqb3V0IMOgIGwnw6lxdWlwZSBkJ3VuIFBva8OpbW9uIHBhcmFtw6l0csOpIDo=
-        indent: 2
-        code: 108
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - pokemon = ::PFM::Pokemon.generate_from_hash({:id=>133, :level=>25, :gender=>1,
-          :ability=>102})
-        indent: 2
-        code: 408
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - ajouter_pokemon(pokemon)
-        indent: 2
-        code: 408
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          MSwgMTQgXENbMl1Jc2FhYyBsZSBTY2llbnRpZmlxdWUgOlxDWzBdIETDqXNpcmVzLXR1IHNhdm9pciBhdXRyZSBjaG9zZSA/
-        indent: 2
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - - 0, 2 Oui
-          - 0, 3 Non
-        - 2
-        indent: 2
-        code: 102
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - 0, 2 Oui
-        indent: 2
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - Choix infos
-        indent: 3
-        code: 119
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 3
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - 0, 3 Non
-        indent: 2
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - Fin event
-        indent: 3
-        code: 119
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 3
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 2
-        code: 404
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 2
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 404
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - 0, 3 Non
+        - Yuki::FollowMe.smart_disable
         indent: 0
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 404
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - Fin event
-        indent: 0
-        code: 118
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - 102
-        - 1
-        indent: 0
-        code: 111
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - pokemon = ::PFM::Pokemon.generate_from_hash({:id=>133, :level=>25, :gender=>1,
-          :ability=>102})
-        indent: 1
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - stocker_pokemon(pokemon)
-        indent: 1
-        code: 655
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          MSwgMTYgXENbMl1Jc2FhYyBsZSBTY2llbnRpZmlxdWUgOlxDWzBdIEonYWkgYWpvdXTDqSB1biDDiXZvbGkgbml2ZWF1IDI1IGRpcmVjdGVtZW50IGRhbnMgdG9uIFBDLiBWYSB2w6lyaWZpZXIgIQ==
-        indent: 1
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 102
-        - 102
-        - 0
-        indent: 1
-        code: 121
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 411
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 412
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
-      move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
-        list:
-        - !ruby/object:RPG::MoveCommand
-          code: 0
-          parameters: []
-      trigger: 0
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: security_chief_walk
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
-      move_speed: 3
-      through: false
-    name: Tuto Stockage Pokemon
-    y: 0
-    x: 0
-    id: 10
-  11: !ruby/object:RPG::Event
-    pages:
-    - !ruby/object:RPG::Event::Page
-      move_type: 0
-      list:
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - "\\c[1]Traing\\c[0] : Je ne pensais pas te voir ici dis-donc !"
-        indent: 0
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          QWxvcnMgY29tbWUgw6dhIG9uIHRlc3QgbGVzIGxlIHN5c3TDqG1lIGRlIGNvbWJhdCA/
-        indent: 0
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          VHUgdmV1eCBxdWUgamUgdGUgY2hhcmdlIGxlcyDDqXF1aXBlcyBtb2RpZmnDqXMgdmlh
-        indent: 0
-        code: 401
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - Ruby Host ?
-        indent: 0
-        code: 401
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - - Oui
-          - Non
-        - 2
-        indent: 0
-        code: 102
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - Oui
-        indent: 0
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - $game_data_teams=load_data("Data/PSDK/Teams.rxdata")
-        indent: 1
-        code: 355
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - "$actors.clear"
-        indent: 1
-        code: 655
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - "$game_data_teams[1][0].each do |i|"
-        indent: 1
-        code: 655
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - "  $actors<<PFM::Pokemon.generate_from_hash(i)"
-        indent: 1
-        code: 655
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - end
-        indent: 1
-        code: 655
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          VHLDqHMgYmllbiwgYydlc3QgZmFpdCAh
-        indent: 1
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - Non
-        indent: 0
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 404
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - Veux-tu te battre contre moi ?
-        indent: 0
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - - Oui
-          - Non
-        - 2
-        indent: 0
-        code: 102
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - Oui
-        indent: 0
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - Super !
-        indent: 1
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          Q2V0dGUgZm9pcywgdMOiY2hlcyBkZSBuZSBwYXMgYnVnLWV4cGxvaXQgcG91ciBtZSA=
-        indent: 1
-        code: 401
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          dm9sZXIgbWVzIGzDqWdlbmRhaXJlICE=
-        indent: 1
-        code: 401
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 5
-        indent: 1
-        code: 106
-      - !ruby/object:RPG::EventCommand
-        parameters:
         - !ruby/object:RPG::AudioFile
-          name: XY_Trainer_Battle
-          volume: 100
-          pitch: 100
-        indent: 1
-        code: 132
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 3
-        - false
-        - false
-        indent: 1
-        code: 301
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - Quel combat !
-        indent: 1
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - Non
-        indent: 0
-        code: 402
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          Tidow6lzaXRlcyBwYXMgw6AgcmV2ZW5pci4uLg==
-        indent: 1
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 404
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
-      move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
-        list:
-        - !ruby/object:RPG::MoveCommand
-          code: 0
-          parameters: []
-      trigger: 0
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: frere_1_walk
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
-      move_speed: 3
-      through: false
-    - !ruby/object:RPG::Event::Page
-      move_type: 0
-      list:
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
-      move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
-        list:
-        - !ruby/object:RPG::MoveCommand
-          code: 0
-          parameters: []
-      trigger: 0
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: ''
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
-      move_speed: 3
-      through: false
-    name: !binary |-
-      wqdFVjAxMQ==
-    y: 1
-    x: 0
-    id: 11
-  2: !ruby/object:RPG::Event
-    pages:
-    - !ruby/object:RPG::Event::Page
-      move_type: 0
-      list:
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
-      move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
-        list:
-        - !ruby/object:RPG::MoveCommand
-          code: 0
-          parameters: []
-      trigger: 0
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: ''
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: false
-      move_speed: 3
-      through: false
-    - !ruby/object:RPG::Event::Page
-      move_type: 0
-      list:
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - 26
-        - 1
-        - 27
-        - 3
-        indent: 0
-        code: 111
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 27
-        - 27
-        - 1
-        - 0
-        - 2
-        indent: 1
-        code: 122
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !ruby/object:RPG::AudioFile
-          name: Pokemove
+          name: door_exit
           volume: 80
           pitch: 100
-        indent: 1
+        indent: 0
         code: 250
       - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - !ruby/object:RPG::MoveRoute
-          repeat: false
-          skippable: false
-          list:
-          - &1 !ruby/object:RPG::MoveCommand
-            code: 17
-            parameters: []
-          - !ruby/object:RPG::MoveCommand
-            code: 0
-            parameters: []
-        indent: 1
-        code: 209
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *1
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
         parameters: []
         indent: 0
-        code: 412
+        code: 221
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 20
-        indent: 0
-        code: 106
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - 26
-        - 1
-        - 27
-        - 3
-        indent: 0
-        code: 111
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 27
-        - 27
-        - 1
-        - 0
-        - 2
-        indent: 1
-        code: 122
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !ruby/object:RPG::AudioFile
-          name: Pokemove
-          volume: 80
-          pitch: 100
-        indent: 1
-        code: 250
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - !ruby/object:RPG::MoveRoute
-          repeat: false
-          skippable: false
-          list:
-          - &2 !ruby/object:RPG::MoveCommand
-            code: 18
-            parameters: []
-          - !ruby/object:RPG::MoveCommand
-            code: 0
-            parameters: []
-        indent: 1
-        code: 209
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *2
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 412
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 20
-        indent: 0
-        code: 106
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - 26
-        - 1
-        - 27
-        - 3
-        indent: 0
-        code: 111
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 27
-        - 27
-        - 1
-        - 0
-        - 2
-        indent: 1
-        code: 122
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !ruby/object:RPG::AudioFile
-          name: Pokemove
-          volume: 80
-          pitch: 100
-        indent: 1
-        code: 250
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - !ruby/object:RPG::MoveRoute
-          repeat: false
-          skippable: false
-          list:
-          - &3 !ruby/object:RPG::MoveCommand
-            code: 19
-            parameters: []
-          - !ruby/object:RPG::MoveCommand
-            code: 0
-            parameters: []
-        indent: 1
-        code: 209
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *3
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 412
-      - !ruby/object:RPG::EventCommand
-        parameters:
+        - !ruby/object:Tone
+          red: -255
+          green: -255
+          blue: -255
+          gray: 0
         - 10
         indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        indent: 0
         code: 106
       - !ruby/object:RPG::EventCommand
         parameters:
+        - 0
+        - 43
+        - 14
+        - 11
+        - 2
         - 1
-        - 26
-        - 0
-        - 0
-        - 5
         indent: 0
-        code: 111
+        code: 201
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 0
-        - !ruby/object:RPG::MoveRoute
-          repeat: false
-          skippable: false
-          list:
-          - &4 !ruby/object:RPG::MoveCommand
-            code: 33
-            parameters: []
-          - !ruby/object:RPG::MoveCommand
-            code: 0
-            parameters: []
-        indent: 1
-        code: 209
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *4
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 56
-        indent: 1
-        code: 106
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - !ruby/object:RPG::MoveRoute
-          repeat: false
-          skippable: false
-          list:
-          - &5 !ruby/object:RPG::MoveCommand
-            code: 34
-            parameters: []
-          - &6 !ruby/object:RPG::MoveCommand
-            code: 16
-            parameters: []
-          - !ruby/object:RPG::MoveCommand
-            code: 0
-            parameters: []
-        indent: 1
-        code: 209
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *5
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *6
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 412
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 51
-        switch1_valid: true
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
-      move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
-        list:
-        - !ruby/object:RPG::MoveCommand
-          code: 0
-          parameters: []
-      trigger: 4
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: pokeballs on left
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
-      move_speed: 3
-      through: false
-    name: !binary |-
-      wqdNYWNoaW5lbGVmdA==
-    y: 6
-    x: 8
-    id: 2
-  3: !ruby/object:RPG::Event
-    pages:
-    - !ruby/object:RPG::Event::Page
-      move_type: 0
-      list:
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
-      move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
-        list:
-        - !ruby/object:RPG::MoveCommand
-          code: 0
-          parameters: []
-      trigger: 0
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: ''
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
-      move_speed: 3
-      through: false
-    - !ruby/object:RPG::Event::Page
-      move_type: 0
-      list:
-      - !ruby/object:RPG::EventCommand
-        parameters:
+        - !ruby/object:Tone
+          red: 0
+          green: 0
+          blue: 0
+          gray: 0
         - 10
         indent: 0
-        code: 106
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - 26
-        - 1
-        - 28
-        - 3
-        indent: 0
-        code: 111
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 28
-        - 28
-        - 1
-        - 0
-        - 2
-        indent: 1
-        code: 122
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !ruby/object:RPG::AudioFile
-          name: Pokemove
-          volume: 80
-          pitch: 100
-        indent: 1
-        code: 250
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - !ruby/object:RPG::MoveRoute
-          repeat: false
-          skippable: false
-          list:
-          - &7 !ruby/object:RPG::MoveCommand
-            code: 17
-            parameters: []
-          - !ruby/object:RPG::MoveCommand
-            code: 0
-            parameters: []
-        indent: 1
-        code: 209
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *7
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 412
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 20
-        indent: 0
-        code: 106
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - 26
-        - 1
-        - 28
-        - 3
-        indent: 0
-        code: 111
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 28
-        - 28
-        - 1
-        - 0
-        - 2
-        indent: 1
-        code: 122
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !ruby/object:RPG::AudioFile
-          name: Pokemove
-          volume: 80
-          pitch: 100
-        indent: 1
-        code: 250
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - !ruby/object:RPG::MoveRoute
-          repeat: false
-          skippable: false
-          list:
-          - &8 !ruby/object:RPG::MoveCommand
-            code: 18
-            parameters: []
-          - !ruby/object:RPG::MoveCommand
-            code: 0
-            parameters: []
-        indent: 1
-        code: 209
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *8
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 412
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 20
-        indent: 0
-        code: 106
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - 26
-        - 1
-        - 28
-        - 3
-        indent: 0
-        code: 111
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 28
-        - 28
-        - 1
-        - 0
-        - 2
-        indent: 1
-        code: 122
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !ruby/object:RPG::AudioFile
-          name: Pokemove
-          volume: 80
-          pitch: 100
-        indent: 1
-        code: 250
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - !ruby/object:RPG::MoveRoute
-          repeat: false
-          skippable: false
-          list:
-          - &9 !ruby/object:RPG::MoveCommand
-            code: 19
-            parameters: []
-          - !ruby/object:RPG::MoveCommand
-            code: 0
-            parameters: []
-        indent: 1
-        code: 209
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *9
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 412
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !ruby/object:RPG::AudioFile
-          name: ROSA_HealPokemon
-          volume: 100
-          pitch: 100
-        indent: 0
-        code: 249
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 1
-        - 26
-        - 0
-        - 0
-        - 5
-        indent: 0
-        code: 111
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - !ruby/object:RPG::MoveRoute
-          repeat: false
-          skippable: false
-          list:
-          - &10 !ruby/object:RPG::MoveCommand
-            code: 33
-            parameters: []
-          - !ruby/object:RPG::MoveCommand
-            code: 0
-            parameters: []
-        indent: 1
-        code: 209
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *10
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 56
-        indent: 1
-        code: 106
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 0
-        - !ruby/object:RPG::MoveRoute
-          repeat: false
-          skippable: false
-          list:
-          - &11 !ruby/object:RPG::MoveCommand
-            code: 34
-            parameters: []
-          - &12 !ruby/object:RPG::MoveCommand
-            code: 16
-            parameters: []
-          - !ruby/object:RPG::MoveCommand
-            code: 0
-            parameters: []
-        indent: 1
-        code: 209
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *11
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - *12
-        indent: 1
-        code: 509
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 51
-        - 51
-        - 1
-        indent: 1
-        code: 121
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
-        code: 0
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 412
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 51
-        switch1_valid: true
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
-      move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
-        list:
-        - !ruby/object:RPG::MoveCommand
-          code: 0
-          parameters: []
-      trigger: 4
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: pokeballs on right
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
-      move_speed: 3
-      through: false
-    name: !binary |-
-      wqdNYWNoaW5lcmlnaHQ=
-    y: 6
-    x: 9
-    id: 3
-  4: !ruby/object:RPG::Event
-    pages:
-    - !ruby/object:RPG::Event::Page
-      move_type: 0
-      list:
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - !binary |-
-          MSwgNSBMZXMgY2VudHJlcyBQb2vDqW1vbiBzb250IGxlcyBtZWlsbGV1cnMgbGlldXggcG91ciB1biBwZXUgZGUgcmVwb3Mu
-        indent: 0
-        code: 101
+        code: 223
       - !ruby/object:RPG::EventCommand
         parameters: []
         indent: 0
@@ -1406,116 +203,56 @@ events:
         variable_id: 1
         variable_valid: false
         switch2_id: 1
-      direction_fix: false
+      direction_fix: true
       move_route: !ruby/object:RPG::MoveRoute
         repeat: true
         skippable: false
         list:
         - !ruby/object:RPG::MoveCommand
-          code: 0
+          code: 31
           parameters: []
-      trigger: 0
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: frere_1_walk
-        pattern: 0
-        tile_id: 0
-        direction: 6
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
-      move_speed: 3
-      through: false
-    name: EV004
-    y: 9
-    x: 12
-    id: 4
-  5: !ruby/object:RPG::Event
-    pages:
-    - !ruby/object:RPG::Event::Page
-      move_type: 0
-      list:
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - "$game_system.cry_play(1)"
-        indent: 0
-        code: 355
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - "\\t[0,1] !"
-        indent: 0
-        code: 101
-      - !ruby/object:RPG::EventCommand
-        parameters:
-        - 20
-        indent: 0
-        code: 106
-      - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
-        code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
-      move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
-        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 35
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 39
+          parameters: []
         - !ruby/object:RPG::MoveCommand
           code: 0
           parameters: []
-      trigger: 0
+      trigger: 2
       step_anime: true
       move_frequency: 3
       graphic: !ruby/object:RPG::Event::Page::Graphic
         opacity: 255
-        character_name: '001_0'
+        character_name: empty_vide_collider
         pattern: 0
         tile_id: 0
-        direction: 6
+        direction: 2
         blend_type: 0
         character_hue: 0
-      always_on_top: false
+      always_on_top: true
       walk_anime: false
-      move_speed: 3
+      move_speed: 2
       through: false
-    name: EV005
-    y: 10
-    x: 12
-    id: 5
-  6: !ruby/object:RPG::Event
-    pages:
     - !ruby/object:RPG::Event::Page
       move_type: 0
       list:
       - !ruby/object:RPG::EventCommand
         parameters:
-        - !ruby/object:RPG::AudioFile
-          name: computeropen
-          volume: 80
-          pitch: 100
+        - !binary |-
+          RGlzYWJsaW5nIHRoZSBmb2xsb3dlciBQb2vDqW1vbiBpZiB0aGlzIG9wdGlvbiB3YXMgYWN0aXZhdGVk
         indent: 0
-        code: 250
+        code: 108
       - !ruby/object:RPG::EventCommand
         parameters:
-        - demarrer_pc
+        - Yuki::FollowMe.smart_disable
         indent: 0
         code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
         - !ruby/object:RPG::AudioFile
-          name: computerclose
+          name: door_exit
           volume: 80
           pitch: 100
         indent: 0
@@ -1523,12 +260,105 @@ events:
       - !ruby/object:RPG::EventCommand
         parameters: []
         indent: 0
+        code: 221
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: -255
+          green: -255
+          blue: -255
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 163
+        - 163
+        - 0
+        indent: 0
+        code: 121
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 55
+        - 67
+        - 24
+        - 2
+        - 1
+        indent: 0
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 162
+        - 162
+        - 1
+        indent: 0
+        code: 121
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: 0
+          green: 0
+          blue: 0
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
         code: 0
       condition: !ruby/object:RPG::Event::Page::Condition
         switch2_valid: false
         self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
+        switch1_id: 162
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 1
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
         variable_value: 0
         self_switch_valid: false
         variable_id: 1
@@ -1558,66 +388,141 @@ events:
       move_speed: 3
       through: false
     name: !binary |-
-      wqdwY3JpZ2h0
-    y: 5
-    x: 13
-    id: 6
-  9: !ruby/object:RPG::Event
+      wqcgZXhpdCBkb29y
+    y: 29
+    x: 15
+    id: 1
+  10: !ruby/object:RPG::Event
     pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 3
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        - trainer_spotted(10)
+        indent: 0
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - A
+        - 0
+        indent: 1
+        code: 123
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: true
+        self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 161
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 1
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 18
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 15
+          parameters:
+          - 4
+        - !ruby/object:RPG::MoveCommand
+          code: 4
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 18
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 15
+          parameters:
+          - 4
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 4
+      step_anime: false
+      move_frequency: 6
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: police_1_walk
+        pattern: 0
+        tile_id: 0
+        direction: 6
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 2
+      through: false
     - !ruby/object:RPG::Event::Page
       move_type: 0
       list:
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 6
-        - 6
-        - 1
+        - 0
+        - !ruby/object:RPG::MoveRoute
+          repeat: false
+          skippable: true
+          list:
+          - &1 !ruby/object:RPG::MoveCommand
+            code: 25
+            parameters: []
+          - !ruby/object:RPG::MoveCommand
+            code: 0
+            parameters: []
         indent: 0
-        code: 121
+        code: 209
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 47
-        - 47
-        - 0
-        - 7
-        - 0
+        - *1
         indent: 0
-        code: 122
+        code: 509
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 210
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 48
-        - 48
-        - 0
-        - 6
-        - 1
-        - 0
+        - Plus un geste!
         indent: 0
-        code: 122
+        code: 101
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 49
-        - 49
-        - 0
-        - 6
-        - 1
+        - A
         - 1
         indent: 0
-        code: 122
+        code: 123
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 49
-        - 49
-        - 1
-        - 0
-        - 2
+        - 3
         indent: 0
-        code: 122
+        code: 106
       - !ruby/object:RPG::EventCommand
         parameters:
         - 0
-        - 33
-        - 27
-        - 46
+        - 5
+        - 15
+        - 28
         - 0
         - 0
         indent: 0
@@ -1629,6 +534,764 @@ events:
       condition: !ruby/object:RPG::Event::Page::Condition
         switch2_valid: false
         self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: true
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 3
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: police_1_walk
+        pattern: 0
+        tile_id: 0
+        direction: 6
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: Policier door
+    y: 16
+    x: 6
+    id: 10
+  11: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        - trainer_spotted(10)
+        indent: 0
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - A
+        - 0
+        indent: 1
+        code: 123
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: true
+        self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 161
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 4
+      step_anime: false
+      move_frequency: 6
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: police_1_walk
+        pattern: 0
+        tile_id: 0
+        direction: 6
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - !ruby/object:RPG::MoveRoute
+          repeat: false
+          skippable: true
+          list:
+          - &2 !ruby/object:RPG::MoveCommand
+            code: 25
+            parameters: []
+          - !ruby/object:RPG::MoveCommand
+            code: 0
+            parameters: []
+        indent: 0
+        code: 209
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - *2
+        indent: 0
+        code: 509
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 210
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Plus un geste!
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - A
+        - 1
+        indent: 0
+        code: 123
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 5
+        - 15
+        - 28
+        - 0
+        - 0
+        indent: 0
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: true
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 3
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: police_1_walk
+        pattern: 0
+        tile_id: 0
+        direction: 6
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: Policier door
+    y: 15
+    x: 6
+    id: 11
+  2: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 6
+        - -1
+        - 8
+        indent: 0
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          RGlzYWJsaW5nIHRoZSBmb2xsb3dlciBQb2vDqW1vbiBpZiB0aGlzIG9wdGlvbiB3YXMgYWN0aXZhdGVk
+        indent: 1
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Yuki::FollowMe.smart_disable
+        indent: 1
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 221
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: -255
+          green: -255
+          blue: -255
+          gray: 0
+        - 10
+        indent: 1
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        indent: 1
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 6
+        - 3
+        - 19
+        - 0
+        - 1
+        indent: 1
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: 0
+          green: 0
+          blue: 0
+          gray: 0
+        - 10
+        indent: 1
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: true
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 31
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 35
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 39
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 1
+      step_anime: true
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: fx_Arrow
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: true
+      walk_anime: false
+      move_speed: 2
+      through: false
+    name: !binary |-
+      wqcgZXhpdCBkb29y
+    y: 12
+    x: 3
+    id: 2
+  3: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 6
+        - -1
+        - 8
+        indent: 0
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          RGlzYWJsaW5nIHRoZSBmb2xsb3dlciBQb2vDqW1vbiBpZiB0aGlzIG9wdGlvbiB3YXMgYWN0aXZhdGVk
+        indent: 1
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Yuki::FollowMe.smart_disable
+        indent: 1
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 221
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: -255
+          green: -255
+          blue: -255
+          gray: 0
+        - 10
+        indent: 1
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        indent: 1
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 6
+        - 4
+        - 19
+        - 0
+        - 1
+        indent: 1
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: 0
+          green: 0
+          blue: 0
+          gray: 0
+        - 10
+        indent: 1
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: true
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 31
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 35
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 39
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 1
+      step_anime: true
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: fx_Arrow
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: true
+      walk_anime: false
+      move_speed: 2
+      through: false
+    name: !binary |-
+      wqcgZXhpdCBkb29y
+    y: 12
+    x: 4
+    id: 3
+  4: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 3
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - C'est beau.
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 3
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 3
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 3
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 19
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 15
+          parameters:
+          - 200
+        - !ruby/object:RPG::MoveCommand
+          code: 2
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 2
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 2
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 19
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 15
+          parameters:
+          - 200
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 6
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: elektroman_1_walk
+        pattern: 0
+        tile_id: 0
+        direction: 8
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: true
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 162
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: EV004
+    y: 16
+    x: 9
+    id: 4
+  5: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Son rizz est insaneee
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: true
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: kid_walk
+        pattern: 0
+        tile_id: 0
+        direction: 8
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: true
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 162
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: EV005
+    y: 16
+    x: 15
+    id: 5
+  6: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 1
+        - Baron_orange
+        - 0
+        - 0
+        - -50
+        - 10
+        - 22
+        - 22
+        - 255
+        - 0
+        indent: 0
+        code: 231
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          SG1tbSwgcXVlbGxlIMOpbMOpZ2FuY2Uh
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 1
+        indent: 0
+        code: 235
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
         switch1_id: 1
         switch1_valid: false
         variable_value: 0
@@ -1644,7 +1307,87 @@ events:
         - !ruby/object:RPG::MoveCommand
           code: 0
           parameters: []
-      trigger: 2
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: baron_2_walk
+        pattern: 0
+        tile_id: 0
+        direction: 8
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: true
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 162
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
       step_anime: false
       move_frequency: 3
       graphic: !ruby/object:RPG::Event::Page::Graphic
@@ -1659,8 +1402,749 @@ events:
       walk_anime: true
       move_speed: 3
       through: false
-    name: !binary |-
-      wqdUb0V4dMOpcmlldXI=
-    y: 12
-    x: 10
+    name: EV006
+    y: 14
+    x: 26
+    id: 6
+  7: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 1
+        - Baron
+        - 0
+        - 0
+        - -50
+        - 10
+        - 22
+        - 22
+        - 255
+        - 0
+        indent: 0
+        code: 231
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          SG1tbSwgdW4gaW5kaXZpZHUgdG91dCDDoCBmYWl0IHJhZmZpbsOpIQ==
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 1
+        indent: 0
+        code: 235
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: BaronHam_walk
+        pattern: 0
+        tile_id: 0
+        direction: 8
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: true
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 162
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: EV007
+    y: 14
+    x: 25
+    id: 7
+  8: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 'NPC Event: Camera Scroll, dialogue, '
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - delete_event_forever
+        indent: 0
+        code: 408
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 6
+        - 7
+        - 4
+        indent: 0
+        code: 203
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 20
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 4
+        - 7
+        - 4
+        indent: 0
+        code: 203
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 30
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - ":[name=]:"
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - !ruby/object:RPG::MoveRoute
+          repeat: false
+          skippable: false
+          list:
+          - &3 !ruby/object:RPG::MoveCommand
+            code: 45
+            parameters:
+            - 'emotion(:nocomment, 0, oy_offset: 10)'
+          - !ruby/object:RPG::MoveCommand
+            code: 0
+            parameters: []
+        indent: 0
+        code: 209
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - *3
+        indent: 0
+        code: 509
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - get_character(-1).turn_toward_character(ge(9))
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - "$game_player"
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - delete_this_event_forever
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - delete_event_forever(id)
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - set_self_switch(true, 'A', 22)
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - "-------------------DIALOG-----------------"
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 1
+        - Alvis
+        - 0
+        - 0
+        - -50
+        - 10
+        - 22
+        - 22
+        - 255
+        - 0
+        indent: 0
+        code: 231
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Adding "\^" before a text makes it twice bigger.
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - ":[name=]:C'est nickel"
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Ton nom c'est \N[1]
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - "-------------------FIND PATH-------------------"
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 'find_path(to: [x,y])'
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 'get_character(id).find_path(to: [x,y])'
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - wait_event(id)
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 'get_character(id).find_path(to: [x,y])'
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - wait_event(id)
+        indent: 0
+        code: 655
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 'get_character(32).find_path(to: [$game_player.x,$game_player.y+1])'
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 'find_path(to: get_character(3), radius: 1)'
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - "-------------DETECT PLAYER-----------"
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        - detect_player_rect(2,3)
+        indent: 0
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Check if player coordinates equals a value
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        - "$game_player.x == 13"
+        indent: 0
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Le .x du joueur est bien 13.
+        indent: 1
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 411
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Le .x du joueur n'est pas 13.
+        indent: 1
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - "---- FOLLOW NPC ----"
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - get_character(27).set_follower(get_character(26))
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - get_character(26).set_follower(get_character(29))
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 'get_character(27).find_path(to: [4,11])'
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - wait_event(27)
+        indent: 0
+        code: 655
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - "--------Check variable value------"
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        - "$game_player.x == 13"
+        indent: 0
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Le .x du joueur est bien 13.
+        indent: 1
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 411
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Le .x du joueur n'est pas 13.
+        indent: 1
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 110
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: walter_white_walk
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - SPECIFIC WILD POKEMON ENCOUNTER
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 'Exemple: les echancarbons dans la grotte aquatique,'
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - au passage avec Port Avalon.
+        indent: 0
+        code: 408
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - "!!!"
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - call_battle_wild(:grimer, 6)
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 37
+        - 0
+        indent: 0
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - "$game_map.autoplay"
+        indent: 1
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 130
+        - 130
+        - 1
+        indent: 1
+        code: 121
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: Toolkit NPC
+    y: 0
+    x: 0
+    id: 8
+  9: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 3
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        - trainer_spotted(10)
+        indent: 0
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - A
+        - 0
+        indent: 1
+        code: 123
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: true
+        self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 161
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 4
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 18
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 15
+          parameters:
+          - 4
+        - !ruby/object:RPG::MoveCommand
+          code: 1
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 18
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 15
+          parameters:
+          - 4
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 4
+      step_anime: false
+      move_frequency: 6
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: police_1_walk
+        pattern: 0
+        tile_id: 0
+        direction: 6
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 2
+      through: false
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - !ruby/object:RPG::MoveRoute
+          repeat: false
+          skippable: true
+          list:
+          - &4 !ruby/object:RPG::MoveCommand
+            code: 25
+            parameters: []
+          - !ruby/object:RPG::MoveCommand
+            code: 0
+            parameters: []
+        indent: 0
+        code: 209
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - *4
+        indent: 0
+        code: 509
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 210
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Plus un geste!
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - A
+        - 1
+        indent: 0
+        code: 123
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 3
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 5
+        - 15
+        - 28
+        - 0
+        - 0
+        indent: 0
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 160
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: true
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 3
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: police_1_walk
+        pattern: 0
+        tile_id: 0
+        direction: 6
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: Policier door
+    y: 19
+    x: 6
     id: 9

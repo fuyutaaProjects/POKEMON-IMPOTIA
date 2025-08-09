@@ -1327,57 +1327,56 @@
     :stay: *3
     :leave: *3
   :bubblewalk:
-      :enter:
-        :max_counter: 24
-        :loop: false
-        :data:
-        - :file: bubblewalk
-          :rect:
-          - 80
-          - 0
-          - 16
-          - 32
-          :zoom: 1
-          :add_z: 32
-          :position: :center_pos
-          :opacity: 255
-        - :wait: 3
-        - :rect:
-          - 0
-          - 0
-          - 16
-          - 32
-        - :wait: 5
-        - :rect:
-          - 16
-          - 0
-          - 16
-          - 32
-        - :wait: 5
-        - :rect:
-          - 32
-          - 0
-          - 16
-          - 32
-        - :wait: 3
-        - :rect:
-          - 48
-          - 0
-          - 16
-          - 32
-        - :wait: 3
-        - :rect:
-          - 64
-          - 0
-          - 16
-          - 32
-        - :wait: 3
-        - :rect:
-          - 80
-          - 0
-          - 16
-          - 32
-      :stay: *3
-      :leave: *3
+    :enter:
+      :max_counter: 24
+      :loop: false
+      :data:
+      - :file: bubblewalk
+        :rect:
+        - 80
+        - 0
+        - 16
+        - 32
+        :zoom: 1
+        :add_z: 32
+        :position: :center_pos
+        :opacity: 255
+      - :wait: 3
+      - :rect:
+        - 0
+        - 0
+        - 16
+        - 32
+      - :wait: 5
+      - :rect:
+        - 16
+        - 0
+        - 16
+        - 32
+      - :wait: 5
+      - :rect:
+        - 32
+        - 0
+        - 16
+        - 32
+      - :wait: 3
+      - :rect:
+        - 48
+        - 0
+        - 16
+        - 32
+      - :wait: 3
+      - :rect:
+        - 64
+        - 0
+        - 16
+        - 32
+      - :wait: 3
+      - :rect:
+        - 80
+        - 0
+        - 16
+        - 32
+    :stay: *3
+    :leave: *3
 - {}
-

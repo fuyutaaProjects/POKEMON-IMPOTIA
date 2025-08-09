@@ -7077,6 +7077,46 @@
    <frame tileid="13957" duration="600"/>
   </animation>
  </tile>
+ <tile id="13959">
+  <animation>
+   <frame tileid="13959" duration="600"/>
+   <frame tileid="13964" duration="600"/>
+   <frame tileid="13969" duration="600"/>
+   <frame tileid="13974" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="13960">
+  <animation>
+   <frame tileid="13960" duration="600"/>
+   <frame tileid="13965" duration="600"/>
+   <frame tileid="13970" duration="600"/>
+   <frame tileid="13975" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="13961">
+  <animation>
+   <frame tileid="13961" duration="600"/>
+   <frame tileid="13966" duration="600"/>
+   <frame tileid="13971" duration="600"/>
+   <frame tileid="13976" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="13962">
+  <animation>
+   <frame tileid="13962" duration="600"/>
+   <frame tileid="13967" duration="600"/>
+   <frame tileid="13972" duration="600"/>
+   <frame tileid="13977" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="13963">
+  <animation>
+   <frame tileid="13963" duration="600"/>
+   <frame tileid="13968" duration="600"/>
+   <frame tileid="13973" duration="600"/>
+   <frame tileid="13978" duration="600"/>
+  </animation>
+ </tile>
  <tile id="14015">
   <animation>
    <frame tileid="14015" duration="600"/>
@@ -7149,6 +7189,46 @@
    <frame tileid="14055" duration="600"/>
   </animation>
  </tile>
+ <tile id="14057">
+  <animation>
+   <frame tileid="14057" duration="600"/>
+   <frame tileid="14062" duration="600"/>
+   <frame tileid="14067" duration="600"/>
+   <frame tileid="14072" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="14058">
+  <animation>
+   <frame tileid="14058" duration="600"/>
+   <frame tileid="14063" duration="600"/>
+   <frame tileid="14068" duration="600"/>
+   <frame tileid="14073" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="14059">
+  <animation>
+   <frame tileid="14059" duration="600"/>
+   <frame tileid="14064" duration="600"/>
+   <frame tileid="14069" duration="600"/>
+   <frame tileid="14074" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="14060">
+  <animation>
+   <frame tileid="14060" duration="600"/>
+   <frame tileid="14065" duration="600"/>
+   <frame tileid="14070" duration="600"/>
+   <frame tileid="14075" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="14061">
+  <animation>
+   <frame tileid="14061" duration="600"/>
+   <frame tileid="14066" duration="600"/>
+   <frame tileid="14071" duration="600"/>
+   <frame tileid="14076" duration="600"/>
+  </animation>
+ </tile>
  <tile id="14113">
   <animation>
    <frame tileid="14113" duration="600"/>
@@ -7195,6 +7275,30 @@
    <frame tileid="14141" duration="600"/>
    <frame tileid="14146" duration="600"/>
    <frame tileid="14151" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="14155">
+  <animation>
+   <frame tileid="14155" duration="600"/>
+   <frame tileid="14160" duration="600"/>
+   <frame tileid="14165" duration="600"/>
+   <frame tileid="14170" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="14156">
+  <animation>
+   <frame tileid="14156" duration="600"/>
+   <frame tileid="14161" duration="600"/>
+   <frame tileid="14166" duration="600"/>
+   <frame tileid="14171" duration="600"/>
+  </animation>
+ </tile>
+ <tile id="14157">
+  <animation>
+   <frame tileid="14157" duration="600"/>
+   <frame tileid="14162" duration="600"/>
+   <frame tileid="14167" duration="600"/>
+   <frame tileid="14172" duration="600"/>
   </animation>
  </tile>
  <tile id="14309">

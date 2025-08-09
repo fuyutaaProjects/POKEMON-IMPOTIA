@@ -1,5 +1,5 @@
 --- !ruby/object:RPG::Map
-tileset_id: 16
+tileset_id: 37
 width: 30
 height: 30
 autoplay_bgm: false
@@ -10,7 +10,7 @@ bgm: !ruby/object:RPG::AudioFile
 autoplay_bgs: false
 bgs: !ruby/object:RPG::AudioFile
   name: ''
-  volume: 80
+  volume: 100
   pitch: 100
 encounter_list: []
 encounter_step: 30
@@ -26,18 +26,18 @@ data: !ruby/object:Table
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 512 513 514 505 505 505 505 505 505 505 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 522 522 522 521 522 505 505 505 505 505 505 505 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 522 522 522 522 522 505 505 505 505 505 505 505 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 522 522 522 522 522 505 505 505 505 505 505 505 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 522 522 522 522 522 505 505 505 505 505 505 505 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 506 506 506 505 505 505 505 505 505 505 505 505 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 506 506 506 505 505 505 505 505 505 505 505 505 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 506 506 506 506 506 506 506 506 506 506 506 506 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 384 384 384 384 384 384 384 384 384 384 384 384 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 385 385 386 386 385 385 385 385 385 385 385 385 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 389 389 392 392 392 392 392 392 392 392 392 392 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 401 402 403 406 408 410 410 410 410 410 410 410 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 417 417 418 420 418 410 410 410 410 410 410 410 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 417 417 418 418 418 410 410 410 410 410 410 410 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 417 417 418 418 418 410 410 410 410 410 410 410 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 417 417 418 418 418 410 410 410 410 410 410 410 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 438 438 439 410 410 410 410 410 410 410 410 410 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 438 438 438 442 410 410 410 410 410 410 410 442 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 439 438 438 438 439 439 439 439 439 439 439 439 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 384 384 384 404 404 404 404 404 404 404 404 404 404 404 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -58,17 +58,17 @@ data: !ruby/object:Table
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 392 392 392 392 392 392 392 392 392 392 392 392 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 400 400 400 400 400 400 400 400 400 400 400 400 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 467 467 467 467 467 467 467 467 467 467 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 467 467 737 467 467 467 467 467 467 467 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 467 467 737 467 467 467 632 633 634 467 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 467 467 737 467 467 467 640 641 642 467 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 467 467 745 467 467 467 648 649 650 467 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 467 467 467 467 467 467 467 467 467 467 467 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 620 0 0 0 467 467 467 467 467 467 467 620 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 628 0 0 0 467 467 467 686 687 467 467 628 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 0 0 0 467 467 467 467 467 467 467 467 467 467 467 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 387 388 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 390 391 393 394 395 0 396 396 397 398 399 400 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 404 404 404 404 404 404 404 404 404 404 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 419 419 409 419 419 419 419 419 419 419 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 419 419 409 419 419 419 421 423 425 419 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 419 419 409 419 419 419 426 428 430 419 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 419 419 432 419 419 419 433 435 436 419 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 419 419 419 419 419 419 404 419 419 419 404 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 441 0 0 0 419 419 419 419 419 419 419 441 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 443 0 0 0 419 419 419 444 445 419 419 443 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 384 384 446 447 448 384 384 384 384 384 384 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -88,18 +88,18 @@ data: !ruby/object:Table
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 848 848 848 848 848 848 848 848 848 848 848 848 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 0 0 583 543 0 0 0 0 0 0 0 0 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 715 716 712 713 729 0 554 554 541 542 553 572 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 723 724 720 721 737 0 562 562 549 550 561 580 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 0 0 0 725 0 0 0 0 0 0 0 0 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 0 0 0 0 0 0 0 0 573 574 0 0 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 0 0 0 0 0 0 0 0 581 582 639 0 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 0 0 0 0 0 0 0 0 638 0 647 0 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 0 0 0 0 0 0 0 0 646 0 0 0 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 0 0 0 0 0 0 0 0 0 0 0 0 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 0 0 0 0 832 833 834 0 0 0 0 0 848 0 0 0 0 0 0 0 0 0
-    0 0 0 0 0 0 0 848 848 848 848 848 848 848 848 848 848 848 848 848 848 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 405 407 409 411 412 412 413 414 415 416 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 422 424 0 0 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 427 429 431 0 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 434 0 437 0 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 440 0 0 0 384 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -111,21 +111,71 @@ data: !ruby/object:Table
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 events:
-  1: !ruby/object:RPG::Event
+  2: !ruby/object:RPG::Event
     pages:
     - !ruby/object:RPG::Event::Page
       move_type: 0
       list:
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 0
-        - 42
-        - 9
-        - 28
-        - 2
-        - 0
+        - !binary |-
+          T2gsIGMnZXN0IHVuZSB0csOocyBiZWxsZSDDqXF1aXBlIHF1ZSB0dSBhcyBsw6AhIFBlcm1ldHMtbW9pIGRlIGxhIHNvaWduZXIu
         indent: 0
-        code: 201
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: -255
+          green: -255
+          blue: -255
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 20
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:RPG::AudioFile
+          name: ROSA_HealPokemon
+          volume: 100
+          pitch: 100
+        indent: 0
+        code: 249
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 60
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 20
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - "$pokemon_party.heal_party"
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: 0
+          green: 0
+          blue: 0
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          QWggbGEgamV1bmVzc2UsIGMnZXN0IHNpIGJlYXUuLi4gUHJvZml0ZS1iaWVuLCBldCByZXZpZW5zIG1lIHZvaXIgc2kgdHUgdmV1eCB0ZSByZXBvc2VyIMOgIG5vdXZlYXUh
+        indent: 0
+        code: 101
       - !ruby/object:RPG::EventCommand
         parameters: []
         indent: 0
@@ -148,7 +198,63 @@ events:
         - !ruby/object:RPG::MoveCommand
           code: 0
           parameters: []
-      trigger: 1
+      trigger: 0
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: senior_f_1_walk
+        pattern: 0
+        tile_id: 0
+        direction: 8
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: heal grandma
+    y: 15
+    x: 16
+    id: 2
+  3: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 2
+        - back_floor_brown
+        indent: 0
+        code: 204
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 116
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 3
       step_anime: false
       move_frequency: 3
       graphic: !ruby/object:RPG::Event::Page::Graphic
@@ -163,7 +269,259 @@ events:
       walk_anime: true
       move_speed: 3
       through: false
-    name: EV001
-    y: 18
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 2
+        - back_floor_brown
+        indent: 0
+        code: 204
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 1
+        - ''
+        - 0
+        - 255
+        - 0
+        - 200
+        - 0
+        - 0
+        indent: 0
+        code: 204
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 116
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 12
+        switch1_valid: true
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: false
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 3
+      step_anime: false
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: ''
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: false
+      walk_anime: true
+      move_speed: 3
+      through: false
+    name: battleback and fog
+    y: 0
+    x: 0
+    id: 3
+  4: !ruby/object:RPG::Event
+    pages:
+    - !ruby/object:RPG::Event::Page
+      move_type: 0
+      list:
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          RGlzYWJsaW5nIHRoZSBmb2xsb3dlciBQb2vDqW1vbiBpZiB0aGlzIG9wdGlvbiB3YXMgYWN0aXZhdGVk
+        indent: 0
+        code: 108
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - Yuki::FollowMe.smart_disable
+        indent: 0
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:RPG::AudioFile
+          name: door_exit
+          volume: 80
+          pitch: 100
+        indent: 0
+        code: 250
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 221
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: -255
+          green: -255
+          blue: -255
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 12
+        indent: 0
+        code: 106
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 42
+        - 17
+        - 28
+        - 2
+        - 1
+        indent: 0
+        code: 201
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 11
+        - 0
+        indent: 0
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 2
+        - back_yellow_sand_grass_day
+        indent: 1
+        code: 204
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 411
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 12
+        - 0
+        indent: 1
+        code: 111
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 2
+        - back_yellow_sand_grass_night
+        indent: 2
+        code: 204
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 1
+        - route_01
+        - 0
+        - 255
+        - 0
+        - 200
+        - 0
+        - 0
+        indent: 2
+        code: 204
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 2
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 411
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 2
+        - back_yellow_sand_grass_morning
+        indent: 2
+        code: 204
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 2
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 1
+        code: 0
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 412
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !ruby/object:Tone
+          red: 0
+          green: 0
+          blue: 0
+          gray: 0
+        - 10
+        indent: 0
+        code: 223
+      - !ruby/object:RPG::EventCommand
+        parameters: []
+        indent: 0
+        code: 0
+      condition: !ruby/object:RPG::Event::Page::Condition
+        switch2_valid: false
+        self_switch_ch: A
+        switch1_id: 1
+        switch1_valid: false
+        variable_value: 0
+        self_switch_valid: false
+        variable_id: 1
+        variable_valid: false
+        switch2_id: 1
+      direction_fix: true
+      move_route: !ruby/object:RPG::MoveRoute
+        repeat: true
+        skippable: false
+        list:
+        - !ruby/object:RPG::MoveCommand
+          code: 31
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 35
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 39
+          parameters: []
+        - !ruby/object:RPG::MoveCommand
+          code: 0
+          parameters: []
+      trigger: 2
+      step_anime: true
+      move_frequency: 3
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        opacity: 255
+        character_name: fx_Arrow
+        pattern: 0
+        tile_id: 0
+        direction: 2
+        blend_type: 0
+        character_hue: 0
+      always_on_top: true
+      walk_anime: false
+      move_speed: 2
+      through: false
+    name: !binary |-
+      wqcgZXhpdCBkb29y
+    y: 19
     x: 13
-    id: 1
+    id: 4
