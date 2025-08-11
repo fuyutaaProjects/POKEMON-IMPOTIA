@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Somegon.tmx",
+    "activeFile": "Maps/Bois du Repos.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "PNG to tmx",
         ".",
         "Tilesets",
-        "Maps"
+        "Maps",
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -216,6 +216,14 @@
         "C:/Users/fuyutaa/Documents/GitHub/PSDK DEMO/demo/Data/Tiled/Tilesets/terrain_tag.tsx": {
             "scaleInDock": 1
         },
+        "Maps/Bois du Repos.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1222.5,
+                "y": 1777
+            }
+        },
         "Maps/DEBUG_ROOM.tmx": {
             "scale": 0.5,
             "selectedLayer": 4,
@@ -387,6 +395,38 @@
                 "y": 896.6666666666665
             }
         },
+        "Maps/Passage Luminescence.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 30,
+            "viewCenter": {
+                "x": 727.6666666666667,
+                "y": 778
+            }
+        },
+        "Maps/Passage corouca.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1920,
+                "y": 1280
+            }
+        },
+        "Maps/Passagge corouca.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 361,
+                "y": 676
+            }
+        },
+        "Maps/Prairie Flora.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 992,
+                "y": 784
+            }
+        },
         "Maps/Route_04.tmx": {
             "scale": 1,
             "selectedLayer": 6,
@@ -411,20 +451,52 @@
                 "y": 1610
             }
         },
-        "Maps/Somegon.tmx": {
-            "scale": 2,
-            "selectedLayer": 8,
+        "Maps/Somegon - Copie - Copie.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 2484.75,
-                "y": 5844
+                "x": 4275.757575757576,
+                "y": 5892.424242424242
+            }
+        },
+        "Maps/Somegon - Copie.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 33,
+            "viewCenter": {
+                "x": 3651.515151515151,
+                "y": 4628.787878787879
+            }
+        },
+        "Maps/Somegon - rest.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 33,
+            "viewCenter": {
+                "x": 3148.484848484848,
+                "y": 3280.3030303030305
+            }
+        },
+        "Maps/Somegon github.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 33,
+            "viewCenter": {
+                "x": 1258,
+                "y": 713
+            }
+        },
+        "Maps/Somegon.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 31,
+            "viewCenter": {
+                "x": 1900,
+                "y": 1836.6666666666665
             }
         },
         "Maps/Sylveria.tmx": {
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 2702,
-                "y": 1405
+                "x": 1875,
+                "y": 1362
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -458,8 +530,8 @@
             "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 2487.5,
-                "y": 450
+                "x": 2073.5,
+                "y": 429
             }
         },
         "Maps/bike_shop_lumi.tmx": {
@@ -468,6 +540,14 @@
             "viewCenter": {
                 "x": 373,
                 "y": 508
+            }
+        },
+        "Maps/canal carpia.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 2000,
+                "y": 3019
             }
         },
         "Maps/grotte_gelume.tmx": {
@@ -675,11 +755,11 @@
                 24,
                 22
             ],
-            "scale": 0.75,
-            "selectedLayer": 8,
+            "scale": 2,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 874,
-                "y": 970.6666666666666
+                "x": 836,
+                "y": 909.25
             }
         },
         "Maps/rm_35_route_02.tmx": {
@@ -795,11 +875,11 @@
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1660.6060606060603,
-                "y": 1443.939393939394
+                "x": 2262,
+                "y": 1004
             }
         },
         "Maps/rm_56_verdentia.tmx": {
@@ -867,19 +947,19 @@
             }
         },
         "Maps/rules_buildings.tmx": {
-            "scale": 0.25,
+            "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1886,
-                "y": 720
+                "x": 1907.25,
+                "y": 1009.5
             }
         },
         "Maps/rules_nature.tmx": {
             "scale": 1.5,
-            "selectedLayer": 0,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1912.3333333333333,
-                "y": 582
+                "x": 2576.333333333333,
+                "y": 1028
             }
         },
         "Maps/rules_random_tiles.tmx": {
@@ -1066,12 +1146,20 @@
                 "y": 1293
             }
         },
-        "Maps/zephyrion.tmx": {
-            "scale": 0.25,
-            "selectedLayer": 0,
+        "Maps/zephyrion - Copie.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 1520,
-                "y": 1500
+                "x": 1412.1212121212122,
+                "y": 495.4545454545454
+            }
+        },
+        "Maps/zephyrion.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1516,
+                "y": 1266.6666666666665
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1543,7 +1631,7 @@
         },
         "Tilesets/nature_basics.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 1.5
+            "scaleInEditor": 3
         },
         "Tilesets/oasisville.tsx": {
             "scaleInDock": 1
@@ -1574,7 +1662,7 @@
         },
         "Tilesets/terrain basics v2.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 2
+            "scaleInEditor": 4
         },
         "Tilesets/terrain_basics.tsx": {
             "scaleInDock": 1,
@@ -1611,22 +1699,25 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Somegon.tmx"
+        "Maps/zephyrion.tmx",
+        "Maps/Passage corouca.tmx",
+        "Maps/Prairie Flora.tmx",
+        "Maps/Bois du Repos.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/zephyrion.tmx",
+        "Maps/Passage corouca.tmx",
+        "Maps/Prairie Flora.tmx",
+        "Maps/Bois du Repos.tmx",
+        "Tilesets/terrain basics v2.tsx",
+        "Tilesets/nature_basics.tsx",
         "Maps/rules_buildings.tmx",
-        "Maps/rules_terrain_basics.tmx",
-        "Maps/rules_random_tiles.tmx",
-        "Maps/rules_assets.tmx",
-        "Maps/rules_terrain_basics_v2.tmx",
-        "Maps/rules_town_specifics.tmx",
-        "Maps/rules_trees.tmx",
+        "Maps/Passage Luminescence.tmx",
+        "Maps/rm_55_grotte_rochtherme.tmx",
         "Maps/rules_nature.tmx",
-        "Maps/Somegon.tmx",
-        "C:/Users/fuyutaa/Documents/GitHub/PSDK DEMO/demo/Data/Tiled/Maps/005 River.tmx",
-        "Maps/Laboursol.tmx",
-        "Maps/Sylveria.tmx"
+        "Maps/canal carpia.tmx",
+        "Maps/rm_34_sylvebrume.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

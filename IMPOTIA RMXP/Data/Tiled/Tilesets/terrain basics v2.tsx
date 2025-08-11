@@ -17,6 +17,7 @@
    <wangcolor name="pure mid grass path" color="#96ffa7" tile="-1" probability="1"/>
    <wangcolor name="passage carpia floor" color="#8e7848" tile="-1" probability="1"/>
    <wangcolor name="newgrass path" color="#5a5a5a" tile="-1" probability="1"/>
+   <wangcolor name="dirt v1 no borders" color="#0e7a46" tile="-1" probability="1"/>
    <wangtile tileid="190" wangid="0,3,0,3,0,3,0,3"/>
    <wangtile tileid="252" wangid="0,8,0,8,0,8,0,8"/>
    <wangtile tileid="310" wangid="0,0,0,8,0,0,0,0"/>
@@ -244,11 +245,28 @@
    <wangtile tileid="3541" wangid="0,14,0,0,0,0,0,14"/>
    <wangtile tileid="3542" wangid="0,14,0,0,0,0,0,14"/>
    <wangtile tileid="3543" wangid="0,0,0,0,0,0,0,14"/>
+   <wangtile tileid="3665" wangid="0,0,0,15,0,0,0,0"/>
+   <wangtile tileid="3666" wangid="0,0,0,15,0,15,0,0"/>
+   <wangtile tileid="3667" wangid="0,0,0,15,0,15,0,0"/>
+   <wangtile tileid="3668" wangid="0,0,0,0,0,15,0,0"/>
+   <wangtile tileid="3669" wangid="0,15,0,15,0,15,0,15"/>
+   <wangtile tileid="3727" wangid="0,15,0,15,0,0,0,0"/>
+   <wangtile tileid="3728" wangid="0,15,0,0,0,15,0,15"/>
+   <wangtile tileid="3729" wangid="0,15,0,15,0,0,0,15"/>
+   <wangtile tileid="3730" wangid="0,0,0,0,0,15,0,15"/>
+   <wangtile tileid="3789" wangid="0,15,0,15,0,0,0,0"/>
+   <wangtile tileid="3790" wangid="0,0,0,15,0,15,0,15"/>
+   <wangtile tileid="3791" wangid="0,15,0,15,0,15,0,0"/>
+   <wangtile tileid="3792" wangid="0,0,0,0,0,15,0,15"/>
    <wangtile tileid="3844" wangid="0,0,0,13,0,0,0,0"/>
    <wangtile tileid="3845" wangid="0,0,0,13,0,13,0,0"/>
    <wangtile tileid="3846" wangid="0,0,0,13,0,13,0,0"/>
    <wangtile tileid="3847" wangid="0,0,0,0,0,13,0,0"/>
    <wangtile tileid="3848" wangid="0,13,0,13,0,13,0,13"/>
+   <wangtile tileid="3851" wangid="0,15,0,0,0,0,0,0"/>
+   <wangtile tileid="3852" wangid="0,15,0,0,0,0,0,15"/>
+   <wangtile tileid="3853" wangid="0,15,0,0,0,0,0,15"/>
+   <wangtile tileid="3854" wangid="0,0,0,0,0,0,0,15"/>
    <wangtile tileid="3906" wangid="0,13,0,13,0,0,0,0"/>
    <wangtile tileid="3907" wangid="0,13,0,0,0,13,0,13"/>
    <wangtile tileid="3908" wangid="0,13,0,13,0,0,0,13"/>
