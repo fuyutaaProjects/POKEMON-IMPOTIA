@@ -220,8 +220,8 @@
             "scale": 1,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 1222.5,
-                "y": 1777
+                "x": 1058.5,
+                "y": 1482
             }
         },
         "Maps/DEBUG_ROOM.tmx": {
@@ -316,11 +316,11 @@
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 2,
-            "selectedLayer": 6,
+            "scale": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 920.25,
-                "y": 886
+                "x": 888,
+                "y": 761.5
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -404,11 +404,11 @@
             }
         },
         "Maps/Passage corouca.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1920,
-                "y": 1280
+                "x": 1484,
+                "y": 1182
             }
         },
         "Maps/Passagge corouca.tmx": {
@@ -423,16 +423,16 @@
             "scale": 0.75,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 992,
-                "y": 784
+                "x": 988.6666666666666,
+                "y": 781.3333333333333
             }
         },
         "Maps/Route_04.tmx": {
-            "scale": 1,
-            "selectedLayer": 6,
+            "scale": 1.5,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1304,
-                "y": 976.5
+                "x": 1277.3333333333335,
+                "y": 848.3333333333333
             }
         },
         "Maps/Route_05.tmx": {
@@ -1158,8 +1158,8 @@
             "scale": 0.75,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1516,
-                "y": 1266.6666666666665
+                "x": 1512.6666666666665,
+                "y": 1261.3333333333333
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1706,10 +1706,10 @@
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/zephyrion.tmx",
-        "Maps/Passage corouca.tmx",
         "Maps/Prairie Flora.tmx",
         "Maps/Bois du Repos.tmx",
+        "Maps/zephyrion.tmx",
+        "Maps/Passage corouca.tmx",
         "Tilesets/terrain basics v2.tsx",
         "Tilesets/nature_basics.tsx",
         "Maps/rules_buildings.tmx",
