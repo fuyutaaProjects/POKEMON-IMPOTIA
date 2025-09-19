@@ -30,7 +30,10 @@
       92,
       93,
       94,
-      95
+      95,
+      96,
+      97,
+      98
     ],
     "hasChildren": true,
     "isExpanded": true,
@@ -1163,6 +1166,39 @@
     "data": {
       "klass": "MapInfoMap",
       "mapDbSymbol": "map095",
+      "parentId": 0
+    }
+  },
+  "96": {
+    "id": 96,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map096",
+      "parentId": 0
+    }
+  },
+  "97": {
+    "id": 97,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map097",
+      "parentId": 0
+    }
+  },
+  "98": {
+    "id": 98,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map098",
       "parentId": 0
     }
   }

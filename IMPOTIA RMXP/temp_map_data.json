@@ -30634,7 +30634,9 @@
   "events": [
     {
       "id": 1,
-      "name": "EV001",
+      "name": {
+        "__binary_content__": "wqcga2FlcnU="
+      },
       "x": 1,
       "y": 2,
       "pages": [
@@ -30677,11 +30679,181 @@
           },
           "always_on_top": false,
           "walk_anime": true,
+          "move_speed": 4,
+          "through": false,
+          "commands": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "EV010",
+      "x": 11,
+      "y": 2,
+      "pages": [
+        {
+          "page_index": 0,
+          "move_type": 0,
+          "condition": {
+            "switch2_valid": false,
+            "self_switch_ch": "A",
+            "switch1_id": 1,
+            "switch1_valid": false,
+            "variable_value": 0,
+            "self_switch_valid": false,
+            "variable_id": 1,
+            "variable_valid": false,
+            "switch2_id": 1
+          },
+          "direction_fix": false,
+          "move_route": {
+            "repeat": true,
+            "skippable": false,
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ]
+          },
+          "trigger": 0,
+          "step_anime": false,
+          "move_frequency": 3,
+          "graphic": {
+            "opacity": 255,
+            "character_name": "black_r_f_2_walk",
+            "pattern": 2,
+            "tile_id": 0,
+            "direction": 8,
+            "blend_type": 0,
+            "character_hue": 0
+          },
+          "always_on_top": false,
+          "walk_anime": true,
           "move_speed": 3,
           "through": false,
           "commands": [
             {
-              "command_index": 0,
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "EV011",
+      "x": 12,
+      "y": 2,
+      "pages": [
+        {
+          "page_index": 0,
+          "move_type": 0,
+          "condition": {
+            "switch2_valid": false,
+            "self_switch_ch": "A",
+            "switch1_id": 1,
+            "switch1_valid": false,
+            "variable_value": 0,
+            "self_switch_valid": false,
+            "variable_id": 1,
+            "variable_valid": false,
+            "switch2_id": 1
+          },
+          "direction_fix": false,
+          "move_route": {
+            "repeat": true,
+            "skippable": false,
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ]
+          },
+          "trigger": 0,
+          "step_anime": false,
+          "move_frequency": 3,
+          "graphic": {
+            "opacity": 255,
+            "character_name": "astolfo_walk",
+            "pattern": 3,
+            "tile_id": 0,
+            "direction": 2,
+            "blend_type": 0,
+            "character_hue": 0
+          },
+          "always_on_top": false,
+          "walk_anime": true,
+          "move_speed": 3,
+          "through": false,
+          "commands": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "EV012",
+      "x": 13,
+      "y": 2,
+      "pages": [
+        {
+          "page_index": 0,
+          "move_type": 0,
+          "condition": {
+            "switch2_valid": false,
+            "self_switch_ch": "A",
+            "switch1_id": 1,
+            "switch1_valid": false,
+            "variable_value": 0,
+            "self_switch_valid": false,
+            "variable_id": 1,
+            "variable_valid": false,
+            "switch2_id": 1
+          },
+          "direction_fix": false,
+          "move_route": {
+            "repeat": true,
+            "skippable": false,
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ]
+          },
+          "trigger": 0,
+          "step_anime": false,
+          "move_frequency": 3,
+          "graphic": {
+            "opacity": 255,
+            "character_name": "alvis_walk",
+            "pattern": 0,
+            "tile_id": 0,
+            "direction": 8,
+            "blend_type": 0,
+            "character_hue": 0
+          },
+          "always_on_top": false,
+          "walk_anime": true,
+          "move_speed": 3,
+          "through": false,
+          "commands": [
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -30692,7 +30864,7 @@
     },
     {
       "id": 2,
-      "name": "EV002",
+      "name": "!!! what",
       "x": 2,
       "y": 2,
       "pages": [
@@ -30721,12 +30893,12 @@
               }
             ]
           },
-          "trigger": 0,
-          "step_anime": false,
-          "move_frequency": 3,
+          "trigger": 1,
+          "step_anime": true,
+          "move_frequency": 5,
           "graphic": {
             "opacity": 255,
-            "character_name": "albedo_walk",
+            "character_name": "!debug_piaaa",
             "pattern": 1,
             "tile_id": 0,
             "direction": 2,
@@ -30735,11 +30907,10 @@
           },
           "always_on_top": false,
           "walk_anime": true,
-          "move_speed": 3,
+          "move_speed": 2,
           "through": false,
           "commands": [
             {
-              "command_index": 0,
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -30756,7 +30927,7 @@
       "pages": [
         {
           "page_index": 0,
-          "move_type": 0,
+          "move_type": 1,
           "condition": {
             "switch2_valid": false,
             "self_switch_ch": "A",
@@ -30768,7 +30939,7 @@
             "variable_valid": false,
             "switch2_id": 1
           },
-          "direction_fix": false,
+          "direction_fix": true,
           "move_route": {
             "repeat": true,
             "skippable": false,
@@ -30779,8 +30950,8 @@
               }
             ]
           },
-          "trigger": 0,
-          "step_anime": false,
+          "trigger": 3,
+          "step_anime": true,
           "move_frequency": 3,
           "graphic": {
             "opacity": 255,
@@ -30793,11 +30964,10 @@
           },
           "always_on_top": false,
           "walk_anime": true,
-          "move_speed": 3,
+          "move_speed": 4,
           "through": false,
           "commands": [
             {
-              "command_index": 0,
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -30826,7 +30996,7 @@
             "variable_valid": false,
             "switch2_id": 1
           },
-          "direction_fix": false,
+          "direction_fix": true,
           "move_route": {
             "repeat": true,
             "skippable": false,
@@ -30837,8 +31007,8 @@
               }
             ]
           },
-          "trigger": 0,
-          "step_anime": false,
+          "trigger": 4,
+          "step_anime": true,
           "move_frequency": 3,
           "graphic": {
             "opacity": 255,
@@ -30852,10 +31022,80 @@
           "always_on_top": false,
           "walk_anime": true,
           "move_speed": 3,
-          "through": false,
+          "through": true,
           "commands": [
             {
-              "command_index": 0,
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "!pluh",
+                  "&PIOUUU",
+                  "emouvant"
+                ],
+                2
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "!pluh"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "&PIOUUU"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                2,
+                "emouvant"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 106,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [
+                "A",
+                0
+              ]
+            },
+            {
               "code": 0,
               "indent": 0,
               "parameters": []
@@ -30872,7 +31112,120 @@
       "pages": [
         {
           "page_index": 0,
-          "move_type": 0,
+          "move_type": 2,
+          "condition": {
+            "switch2_valid": false,
+            "self_switch_ch": "A",
+            "switch1_id": 1,
+            "switch1_valid": false,
+            "variable_value": 0,
+            "self_switch_valid": false,
+            "variable_id": 1,
+            "variable_valid": false,
+            "switch2_id": 1
+          },
+          "direction_fix": true,
+          "move_route": {
+            "repeat": true,
+            "skippable": false,
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ]
+          },
+          "trigger": 0,
+          "step_anime": true,
+          "move_frequency": 3,
+          "graphic": {
+            "opacity": 255,
+            "character_name": "BaronHam_walk",
+            "pattern": 1,
+            "tile_id": 0,
+            "direction": 8,
+            "blend_type": 0,
+            "character_hue": 0
+          },
+          "always_on_top": true,
+          "walk_anime": true,
+          "move_speed": 3,
+          "through": true,
+          "commands": [
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                ",tortue bleue"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                ">tortue"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "$tortue"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "(tortue)"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "&tortue"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "!tortue"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "t,o>r$t&u'e"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "tor \"tue\""
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "x": 6,
+      "y": 2,
+      "pages": [
+        {
+          "page_index": 0,
+          "move_type": 3,
           "condition": {
             "switch2_valid": false,
             "self_switch_ch": "A",
@@ -30890,63 +31243,21 @@
             "skippable": false,
             "list": [
               {
-                "code": 0,
+                "code": 2,
                 "parameters": []
-              }
-            ]
-          },
-          "trigger": 0,
-          "step_anime": false,
-          "move_frequency": 3,
-          "graphic": {
-            "opacity": 255,
-            "character_name": "BaronHam_walk",
-            "pattern": 1,
-            "tile_id": 0,
-            "direction": 8,
-            "blend_type": 0,
-            "character_hue": 0
-          },
-          "always_on_top": false,
-          "walk_anime": true,
-          "move_speed": 3,
-          "through": false,
-          "commands": [
-            {
-              "command_index": 0,
-              "code": 0,
-              "indent": 0,
-              "parameters": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "EV006",
-      "x": 6,
-      "y": 2,
-      "pages": [
-        {
-          "page_index": 0,
-          "move_type": 0,
-          "condition": {
-            "switch2_valid": false,
-            "self_switch_ch": "A",
-            "switch1_id": 1,
-            "switch1_valid": false,
-            "variable_value": 0,
-            "self_switch_valid": false,
-            "variable_id": 1,
-            "variable_valid": false,
-            "switch2_id": 1
-          },
-          "direction_fix": false,
-          "move_route": {
-            "repeat": true,
-            "skippable": false,
-            "list": [
+              },
+              {
+                "code": 2,
+                "parameters": []
+              },
+              {
+                "code": 3,
+                "parameters": []
+              },
+              {
+                "code": 3,
+                "parameters": []
+              },
               {
                 "code": 0,
                 "parameters": []
@@ -30971,7 +31282,714 @@
           "through": false,
           "commands": [
             {
-              "command_index": 0,
+              "code": 209,
+              "indent": 0,
+              "parameters": [
+                0,
+                {
+                  "repeat": false,
+                  "skippable": false,
+                  "list": [
+                    {
+                      "code": 41,
+                      "parameters": [
+                        "baptiste_1_walk",
+                        0,
+                        8,
+                        0
+                      ]
+                    },
+                    {
+                      "code": 0,
+                      "parameters": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": 509,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 41,
+                  "parameters": [
+                    "baptiste_1_walk",
+                    0,
+                    8,
+                    0
+                  ]
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Toolkit NPC",
+      "x": 7,
+      "y": 2,
+      "pages": [
+        {
+          "page_index": 0,
+          "move_type": 0,
+          "condition": {
+            "switch2_valid": false,
+            "self_switch_ch": "A",
+            "switch1_id": 110,
+            "switch1_valid": true,
+            "variable_value": 0,
+            "self_switch_valid": false,
+            "variable_id": 1,
+            "variable_valid": false,
+            "switch2_id": 1
+          },
+          "direction_fix": false,
+          "move_route": {
+            "repeat": true,
+            "skippable": false,
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ]
+          },
+          "trigger": 0,
+          "step_anime": false,
+          "move_frequency": 3,
+          "graphic": {
+            "opacity": 255,
+            "character_name": "walter_white_walk",
+            "pattern": 0,
+            "tile_id": 0,
+            "direction": 2,
+            "blend_type": 0,
+            "character_hue": 0
+          },
+          "always_on_top": false,
+          "walk_anime": true,
+          "move_speed": 3,
+          "through": false,
+          "commands": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "NPC Event: Camera Scroll, dialogue, "
+              ]
+            },
+            {
+              "code": 408,
+              "indent": 0,
+              "parameters": [
+                "delete_event_forever"
+              ]
+            },
+            {
+              "code": 203,
+              "indent": 0,
+              "parameters": [
+                6,
+                7,
+                4
+              ]
+            },
+            {
+              "code": 106,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "carotte"
+              ]
+            },
+            {
+              "code": 209,
+              "indent": 0,
+              "parameters": [
+                0,
+                {
+                  "repeat": false,
+                  "skippable": false,
+                  "list": [
+                    {
+                      "code": 45,
+                      "parameters": [
+                        "emotion(:nocomment, 0, oy_offset: 10)"
+                      ]
+                    },
+                    {
+                      "code": 0,
+                      "parameters": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": 509,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 45,
+                  "parameters": [
+                    "emotion(:nocomment, 0, oy_offset: 10)"
+                  ]
+                }
+              ]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": [
+                "get_character(-1).turn_toward_character(ge(9))"
+              ]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": [
+                "start_trainer_battle(306)"
+              ]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": [
+                "$game_temp.battle_can_lose = true"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                1,
+                "Alvis",
+                0,
+                0,
+                -50,
+                10,
+                22,
+                22,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                12,
+                "detect_player_rect(2,3)"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                12,
+                "$game_player.x == 13"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "Le .x du joueur est bien 13."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "Le .x du joueur n'est pas 13."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "--------Check variable value------"
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Yes",
+                  "No"
+                ],
+                2
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Yes"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "carrote 2 dans choix"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "No"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 116,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 132,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "pkmrb-battle1",
+                  "volume": 100,
+                  "pitch": 100
+                }
+              ]
+            },
+            {
+              "code": 204,
+              "indent": 0,
+              "parameters": [
+                1,
+                "Lumicite-export",
+                0,
+                64,
+                0,
+                200,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 224,
+              "indent": 0,
+              "parameters": [
+                {
+                  "red": 255,
+                  "green": 255,
+                  "blue": 255,
+                  "alpha": 255
+                },
+                10
+              ]
+            },
+            {
+              "code": 225,
+              "indent": 0,
+              "parameters": [
+                5,
+                5,
+                5
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                1,
+                "Baron",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "battle1",
+                  "volume": 100,
+                  "pitch": 100
+                }
+              ]
+            },
+            {
+              "code": 242,
+              "indent": 0,
+              "parameters": [
+                10
+              ]
+            },
+            {
+              "code": 203,
+              "indent": 0,
+              "parameters": [
+                2,
+                1,
+                4
+              ]
+            },
+            {
+              "code": 202,
+              "indent": 0,
+              "parameters": [
+                0,
+                0,
+                26,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 0,
+              "parameters": [
+                0,
+                6,
+                9,
+                14,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "002-wind02",
+                  "volume": 80,
+                  "pitch": 100
+                }
+              ]
+            },
+            {
+              "code": 246,
+              "indent": 0,
+              "parameters": [
+                10
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "020-teleport03",
+                  "volume": 80,
+                  "pitch": 100
+                }
+              ]
+            },
+            {
+              "code": 251,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ]
+        },
+        {
+          "page_index": 1,
+          "move_type": 0,
+          "condition": {
+            "switch2_valid": false,
+            "self_switch_ch": "A",
+            "switch1_id": 1,
+            "switch1_valid": false,
+            "variable_value": 0,
+            "self_switch_valid": false,
+            "variable_id": 1,
+            "variable_valid": false,
+            "switch2_id": 1
+          },
+          "direction_fix": false,
+          "move_route": {
+            "repeat": true,
+            "skippable": false,
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ]
+          },
+          "trigger": 0,
+          "step_anime": false,
+          "move_frequency": 3,
+          "graphic": {
+            "opacity": 255,
+            "character_name": "",
+            "pattern": 0,
+            "tile_id": 0,
+            "direction": 2,
+            "blend_type": 0,
+            "character_hue": 0
+          },
+          "always_on_top": false,
+          "walk_anime": true,
+          "move_speed": 3,
+          "through": false,
+          "commands": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "SPECIFIC WILD POKEMON ENCOUNTER"
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "Exemple: les echancarbons dans la grotte aquatique,"
+              ]
+            },
+            {
+              "code": 408,
+              "indent": 0,
+              "parameters": [
+                "au passage avec Port Avalon."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "!!!"
+              ]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": [
+                "call_battle_wild(:grimer, 6)"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                0,
+                37,
+                0
+              ]
+            },
+            {
+              "code": 355,
+              "indent": 1,
+              "parameters": [
+                "$game_map.autoplay"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                130,
+                130,
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "EV008",
+      "x": 9,
+      "y": 2,
+      "pages": [
+        {
+          "page_index": 0,
+          "move_type": 0,
+          "condition": {
+            "switch2_valid": false,
+            "self_switch_ch": "A",
+            "switch1_id": 1,
+            "switch1_valid": false,
+            "variable_value": 0,
+            "self_switch_valid": false,
+            "variable_id": 1,
+            "variable_valid": false,
+            "switch2_id": 1
+          },
+          "direction_fix": false,
+          "move_route": {
+            "repeat": true,
+            "skippable": false,
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ]
+          },
+          "trigger": 0,
+          "step_anime": false,
+          "move_frequency": 3,
+          "graphic": {
+            "opacity": 255,
+            "character_name": "apollo_walk",
+            "pattern": 2,
+            "tile_id": 0,
+            "direction": 6,
+            "blend_type": 0,
+            "character_hue": 0
+          },
+          "always_on_top": false,
+          "walk_anime": true,
+          "move_speed": 3,
+          "through": false,
+          "commands": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "EV009",
+      "x": 10,
+      "y": 2,
+      "pages": [
+        {
+          "page_index": 0,
+          "move_type": 0,
+          "condition": {
+            "switch2_valid": false,
+            "self_switch_ch": "A",
+            "switch1_id": 1,
+            "switch1_valid": false,
+            "variable_value": 0,
+            "self_switch_valid": false,
+            "variable_id": 1,
+            "variable_valid": false,
+            "switch2_id": 1
+          },
+          "direction_fix": false,
+          "move_route": {
+            "repeat": true,
+            "skippable": false,
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ]
+          },
+          "trigger": 0,
+          "step_anime": false,
+          "move_frequency": 3,
+          "graphic": {
+            "opacity": 255,
+            "character_name": "castex_2_walk",
+            "pattern": 3,
+            "tile_id": 0,
+            "direction": 8,
+            "blend_type": 0,
+            "character_hue": 0
+          },
+          "always_on_top": false,
+          "walk_anime": true,
+          "move_speed": 3,
+          "through": false,
+          "commands": [
+            {
               "code": 0,
               "indent": 0,
               "parameters": []

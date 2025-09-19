@@ -1,11 +1,4 @@
 ---
-85: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: grottes sylveria
-  expanded: false
-  order: 84
-  scroll_y: 0
-  parent_id: 63
 9: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Ancienne demo
@@ -18,14 +11,21 @@
   name: !binary |-
     Q2VudHJlIFBva8OpbW9uIFBB
   expanded: false
-  order: 30
+  order: 31
   scroll_y: 0
   parent_id: 33
+85: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: grottes sylveria
+  expanded: false
+  order: 85
+  scroll_y: 455
+  parent_id: 63
 28: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Gate Left Port Avalon
   expanded: false
-  order: 36
+  order: 37
   scroll_y: 0
   parent_id: 33
 66: !ruby/object:RPG::MapInfo
@@ -33,7 +33,7 @@
   name: !binary |-
     U2FsbGUgZGUgc8OpY3VyaXTDqQ==
   expanded: false
-  order: 47
+  order: 48
   scroll_y: 0
   parent_id: 5
 76: !ruby/object:RPG::MapInfo
@@ -41,7 +41,7 @@
   name: !binary |-
     WsOpbml0aA==
   expanded: false
-  order: 82
+  order: 83
   scroll_y: 0
   parent_id: 0
 19: !ruby/object:RPG::MapInfo
@@ -55,32 +55,24 @@
   scroll_x: 0
   name: Foret Arboreon
   expanded: false
-  order: 62
+  order: 63
   scroll_y: 0
+  parent_id: 0
+95: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: Bois du Repos
+  expanded: false
+  order: 95
+  scroll_y: 455
   parent_id: 0
 38: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: !binary |-
     UG9rw6lzaG9wIE1lcm1lc2E=
   expanded: false
-  order: 51
+  order: 52
   scroll_y: 0
   parent_id: 43
-86: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: Lumi Gym
-  expanded: false
-  order: 81
-  scroll_y: 0
-  parent_id: 62
-67: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: !binary |-
-    TXVzw6llIDQgbm8gZm9zc2lscw==
-  expanded: false
-  order: 48
-  scroll_y: 0
-  parent_id: 5
 10: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: message_test
@@ -92,23 +84,31 @@
   scroll_x: 0
   name: Bar Avalons
   expanded: true
-  order: 31
+  order: 32
   scroll_y: 0
   parent_id: 33
+86: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: Lumi Gym
+  expanded: false
+  order: 82
+  scroll_y: 0
+  parent_id: 62
 29: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Gate North Oasisville
   expanded: false
-  order: 25
+  order: 26
   scroll_y: 0
   parent_id: 58
-77: !ruby/object:RPG::MapInfo
+67: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: Gate South Lumi
+  name: !binary |-
+    TXVzw6llIDQgbm8gZm9zc2lscw==
   expanded: false
-  order: 73
+  order: 49
   scroll_y: 0
-  parent_id: 1
+  parent_id: 5
 20: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: MAP020
@@ -120,15 +120,22 @@
   scroll_x: 0
   name: Oasisville
   expanded: true
-  order: 23
+  order: 24
   scroll_y: 0
+  parent_id: 0
+96: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: Sources d'eaux chaudes de Soladelle
+  expanded: false
+  order: 96
+  scroll_y: 455
   parent_id: 0
 1: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: !binary |-
     THVtaS1DaXTDqQ==
   expanded: true
-  order: 68
+  order: 69
   scroll_y: 0
   parent_id: 0
 39: !ruby/object:RPG::MapInfo
@@ -136,31 +143,38 @@
   name: !binary |-
     VmVyZGVudGlhIFBva8Opc2hvcA==
   expanded: false
-  order: 57
+  order: 58
   scroll_y: 0
   parent_id: 56
+77: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: Gate South Lumi
+  expanded: false
+  order: 74
+  scroll_y: 0
+  parent_id: 1
 87: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Elevator Mall Lumi
   expanded: false
-  order: 79
+  order: 80
   scroll_y: 0
   parent_id: 84
+30: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: Gate South PA
+  expanded: false
+  order: 38
+  scroll_y: 0
+  parent_id: 33
 68: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: !binary |-
     QXLDqG5lIGRlIFZlcmRlbnRpYQ==
   expanded: false
-  order: 61
+  order: 62
   scroll_y: 0
   parent_id: 56
-30: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: Gate South PA
-  expanded: false
-  order: 37
-  scroll_y: 0
-  parent_id: 33
 11: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: MAP011
@@ -172,17 +186,9 @@
   scroll_x: 0
   name: Bar Avalons Etage
   expanded: false
-  order: 32
+  order: 33
   scroll_y: 0
   parent_id: 48
-78: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: !binary |-
-    Q2VudHJlIHBva8OpIGx1bWk=
-  expanded: false
-  order: 74
-  scroll_y: 0
-  parent_id: 1
 21: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: MAP021
@@ -195,14 +201,21 @@
   name: !binary |-
     U2FsbGUgZGUgc8OpY3VyaXTDqSBERUJVR01BUA==
   expanded: false
-  order: 46
+  order: 47
   scroll_y: 0
   parent_id: 5
+97: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: move down test
+  expanded: false
+  order: 97
+  scroll_y: 455
+  parent_id: 0
 2: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Temporis
   expanded: true
-  order: 63
+  order: 64
   scroll_y: 0
   parent_id: 0
 40: !ruby/object:RPG::MapInfo
@@ -210,23 +223,17 @@
   name: !binary |-
     VmVyZGVudGlhIFBva8OpbW9uIENlbnRlcg==
   expanded: false
-  order: 58
+  order: 59
   scroll_y: 0
   parent_id: 56
-88: !ruby/object:RPG::MapInfo
+78: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: Somegon
+  name: !binary |-
+    Q2VudHJlIHBva8OpIGx1bWk=
   expanded: false
-  order: 88
+  order: 75
   scroll_y: 0
-  parent_id: 0
-69: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: tuto layers
-  expanded: false
-  order: 22
-  scroll_y: 0
-  parent_id: 44
+  parent_id: 1
 31: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: trailer map
@@ -234,11 +241,18 @@
   order: 21
   scroll_y: 0
   parent_id: 44
+69: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: tuto layers
+  expanded: false
+  order: 22
+  scroll_y: 0
+  parent_id: 44
 12: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Musee 4
   expanded: false
-  order: 45
+  order: 46
   scroll_y: 0
   parent_id: 5
 50: !ruby/object:RPG::MapInfo
@@ -249,29 +263,43 @@
   order: 19
   scroll_y: 0
   parent_id: 44
-79: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: !binary |-
-    cG9rw6lzaG9wIGx1bWk=
+88: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: Somegon
   expanded: false
-  order: 75
-  scroll_y: 0
-  parent_id: 1
+  order: 89
+  scroll_y: 455
+  parent_id: 0
+98: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: comment editor test
+  expanded: false
+  order: 98
+  scroll_y: 455
+  parent_id: 0
 3: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: !binary |-
     U2FuY3R1YWlyZSBPdWJsacOp
   expanded: false
-  order: 65
+  order: 66
   scroll_y: 0
   parent_id: 0
 41: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Gate North Mermesa
   expanded: false
-  order: 52
+  order: 53
   scroll_y: 0
   parent_id: 43
+79: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: !binary |-
+    cG9rw6lzaG9wIGx1bWk=
+  expanded: false
+  order: 76
+  scroll_y: 0
+  parent_id: 1
 22: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: MAP022
@@ -280,38 +308,31 @@
   scroll_y: 0
   parent_id: 8
 60: !ruby/object:RPG::MapInfo
-  scroll_x: 0
+  scroll_x: 809
   name: Laboursol
   expanded: true
-  order: 85
-  scroll_y: 0
-  parent_id: 0
-89: !ruby/object:RPG::MapInfo
-  scroll_x: 809
-  name: Test EventEditor RMXP
-  expanded: false
-  order: 89
+  order: 86
   scroll_y: 455
   parent_id: 0
-70: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: offices lumi
-  expanded: false
-  order: 69
-  scroll_y: 0
-  parent_id: 1
 32: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Player House
   expanded: false
-  order: 26
+  order: 27
   scroll_y: 0
   parent_id: 58
+70: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: offices lumi
+  expanded: false
+  order: 70
+  scroll_y: 0
+  parent_id: 1
 13: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Mermesa Interiors
   expanded: false
-  order: 49
+  order: 50
   scroll_y: 0
   parent_id: 43
 51: !ruby/object:RPG::MapInfo
@@ -321,13 +342,13 @@
   order: 20
   scroll_y: 0
   parent_id: 44
-80: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: R2 house
+89: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: Test EventEditor RMXP
   expanded: false
-  order: 39
-  scroll_y: 0
-  parent_id: 35
+  order: 23
+  scroll_y: 455
+  parent_id: 0
 4: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Start
@@ -339,9 +360,16 @@
   scroll_x: 0
   name: Route 01
   expanded: true
-  order: 27
+  order: 28
   scroll_y: 0
   parent_id: 0
+80: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: R2 house
+  expanded: false
+  order: 40
+  scroll_y: 0
+  parent_id: 35
 23: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: MAP023
@@ -353,16 +381,9 @@
   scroll_x: 0
   name: Route 04
   expanded: false
-  order: 67
+  order: 68
   scroll_y: 0
   parent_id: 0
-71: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: houses lumi
-  expanded: false
-  order: 70
-  scroll_y: 0
-  parent_id: 1
 14: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: PSDK .25.0
@@ -374,30 +395,44 @@
   scroll_x: 0
   name: PA GYM
   expanded: false
-  order: 33
+  order: 34
   scroll_y: 0
   parent_id: 33
+90: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: Canal Carpia
+  expanded: false
+  order: 90
+  scroll_y: 455
+  parent_id: 0
 33: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Port Avalon
   expanded: true
-  order: 29
+  order: 30
   scroll_y: 0
   parent_id: 0
-81: !ruby/object:RPG::MapInfo
+71: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: gate left laboursol
+  name: houses lumi
   expanded: false
-  order: 86
+  order: 71
   scroll_y: 0
-  parent_id: 60
+  parent_id: 1
 43: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Mermesa
   expanded: true
-  order: 41
+  order: 42
   scroll_y: 0
   parent_id: 0
+81: !ruby/object:RPG::MapInfo
+  scroll_x: 240
+  name: gate left laboursol
+  expanded: false
+  order: 87
+  scroll_y: 160
+  parent_id: 60
 24: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: MAP024
@@ -409,7 +444,7 @@
   scroll_x: 0
   name: Route 05
   expanded: true
-  order: 80
+  order: 81
   scroll_y: 0
   parent_id: 0
 5: !ruby/object:RPG::MapInfo
@@ -417,16 +452,24 @@
   name: !binary |-
     TXVzw6llIGRlIE1lcm1lc2E=
   expanded: true
-  order: 42
+  order: 43
   scroll_y: 0
   parent_id: 43
-72: !ruby/object:RPG::MapInfo
+34: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: Temporis interiors
+  name: SYLVEBRUME
   expanded: false
-  order: 64
+  order: 67
   scroll_y: 0
-  parent_id: 2
+  parent_id: 0
+53: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: !binary |-
+    UG9rw6lzaG9wIFBB
+  expanded: false
+  order: 35
+  scroll_y: 0
+  parent_id: 33
 15: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: MAP015
@@ -434,50 +477,20 @@
   order: 7
   scroll_y: 0
   parent_id: 8
-53: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: !binary |-
-    UG9rw6lzaG9wIFBB
+91: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: Prairie Flora
   expanded: false
-  order: 34
-  scroll_y: 0
-  parent_id: 33
-34: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: SYLVEBRUME
-  expanded: false
-  order: 66
-  scroll_y: 0
+  order: 91
+  scroll_y: 455
   parent_id: 0
-82: !ruby/object:RPG::MapInfo
+72: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: school lumi
+  name: Temporis interiors
   expanded: false
-  order: 76
+  order: 65
   scroll_y: 0
-  parent_id: 1
-25: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: MAP025
-  expanded: false
-  order: 17
-  scroll_y: 0
-  parent_id: 8
-63: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: !binary |-
-    U3lsdsOpcmlh
-  expanded: true
-  order: 83
-  scroll_y: 0
-  parent_id: 0
-6: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: Musee 2
-  expanded: false
-  order: 43
-  scroll_y: 0
-  parent_id: 5
+  parent_id: 2
 44: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: DEBUG ROOM
@@ -485,27 +498,35 @@
   order: 18
   scroll_y: 0
   parent_id: 14
-73: !ruby/object:RPG::MapInfo
+6: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: Grotte Gelume
+  name: Musee 2
   expanded: false
-  order: 87
+  order: 44
   scroll_y: 0
-  parent_id: 0
-54: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: Route 03
-  expanded: false
-  order: 53
-  scroll_y: 0
-  parent_id: 0
-35: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: Route 02
+  parent_id: 5
+63: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: !binary |-
+    U3lsdsOpcmlh
   expanded: true
-  order: 38
-  scroll_y: 0
+  order: 84
+  scroll_y: 455
   parent_id: 0
+25: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: MAP025
+  expanded: false
+  order: 17
+  scroll_y: 0
+  parent_id: 8
+82: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: school lumi
+  expanded: false
+  order: 77
+  scroll_y: 0
+  parent_id: 1
 16: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: MAP016
@@ -513,55 +534,77 @@
   order: 8
   scroll_y: 0
   parent_id: 8
-83: !ruby/object:RPG::MapInfo
+35: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: bike shop lumi
-  expanded: false
-  order: 77
+  name: Route 02
+  expanded: true
+  order: 39
   scroll_y: 0
-  parent_id: 1
-26: !ruby/object:RPG::MapInfo
+  parent_id: 0
+54: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: PA Interiors
+  name: Route 03
   expanded: false
-  order: 35
+  order: 54
   scroll_y: 0
-  parent_id: 33
-64: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: White Snakes Interiors
+  parent_id: 0
+73: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: Grotte Gelume
   expanded: false
-  order: 59
-  scroll_y: 0
-  parent_id: 56
-7: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: Musee 3
+  order: 88
+  scroll_y: 455
+  parent_id: 0
+92: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: !binary |-
+    UGFzc2FnZSBDb3JvdcOnYQ==
   expanded: false
-  order: 44
-  scroll_y: 0
-  parent_id: 5
+  order: 92
+  scroll_y: 455
+  parent_id: 0
 45: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: R1 H GR1
   expanded: false
-  order: 28
+  order: 29
   scroll_y: 0
   parent_id: 42
-74: !ruby/object:RPG::MapInfo
+7: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: Gate Right lumi
+  name: Musee 3
   expanded: false
-  order: 71
+  order: 45
   scroll_y: 0
-  parent_id: 1
-36: !ruby/object:RPG::MapInfo
+  parent_id: 5
+64: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: verdentia interiors
+  name: White Snakes Interiors
   expanded: false
-  order: 56
+  order: 60
   scroll_y: 0
   parent_id: 56
+26: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: PA Interiors
+  expanded: false
+  order: 36
+  scroll_y: 0
+  parent_id: 33
+83: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: bike shop lumi
+  expanded: false
+  order: 78
+  scroll_y: 0
+  parent_id: 1
+55: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: Grotte Rochthermes
+  expanded: false
+  order: 55
+  scroll_y: 0
+  parent_id: 0
 17: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: MAP017
@@ -569,28 +612,42 @@
   order: 9
   scroll_y: 0
   parent_id: 8
-55: !ruby/object:RPG::MapInfo
+36: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: Grotte Rochthermes
+  name: verdentia interiors
   expanded: false
-  order: 54
+  order: 57
   scroll_y: 0
-  parent_id: 0
-84: !ruby/object:RPG::MapInfo
+  parent_id: 56
+74: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: mall lumi
-  expanded: true
-  order: 78
+  name: Gate Right lumi
+  expanded: false
+  order: 72
   scroll_y: 0
   parent_id: 1
-65: !ruby/object:RPG::MapInfo
+93: !ruby/object:RPG::MapInfo
   scroll_x: 809
   name: !binary |-
-    QmFzZSBjYWNow6llIGRlcyBXaGl0ZSBTbmFrZXM=
+    WsOpcGh5cmlvbg==
   expanded: false
-  order: 60
+  order: 93
   scroll_y: 455
-  parent_id: 56
+  parent_id: 0
+27: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: Oasisville Interiors
+  expanded: false
+  order: 25
+  scroll_y: 0
+  parent_id: 58
+46: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: Grotte Coralia
+  expanded: false
+  order: 41
+  scroll_y: 0
+  parent_id: 0
 8: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: Buffer
@@ -598,35 +655,28 @@
   order: 4
   scroll_y: 0
   parent_id: 14
-46: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: Grotte Coralia
-  expanded: false
-  order: 40
-  scroll_y: 0
-  parent_id: 0
-27: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: Oasisville Interiors
-  expanded: false
-  order: 24
-  scroll_y: 0
-  parent_id: 58
-75: !ruby/object:RPG::MapInfo
-  scroll_x: 0
-  name: Gate Left Lumi
-  expanded: false
-  order: 72
-  scroll_y: 0
-  parent_id: 1
-37: !ruby/object:RPG::MapInfo
+65: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: !binary |-
-    Q2VudHJlIFBva8OpbW9uIE1lcm1lc2E=
+    QmFzZSBjYWNow6llIGRlcyBXaGl0ZSBTbmFrZXM=
   expanded: false
-  order: 50
+  order: 61
   scroll_y: 0
-  parent_id: 43
+  parent_id: 56
+84: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: mall lumi
+  expanded: true
+  order: 79
+  scroll_y: 0
+  parent_id: 1
+56: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: Verdentia
+  expanded: true
+  order: 56
+  scroll_y: 0
+  parent_id: 0
 18: !ruby/object:RPG::MapInfo
   scroll_x: 0
   name: MAP018
@@ -634,10 +684,26 @@
   order: 10
   scroll_y: 0
   parent_id: 8
-56: !ruby/object:RPG::MapInfo
+37: !ruby/object:RPG::MapInfo
   scroll_x: 0
-  name: Verdentia
-  expanded: true
-  order: 55
+  name: !binary |-
+    Q2VudHJlIFBva8OpbW9uIE1lcm1lc2E=
+  expanded: false
+  order: 51
   scroll_y: 0
+  parent_id: 43
+75: !ruby/object:RPG::MapInfo
+  scroll_x: 0
+  name: Gate Left Lumi
+  expanded: false
+  order: 73
+  scroll_y: 0
+  parent_id: 1
+94: !ruby/object:RPG::MapInfo
+  scroll_x: 809
+  name: !binary |-
+    UGFzc2FnZSBMaWJlcnTDqQ==
+  expanded: false
+  order: 94
+  scroll_y: 455
   parent_id: 0

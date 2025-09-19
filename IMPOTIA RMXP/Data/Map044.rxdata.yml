@@ -2594,7 +2594,7 @@ events:
       through: false
     name: Colors
     y: 4
-    x: 15
+    x: 18
     id: 28
   29: !ruby/object:RPG::Event
     pages:
@@ -4261,7 +4261,7 @@ events:
       - !ruby/object:RPG::EventCommand
         parameters:
         - - somegon
-          - ''
+          - zephyrion
           - ''
           - Retour
         - 4
@@ -4277,8 +4277,8 @@ events:
         parameters:
         - 0
         - 88
-        - 39
-        - 18
+        - 71
+        - 62
         - 0
         - 0
         indent: 1
@@ -4290,9 +4290,19 @@ events:
       - !ruby/object:RPG::EventCommand
         parameters:
         - 1
-        - ''
+        - zephyrion
         indent: 0
         code: 402
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - 0
+        - 93
+        - 4
+        - 26
+        - 0
+        - 0
+        indent: 1
+        code: 201
       - !ruby/object:RPG::EventCommand
         parameters: []
         indent: 1
@@ -5026,7 +5036,7 @@ events:
       through: false
     name: debug time guy
     y: 4
-    x: 3
+    x: 15
     id: 46
   5: !ruby/object:RPG::Event
     pages:
@@ -5235,21 +5245,19 @@ events:
       list:
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 125
-        - 125
-        - 0
+        - give_item(:hm01)
         indent: 0
-        code: 121
+        code: 355
       - !ruby/object:RPG::EventCommand
         parameters:
-        - 0
-        - 33
-        - 11
-        - 14
-        - 0
-        - 0
+        - give_item(:hm02)
         indent: 0
-        code: 201
+        code: 355
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - give_item(:hm03)
+        indent: 0
+        code: 355
       - !ruby/object:RPG::EventCommand
         parameters: []
         indent: 0
