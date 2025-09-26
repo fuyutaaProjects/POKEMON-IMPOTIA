@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Maps/Hill.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
+        ".",
         "PNG to tmx",
-        "Tilesets",
-        "."
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -224,6 +224,14 @@
                 "y": 1482
             }
         },
+        "Maps/Brise-Lames.tmx": {
+            "scale": 1,
+            "selectedLayer": 30,
+            "viewCenter": {
+                "x": 1612,
+                "y": 1039.5
+            }
+        },
         "Maps/DEBUG_ROOM.tmx": {
             "scale": 0.5,
             "selectedLayer": 4,
@@ -304,12 +312,20 @@
                 "y": 263.5
             }
         },
+        "Maps/Hill.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1915.1515151515152,
+                "y": 1107.5757575757577
+            }
+        },
         "Maps/Laboursol.tmx": {
             "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 769.3333333333333,
-                "y": 1655.333333333333
+                "x": 722.6666666666666,
+                "y": 1820.6666666666665
             }
         },
         "Maps/Lumicite.tmx": {
@@ -391,8 +407,16 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1231,
-                "y": 418.5
+                "x": 1118.5,
+                "y": 719
+            }
+        },
+        "Maps/Passage Liberte.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 951.3333333333333,
+                "y": 701.3333333333334
             }
         },
         "Maps/Passage Luminescence.tmx": {
@@ -405,10 +429,10 @@
         },
         "Maps/Passage corouca.tmx": {
             "scale": 0.75,
-            "selectedLayer": 33,
+            "selectedLayer": 32,
             "viewCenter": {
-                "x": 1134,
-                "y": 1278.6666666666665
+                "x": 1152,
+                "y": 1022
             }
         },
         "Maps/Passagge corouca.tmx": {
@@ -423,16 +447,16 @@
             "scale": 0.75,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 988.6666666666666,
-                "y": 781.3333333333333
+                "x": 1219.3333333333335,
+                "y": 885.3333333333333
             }
         },
         "Maps/Route_04.tmx": {
-            "scale": 1.5,
+            "scale": 0.33,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1002.3333333333333,
-                "y": 834.6666666666665
+                "x": 1596.9696969696972,
+                "y": 1231.8181818181818
             }
         },
         "Maps/Route_05.tmx": {
@@ -449,6 +473,14 @@
             "viewCenter": {
                 "x": 1309.3333333333333,
                 "y": 1610
+            }
+        },
+        "Maps/Soladelle.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 31,
+            "viewCenter": {
+                "x": 1869.6969696969695,
+                "y": 1025.7575757575755
             }
         },
         "Maps/Somegon - Copie - Copie.tmx": {
@@ -484,27 +516,27 @@
             }
         },
         "Maps/Somegon.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 31,
+            "scale": 1.5,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1900,
-                "y": 1836.6666666666665
+                "x": 1836,
+                "y": 1115.6666666666665
             }
         },
         "Maps/Sources chaudes de Soladelle.tmx": {
             "scale": 0.5,
             "selectedLayer": 33,
             "viewCenter": {
-                "x": 3298,
-                "y": 1439
+                "x": 2368,
+                "y": 3061
             }
         },
         "Maps/Sylveria.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 4,
+            "scale": 1.5,
+            "selectedLayer": 25,
             "viewCenter": {
-                "x": 2205,
-                "y": 1262
+                "x": 1085.3333333333335,
+                "y": 1014.3333333333333
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -531,6 +563,14 @@
                 "y": 154
             }
         },
+        "Maps/Victoria.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1709.3333333333333,
+                "y": 734.3333333333333
+            }
+        },
         "Maps/Zenith.tmx": {
             "expandedGroupLayers": [
                 37
@@ -551,11 +591,11 @@
             }
         },
         "Maps/canal carpia.tmx": {
-            "scale": 1,
-            "selectedLayer": 3,
+            "scale": 0.75,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1185.5,
-                "y": 1074
+                "x": 1561.3333333333333,
+                "y": 1702
             }
         },
         "Maps/comment editor test.tmx": {
@@ -767,11 +807,11 @@
             }
         },
         "Maps/rm_33_port_avalon.tmx": {
-            "scale": 1,
-            "selectedLayer": 24,
+            "scale": 2,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 1351.5,
-                "y": 1149
+                "x": 1484.25,
+                "y": 2183
             }
         },
         "Maps/rm_34_sylvebrume.tmx": {
@@ -787,11 +827,11 @@
             }
         },
         "Maps/rm_35_route_02.tmx": {
-            "scale": 1,
-            "selectedLayer": 18,
+            "scale": 1.5,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1464,
-                "y": 451.5
+                "x": 538.3333333333333,
+                "y": 492
             }
         },
         "Maps/rm_3_player_s_house.tmx": {
@@ -811,11 +851,11 @@
             }
         },
         "Maps/rm_43_mermesa.tmx": {
-            "scale": 0.25,
+            "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1634,
-                "y": 732
+                "x": 837,
+                "y": 616.5
             }
         },
         "Maps/rm_45_r1_h_gr1.tmx": {
@@ -878,8 +918,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1186.5,
-                "y": 1195
+                "x": 560,
+                "y": 897.5
             }
         },
         "Maps/rm_53_pok__shop_pa.tmx": {
@@ -892,10 +932,10 @@
         },
         "Maps/rm_54_route_03.tmx": {
             "scale": 3,
-            "selectedLayer": 2,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1205.1666666666665,
-                "y": 319.3333333333333
+                "x": 959.3333333333333,
+                "y": 863.1666666666666
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
@@ -971,27 +1011,27 @@
             }
         },
         "Maps/rules_buildings.tmx": {
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1907.25,
-                "y": 1009.5
+                "x": 4296,
+                "y": 917.5
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 7,
+            "scale": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 2576.333333333333,
-                "y": 1028
+                "x": 3068.75,
+                "y": 639.5
             }
         },
         "Maps/rules_random_tiles.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 1,
+            "scale": 0.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 2263.636363636363,
-                "y": 968.181818181818
+                "x": 3840,
+                "y": 1671
             }
         },
         "Maps/rules_terrain_basics.tmx": {
@@ -1004,34 +1044,34 @@
         },
         "Maps/rules_terrain_basics_v2.tmx": {
             "scale": 2,
-            "selectedLayer": 7,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 698,
-                "y": 3436.75
+                "x": 229.5,
+                "y": 4147.75
             }
         },
         "Maps/rules_tileset_interiors.tmx": {
-            "scale": 2,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 775,
-                "y": 1273.5
+                "x": 1192,
+                "y": 3879
             }
         },
         "Maps/rules_town_specifics.tmx": {
-            "scale": 0.5,
+            "scale": 2,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 758,
-                "y": 253
+                "x": 216.5,
+                "y": 432.75
             }
         },
         "Maps/rules_trees.tmx": {
-            "scale": 0.75,
+            "scale": 3,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 874.6666666666666,
-                "y": 530
+                "x": 1179.1666666666665,
+                "y": 393.66666666666663
             }
         },
         "Maps/somegon_houses_interiors.tmx": {
@@ -1155,11 +1195,11 @@
             }
         },
         "Maps/z_TEMPLATE.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 3,
+            "scale": 1,
+            "selectedLayer": 30,
             "viewCenter": {
-                "x": 996.9696969696971,
-                "y": 642.4242424242424
+                "x": 515.5,
+                "y": -432
             }
         },
         "Maps/zenith_interiors.tmx": {
@@ -1180,10 +1220,10 @@
         },
         "Maps/zephyrion.tmx": {
             "scale": 0.75,
-            "selectedLayer": 33,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1514,
-                "y": 1264
+                "x": 776,
+                "y": 643.3333333333334
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1686,7 +1726,7 @@
         },
         "Tilesets/terrain basics v2.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 4
+            "scaleInEditor": 2
         },
         "Tilesets/terrain_basics.tsx": {
             "scaleInDock": 1,
@@ -1723,21 +1763,25 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
+        "Maps/Soladelle.tmx",
+        "Maps/Route_04.tmx",
+        "Maps/Somegon.tmx",
+        "Maps/Hill.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/grotte_gelume.tmx",
-        "Maps/comment editor test.tmx",
-        "Maps/zephyrion.tmx",
-        "Maps/Passage corouca.tmx",
-        "Maps/Temporis.tmx",
-        "Maps/rm_33_port_avalon.tmx",
-        "Maps/move down test.tmx",
-        "Maps/Lumicite.tmx",
-        "Maps/Route_05.tmx",
-        "Maps/Zenith.tmx",
         "Maps/Sylveria.tmx",
-        "Maps/rm_56_verdentia.tmx"
+        "Maps/Passage corouca.tmx",
+        "Maps/Route_04.tmx",
+        "Maps/Somegon.tmx",
+        "Maps/zephyrion.tmx",
+        "Maps/Hill.tmx",
+        "Maps/rules_trees.tmx",
+        "Maps/Soladelle.tmx",
+        "Maps/canal carpia.tmx",
+        "Tilesets/terrain basics v2.tsx",
+        "Maps/Victoria.tmx",
+        "Maps/rules_nature.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

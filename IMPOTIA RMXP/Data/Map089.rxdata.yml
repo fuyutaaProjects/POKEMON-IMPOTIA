@@ -327,6 +327,98 @@ events:
       move_type: 0
       list:
       - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          YWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYcOp
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - a
+        indent: 0
+        code: 401
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          YcOp
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aa
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aa3
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaa4
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaa5
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaaa6
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaaaa7
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaaaaa8
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaaaaaa9
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaaaaaa10
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaaaaaaa11
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaaaaaaaa12
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaaaaaaaaa13
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaaaaaaaaaa14
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - aaaaaaaaaaaaa15
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - la tortue la tortue la tortue la tortue la tortue la tortue
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
         parameters: []
         indent: 0
         code: 0
@@ -740,6 +832,18 @@ events:
       - !ruby/object:RPG::EventCommand
         parameters:
         - tor "tue"
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          wqcgdG9ydHVl
+        indent: 0
+        code: 101
+      - !ruby/object:RPG::EventCommand
+        parameters:
+        - !binary |-
+          dG9ydHVlIMKn
         indent: 0
         code: 101
       - !ruby/object:RPG::EventCommand
