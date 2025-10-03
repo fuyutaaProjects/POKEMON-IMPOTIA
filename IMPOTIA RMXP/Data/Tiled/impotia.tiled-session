@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Hill.tmx",
+    "activeFile": "Maps/zephyrion.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
@@ -313,19 +313,19 @@
             }
         },
         "Maps/Hill.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 0,
+            "scale": 4,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1915.1515151515152,
-                "y": 1107.5757575757577
+                "x": 1584.75,
+                "y": 763.625
             }
         },
         "Maps/Laboursol.tmx": {
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 722.6666666666666,
-                "y": 1820.6666666666665
+                "x": 1420,
+                "y": 1699.333333333333
             }
         },
         "Maps/Lumicite.tmx": {
@@ -335,8 +335,8 @@
             "scale": 2,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 2383.75,
-                "y": 671
+                "x": 1540.5,
+                "y": 509.75
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -407,8 +407,8 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1118.5,
-                "y": 719
+                "x": 1618,
+                "y": 748.5
             }
         },
         "Maps/Passage Liberte.tmx": {
@@ -428,11 +428,11 @@
             }
         },
         "Maps/Passage corouca.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 32,
+            "scale": 2,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 1152,
-                "y": 1022
+                "x": 1731,
+                "y": 1632.75
             }
         },
         "Maps/Passagge corouca.tmx": {
@@ -455,8 +455,8 @@
             "scale": 0.33,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1596.9696969696972,
-                "y": 1231.8181818181818
+                "x": 2842.424242424242,
+                "y": 1286.3636363636363
             }
         },
         "Maps/Route_05.tmx": {
@@ -476,11 +476,11 @@
             }
         },
         "Maps/Soladelle.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 31,
+            "scale": 1,
+            "selectedLayer": 27,
             "viewCenter": {
-                "x": 1869.6969696969695,
-                "y": 1025.7575757575755
+                "x": 976.5,
+                "y": 725
             }
         },
         "Maps/Somegon - Copie - Copie.tmx": {
@@ -519,24 +519,24 @@
             "scale": 1.5,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 1836,
-                "y": 1115.6666666666665
+                "x": 2106.6666666666665,
+                "y": 1125.6666666666665
             }
         },
         "Maps/Sources chaudes de Soladelle.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 33,
+            "scale": 0.75,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2368,
-                "y": 3061
+                "x": 2718.666666666667,
+                "y": 887.3333333333333
             }
         },
         "Maps/Sylveria.tmx": {
             "scale": 1.5,
             "selectedLayer": 25,
             "viewCenter": {
-                "x": 1085.3333333333335,
-                "y": 1014.3333333333333
+                "x": 1358,
+                "y": 1025.6666666666665
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -564,11 +564,11 @@
             }
         },
         "Maps/Victoria.tmx": {
-            "scale": 1.5,
+            "scale": 2,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 1709.3333333333333,
-                "y": 734.3333333333333
+                "x": 2902.5,
+                "y": 1255.25
             }
         },
         "Maps/Zenith.tmx": {
@@ -1219,11 +1219,11 @@
             }
         },
         "Maps/zephyrion.tmx": {
-            "scale": 0.75,
+            "scale": 0.5,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 776,
-                "y": 643.3333333333334
+                "x": 1720,
+                "y": 977
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1763,25 +1763,23 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Soladelle.tmx",
-        "Maps/Route_04.tmx",
-        "Maps/Somegon.tmx",
-        "Maps/Hill.tmx"
+        "Maps/Victoria.tmx",
+        "Maps/zephyrion.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/Sylveria.tmx",
+        "Maps/zephyrion.tmx",
+        "Maps/Victoria.tmx",
+        "Maps/Laboursol.tmx",
+        "Maps/Hill.tmx",
         "Maps/Passage corouca.tmx",
+        "Maps/Soladelle.tmx",
+        "Maps/Sources chaudes de Soladelle.tmx",
+        "Maps/Oasisville.tmx",
+        "Maps/Sylveria.tmx",
         "Maps/Route_04.tmx",
         "Maps/Somegon.tmx",
-        "Maps/zephyrion.tmx",
-        "Maps/Hill.tmx",
-        "Maps/rules_trees.tmx",
-        "Maps/Soladelle.tmx",
-        "Maps/canal carpia.tmx",
-        "Tilesets/terrain basics v2.tsx",
-        "Maps/Victoria.tmx",
-        "Maps/rules_nature.tmx"
+        "Maps/rules_trees.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
