@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/zephyrion.tmx",
+    "activeFile": "Maps/Victoria.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Maps",
-        ".",
         "PNG to tmx",
+        ".",
+        "Maps",
         "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -328,15 +328,23 @@
                 "y": 1699.333333333333
             }
         },
+        "Maps/Le FISC.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1020,
+                "y": 1479
+            }
+        },
         "Maps/Lumicite.tmx": {
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 2,
+            "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1540.5,
-                "y": 509.75
+                "x": 1482,
+                "y": 649.3333333333334
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -451,6 +459,14 @@
                 "y": 885.3333333333333
             }
         },
+        "Maps/Route Victoire.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 863.3333333333333,
+                "y": 46.33333333333337
+            }
+        },
         "Maps/Route_04.tmx": {
             "scale": 0.33,
             "selectedLayer": 5,
@@ -476,11 +492,11 @@
             }
         },
         "Maps/Soladelle.tmx": {
-            "scale": 1,
-            "selectedLayer": 27,
+            "scale": 0.75,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 976.5,
-                "y": 725
+                "x": 2052,
+                "y": 1186
             }
         },
         "Maps/Somegon - Copie - Copie.tmx": {
@@ -524,11 +540,11 @@
             }
         },
         "Maps/Sources chaudes de Soladelle.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 8,
+            "scale": 1.5,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 2718.666666666667,
-                "y": 887.3333333333333
+                "x": 1756.6666666666665,
+                "y": 229
             }
         },
         "Maps/Sylveria.tmx": {
@@ -564,11 +580,11 @@
             }
         },
         "Maps/Victoria.tmx": {
-            "scale": 2,
-            "selectedLayer": 7,
+            "scale": 0.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 2902.5,
-                "y": 1255.25
+                "x": 1282,
+                "y": 835
             }
         },
         "Maps/Zenith.tmx": {
@@ -591,11 +607,11 @@
             }
         },
         "Maps/canal carpia.tmx": {
-            "scale": 0.75,
+            "scale": 1.5,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 1561.3333333333333,
-                "y": 1702
+                "x": 1982.6666666666665,
+                "y": 1742.3333333333333
             }
         },
         "Maps/comment editor test.tmx": {
@@ -1764,22 +1780,22 @@
     "map.width": 50,
     "openFiles": [
         "Maps/Victoria.tmx",
-        "Maps/zephyrion.tmx"
+        "Maps/canal carpia.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/zephyrion.tmx",
+        "Maps/Route Victoire.tmx",
+        "Maps/Le FISC.tmx",
+        "Maps/canal carpia.tmx",
         "Maps/Victoria.tmx",
+        "Maps/Lumicite.tmx",
+        "Maps/zephyrion.tmx",
         "Maps/Laboursol.tmx",
         "Maps/Hill.tmx",
         "Maps/Passage corouca.tmx",
         "Maps/Soladelle.tmx",
         "Maps/Sources chaudes de Soladelle.tmx",
-        "Maps/Oasisville.tmx",
-        "Maps/Sylveria.tmx",
-        "Maps/Route_04.tmx",
-        "Maps/Somegon.tmx",
-        "Maps/rules_trees.tmx"
+        "Maps/Oasisville.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
