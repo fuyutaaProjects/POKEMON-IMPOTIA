@@ -68,17 +68,17 @@
       "resources": {
         "icon": "slitik",
         "iconShiny": "slitik_shiny",
-        "front": "slitik",
+        "front": "Laskad",
         "frontShiny": "slitik",
-        "back": "slitik",
+        "back": "Laskad",
         "backShiny": "slitik",
         "footprint": "slitik",
         "character": "slitik",
         "characterShiny": "slitik",
-        "cry": "100cry.ogg",
-        "hasFemale": false,
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "100cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -99,17 +99,12 @@
         {
           "klass": "LevelLearnableMove",
           "move": "electro_ball",
-          "level": 9
+          "level": 11
         },
         {
           "klass": "LevelLearnableMove",
           "move": "water_gun",
-          "level": 12
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "string_shot",
-          "level": 15
+          "level": 13
         },
         {
           "klass": "LevelLearnableMove",
@@ -128,7 +123,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "signal_beam",
+          "move": "scald",
           "level": 28
         },
         {

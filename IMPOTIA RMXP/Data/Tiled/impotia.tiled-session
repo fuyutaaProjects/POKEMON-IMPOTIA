@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Maps/Ile Hibiscus.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Maps",
-        "PNG to tmx",
         "Tilesets",
-        "."
+        ".",
+        "PNG to tmx",
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -321,11 +321,11 @@
             }
         },
         "Maps/Ile Hibiscus.tmx": {
-            "scale": 0.25,
+            "scale": 4,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 2604,
-                "y": 1550
+                "x": 615.125,
+                "y": 1557
             }
         },
         "Maps/Laboursol.tmx": {
@@ -337,11 +337,11 @@
             }
         },
         "Maps/Le FISC.tmx": {
-            "scale": 1,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1065.5,
-                "y": 1400
+                "x": 1004,
+                "y": 1378.6666666666665
             }
         },
         "Maps/Lumicite.tmx": {
@@ -460,11 +460,11 @@
             }
         },
         "Maps/Prairie Flora.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 33,
+            "scale": 0.25,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1246,
-                "y": 825
+                "x": 1900,
+                "y": 1406
             }
         },
         "Maps/Route Victoire.tmx": {
@@ -540,11 +540,11 @@
             }
         },
         "Maps/Somegon.tmx": {
-            "scale": 1,
+            "scale": 0.5,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 646.5,
-                "y": 1918
+                "x": 1840,
+                "y": 1120
             }
         },
         "Maps/Sources chaudes de Soladelle.tmx": {
@@ -615,11 +615,11 @@
             }
         },
         "Maps/canal carpia.tmx": {
-            "scale": 2,
-            "selectedLayer": 8,
+            "scale": 0.25,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1578,
-                "y": 3354.75
+                "x": 1984,
+                "y": 1744
             }
         },
         "Maps/comment editor test.tmx": {
@@ -891,11 +891,11 @@
             }
         },
         "Maps/rm_46_cave_sous_marine.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 1,
+            "scale": 2,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1457.3333333333333,
-                "y": 2362
+                "x": 1743.5,
+                "y": 2771.75
             }
         },
         "Maps/rm_47_centre_pok__mon_pa.tmx": {
@@ -1795,21 +1795,25 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
+        "Maps/Le FISC.tmx",
+        "Maps/canal carpia.tmx",
+        "Maps/Somegon.tmx",
+        "Maps/Ile Hibiscus.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/Le FISC.tmx",
+        "Maps/canal carpia.tmx",
+        "Maps/Somegon.tmx",
+        "Maps/Ile Hibiscus.tmx",
+        "Maps/rm_46_cave_sous_marine.tmx",
         "Maps/Prairie Flora.tmx",
         "Maps/Victoria.tmx",
         "Maps/Route Victoire.tmx",
-        "Maps/Le FISC.tmx",
         "Maps/Hill.tmx",
         "Maps/Sources chaudes de Soladelle.tmx",
         "Maps/Soladelle.tmx",
-        "Maps/Passage corouca.tmx",
-        "Maps/Passage Liberte.tmx",
-        "Maps/Bois du Repos.tmx",
-        "Maps/zephyrion.tmx",
-        "Maps/zephyrion_interiors.tmx"
+        "Maps/Passage corouca.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

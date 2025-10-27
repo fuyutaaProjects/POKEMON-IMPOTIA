@@ -68,17 +68,17 @@
       "resources": {
         "icon": "Solépine",
         "iconShiny": "solepine_shiny",
-        "front": "Solépine",
-        "frontShiny": "Solépine",
-        "back": "Solépine",
-        "backShiny": "Solépine",
+        "front": "solepine",
+        "frontShiny": "Solepine",
+        "back": "solepine",
+        "backShiny": "Solepine",
         "footprint": "solepine",
         "character": "solepine",
         "characterShiny": "solepine",
-        "cry": "Solepine.ogg",
-        "hasFemale": false,
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "Solepine.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
