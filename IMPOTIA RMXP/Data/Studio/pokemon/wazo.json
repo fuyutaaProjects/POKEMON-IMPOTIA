@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 619,
-  "dbSymbol": "mienfoo",
+  "dbSymbol": "wazo",
   "forms": [
     {
       "form": 0,
@@ -27,12 +27,12 @@
       "evDfs": 0,
       "evolutions": [
         {
-          "dbSymbol": "mienshao",
+          "dbSymbol": "superwazo",
           "form": 0,
           "conditions": [
             {
               "type": "minLevel",
-              "value": 50
+              "value": 25
             }
           ]
         }
@@ -47,7 +47,7 @@
         8
       ],
       "hatchSteps": 6400,
-      "babyDbSymbol": "mienfoo",
+      "babyDbSymbol": "wazo",
       "babyForm": 0,
       "itemHeld": [
         {

@@ -25,18 +25,7 @@
       "evSpd": 0,
       "evAts": 1,
       "evDfs": 0,
-      "evolutions": [
-        {
-          "dbSymbol": "taxevade",
-          "form": 0,
-          "conditions": [
-            {
-              "type": "minLevel",
-              "value": 30
-            }
-          ]
-        }
-      ],
+      "evolutions": [],
       "experienceType": 3,
       "baseExperience": 66,
       "baseLoyalty": 70,
@@ -75,10 +64,10 @@
         "footprint": "570",
         "character": "570",
         "characterShiny": "570",
-        "cry": "570cry.ogg",
-        "hasFemale": false,
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "570cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
