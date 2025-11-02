@@ -11,8 +11,8 @@
       },
       "height": 1.1,
       "weight": 27,
-      "type1": "normal",
-      "type2": "__undef__",
+      "type1": "poison",
+      "type2": "dark",
       "baseHp": 60,
       "baseAtk": 85,
       "baseDfe": 69,
@@ -57,17 +57,17 @@
       "resources": {
         "icon": "505",
         "iconShiny": "505",
-        "front": "505",
+        "front": "Vampirat",
         "frontShiny": "505",
-        "back": "505",
+        "back": "Vampirat",
         "backShiny": "505",
         "footprint": "505",
         "character": "505",
         "characterShiny": "505",
-        "cry": "505cry.ogg",
-        "hasFemale": false,
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "505cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

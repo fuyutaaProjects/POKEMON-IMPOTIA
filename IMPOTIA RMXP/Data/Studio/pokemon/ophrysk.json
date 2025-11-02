@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 13,
-  "dbSymbol": "miltap",
+  "dbSymbol": "ophrysk",
   "forms": [
     {
       "form": 0,
@@ -36,7 +36,7 @@
         3
       ],
       "hatchSteps": 3840,
-      "babyDbSymbol": "miltap",
+      "babyDbSymbol": "ophrysk",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -56,14 +56,14 @@
       "frontOffsetY": 29,
       "resources": {
         "icon": "taptap",
-        "iconShiny": "miltap",
+        "iconShiny": "ophrysk",
         "front": "Ophrysk",
-        "frontShiny": "miltap",
+        "frontShiny": "ophrysk",
         "back": "Ophrysk",
-        "backShiny": "miltap",
-        "footprint": "miltap",
-        "character": "miltap",
-        "characterShiny": "miltap",
+        "backShiny": "ophrysk",
+        "footprint": "ophrysk",
+        "character": "ophrysk",
+        "characterShiny": "ophrysk",
         "cry": "013cry.ogg",
         "hasFemale": false,
         "egg": "",

@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 460,
-  "dbSymbol": "jivrai",
+  "dbSymbol": "capyron",
   "forms": [
     {
       "form": 0,
@@ -12,7 +12,7 @@
       "height": 1.2,
       "weight": 100.5,
       "type1": "ice",
-      "type2": "fire",
+      "type2": "__undef__",
       "baseHp": 58,
       "baseAtk": 78,
       "baseDfe": 88,
@@ -25,7 +25,18 @@
       "evSpd": 0,
       "evAts": 2,
       "evDfs": 1,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "dbSymbol": "barattu",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 30
+            }
+          ]
+        }
+      ],
       "experienceType": 2,
       "baseExperience": 173,
       "baseLoyalty": 70,
@@ -55,21 +66,21 @@
       ],
       "frontOffsetY": 13,
       "resources": {
-        "icon": "jivrai",
-        "iconShiny": "jivrai",
-        "front": "jivrai",
-        "frontF": "jivrai",
-        "frontShiny": "jivrai",
-        "frontShinyF": "jivrai",
-        "back": "jivrai",
-        "backShiny": "jivrai",
-        "footprint": "jivrai",
-        "character": "jivrai",
-        "characterShiny": "jivrai",
-        "cry": "460cry.ogg",
-        "hasFemale": false,
+        "icon": "capyron",
+        "iconShiny": "capyron",
+        "front": "capyron",
+        "frontF": "capyron",
+        "frontShiny": "capyron",
+        "frontShinyF": "capyron",
+        "back": "capyron",
+        "backShiny": "capyron",
+        "footprint": "capyron",
+        "character": "capyron",
+        "characterShiny": "capyron",
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "460cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -109,18 +120,8 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "fire_fang",
-          "level": 25
-        },
-        {
-          "klass": "LevelLearnableMove",
           "move": "crunch",
           "level": 30
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "eruption",
-          "level": 34
         },
         {
           "klass": "LevelLearnableMove",
@@ -352,20 +353,20 @@
       "frontOffsetY": 0,
       "resources": {
         "icon": "460",
-        "iconShiny": "Jivrai",
-        "front": "Jivrai",
-        "frontF": "Jivrai",
-        "frontShiny": "Jivrai",
-        "frontShinyF": "Jivrai",
-        "back": "Jivrai",
-        "backShiny": "Jivrai",
-        "footprint": "Jivrai",
-        "character": "Jivrai",
-        "characterShiny": "Jivrai",
-        "cry": "460cry.ogg",
-        "hasFemale": true,
+        "iconShiny": "Capyron",
+        "front": "Capyron",
+        "frontF": "Capyron",
+        "frontShiny": "Capyron",
+        "frontShinyF": "Capyron",
+        "back": "Capyron",
+        "backShiny": "Capyron",
+        "footprint": "Capyron",
+        "character": "Capyron",
+        "characterShiny": "Capyron",
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "460cry.ogg",
+        "hasFemale": true
       },
       "moveSet": [
         {
@@ -926,20 +927,20 @@
       "frontOffsetY": 0,
       "resources": {
         "icon": "460_30",
-        "iconShiny": "Jivrai",
-        "front": "Jivrai",
-        "frontF": "Jivrai",
-        "frontShiny": "Jivrai",
-        "frontShinyF": "Jivrai",
-        "back": "Jivrai",
-        "backShiny": "Jivrai",
-        "footprint": "Jivrai",
-        "character": "Jivrai",
-        "characterShiny": "Jivrai",
-        "cry": "460cry.ogg",
-        "hasFemale": true,
+        "iconShiny": "Capyron",
+        "front": "Capyron",
+        "frontF": "Capyron",
+        "frontShiny": "Capyron",
+        "frontShinyF": "Capyron",
+        "back": "Capyron",
+        "backShiny": "Capyron",
+        "footprint": "Capyron",
+        "character": "Capyron",
+        "characterShiny": "Capyron",
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "460cry.ogg",
+        "hasFemale": true
       },
       "moveSet": [
         {

@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 37,
-  "dbSymbol": "carroflame",
+  "dbSymbol": "dissibier",
   "forms": [
     {
       "form": 0,
@@ -47,7 +47,7 @@
         5
       ],
       "hatchSteps": 5120,
-      "babyDbSymbol": "carroflame",
+      "babyDbSymbol": "dissibier",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -72,10 +72,10 @@
         "frontShiny": "Dissibier",
         "back": "Dissibier",
         "backShiny": "dissibier",
-        "footprint": "carroflame",
-        "character": "carroflame",
-        "characterShiny": "carroflame",
-        "cry": "Carroflame.ogg",
+        "footprint": "dissibier",
+        "character": "dissibier",
+        "characterShiny": "dissibier",
+        "cry": "Dissibier.ogg",
         "hasFemale": false,
         "egg": "",
         "iconEgg": ""
@@ -415,7 +415,7 @@
         5
       ],
       "hatchSteps": 5120,
-      "babyDbSymbol": "carroflame",
+      "babyDbSymbol": "dissibier",
       "babyForm": 1,
       "itemHeld": [
         {
@@ -435,14 +435,14 @@
       "frontOffsetY": 0,
       "resources": {
         "icon": "037_01",
-        "iconShiny": "Carroflame",
-        "front": "Carroflame",
-        "frontShiny": "Carroflame",
-        "back": "Carroflame",
-        "backShiny": "Carroflame",
-        "footprint": "Carroflame",
-        "character": "Carroflame",
-        "characterShiny": "Carroflame",
+        "iconShiny": "Dissibier",
+        "front": "Dissibier",
+        "frontShiny": "Dissibier",
+        "back": "Dissibier",
+        "backShiny": "Dissibier",
+        "footprint": "Dissibier",
+        "character": "Dissibier",
+        "characterShiny": "Dissibier",
         "cry": "037cry.ogg",
         "hasFemale": false,
         "egg": "",

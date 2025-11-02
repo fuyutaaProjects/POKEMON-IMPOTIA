@@ -11,7 +11,7 @@
       },
       "height": 1.2,
       "weight": 24.9,
-      "type1": "normal",
+      "type1": "fighting",
       "type2": "flying",
       "baseHp": 85,
       "baseAtk": 120,
@@ -57,19 +57,19 @@
       "resources": {
         "icon": "398",
         "iconShiny": "398",
-        "front": "398",
+        "front": "Megawazo",
         "frontF": "398",
         "frontShiny": "398",
         "frontShinyF": "398",
-        "back": "398",
+        "back": "Megawazo",
         "backShiny": "398",
         "footprint": "398",
         "character": "398",
         "characterShiny": "398",
-        "cry": "398cry.ogg",
-        "hasFemale": true,
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "398cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 221,
-  "dbSymbol": "megamagla",
+  "dbSymbol": "barattu",
   "forms": [
     {
       "form": 0,
@@ -36,7 +36,7 @@
         5
       ],
       "hatchSteps": 5120,
-      "babyDbSymbol": "stalglama",
+      "babyDbSymbol": "capyron",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -55,23 +55,23 @@
       ],
       "frontOffsetY": 21,
       "resources": {
-        "icon": "megamagla",
-        "iconShiny": "megamagla",
-        "front": "megamagla",
-        "frontF": "megamagla",
-        "frontShiny": "megamagla",
-        "frontShinyF": "megamagla",
-        "back": "megamagla",
-        "backF": "megamagla",
-        "backShiny": "megamagla",
-        "backShinyF": "megamagla",
-        "footprint": "megamagla",
-        "character": "megamagla",
-        "characterShiny": "megamagla",
-        "cry": "221cry.ogg",
-        "hasFemale": false,
+        "icon": "barattu",
+        "iconShiny": "barattu",
+        "front": "barattu",
+        "frontF": "barattu",
+        "frontShiny": "barattu",
+        "frontShinyF": "barattu",
+        "back": "barattu",
+        "backF": "barattu",
+        "backShiny": "barattu",
+        "backShinyF": "barattu",
+        "footprint": "barattu",
+        "character": "barattu",
+        "characterShiny": "barattu",
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "221cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

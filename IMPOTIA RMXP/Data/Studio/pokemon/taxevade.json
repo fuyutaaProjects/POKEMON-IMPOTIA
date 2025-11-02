@@ -25,7 +25,17 @@
       "evSpd": 0,
       "evAts": 2,
       "evDfs": 0,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "form": 0,
+          "conditions": [
+            {
+              "type": "gemme",
+              "value": "amulet_coin"
+            }
+          ]
+        }
+      ],
       "experienceType": 2,
       "baseExperience": 179,
       "baseLoyalty": 70,
@@ -64,10 +74,10 @@
         "footprint": "taxevade",
         "character": "taxevade",
         "characterShiny": "taxevade",
-        "cry": "571cry.ogg",
-        "hasFemale": false,
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "571cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

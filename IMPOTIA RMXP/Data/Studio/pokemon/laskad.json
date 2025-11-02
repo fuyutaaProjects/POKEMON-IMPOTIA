@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 100,
-  "dbSymbol": "slitik",
+  "dbSymbol": "laskad",
   "forms": [
     {
       "form": 0,
@@ -27,7 +27,7 @@
       "evDfs": 0,
       "evolutions": [
         {
-          "dbSymbol": "blocharj",
+          "dbSymbol": "bioluma",
           "form": 0,
           "conditions": [
             {
@@ -47,7 +47,7 @@
         10
       ],
       "hatchSteps": 5120,
-      "babyDbSymbol": "slitik",
+      "babyDbSymbol": "laskad",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -66,15 +66,15 @@
       ],
       "frontOffsetY": 33,
       "resources": {
-        "icon": "slitik",
-        "iconShiny": "slitik_shiny",
+        "icon": "laskad",
+        "iconShiny": "laskad_shiny",
         "front": "Laskad",
-        "frontShiny": "slitik",
+        "frontShiny": "laskad",
         "back": "Laskad",
-        "backShiny": "slitik",
-        "footprint": "slitik",
-        "character": "slitik",
-        "characterShiny": "slitik",
+        "backShiny": "laskad",
+        "footprint": "laskad",
+        "character": "laskad",
+        "characterShiny": "laskad",
         "egg": "",
         "iconEgg": "",
         "cry": "100cry.ogg",

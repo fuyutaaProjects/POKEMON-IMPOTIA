@@ -17,7 +17,7 @@
       "baseAtk": 61,
       "baseDfe": 81,
       "baseSpd": 31,
-      "baseAts": 81,
+      "baseAts": 61,
       "baseDfs": 61,
       "evHp": 0,
       "evAtk": 0,
@@ -25,18 +25,7 @@
       "evSpd": 0,
       "evAts": 0,
       "evDfs": 0,
-      "evolutions": [
-        {
-          "dbSymbol": "megamagla",
-          "form": 0,
-          "conditions": [
-            {
-              "type": "minLevel",
-              "value": 33
-            }
-          ]
-        }
-      ],
+      "evolutions": [],
       "experienceType": 2,
       "baseExperience": 50,
       "baseLoyalty": 70,
@@ -75,10 +64,10 @@
         "footprint": "stalglama",
         "character": "stalglama",
         "characterShiny": "stalglama",
-        "cry": "220cry.ogg",
-        "hasFemale": false,
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "220cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {

@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 101,
-  "dbSymbol": "blocharj",
+  "dbSymbol": "bioluma",
   "forms": [
     {
       "form": 0,
@@ -36,7 +36,7 @@
         10
       ],
       "hatchSteps": 5120,
-      "babyDbSymbol": "slitik",
+      "babyDbSymbol": "laskad",
       "babyForm": 0,
       "itemHeld": [
         {
@@ -55,15 +55,15 @@
       ],
       "frontOffsetY": 25,
       "resources": {
-        "icon": "blocharj",
-        "iconShiny": "blocharj_shiny",
+        "icon": "bioluma",
+        "iconShiny": "bioluma_shiny",
         "front": "Bioluma",
-        "frontShiny": "blocharj",
+        "frontShiny": "bioluma",
         "back": "Bioluma",
-        "backShiny": "blocharj",
-        "footprint": "blocharj",
-        "character": "blocharj",
-        "characterShiny": "blocharj",
+        "backShiny": "bioluma",
+        "footprint": "bioluma",
+        "character": "bioluma",
+        "characterShiny": "bioluma",
         "egg": "",
         "iconEgg": "",
         "cry": "101cry.ogg",

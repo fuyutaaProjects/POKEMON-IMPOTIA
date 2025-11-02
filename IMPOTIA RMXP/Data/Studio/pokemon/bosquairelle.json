@@ -1,7 +1,7 @@
 {
   "klass": "Specie",
   "id": 388,
-  "dbSymbol": "grotle",
+  "dbSymbol": "bosquairelle",
   "forms": [
     {
       "form": 0,
@@ -27,7 +27,7 @@
       "evDfs": 1,
       "evolutions": [
         {
-          "dbSymbol": "torterra",
+          "dbSymbol": "bigbocage",
           "form": 0,
           "conditions": [
             {
@@ -47,7 +47,7 @@
         7
       ],
       "hatchSteps": 5120,
-      "babyDbSymbol": "turtwig",
+      "babyDbSymbol": "broussard",
       "babyForm": 0,
       "itemHeld": [
         {
