@@ -7,9 +7,9 @@
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
+        "Tilesets",
         "PNG to tmx",
-        ".",
-        "Tilesets"
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -436,11 +436,11 @@
             }
         },
         "Maps/Ombroises.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 1.5,
+            "selectedLayer": 27,
             "viewCenter": {
-                "x": 2000,
-                "y": 2242
+                "x": 915.6666666666666,
+                "y": 2494
             }
         },
         "Maps/Passage Liberte.tmx": {
@@ -460,11 +460,11 @@
             }
         },
         "Maps/Passage corouca.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 1036.6666666666665,
-                "y": 1237.3333333333333
+                "x": 580.5,
+                "y": 822
             }
         },
         "Maps/Passagge corouca.tmx": {
@@ -508,11 +508,11 @@
             }
         },
         "Maps/Route_06.tmx": {
-            "scale": 1,
+            "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1568,
-                "y": 2432
+                "x": 1565.151515151515,
+                "y": 1290.909090909091
             }
         },
         "Maps/Sanctuaire Oublie.tmx": {
@@ -567,8 +567,8 @@
             "scale": 1,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 1840,
-                "y": 1120
+                "x": 1838.5,
+                "y": 1119
             }
         },
         "Maps/Sources chaudes de Soladelle.tmx": {
@@ -601,6 +601,14 @@
             "viewCenter": {
                 "x": 1438.5,
                 "y": 1359
+            }
+        },
+        "Maps/Teneris.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1987.3333333333333,
+                "y": 992
             }
         },
         "Maps/TestEventEditor.tmx": {
@@ -663,11 +671,11 @@
             }
         },
         "Maps/grotte_gelume.tmx": {
-            "scale": 1,
-            "selectedLayer": 30,
+            "scale": 0.75,
+            "selectedLayer": 27,
             "viewCenter": {
-                "x": 867,
-                "y": 2492.5
+                "x": 828.6666666666666,
+                "y": 1050.6666666666665
             }
         },
         "Maps/laboursol_pokecenter.tmx": {
@@ -995,11 +1003,11 @@
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
-            "scale": 0.75,
+            "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 2262,
-                "y": 1004
+                "x": 2182.75,
+                "y": 710.5
             }
         },
         "Maps/rm_56_verdentia.tmx": {
@@ -1155,11 +1163,11 @@
             }
         },
         "Maps/sylveria_caves.tmx": {
-            "scale": 0.33,
+            "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1878.787878787879,
-                "y": 707.5757575757577
+                "x": 1776,
+                "y": 579.5
             }
         },
         "Maps/temporis_interiors.tmx": {
@@ -1827,24 +1835,22 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Ombroises.tmx",
-        "Maps/Route_06.tmx",
-        "Maps/Somegon.tmx"
+        "Maps/Ombroises.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/Somegon.tmx",
-        "Maps/Route_06.tmx",
         "Maps/Ombroises.tmx",
+        "Maps/Route_06.tmx",
+        "Maps/Somegon.tmx",
+        "Maps/Teneris.tmx",
+        "Maps/Passage corouca.tmx",
+        "Maps/rm_55_grotte_rochtherme.tmx",
+        "Maps/grotte_gelume.tmx",
+        "Maps/sylveria_caves.tmx",
         "Maps/rules_trees.tmx",
         "Maps/rules_nature.tmx",
         "Maps/Le FISC.tmx",
-        "Maps/rules_assets.tmx",
-        "Maps/Route_05.tmx",
-        "Maps/Lumicite.tmx",
-        "Maps/rules_buildings.tmx",
-        "Maps/Route Victoire.tmx",
-        "Maps/Victoria.tmx"
+        "Maps/rules_assets.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

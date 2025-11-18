@@ -25,15 +25,17 @@
       73,
       88,
       90,
-      91,
-      92,
       93,
       102,
+      91,
+      92,
       94,
       95,
       96,
       98,
       103,
+      106,
+      105,
       104,
       99,
       97,
@@ -1271,6 +1273,28 @@
     "data": {
       "klass": "MapInfoMap",
       "mapDbSymbol": "map104",
+      "parentId": 0
+    }
+  },
+  "105": {
+    "id": 105,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map105",
+      "parentId": 0
+    }
+  },
+  "106": {
+    "id": 106,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map106",
       "parentId": 0
     }
   }
