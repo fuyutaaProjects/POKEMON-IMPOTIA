@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/labo_abandonné.tmx",
+    "activeFile": "Maps/Laboursol.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "PNG to tmx",
-        ".",
         "Tilesets",
-        "Maps"
+        "Maps",
+        ".",
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -337,11 +337,11 @@
             }
         },
         "Maps/Laboursol.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 4,
+            "scale": 1.5,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1014,
-                "y": 1725
+                "x": 812,
+                "y": 2070.333333333333
             }
         },
         "Maps/Le FISC.tmx": {
@@ -439,8 +439,8 @@
             "scale": 1.5,
             "selectedLayer": 27,
             "viewCenter": {
-                "x": 2022,
-                "y": 1889.333333333333
+                "x": 2021.3333333333333,
+                "y": 1888.333333333333
             }
         },
         "Maps/Passage Liberte.tmx": {
@@ -460,11 +460,11 @@
             }
         },
         "Maps/Passage corouca.tmx": {
-            "scale": 1,
-            "selectedLayer": 31,
+            "scale": 1.5,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 580.5,
-                "y": 822
+                "x": 1483.3333333333335,
+                "y": 1635.6666666666665
             }
         },
         "Maps/Passagge corouca.tmx": {
@@ -644,6 +644,14 @@
             "viewCenter": {
                 "x": 2442,
                 "y": 331.75
+            }
+        },
+        "Maps/ancien_labo.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1919.3333333333333,
+                "y": 1279
             }
         },
         "Maps/bike_shop_lumi.tmx": {
@@ -899,11 +907,11 @@
             }
         },
         "Maps/rm_35_route_02.tmx": {
-            "scale": 1,
-            "selectedLayer": 8,
+            "scale": 2,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 836,
-                "y": 446.5
+                "x": 1844.5,
+                "y": 287.25
             }
         },
         "Maps/rm_3_player_s_house.tmx": {
@@ -1291,11 +1299,11 @@
             }
         },
         "Maps/zephyrion.tmx": {
-            "scale": 1,
-            "selectedLayer": 33,
+            "scale": 0.75,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1472.5,
-                "y": 594
+                "x": 1534.6666666666665,
+                "y": 910
             }
         },
         "Maps/zephyrion_interiors.tmx": {
@@ -1845,22 +1853,24 @@
     "map.width": 50,
     "openFiles": [
         "Maps/Ombroises.tmx",
-        "Maps/labo_abandonné.tmx"
+        "Maps/ancien_labo.tmx",
+        "Maps/zephyrion.tmx",
+        "Maps/Laboursol.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
         "Maps/Ombroises.tmx",
+        "Maps/ancien_labo.tmx",
+        "Maps/zephyrion.tmx",
+        "Maps/Laboursol.tmx",
+        "Maps/rm_35_route_02.tmx",
+        "Maps/Passage corouca.tmx",
         "Maps/labo_abandonné.tmx",
         "Tilesets/grotte_glace_4g.tsx",
         "Maps/Route_06.tmx",
         "Maps/Somegon.tmx",
         "Maps/Teneris.tmx",
-        "Maps/Passage corouca.tmx",
-        "Maps/rm_55_grotte_rochtherme.tmx",
-        "Maps/grotte_gelume.tmx",
-        "Maps/sylveria_caves.tmx",
-        "Maps/rules_trees.tmx",
-        "Maps/rules_nature.tmx"
+        "Maps/rm_55_grotte_rochtherme.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

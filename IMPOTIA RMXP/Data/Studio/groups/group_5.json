@@ -5,6 +5,7 @@
   "systemTag": "Custom_underwater_grass",
   "terrainTag": 0,
   "tool": null,
+  "vsType": "simple",
   "customConditions": [
     {
       "type": "mapId",
@@ -27,7 +28,7 @@
           "maximumLevel": 7
         }
       },
-      "randomEncounterChance": 35,
+      "randomEncounterChance": 25,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -69,7 +70,7 @@
           "maximumLevel": 7
         }
       },
-      "randomEncounterChance": 15,
+      "randomEncounterChance": 25,
       "expandPokemonSetup": [
         {
           "type": "evs",
@@ -182,6 +183,5 @@
       ]
     }
   ],
-  "stepsAverage": 7,
-  "vsType": "simple"
+  "stepsAverage": 7
 }
