@@ -6,13 +6,13 @@
   "socket": 1,
   "position": 0,
   "isBattleUsable": false,
-  "isMapUsable": false,
+  "isMapUsable": true,
   "isLimited": false,
   "isHoldable": false,
   "isAllowingMega": false,
   "flingPower": 30,
+  "isBerry": false,
   "klass": "TechItem",
   "isHm": false,
-  "move": "ice_punch",
-  "isBerry": false
+  "move": "ice_punch"
 }

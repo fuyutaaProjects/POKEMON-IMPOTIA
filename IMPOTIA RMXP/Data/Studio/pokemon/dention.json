@@ -57,17 +57,17 @@
       "resources": {
         "icon": "dention",
         "iconShiny": "dention_shiny",
-        "front": "dention",
+        "front": "Dention",
         "frontShiny": "dention",
         "back": "dention",
         "backShiny": "dention",
         "footprint": "dention",
         "character": "dention",
         "characterShiny": "dention",
-        "cry": "103cry.ogg",
-        "hasFemale": false,
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "103cry.ogg",
+        "hasFemale": false
       },
       "moveSet": [
         {
@@ -395,10 +395,10 @@
         "footprint": "Dention",
         "character": "Dention",
         "characterShiny": "Dention",
-        "cry": "103cry.ogg",
-        "hasFemale": false,
         "egg": "",
-        "iconEgg": ""
+        "iconEgg": "",
+        "cry": "103cry.ogg",
+        "hasFemale": false
       },
       "moveSet": []
     }
