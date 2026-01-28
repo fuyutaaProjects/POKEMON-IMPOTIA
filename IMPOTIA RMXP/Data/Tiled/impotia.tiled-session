@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Hill.tmx",
+    "activeFile": "Maps/Mines Zolta.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         ".",
-        "Maps",
+        "Tilesets",
         "PNG to tmx",
-        "Tilesets"
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -364,8 +364,8 @@
             "scale": 1,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 2376,
-                "y": 1241
+                "x": 2374,
+                "y": 465
             }
         },
         "Maps/Ile Hibiscus.tmx": {
@@ -412,11 +412,11 @@
             }
         },
         "Maps/Mines Zolta.tmx": {
-            "scale": 1,
-            "selectedLayer": 30,
+            "scale": 0.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1100,
-                "y": 521.5
+                "x": 1464,
+                "y": 904
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -535,8 +535,8 @@
             "scale": 2,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 634,
-                "y": 578.75
+                "x": 1600,
+                "y": 1599.75
             }
         },
         "Maps/Prairie Flora.tmx": {
@@ -1270,8 +1270,8 @@
             "scale": 0.33,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 345.4545454545455,
-                "y": 337.878787878788
+                "x": 651.5151515151517,
+                "y": 584.8484848484849
             }
         },
         "Maps/trailer_map.tmx": {
@@ -1948,25 +1948,22 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Lumicite.tmx",
-        "Maps/Teneris.tmx",
-        "Maps/Pochette Album 3.tmx",
-        "Maps/Hill.tmx"
+        "Maps/Mines Zolta.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/Mines Zolta.tmx",
         "Maps/Lumicite.tmx",
-        "Maps/Teneris.tmx",
-        "Maps/Pochette Album 3.tmx",
         "Maps/Hill.tmx",
+        "Maps/Pochette Album 3.tmx",
+        "Maps/Teneris.tmx",
+        "Maps/temporis_interiors.tmx",
         "Maps/zenith interiors.tmx",
         "Maps/Sanctuaire Oublie.tmx",
         "Maps/Le FISC.tmx",
         "Maps/Laboursol.tmx",
         "Maps/Prairie Flora.tmx",
-        "Maps/laboursol interiors.tmx",
-        "Maps/Oasisville.tmx",
-        "Maps/Route_06.tmx"
+        "Maps/laboursol interiors.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
