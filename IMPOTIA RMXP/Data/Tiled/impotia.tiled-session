@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Mines Zolta.tmx",
+    "activeFile": "Maps/Désert Prelassant.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        ".",
+        "Maps",
         "Tilesets",
         "PNG to tmx",
-        "Maps"
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -248,6 +248,14 @@
                 "y": 752
             }
         },
+        "Maps/Désert Prelassant.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1514,
+                "y": 1024
+            }
+        },
         "Maps/Elevator Mall Lumi.tmx": {
             "scale": 0.6773148148148147,
             "selectedLayer": 0,
@@ -412,11 +420,11 @@
             }
         },
         "Maps/Mines Zolta.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 4,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1464,
-                "y": 904
+                "x": 1034.75,
+                "y": 190
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -556,19 +564,19 @@
             }
         },
         "Maps/Route_04.tmx": {
-            "scale": 1,
-            "selectedLayer": 27,
+            "scale": 2,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1466,
-                "y": 897.5
+                "x": 841.75,
+                "y": 1013.5
             }
         },
         "Maps/Route_05.tmx": {
             "scale": 1,
-            "selectedLayer": 6,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1236.5,
-                "y": 273
+                "x": 1920,
+                "y": 719.5
             }
         },
         "Maps/Route_06.tmx": {
@@ -676,11 +684,11 @@
             }
         },
         "Maps/Teneris.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 7,
+            "scale": 1,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1568,
-                "y": 1135
+                "x": 162.5,
+                "y": 858
             }
         },
         "Maps/TestEventEditor.tmx": {
@@ -1006,8 +1014,8 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 983,
-                "y": 1064.5
+                "x": 1163.5,
+                "y": 1368
             }
         },
         "Maps/rm_43_mermesa.tmx": {
@@ -1179,11 +1187,11 @@
             }
         },
         "Maps/rules_nature.tmx": {
-            "scale": 4,
-            "selectedLayer": 7,
+            "scale": 5.5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1314.125,
-                "y": 128.75
+                "x": 1349.7272727272727,
+                "y": 250.1818181818182
             }
         },
         "Maps/rules_random_tiles.tmx": {
@@ -1203,11 +1211,11 @@
             }
         },
         "Maps/rules_terrain_basics_v2.tmx": {
-            "scale": 1,
-            "selectedLayer": 7,
+            "scale": 2,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 401.5,
-                "y": 4627
+                "x": 1507.5,
+                "y": 2176.5
             }
         },
         "Maps/rules_tileset_interiors.tmx": {
@@ -1398,8 +1406,8 @@
             "scale": 1.5,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 374.66666666666663,
-                "y": 596.3333333333333
+                "x": 491.99999999999994,
+                "y": 647.3333333333333
             }
         },
         "Maps/zephyrion_interiors.tmx": {
@@ -1910,8 +1918,8 @@
             "scaleInDock": 1
         },
         "Tilesets/terrain basics v2.tsx": {
-            "scaleInDock": 1,
-            "scaleInEditor": 2
+            "scaleInDock": 0.75,
+            "scaleInEditor": 3
         },
         "Tilesets/terrain_basics.tsx": {
             "scaleInDock": 1,
@@ -1948,22 +1956,26 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Mines Zolta.tmx"
+        "Maps/Désert Prelassant.tmx",
+        "Maps/Route_05.tmx",
+        "Maps/Route_04.tmx",
+        "Maps/rm_42_route_01.tmx",
+        "Maps/rules_nature.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/rules_nature.tmx",
+        "Maps/rm_42_route_01.tmx",
+        "Maps/Route_04.tmx",
+        "Maps/Route_05.tmx",
+        "Maps/Désert Prelassant.tmx",
         "Maps/Mines Zolta.tmx",
-        "Maps/Lumicite.tmx",
-        "Maps/Hill.tmx",
-        "Maps/Pochette Album 3.tmx",
+        "Maps/rules_terrain_basics_v2.tmx",
+        "Tilesets/terrain basics v2.tsx",
+        "Maps/zephyrion.tmx",
         "Maps/Teneris.tmx",
-        "Maps/temporis_interiors.tmx",
-        "Maps/zenith interiors.tmx",
-        "Maps/Sanctuaire Oublie.tmx",
-        "Maps/Le FISC.tmx",
-        "Maps/Laboursol.tmx",
-        "Maps/Prairie Flora.tmx",
-        "Maps/laboursol interiors.tmx"
+        "Maps/Lumicite.tmx",
+        "Maps/Hill.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

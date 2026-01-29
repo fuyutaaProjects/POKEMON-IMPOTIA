@@ -1,33 +1,42 @@
 ================================Erreur de script================================
 Message :
-(eval):3: syntax error, unexpected local variable or method, expecting ']'
-show_background: true)
-^~~~~~~~~~~~~~~
+undefined method `each' for nil:NilClass
 
-
-Type : SyntaxError
-Script : tools/GameLoader/z_eval_killer.rb (PSDK)
-Ligne : 30
-Date : 04/01/2026 14:40:03
-Game Version : 261
+Type : NoMethodError
+Script : 3_Studio.rb (PSDK)
+Ligne : 87
+Date : 29/01/2026 11:37:11
+Game Version : 263
 Logiciel : PSDK 26.51
+Script used by eval command : 
+add_rename_pokemon(:aimantpeine,10)
+
+
 ===================================Backtraces===================================
-[27] : tools/GameLoader/z_eval_killer.rb (PSDK) | ligne 30 class_eval
-[26] : tools/GameLoader/z_eval_killer.rb (PSDK) | ligne 30 build_method
-[25] : tools/GameLoader/z_eval_killer.rb (PSDK) | ligne 23 resolve_method_symbol
-[24] : 1_RMXP_Scripts.rb (PSDK) | ligne 2105 eval_script
-[23] : 1_RMXP_Scripts.rb (PSDK) | ligne 2097 command_355
-[22] : 1_RMXP_Scripts.rb (PSDK) | ligne 1081 execute_command
-[21] : 1_RMXP_Scripts.rb (PSDK) | ligne 956 update
-[20] : 1_RMXP_Scripts.rb (PSDK) | ligne 936 loop
-[19] : 1_RMXP_Scripts.rb (PSDK) | ligne 936 update
-[18] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9223 update_map_logic
-[17] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 2913 update_map_logic
-[16] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9231 auto_transfert_update
-[15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9230 loop
-[14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9230 auto_transfert_update
-[13] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9094 update
-[12] : 0_Dependencies.rb (PSDK) | ligne 1353 run
+[35] : 3_Studio.rb (PSDK) | ligne 87 each_data_nature
+[34] : 4_Systems_000_General_1_PFM.rb (PSDK) | ligne 671 stat_data_initialize
+[33] : 4_Systems_000_General_1_PFM.rb (PSDK) | ligne 560 initialize
+[32] : 2_PSDK_Event_Interpreter.rb (PSDK) | ligne 477 new
+[31] : 2_PSDK_Event_Interpreter.rb (PSDK) | ligne 477 internal_add_pokemon_check_level_shiny
+[30] : 2_PSDK_Event_Interpreter.rb (PSDK) | ligne 202 add_pokemon
+[29] : 2_PSDK_Event_Interpreter.rb (PSDK) | ligne 460 internal_add_pokemon_check_symbol
+[28] : 2_PSDK_Event_Interpreter.rb (PSDK) | ligne 203 add_pokemon
+[27] : 2_PSDK_Event_Interpreter.rb (PSDK) | ligne 315 add_rename_pokemon
+[26] : (eval) (RMXP) | ligne 2 eval_X5
+[25] : 1_RMXP_Scripts.rb (PSDK) | ligne 2105 eval_script
+[24] : 1_RMXP_Scripts.rb (PSDK) | ligne 2097 command_355
+[23] : 1_RMXP_Scripts.rb (PSDK) | ligne 1081 execute_command
+[22] : 1_RMXP_Scripts.rb (PSDK) | ligne 956 update
+[21] : 1_RMXP_Scripts.rb (PSDK) | ligne 936 loop
+[20] : 1_RMXP_Scripts.rb (PSDK) | ligne 936 update
+[19] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9223 update_map_logic
+[18] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 2913 update_map_logic
+[17] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9231 auto_transfert_update
+[16] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9230 loop
+[15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9230 auto_transfert_update
+[14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9094 update
+[13] : 0_Dependencies.rb (PSDK) | ligne 1354 times
+[12] : 0_Dependencies.rb (PSDK) | ligne 1354 run
 [11] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9094 update
 [10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 236 main_process
 [9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 144 main
