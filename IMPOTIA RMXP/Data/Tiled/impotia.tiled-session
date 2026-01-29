@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Désert Prelassant.tmx",
+    "activeFile": "Maps/Desert Prelassant.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "Maps",
+        ".",
         "Tilesets",
-        "PNG to tmx",
-        "."
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -246,6 +246,14 @@
             "viewCenter": {
                 "x": 968,
                 "y": 752
+            }
+        },
+        "Maps/Desert Prelassant.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1605.3333333333333,
+                "y": 1144
             }
         },
         "Maps/Désert Prelassant.tmx": {
@@ -567,8 +575,8 @@
             "scale": 2,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 841.75,
-                "y": 1013.5
+                "x": 1184,
+                "y": 1120
             }
         },
         "Maps/Route_05.tmx": {
@@ -576,7 +584,7 @@
             "selectedLayer": 5,
             "viewCenter": {
                 "x": 1920,
-                "y": 719.5
+                "y": 719
             }
         },
         "Maps/Route_06.tmx": {
@@ -1014,8 +1022,8 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1163.5,
-                "y": 1368
+                "x": 880,
+                "y": 1120
             }
         },
         "Maps/rm_43_mermesa.tmx": {
@@ -1107,11 +1115,11 @@
             }
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
-            "scale": 1.5,
+            "scale": 2,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1917.3333333333333,
-                "y": 949
+                "x": 1361,
+                "y": 1281.75
             }
         },
         "Maps/rm_56_verdentia.tmx": {
@@ -1190,8 +1198,8 @@
             "scale": 5.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1349.7272727272727,
-                "y": 250.1818181818182
+                "x": 2240,
+                "y": 1280
             }
         },
         "Maps/rules_random_tiles.tmx": {
@@ -1956,26 +1964,26 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Désert Prelassant.tmx",
         "Maps/Route_05.tmx",
         "Maps/Route_04.tmx",
         "Maps/rm_42_route_01.tmx",
-        "Maps/rules_nature.tmx"
+        "Maps/rules_nature.tmx",
+        "Maps/Desert Prelassant.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/rules_nature.tmx",
-        "Maps/rm_42_route_01.tmx",
-        "Maps/Route_04.tmx",
         "Maps/Route_05.tmx",
+        "Maps/Route_04.tmx",
+        "Maps/rm_42_route_01.tmx",
+        "Maps/rules_nature.tmx",
+        "Maps/Desert Prelassant.tmx",
+        "Maps/rm_55_grotte_rochtherme.tmx",
         "Maps/Désert Prelassant.tmx",
         "Maps/Mines Zolta.tmx",
         "Maps/rules_terrain_basics_v2.tmx",
         "Tilesets/terrain basics v2.tsx",
         "Maps/zephyrion.tmx",
-        "Maps/Teneris.tmx",
-        "Maps/Lumicite.tmx",
-        "Maps/Hill.tmx"
+        "Maps/Teneris.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
