@@ -1,86 +1,91 @@
 require 'json'
 require 'net/http'
- 
-ENV['SSL_CERT_FILE'] ||= './lib/cert.pem' if $0 == 'Game.rb' # Launched from PSDK
+require 'openssl'
 
 module DiscordWebhooks
-  DISCORD_WEBHOOK_URI = {
-    :default => URI('https://discord.com/api/webhooks/1317555699231887360/ocL0_ARAq6t8mOZb_GC2gYt6pLQeMEAcwuQQPpd7SULjsR6a2sqsjmh9FFxm_AmxEzdR')
-    #, :example => URI("url2")
-  }
+  # Ton URL Webhook (Vérifie qu'elle est toujours valide sur Discord)
+  WEBHOOK_URL = 'https://discord.com/api/webhooks/1317555699231887360/ocL0_ARAq6t8mOZb_GC2gYt6pLQeMEAcwuQQPpd7SULjsR6a2sqsjmh9FFxm_AmxEzdR'
+  
+  # Image de profil (Attention : utilise un lien permanent type Imgur, pas un lien discordapp temporaire)
+  AVATAR_URL = "https://media.discordapp.net/attachments/1466884787204653066/1466884852522418389/wise_tree.jpg" 
 
   module_function
-  
-  # @overload post(data)
-  # Post data to the default DISCORD_WEBHOOK_URI
-  # @param data [Hash] the webhook data
-  # @overload post(url, data)
-  # Post data to a Discord Webhook using an URL or an URI
-  # @param url [URI, String] the Discord Webhook
-  # @param data [Hash] the webhook data
-  # @param key [String] the key in DISCORD_WEBHOOK_URI
-  def post(url, data = url, key = :default)
-    url = DISCORD_WEBHOOK_URI[key] if url.is_a?(Hash)
-    url = URI(url) if url.is_a?(String)
+
+  # Fonction d'envoi générique
+  def post(payload)
+    uri = URI(WEBHOOK_URL)
+    
+    # Configuration de la connexion HTTP
+    http = Net::HTTP.new(uri.host, uri.port)
+    http.use_ssl = true
+    
+    # CRUCIAL POUR RMXP : On désactive la vérification stricte du SSL
+    # Cela permet de contourner les erreurs de certificat obsolète
+    http.verify_mode = OpenSSL::SSL::VERIFY_NONE 
+
+    # Préparation de la requête
+    request = Net::HTTP::Post.new(uri.request_uri, 'Content-Type' => 'application/json')
+    request.body = payload.to_json
+
+    # Envoi avec gestion d'erreur visible
     begin
-      Net::HTTP.post(url, data.to_json, "Content-Type" => "application/json")
-    rescue Exception
+      response = http.request(request)
+      
+      # Affiche le résultat dans la console (F12 ou cmd)
+      if response.code.to_i >= 200 && response.code.to_i < 300
+        p "[DiscordWebhooks] Succès ! (Code: #{response.code})"
+      else
+        p "[DiscordWebhooks] Échec Discord : #{response.code} - #{response.body}"
+      end
+    rescue Exception => e
+      p "[DiscordWebhooks] ERREUR CRITIQUE : #{e.message}"
+      p e.backtrace
     end
   end
 
-  def post_test
-    player_name = $trainer&.name
-    DiscordWebhooks.post("username": "Professeur Cactus",
-    "avatar_url": "https://media.discordapp.net/attachments/1125034441039941762/1317572110675218442/cactus-modified.png?ex=675f2c26&is=675ddaa6&hm=0792468f296ceea746474dd3be5b3d0835884f8bff1624e75d0e5c6031545cb3&=&format=webp&quality=lossless",
-    "embeds": [
-      {
-        "title": "",
-        "description": "#{player_name || 'Unknown'} est très freaky",
-        "color": 0,
-        "footer": {
-        },
-      }
-    ],
-    "attachments": [])
-  end
-
+  # Fonction spécifique pour les champions d'arène
   def gym_defeated(badge_number)
-    player_name = $trainer&.name || "Unknown"
+    # Récupération sécurisée du nom du joueur
+    player_name = (defined?($trainer) && $trainer) ? $trainer.name : "Joueur Test"
   
-    # Table des champions avec leur genre (masculin, féminin ou pluriel)
+    # Configuration des champions
     champions = {
       1 => { name: "Alvis", gender: "le champion" },
       2 => { name: "Moïra", gender: "la championne" },
       3 => { name: "Yvar", gender: "le champion" },
       4 => { name: "Tiberius", gender: "le champion" },
       5 => { name: "Petra", gender: "la championne" },
-      6 => { name: "Elme et Alfred", gender: "les champions" }, # Pluriel pour arène 6
+      6 => { name: "Elme et Alfred", gender: "les champions" },
       7 => { name: "Nova", gender: "la championne" },
       8 => { name: "Youri", gender: "le champion" }
     }
   
-    # Récupérer les informations du champion
-    champion_info = champions[badge_number] || { name: "un champion inconnu", gender: "le champion(ne)" }
-    champion_name = champion_info[:name]
-    champion_gender = champion_info[:gender]
+    # Sélection du champion
+    info = champions[badge_number] || { name: "Inconnu", gender: "le champion" }
+    description_text = "#{player_name} a battu #{info[:gender]} #{info[:name]} !"
   
-    # Créer le message
-    message = "#{player_name} a battu #{champion_gender} #{champion_name} !"
-  
-    # Envoyer le webhook Discord
-    DiscordWebhooks.post(
-      "username": "Professeur Cactus",
-      "avatar_url": "https://media.discordapp.net/attachments/1125034441039941762/1317572110675218442/cactus-modified.png?ex=675f2c26&is=675ddaa6&hm=0792468f296ceea746474dd3be5b3d0835884f8bff1624e75d0e5c6031545cb3&=&format=webp&quality=lossless",
-      "embeds": [
+    # Construction du message (Payload)
+    payload = {
+      username: "Impotia Webhook",
+      avatar_url: AVATAR_URL,
+      embeds: [
         {
-          "title": "",
-          "description": message,
-          "color": 0,
-          "footer": {},
+          title: "Victoire d'Arène !",
+          description: description_text,
+          color: 5814783, # Une couleur verte un peu stylée
         }
-      ],
-      "attachments": []
-    )
-  end  
-end
+      ]
+    }
+  
+    # Envoi
+    post(payload)
+  end
 
+  # Fonction de test simple
+  def post_test
+    post({
+      username: "Professeur Cactus",
+      content: "Ceci est un test de connexion depuis RMXP. Si tu lis ça, ça marche !"
+    })
+  end
+end

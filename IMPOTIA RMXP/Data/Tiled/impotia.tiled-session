@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Desert Prelassant.tmx",
+    "activeFile": "Maps/Somegon Pokecenter.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Maps",
         ".",
+        "PNG to tmx",
         "Tilesets",
-        "PNG to tmx"
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -252,8 +252,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1605.3333333333333,
-                "y": 1144
+                "x": 1604,
+                "y": 1142
             }
         },
         "Maps/Désert Prelassant.tmx": {
@@ -400,12 +400,20 @@
                 "y": 1628
             }
         },
+        "Maps/Laboursol Pokecenter.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 329,
+                "y": 388
+            }
+        },
         "Maps/Laboursol.tmx": {
             "scale": 1.5,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 379.33333333333337,
-                "y": 1757.333333333333
+                "x": 829.3333333333333,
+                "y": 1734.6666666666665
             }
         },
         "Maps/Le FISC.tmx": {
@@ -575,16 +583,16 @@
             "scale": 2,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1184,
-                "y": 1120
+                "x": 1183.5,
+                "y": 1119.25
             }
         },
         "Maps/Route_05.tmx": {
             "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1920,
-                "y": 719
+                "x": 1919,
+                "y": 717.5
             }
         },
         "Maps/Route_06.tmx": {
@@ -604,11 +612,11 @@
             }
         },
         "Maps/Soladelle.tmx": {
-            "scale": 0.75,
+            "scale": 1.5,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 1469.3333333333333,
-                "y": 1123.3333333333333
+                "x": 1958,
+                "y": 1070.6666666666665
             }
         },
         "Maps/Somegon - Copie - Copie.tmx": {
@@ -643,6 +651,14 @@
                 "y": 192.33333333333334
             }
         },
+        "Maps/Somegon Pokecenter.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 257.5,
+                "y": 321.5
+            }
+        },
         "Maps/Somegon github.tmx": {
             "scale": 0.5,
             "selectedLayer": 33,
@@ -655,8 +671,8 @@
             "scale": 0.75,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 1768,
-                "y": 1750
+                "x": 1766.6666666666665,
+                "y": 1391.3333333333333
             }
         },
         "Maps/Sources chaudes de Soladelle.tmx": {
@@ -783,19 +799,19 @@
             }
         },
         "Maps/laboursol interiors.tmx": {
-            "scale": 3,
-            "selectedLayer": 6,
+            "scale": 0.75,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1069.6666666666665,
-                "y": 1407.3333333333333
+                "x": 1598.6666666666665,
+                "y": 797.3333333333333
             }
         },
         "Maps/laboursol_pokecenter.tmx": {
-            "scale": 3,
+            "scale": 2,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 351.5,
-                "y": 238.33333333333331
+                "x": 251.5,
+                "y": 254.5
             }
         },
         "Maps/lumi school.tmx": {
@@ -1022,8 +1038,8 @@
             "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 880,
-                "y": 1120
+                "x": 879,
+                "y": 1118.5
             }
         },
         "Maps/rm_43_mermesa.tmx": {
@@ -1198,8 +1214,8 @@
             "scale": 5.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 2240,
-                "y": 1280
+                "x": 2239.818181818182,
+                "y": 1279.7272727272727
             }
         },
         "Maps/rules_random_tiles.tmx": {
@@ -1251,11 +1267,11 @@
             }
         },
         "Maps/somegon_houses_interiors.tmx": {
-            "scale": 0.5,
+            "scale": 0.25,
             "selectedLayer": 30,
             "viewCenter": {
-                "x": 1768,
-                "y": 1819
+                "x": 980,
+                "y": 1286
             }
         },
         "Maps/somegon_interiors.tmx": {
@@ -1411,19 +1427,19 @@
             }
         },
         "Maps/zephyrion.tmx": {
-            "scale": 1.5,
+            "scale": 1,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 491.99999999999994,
-                "y": 647.3333333333333
+                "x": 1520,
+                "y": 1112
             }
         },
         "Maps/zephyrion_interiors.tmx": {
-            "scale": 0.75,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1290,
-                "y": 1180
+                "x": 550,
+                "y": 689
             }
         },
         "P:/PSDK FOLDERS/CLEAN PSDK/Data/Tiled/Maps/002 Intro.tmx": {
@@ -1964,26 +1980,22 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Route_05.tmx",
-        "Maps/Route_04.tmx",
-        "Maps/rm_42_route_01.tmx",
-        "Maps/rules_nature.tmx",
-        "Maps/Desert Prelassant.tmx"
+        "Maps/Somegon Pokecenter.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/Route_05.tmx",
-        "Maps/Route_04.tmx",
-        "Maps/rm_42_route_01.tmx",
-        "Maps/rules_nature.tmx",
-        "Maps/Desert Prelassant.tmx",
-        "Maps/rm_55_grotte_rochtherme.tmx",
-        "Maps/Désert Prelassant.tmx",
-        "Maps/Mines Zolta.tmx",
-        "Maps/rules_terrain_basics_v2.tmx",
-        "Tilesets/terrain basics v2.tsx",
+        "Maps/Somegon Pokecenter.tmx",
+        "Maps/Somegon.tmx",
+        "Maps/somegon_houses_interiors.tmx",
         "Maps/zephyrion.tmx",
-        "Maps/Teneris.tmx"
+        "Maps/laboursol interiors.tmx",
+        "Maps/Laboursol.tmx",
+        "Maps/Soladelle.tmx",
+        "Maps/laboursol_pokecenter.tmx",
+        "Maps/Laboursol Pokecenter.tmx",
+        "Maps/zephyrion_interiors.tmx",
+        "Maps/Route_05.tmx",
+        "Maps/Route_04.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
