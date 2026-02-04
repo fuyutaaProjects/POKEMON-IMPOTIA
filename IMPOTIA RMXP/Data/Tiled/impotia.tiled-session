@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Somegon Pokecenter.tmx",
+    "activeFile": "Maps/Desert Prelassant.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         ".",
-        "PNG to tmx",
+        "Maps",
         "Tilesets",
-        "Maps"
+        "PNG to tmx"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -249,11 +249,11 @@
             }
         },
         "Maps/Desert Prelassant.tmx": {
-            "scale": 0.75,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1604,
-                "y": 1142
+                "x": 1642,
+                "y": 1160
             }
         },
         "Maps/Désert Prelassant.tmx": {
@@ -655,8 +655,8 @@
             "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 257.5,
-                "y": 321.5
+                "x": 256.5,
+                "y": 320.5
             }
         },
         "Maps/Somegon github.tmx": {
@@ -1980,10 +1980,11 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Somegon Pokecenter.tmx"
+        "Maps/Desert Prelassant.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
+        "Maps/Desert Prelassant.tmx",
         "Maps/Somegon Pokecenter.tmx",
         "Maps/Somegon.tmx",
         "Maps/somegon_houses_interiors.tmx",
@@ -1994,8 +1995,7 @@
         "Maps/laboursol_pokecenter.tmx",
         "Maps/Laboursol Pokecenter.tmx",
         "Maps/zephyrion_interiors.tmx",
-        "Maps/Route_05.tmx",
-        "Maps/Route_04.tmx"
+        "Maps/Route_05.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
