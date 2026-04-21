@@ -4,7 +4,7 @@ require 'openssl'
 
 module DiscordWebhooks
   # Ton URL Webhook (Vérifie qu'elle est toujours valide sur Discord)
-  WEBHOOK_URL = 'https://discord.com/api/webhooks/1317555699231887360/ocL0_ARAq6t8mOZb_GC2gYt6pLQeMEAcwuQQPpd7SULjsR6a2sqsjmh9FFxm_AmxEzdR'
+  WEBHOOK_URL = ''
   
   # Image de profil (Attention : utilise un lien permanent type Imgur, pas un lien discordapp temporaire)
   AVATAR_URL = "https://media.discordapp.net/attachments/1466884787204653066/1466884852522418389/wise_tree.jpg" 

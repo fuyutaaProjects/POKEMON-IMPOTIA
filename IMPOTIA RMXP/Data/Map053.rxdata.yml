@@ -1,19 +1,14 @@
 --- !ruby/object:RPG::Map
-tileset_id: 43
-width: 20
-height: 15
 autoplay_bgm: true
+autoplay_bgs: false
 bgm: !ruby/object:RPG::AudioFile
   name: pokeshop
-  volume: 100
   pitch: 100
-autoplay_bgs: false
+  volume: 100
 bgs: !ruby/object:RPG::AudioFile
   name: ''
-  volume: 100
   pitch: 100
-encounter_list: []
-encounter_step: 30
+  volume: 100
 data: !ruby/object:Table
   data: |
     init 20 15 3
@@ -65,13 +60,38 @@ data: !ruby/object:Table
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
     0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+encounter_list: []
+encounter_step: 30
 events:
   1: !ruby/object:RPG::Event
+    id: 1
+    name: battleback and fog
     pages:
     - !ruby/object:RPG::Event::Page
-      move_type: 0
+      always_on_top: false
+      condition: !ruby/object:RPG::Event::Page::Condition
+        self_switch_ch: A
+        self_switch_valid: false
+        switch1_id: 12
+        switch1_valid: true
+        switch2_id: 1
+        switch2_valid: false
+        variable_id: 1
+        variable_valid: false
+        variable_value: 0
+      direction_fix: false
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        blend_type: 0
+        character_hue: 0
+        character_name: ''
+        direction: 2
+        opacity: 255
+        pattern: 0
+        tile_id: 0
       list:
       - !ruby/object:RPG::EventCommand
+        code: 204
+        indent: 0
         parameters:
         - 1
         - ''
@@ -81,82 +101,83 @@ events:
         - 200
         - 0
         - 0
-        indent: 0
-        code: 204
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
         code: 116
-      - !ruby/object:RPG::EventCommand
-        parameters: []
         indent: 0
+        parameters: []
+      - !ruby/object:RPG::EventCommand
         code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 12
-        switch1_valid: true
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
+        indent: 0
+        parameters: []
+      move_frequency: 3
       move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
         list:
         - !ruby/object:RPG::MoveCommand
           code: 0
           parameters: []
-      trigger: 3
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: ''
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
+        repeat: true
+        skippable: false
       move_speed: 3
+      move_type: 0
+      step_anime: false
       through: false
-    name: battleback and fog
-    y: 0
+      trigger: 3
+      walk_anime: true
     x: 0
-    id: 1
+    y: 0
   2: !ruby/object:RPG::Event
+    id: 2
+    name: !binary |-
+      wqcgZXhpdCBkb29y
     pages:
     - !ruby/object:RPG::Event::Page
-      move_type: 0
+      always_on_top: true
+      condition: !ruby/object:RPG::Event::Page::Condition
+        self_switch_ch: A
+        self_switch_valid: false
+        switch1_id: 1
+        switch1_valid: false
+        switch2_id: 1
+        switch2_valid: false
+        variable_id: 1
+        variable_valid: false
+        variable_value: 0
+      direction_fix: true
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        blend_type: 0
+        character_hue: 0
+        character_name: fx_Arrow
+        direction: 2
+        opacity: 255
+        pattern: 0
+        tile_id: 0
       list:
       - !ruby/object:RPG::EventCommand
+        code: 108
+        indent: 0
         parameters:
         - !binary |-
           RGlzYWJsaW5nIHRoZSBmb2xsb3dlciBQb2vDqW1vbiBpZiB0aGlzIG9wdGlvbiB3YXMgYWN0aXZhdGVk
-        indent: 0
-        code: 108
       - !ruby/object:RPG::EventCommand
+        code: 355
+        indent: 0
         parameters:
         - Yuki::FollowMe.smart_disable
-        indent: 0
-        code: 355
       - !ruby/object:RPG::EventCommand
+        code: 250
+        indent: 0
         parameters:
         - !ruby/object:RPG::AudioFile
           name: door_exit
-          volume: 80
           pitch: 100
-        indent: 0
-        code: 250
+          volume: 80
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
         code: 221
+        indent: 0
+        parameters: []
       - !ruby/object:RPG::EventCommand
+        code: 223
+        indent: 0
         parameters:
         - !ruby/object:Tone
           red: -255
@@ -164,14 +185,14 @@ events:
           blue: -255
           gray: 0
         - 10
-        indent: 0
-        code: 223
       - !ruby/object:RPG::EventCommand
+        code: 106
+        indent: 0
         parameters:
         - 12
-        indent: 0
-        code: 106
       - !ruby/object:RPG::EventCommand
+        code: 201
+        indent: 0
         parameters:
         - 0
         - 33
@@ -179,9 +200,9 @@ events:
         - 44
         - 2
         - 1
-        indent: 0
-        code: 201
       - !ruby/object:RPG::EventCommand
+        code: 223
+        indent: 0
         parameters:
         - !ruby/object:Tone
           red: 0
@@ -189,26 +210,12 @@ events:
           blue: 0
           gray: 0
         - 10
-        indent: 0
-        code: 223
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
         code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: true
+        indent: 0
+        parameters: []
+      move_frequency: 3
       move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
         list:
         - !ruby/object:RPG::MoveCommand
           code: 31
@@ -222,379 +229,372 @@ events:
         - !ruby/object:RPG::MoveCommand
           code: 0
           parameters: []
-      trigger: 2
-      step_anime: true
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: fx_Arrow
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: true
-      walk_anime: false
+        repeat: true
+        skippable: false
       move_speed: 2
+      move_type: 0
+      step_anime: true
       through: false
-    name: !binary |-
-      wqcgZXhpdCBkb29y
-    y: 13
+      trigger: 2
+      walk_anime: false
     x: 8
-    id: 2
+    y: 13
   3: !ruby/object:RPG::Event
+    id: 3
+    name: Vendeur
     pages:
     - !ruby/object:RPG::Event::Page
-      move_type: 0
+      always_on_top: false
+      condition: !ruby/object:RPG::Event::Page::Condition
+        self_switch_ch: A
+        self_switch_valid: false
+        switch1_id: 1
+        switch1_valid: false
+        switch2_id: 1
+        switch2_valid: false
+        variable_id: 1
+        variable_valid: false
+        variable_value: 0
+      direction_fix: false
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        blend_type: 0
+        character_hue: 0
+        character_name: employee_t2_2_walk
+        direction: 4
+        opacity: 255
+        pattern: 0
+        tile_id: 0
       list:
       - !ruby/object:RPG::EventCommand
+        code: 121
+        indent: 0
         parameters:
         - 26
         - 26
         - 0
-        indent: 0
-        code: 121
       - !ruby/object:RPG::EventCommand
+        code: 101
+        indent: 0
         parameters:
         - !binary |-
           QmllbnZlbnVlIGF1IHBva8Opc2hvcCEgUXVlIHB1aXMtamUgZmFpcmUgcG91ciB2b3VzPw==
-        indent: 0
-        code: 101
       - !ruby/object:RPG::EventCommand
+        code: 102
+        indent: 0
         parameters:
         - - Acheter
           - Vendre
           - Quitter
         - 3
-        indent: 0
-        code: 102
       - !ruby/object:RPG::EventCommand
+        code: 402
+        indent: 0
         parameters:
         - 0
         - Acheter
-        indent: 0
-        code: 402
       - !ruby/object:RPG::EventCommand
+        code: 119
+        indent: 1
         parameters:
         - acheter
-        indent: 1
-        code: 119
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
         code: 0
+        indent: 1
+        parameters: []
       - !ruby/object:RPG::EventCommand
+        code: 402
+        indent: 0
         parameters:
         - 1
         - Vendre
-        indent: 0
-        code: 402
       - !ruby/object:RPG::EventCommand
+        code: 119
+        indent: 1
         parameters:
         - vendre
-        indent: 1
-        code: 119
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
         code: 0
+        indent: 1
+        parameters: []
       - !ruby/object:RPG::EventCommand
+        code: 402
+        indent: 0
         parameters:
         - 2
         - Quitter
-        indent: 0
-        code: 402
       - !ruby/object:RPG::EventCommand
+        code: 119
+        indent: 1
         parameters:
         - quitter
-        indent: 1
-        code: 119
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
         code: 0
-      - !ruby/object:RPG::EventCommand
+        indent: 1
         parameters: []
-        indent: 0
-        code: 404
       - !ruby/object:RPG::EventCommand
+        code: 404
+        indent: 0
+        parameters: []
+      - !ruby/object:RPG::EventCommand
+        code: 118
+        indent: 0
         parameters:
         - autrechose
-        indent: 0
-        code: 118
       - !ruby/object:RPG::EventCommand
+        code: 121
+        indent: 0
         parameters:
         - 26
         - 26
         - 0
-        indent: 0
-        code: 121
       - !ruby/object:RPG::EventCommand
+        code: 101
+        indent: 0
         parameters:
         - "\\t[11,5]"
-        indent: 0
-        code: 101
       - !ruby/object:RPG::EventCommand
+        code: 102
+        indent: 0
         parameters:
         - - Acheter
           - Vendre
           - Quitter
         - 3
-        indent: 0
-        code: 102
       - !ruby/object:RPG::EventCommand
+        code: 402
+        indent: 0
         parameters:
         - 0
         - Acheter
-        indent: 0
-        code: 402
       - !ruby/object:RPG::EventCommand
+        code: 119
+        indent: 1
         parameters:
         - acheter
-        indent: 1
-        code: 119
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
         code: 0
+        indent: 1
+        parameters: []
       - !ruby/object:RPG::EventCommand
+        code: 402
+        indent: 0
         parameters:
         - 1
         - Vendre
-        indent: 0
-        code: 402
       - !ruby/object:RPG::EventCommand
+        code: 119
+        indent: 1
         parameters:
         - vendre
-        indent: 1
-        code: 119
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
         code: 0
+        indent: 1
+        parameters: []
       - !ruby/object:RPG::EventCommand
+        code: 402
+        indent: 0
         parameters:
         - 2
         - Quitter
-        indent: 0
-        code: 402
       - !ruby/object:RPG::EventCommand
+        code: 119
+        indent: 1
         parameters:
         - quitter
-        indent: 1
-        code: 119
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
         code: 0
-      - !ruby/object:RPG::EventCommand
+        indent: 1
         parameters: []
-        indent: 0
-        code: 404
       - !ruby/object:RPG::EventCommand
+        code: 404
+        indent: 0
+        parameters: []
+      - !ruby/object:RPG::EventCommand
+        code: 118
+        indent: 0
         parameters:
         - acheter
-        indent: 0
-        code: 118
       - !ruby/object:RPG::EventCommand
+        code: 121
+        indent: 0
         parameters:
         - 26
         - 26
         - 1
-        indent: 0
-        code: 121
       - !ruby/object:RPG::EventCommand
+        code: 302
+        indent: 0
         parameters:
         - 0
         - 4
-        indent: 0
-        code: 302
       - !ruby/object:RPG::EventCommand
+        code: 605
+        indent: 0
         parameters:
         - 0
         - 17
-        indent: 0
-        code: 605
       - !ruby/object:RPG::EventCommand
+        code: 605
+        indent: 0
         parameters:
         - 0
         - 18
-        indent: 0
-        code: 605
       - !ruby/object:RPG::EventCommand
+        code: 605
+        indent: 0
         parameters:
         - 0
         - 22
-        indent: 0
-        code: 605
       - !ruby/object:RPG::EventCommand
+        code: 119
+        indent: 0
         parameters:
         - autrechose
-        indent: 0
-        code: 119
       - !ruby/object:RPG::EventCommand
+        code: 118
+        indent: 0
         parameters:
         - vendre
-        indent: 0
-        code: 118
       - !ruby/object:RPG::EventCommand
+        code: 121
+        indent: 0
         parameters:
         - 26
         - 26
         - 1
-        indent: 0
-        code: 121
       - !ruby/object:RPG::EventCommand
+        code: 106
+        indent: 0
         parameters:
         - 5
-        indent: 0
-        code: 106
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
         code: 221
+        indent: 0
+        parameters: []
       - !ruby/object:RPG::EventCommand
+        code: 355
+        indent: 0
         parameters:
         - GamePlay::Bag.new(:shop).main
-        indent: 0
-        code: 355
       - !ruby/object:RPG::EventCommand
+        code: 222
+        indent: 0
         parameters:
         - ''
-        indent: 0
-        code: 222
       - !ruby/object:RPG::EventCommand
+        code: 119
+        indent: 0
         parameters:
         - autrechose
-        indent: 0
-        code: 119
       - !ruby/object:RPG::EventCommand
+        code: 118
+        indent: 0
         parameters:
         - quitter
-        indent: 0
-        code: 118
       - !ruby/object:RPG::EventCommand
+        code: 121
+        indent: 0
         parameters:
         - 26
         - 26
         - 1
-        indent: 0
-        code: 121
       - !ruby/object:RPG::EventCommand
+        code: 101
+        indent: 0
         parameters:
         - "\\t[11,4]"
-        indent: 0
-        code: 101
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 0
         code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
+        indent: 0
+        parameters: []
+      move_frequency: 3
       move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
         list:
         - !ruby/object:RPG::MoveCommand
           code: 0
           parameters: []
-      trigger: 0
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: employee_t2_2_walk
-        pattern: 0
-        tile_id: 0
-        direction: 4
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
+        repeat: true
+        skippable: false
       move_speed: 3
+      move_type: 0
+      step_anime: false
       through: false
-    name: Vendeur
-    y: 6
+      trigger: 0
+      walk_anime: true
     x: 13
-    id: 3
+    y: 6
   4: !ruby/object:RPG::Event
+    id: 4
+    name: turn off tn pa propaganda
     pages:
     - !ruby/object:RPG::Event::Page
-      move_type: 0
+      always_on_top: false
+      condition: !ruby/object:RPG::Event::Page::Condition
+        self_switch_ch: A
+        self_switch_valid: false
+        switch1_id: 1
+        switch1_valid: false
+        switch2_id: 1
+        switch2_valid: false
+        variable_id: 1
+        variable_valid: false
+        variable_value: 0
+      direction_fix: false
+      graphic: !ruby/object:RPG::Event::Page::Graphic
+        blend_type: 0
+        character_hue: 0
+        character_name: ''
+        direction: 2
+        opacity: 255
+        pattern: 0
+        tile_id: 0
       list:
       - !ruby/object:RPG::EventCommand
+        code: 111
+        indent: 0
         parameters:
         - 0
         - 141
         - 0
-        indent: 0
-        code: 111
       - !ruby/object:RPG::EventCommand
+        code: 121
+        indent: 1
         parameters:
         - 141
         - 141
         - 1
-        indent: 1
-        code: 121
       - !ruby/object:RPG::EventCommand
-        parameters: []
-        indent: 1
         code: 0
-      - !ruby/object:RPG::EventCommand
+        indent: 1
         parameters: []
-        indent: 0
+      - !ruby/object:RPG::EventCommand
         code: 412
-      - !ruby/object:RPG::EventCommand
-        parameters: []
         indent: 0
+        parameters: []
+      - !ruby/object:RPG::EventCommand
         code: 116
-      - !ruby/object:RPG::EventCommand
-        parameters: []
         indent: 0
+        parameters: []
+      - !ruby/object:RPG::EventCommand
         code: 0
-      condition: !ruby/object:RPG::Event::Page::Condition
-        switch2_valid: false
-        self_switch_ch: A
-        switch1_id: 1
-        switch1_valid: false
-        variable_value: 0
-        self_switch_valid: false
-        variable_id: 1
-        variable_valid: false
-        switch2_id: 1
-      direction_fix: false
+        indent: 0
+        parameters: []
+      move_frequency: 3
       move_route: !ruby/object:RPG::MoveRoute
-        repeat: true
-        skippable: false
         list:
         - !ruby/object:RPG::MoveCommand
           code: 0
           parameters: []
-      trigger: 3
-      step_anime: false
-      move_frequency: 3
-      graphic: !ruby/object:RPG::Event::Page::Graphic
-        opacity: 255
-        character_name: ''
-        pattern: 0
-        tile_id: 0
-        direction: 2
-        blend_type: 0
-        character_hue: 0
-      always_on_top: false
-      walk_anime: true
+        repeat: true
+        skippable: false
       move_speed: 3
+      move_type: 0
+      step_anime: false
       through: false
-    name: turn off tn pa propaganda
-    y: 1
+      trigger: 3
+      walk_anime: true
     x: 0
-    id: 4
+    y: 1
+height: 15
+tileset_id: 43
+width: 20

@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Maps/canal carpia.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Tilesets",
         ".",
+        "Maps",
         "PNG to tmx",
-        "Maps"
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -216,6 +216,23 @@
         "C:/Users/fuyutaa/Documents/GitHub/PSDK DEMO/demo/Data/Tiled/Tilesets/terrain_tag.tsx": {
             "scaleInDock": 1
         },
+        "C:/Users/fuyutaa/Pictures/Aseprite/videoGamesProjects/IMPOTIA ATELIER/PSDK 22-02-26/Demo 22-02-26/Data/Tiled/Maps/016 GameCorner.tmx": {
+            "scale": 2,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 1331,
+                "y": 656
+            }
+        },
+        "C:/Users/fuyutaa/Pictures/Aseprite/videoGamesProjects/IMPOTIA ATELIER/PSDK 22-02-26/Demo 22-02-26/Data/Tiled/Tilesets/TECH-Casino.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fuyutaa/Pictures/Aseprite/videoGamesProjects/IMPOTIA ATELIER/PSDK 22-02-26/Demo 22-02-26/Data/Tiled/Tilesets/TECH-Misc..tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/fuyutaa/Pictures/Aseprite/videoGamesProjects/IMPOTIA ATELIER/PSDK 22-02-26/Demo 22-02-26/Data/Tiled/Tilesets/passages.tsx": {
+            "scaleInDock": 1
+        },
         "Maps/Bois du Repos.tmx": {
             "scale": 1,
             "selectedLayer": 6,
@@ -241,11 +258,19 @@
             }
         },
         "Maps/DEBUG_ROOM.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 4,
+            "scale": 1.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 968,
-                "y": 752
+                "x": 380.66666666666663,
+                "y": 267.6666666666667
+            }
+        },
+        "Maps/Desert Kipik.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2381,
+                "y": 1337.5
             }
         },
         "Maps/Desert Prelassant.tmx": {
@@ -428,11 +453,11 @@
             "expandedGroupLayers": [
                 2
             ],
-            "scale": 1,
+            "scale": 0.75,
             "selectedLayer": 16,
             "viewCenter": {
-                "x": 1185,
-                "y": 1113.5
+                "x": 1224,
+                "y": 1112.6666666666665
             }
         },
         "Maps/Mines Zolta.tmx": {
@@ -523,12 +548,28 @@
                 "y": 2461
             }
         },
+        "Maps/Passage Courouca Red grass cave.tmx": {
+            "scale": 3,
+            "selectedLayer": 30,
+            "viewCenter": {
+                "x": 437.66666666666663,
+                "y": 506.33333333333326
+            }
+        },
+        "Maps/Passage Courouca Red grass.tmx": {
+            "scale": 2,
+            "selectedLayer": 23,
+            "viewCenter": {
+                "x": 800,
+                "y": 671.75
+            }
+        },
         "Maps/Passage Liberte.tmx": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 949.3333333333333,
-                "y": 698
+                "x": 1105.3333333333333,
+                "y": 803.3333333333333
             }
         },
         "Maps/Passage Luminescence.tmx": {
@@ -540,11 +581,11 @@
             }
         },
         "Maps/Passage corouca.tmx": {
-            "scale": 0.75,
+            "scale": 1.5,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 912.6666666666666,
-                "y": 1038.6666666666665
+                "x": 1136,
+                "y": 1279.6666666666665
             }
         },
         "Maps/Passagge corouca.tmx": {
@@ -556,11 +597,11 @@
             }
         },
         "Maps/Pochette Album 3.tmx": {
-            "scale": 2,
-            "selectedLayer": 7,
+            "scale": 0.5,
+            "selectedLayer": 30,
             "viewCenter": {
                 "x": 1600,
-                "y": 1599.75
+                "y": 1599
             }
         },
         "Maps/Prairie Flora.tmx": {
@@ -604,19 +645,27 @@
             }
         },
         "Maps/Sanctuaire Oublie.tmx": {
-            "scale": 3,
+            "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 748,
-                "y": 884.3333333333333
+                "x": 661,
+                "y": 1124.5
+            }
+        },
+        "Maps/Sanctuaire du fisc.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1500,
+                "y": 1548.6666666666665
             }
         },
         "Maps/Soladelle.tmx": {
             "scale": 1.5,
-            "selectedLayer": 31,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1958,
-                "y": 1070.6666666666665
+                "x": 1359.3333333333335,
+                "y": 815
             }
         },
         "Maps/Somegon - Copie - Copie.tmx": {
@@ -700,11 +749,11 @@
             }
         },
         "Maps/Temporis.tmx": {
-            "scale": 1.5,
+            "scale": 2,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 2027.3333333333333,
-                "y": 1347.6666666666665
+                "x": 1709.5,
+                "y": 944
             }
         },
         "Maps/Teneris.tmx": {
@@ -717,10 +766,10 @@
         },
         "Maps/TestEventEditor.tmx": {
             "scale": 1.5,
-            "selectedLayer": 0,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 237.66666666666666,
-                "y": 154
+                "x": 211.33333333333331,
+                "y": 200.33333333333334
             }
         },
         "Maps/Victoria.tmx": {
@@ -767,11 +816,11 @@
             }
         },
         "Maps/canal carpia.tmx": {
-            "scale": 0.75,
+            "scale": 0.25,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 1464,
-                "y": 1210
+                "x": 1716,
+                "y": 1480
             }
         },
         "Maps/comment editor test.tmx": {
@@ -799,11 +848,11 @@
             }
         },
         "Maps/laboursol interiors.tmx": {
-            "scale": 0.75,
+            "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1598.6666666666665,
-                "y": 797.3333333333333
+                "x": 1288,
+                "y": 412.66666666666663
             }
         },
         "Maps/laboursol_pokecenter.tmx": {
@@ -1219,11 +1268,14 @@
             }
         },
         "Maps/rules_random_tiles.tmx": {
-            "scale": 2,
-            "selectedLayer": 1,
+            "expandedGroupLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1032.25,
-                "y": 1609
+                "x": 3477,
+                "y": 3216.5
             }
         },
         "Maps/rules_terrain_basics.tmx": {
@@ -1291,19 +1343,19 @@
             }
         },
         "Maps/sylveria_caves.tmx": {
-            "scale": 1,
+            "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1776,
-                "y": 579.5
+                "x": 2400,
+                "y": 798.4848484848484
             }
         },
         "Maps/temporis_interiors.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 1,
+            "scale": 2,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 651.5151515151517,
-                "y": 584.8484848484849
+                "x": 1115.5,
+                "y": 540.25
             }
         },
         "Maps/trailer_map.tmx": {
@@ -1428,10 +1480,10 @@
         },
         "Maps/zephyrion.tmx": {
             "scale": 1,
-            "selectedLayer": 21,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 1520,
-                "y": 1112
+                "x": 1536,
+                "y": 911.5
             }
         },
         "Maps/zephyrion_interiors.tmx": {
@@ -1980,21 +2032,28 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
+        "Maps/Sanctuaire du fisc.tmx",
+        "Maps/sylveria_caves.tmx",
+        "Maps/Pochette Album 3.tmx",
+        "Maps/Passage Courouca Red grass.tmx",
+        "Maps/zephyrion.tmx",
+        "Maps/Passage corouca.tmx",
+        "Maps/canal carpia.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/Desert Prelassant.tmx",
-        "Maps/Somegon Pokecenter.tmx",
-        "Maps/Somegon.tmx",
-        "Maps/somegon_houses_interiors.tmx",
+        "Maps/Sanctuaire du fisc.tmx",
+        "Maps/sylveria_caves.tmx",
+        "Maps/Pochette Album 3.tmx",
+        "Maps/Passage Courouca Red grass.tmx",
         "Maps/zephyrion.tmx",
-        "Maps/laboursol interiors.tmx",
-        "Maps/Laboursol.tmx",
+        "Maps/Passage corouca.tmx",
+        "Maps/canal carpia.tmx",
+        "Maps/Passage Courouca Red grass cave.tmx",
+        "Maps/Passage Liberte.tmx",
+        "Maps/Sanctuaire Oublie.tmx",
         "Maps/Soladelle.tmx",
-        "Maps/laboursol_pokecenter.tmx",
-        "Maps/Laboursol Pokecenter.tmx",
-        "Maps/zephyrion_interiors.tmx",
-        "Maps/Route_05.tmx"
+        "Maps/rules_random_tiles.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"

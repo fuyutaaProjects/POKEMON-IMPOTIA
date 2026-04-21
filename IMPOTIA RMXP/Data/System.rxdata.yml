@@ -1,551 +1,80 @@
 --- !ruby/object:RPG::System
-variables:
--
-- Player raw ID
-- !binary |-
-  Q291bnQgb2Ygc2VlbiBQb2vDqW1vbg==
-- !binary |-
-  Q291bnQgb2YgY2F1Z2h0IFBva8OpbW9u
-- Current Box
-- Input number
-- !binary |-
-  QW1vdW50IG9mIFBva8OpbW9uIHRvIGNob29zZQ==
-- "--- Reserved"
-- RH Trainer ID to fight
-- Def. Particle terrain tag
-- Current Hour (virtual/real)
-- Current minute (virtual / real)
-- Current second
-- Current Week Day (virtual/real)
-- Current week (virtual)
-- Current month (virtual / real)
-- Current month day (virtual / real)
-- Current tone
-- Count of following Heroes
-- !binary |-
-  Q291bnQgb2YgZm9sbG93aW5nIFBva8OpbW9u
-- !binary |-
-  Q291bnQgb2YgZm9sbG93aW5nIEZyaWVuZCdzIFBva8OpbW9u
-- Follower to move (in player move)
-- "--- Reserved"
-- Dig MapID
-- Dig X coordinate
-- Dig Y coordinate
-- TMP_1
-- TMP_2
-- TMP_3
-- TMP_4
-- TMP_5
-- Trainer Transition ID
-- Map Transition ID
-- "--- Reserved"
-- AI level
-- Second Enemy Trainer ID
-- Friend Trainer ID
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- Coin count
-- "--- Reserved"
-- call_party_menu pokemon index
-- Daycare Price
-- Daycare Rate
-- Daycare ID
-- Battle lost Map return ID
-- Battle lost X coordinate
-- Battle lost Y coordinate
-- Battle Mode
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- "--- Reserved"
-- Suie
-- Pathfinding_cross_map
-- elevator floor
-- ''
-- ''
-- ''
-- pokemon/curseur
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- NEWS_TV_EVENT
-- chosen_starter
-- jd_won_starter_battle
-- etage_ascenceur
-- TMP_Impotia
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
-cancel_se: !ruby/object:RPG::AudioFile
-  name: select
+_: 7829367
+actor_collapse_se: !ruby/object:RPG::AudioFile
+  name: ''
+  pitch: 100
   volume: 80
-  pitch: 90
-magic_number: 56216272
-escape_se: !ruby/object:RPG::AudioFile
-  name: Fleee
-  volume: 80
-  pitch: 70
+battle_bgm: !ruby/object:RPG::AudioFile
+  name: PkmRB-Battle3
+  pitch: 100
+  volume: 100
 battle_end_me: !ruby/object:RPG::AudioFile
   name: fainted_jingle
-  volume: 100
   pitch: 100
-start_map_id: 4
+  volume: 100
+battle_start_se: !ruby/object:RPG::AudioFile
+  name: ''
+  pitch: 100
+  volume: 80
+battle_transition: ''
+battleback_name: battle8
+battler_hue: 0
+battler_name: battler
+buzzer_se: !ruby/object:RPG::AudioFile
+  name: Pokerebond
+  pitch: 100
+  volume: 100
+cancel_se: !ruby/object:RPG::AudioFile
+  name: select
+  pitch: 90
+  volume: 80
+cursor_se: !ruby/object:RPG::AudioFile
+  name: Choose
+  pitch: 100
+  volume: 80
+decision_se: !ruby/object:RPG::AudioFile
+  name: select
+  pitch: 100
+  volume: 80
+edit_map_id: 89
+elements:
+- ''
+- ''
+enemy_collapse_se: !ruby/object:RPG::AudioFile
+  name: ''
+  pitch: 100
+  volume: 80
+equip_se: !ruby/object:RPG::AudioFile
+  name: ''
+  pitch: 100
+  volume: 80
+escape_se: !ruby/object:RPG::AudioFile
+  name: Fleee
+  pitch: 70
+  volume: 80
+gameover_me: !ruby/object:RPG::AudioFile
+  name: ''
+  pitch: 100
+  volume: 100
+gameover_name: ''
+load_se: !ruby/object:RPG::AudioFile
+  name: select
+  pitch: 100
+  volume: 80
+magic_number: 98361311
+party_members:
+- 1
+save_se: !ruby/object:RPG::AudioFile
+  name: Nintendo
+  pitch: 150
+  volume: 80
 shop_se: !ruby/object:RPG::AudioFile
   name: Down
-  volume: 80
   pitch: 100
-gameover_name: ''
-words: !ruby/object:RPG::System::Words
-  str: ''
-  armor3: ''
-  mdef: ''
-  gold: ''
-  sp: ''
-  skill: ''
-  int: ''
-  armor2: ''
-  equip: ''
-  hp: ''
-  pdef: ''
-  attack: ''
-  agi: ''
-  armor1: ''
-  atk: ''
-  item: ''
-  dex: ''
-  armor4: ''
-  weapon: ''
-  guard: ''
+  volume: 80
+start_map_id: 4
+start_x: 9
+start_y: 14
 switches:
 -
 - Plays female character
@@ -1057,76 +586,547 @@ switches:
 - ''
 - ''
 - ''
-decision_se: !ruby/object:RPG::AudioFile
-  name: select
-  volume: 80
-  pitch: 100
-edit_map_id: 89
-battle_start_se: !ruby/object:RPG::AudioFile
-  name: ''
-  volume: 80
-  pitch: 100
-battle_bgm: !ruby/object:RPG::AudioFile
-  name: PkmRB-Battle3
-  volume: 100
-  pitch: 100
-test_troop_id: 4
-equip_se: !ruby/object:RPG::AudioFile
-  name: ''
-  volume: 80
-  pitch: 100
-title_name: ''
-enemy_collapse_se: !ruby/object:RPG::AudioFile
-  name: ''
-  volume: 80
-  pitch: 100
-cursor_se: !ruby/object:RPG::AudioFile
-  name: Choose
-  volume: 80
-  pitch: 100
-elements:
-- ''
-- ''
-start_y: 14
-battler_hue: 0
-load_se: !ruby/object:RPG::AudioFile
-  name: select
-  volume: 80
-  pitch: 100
-title_bgm: !ruby/object:RPG::AudioFile
-  name: PkmRS-Oceanic
-  volume: 100
-  pitch: 100
-buzzer_se: !ruby/object:RPG::AudioFile
-  name: Pokerebond
-  volume: 100
-  pitch: 100
-windowskin_name: pokesys0
 test_battlers:
 - !ruby/object:RPG::System::TestBattler
-  armor4_id: 0
   actor_id: 1
-  weapon_id: 0
-  level: 50
-  armor3_id: 0
-  armor2_id: 0
   armor1_id: 0
-battleback_name: battle8
-party_members:
-- 1
-actor_collapse_se: !ruby/object:RPG::AudioFile
-  name: ''
-  volume: 80
+  armor2_id: 0
+  armor3_id: 0
+  armor4_id: 0
+  level: 50
+  weapon_id: 0
+test_troop_id: 4
+title_bgm: !ruby/object:RPG::AudioFile
+  name: PkmRS-Oceanic
   pitch: 100
-gameover_me: !ruby/object:RPG::AudioFile
-  name: ''
   volume: 100
-  pitch: 100
-battler_name: battler
-save_se: !ruby/object:RPG::AudioFile
-  name: Nintendo
-  volume: 80
-  pitch: 150
-battle_transition: ''
-start_x: 9
-_: 7829367
+title_name: ''
+variables:
+-
+- Player raw ID
+- !binary |-
+  Q291bnQgb2Ygc2VlbiBQb2vDqW1vbg==
+- !binary |-
+  Q291bnQgb2YgY2F1Z2h0IFBva8OpbW9u
+- Current Box
+- Input number
+- !binary |-
+  QW1vdW50IG9mIFBva8OpbW9uIHRvIGNob29zZQ==
+- "--- Reserved"
+- RH Trainer ID to fight
+- Def. Particle terrain tag
+- Current Hour (virtual/real)
+- Current minute (virtual / real)
+- Current second
+- Current Week Day (virtual/real)
+- Current week (virtual)
+- Current month (virtual / real)
+- Current month day (virtual / real)
+- Current tone
+- Count of following Heroes
+- !binary |-
+  Q291bnQgb2YgZm9sbG93aW5nIFBva8OpbW9u
+- !binary |-
+  Q291bnQgb2YgZm9sbG93aW5nIEZyaWVuZCdzIFBva8OpbW9u
+- Follower to move (in player move)
+- "--- Reserved"
+- Dig MapID
+- Dig X coordinate
+- Dig Y coordinate
+- TMP_1
+- TMP_2
+- TMP_3
+- TMP_4
+- TMP_5
+- Trainer Transition ID
+- Map Transition ID
+- "--- Reserved"
+- AI level
+- Second Enemy Trainer ID
+- Friend Trainer ID
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- Coin count
+- "--- Reserved"
+- call_party_menu pokemon index
+- Daycare Price
+- Daycare Rate
+- Daycare ID
+- Battle lost Map return ID
+- Battle lost X coordinate
+- Battle lost Y coordinate
+- Battle Mode
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- "--- Reserved"
+- Suie
+- Pathfinding_cross_map
+- elevator floor
+- ''
+- ''
+- ''
+- pokemon/curseur
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- NEWS_TV_EVENT
+- chosen_starter
+- jd_won_starter_battle
+- etage_ascenceur
+- TMP_Impotia
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+windowskin_name: pokesys0
+words: !ruby/object:RPG::System::Words
+  agi: ''
+  armor1: ''
+  armor2: ''
+  armor3: ''
+  armor4: ''
+  atk: ''
+  attack: ''
+  dex: ''
+  equip: ''
+  gold: ''
+  guard: ''
+  hp: ''
+  int: ''
+  item: ''
+  mdef: ''
+  pdef: ''
+  skill: ''
+  sp: ''
+  str: ''
+  weapon: ''
