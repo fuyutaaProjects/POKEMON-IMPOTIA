@@ -13,9 +13,9 @@
     "volume": 100,
     "pitch": 100
   },
-  "mtime": 1771929164679,
-  "sha1": "17a5c8b38d4ba97e97e00804aaeb6e6d4659abea",
   "tiledFilename": "Passage Courouca Red grass",
+  "mtime": 1782725549083,
+  "sha1": "193b62321bae3451f0304ad9a80dd7ed2406764a",
   "tileMetadata": {
     "width": 50,
     "height": 42,
@@ -2077,6 +2077,32 @@
       ],
       [
         {
+          "priority": 4
+        },
+        {
+          "globalId": 2919,
+          "transformId": 0
+        },
+        {
+          "globalId": 3276,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 4
+        },
+        {
+          "globalId": 24724,
+          "transformId": 0
+        },
+        {
+          "globalId": 3277,
+          "transformId": 0
+        }
+      ],
+      [
+        {
           "priority": 3
         },
         {
@@ -2086,14 +2112,14 @@
       ],
       [
         {
-          "priority": 3
-        },
-        {
-          "globalId": 3124,
-          "transformId": 0
+          "priority": 4
         },
         {
           "globalId": 24724,
+          "transformId": 0
+        },
+        {
+          "globalId": 3124,
           "transformId": 0
         }
       ],
@@ -6539,22 +6565,20 @@
         83
       ],
       [
-        82,
-        145,
-        37
-      ],
-      [
-        82,
-        146,
-        207
-      ],
-      [
-        101,
+        76,
         207
       ],
       [
         76,
         208
+      ],
+      [
+        101,
+        209
+      ],
+      [
+        76,
+        210
       ],
       [
         76,
@@ -6877,7 +6901,7 @@
       ],
       [
         82,
-        209,
+        211,
         128
       ],
       [
@@ -7445,7 +7469,7 @@
       ],
       [
         76,
-        210
+        212
       ],
       [
         76,
@@ -7609,7 +7633,7 @@
       ],
       [
         76,
-        211
+        213
       ],
       [
         82,
