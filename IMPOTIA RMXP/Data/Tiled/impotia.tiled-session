@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/canal carpia.tmx",
+    "activeFile": "Maps/Laboursol.tmx",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Tilesets",
-        "PNG to tmx",
         ".",
-        "Maps"
+        "PNG to tmx",
+        "Maps",
+        "Tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -418,11 +418,11 @@
             }
         },
         "Maps/Labo abandonné.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 30,
             "viewCenter": {
-                "x": 2687.333333333333,
-                "y": 1628
+                "x": 1890,
+                "y": 1683
             }
         },
         "Maps/Laboursol Pokecenter.tmx": {
@@ -434,11 +434,11 @@
             }
         },
         "Maps/Laboursol.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 29,
+            "scale": 1,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 829.3333333333333,
-                "y": 1734.6666666666665
+                "x": 598.5,
+                "y": 1644
             }
         },
         "Maps/Le FISC.tmx": {
@@ -461,11 +461,11 @@
             }
         },
         "Maps/Mines Zolta.tmx": {
-            "scale": 4,
-            "selectedLayer": 7,
+            "scale": 0.5,
+            "selectedLayer": 30,
             "viewCenter": {
-                "x": 1034.75,
-                "y": 190
+                "x": 1310,
+                "y": 2431
             }
         },
         "Maps/Musee Mermesa.tmx": {
@@ -541,19 +541,19 @@
             }
         },
         "Maps/Ombroises.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 6,
+            "scale": 3,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1064,
-                "y": 2528.6666666666665
+                "x": 2912.1666666666665,
+                "y": 2023
             }
         },
         "Maps/Passage Courouca Red grass cave.tmx": {
-            "scale": 3,
-            "selectedLayer": 30,
+            "scale": 1.5,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 437.66666666666663,
-                "y": 506.33333333333326
+                "x": 507.99999999999994,
+                "y": 654
             }
         },
         "Maps/Passage Courouca Red grass.tmx": {
@@ -565,11 +565,11 @@
             }
         },
         "Maps/Passage Liberte.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 7,
+            "scale": 1.5,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 1105.3333333333333,
-                "y": 803.3333333333333
+                "x": 870.6666666666666,
+                "y": 848.6666666666665
             }
         },
         "Maps/Passage Luminescence.tmx": {
@@ -582,10 +582,10 @@
         },
         "Maps/Passage corouca.tmx": {
             "scale": 2,
-            "selectedLayer": 17,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 704.5,
-                "y": 963
+                "x": 650.75,
+                "y": 979.5
             }
         },
         "Maps/Passagge corouca.tmx": {
@@ -656,8 +656,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1498.6666666666665,
-                "y": 1546.6666666666665
+                "x": 1556,
+                "y": 1739.333333333333
             }
         },
         "Maps/Soladelle.tmx": {
@@ -717,11 +717,11 @@
             }
         },
         "Maps/Somegon.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 21,
+            "scale": 1,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 1766.6666666666665,
-                "y": 1391.3333333333333
+                "x": 1840,
+                "y": 1119.5
             }
         },
         "Maps/Sources chaudes de Soladelle.tmx": {
@@ -733,11 +733,11 @@
             }
         },
         "Maps/Sylveria.tmx": {
-            "scale": 1.5,
+            "scale": 0.75,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 724,
-                "y": 1057.3333333333333
+                "x": 979.9999999999999,
+                "y": 746.6666666666665
             }
         },
         "Maps/TEMPLATE.tmx": {
@@ -758,10 +758,10 @@
         },
         "Maps/Teneris.tmx": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 162.5,
-                "y": 858
+                "x": 1950.5,
+                "y": 999
             }
         },
         "Maps/TestEventEditor.tmx": {
@@ -773,11 +773,11 @@
             }
         },
         "Maps/Victoria.tmx": {
-            "scale": 1,
-            "selectedLayer": 31,
+            "scale": 1.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 833,
-                "y": 991.5
+                "x": 1453.3333333333335,
+                "y": 830.3333333333333
             }
         },
         "Maps/ZI de Soladelle.tmx": {
@@ -807,6 +807,30 @@
                 "y": 1181
             }
         },
+        "Maps/arene de laboursol pt1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 29,
+            "viewCenter": {
+                "x": 886.6666666666666,
+                "y": 512.6666666666665
+            }
+        },
+        "Maps/arene de laboursol pt2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 28,
+            "viewCenter": {
+                "x": 309,
+                "y": 444
+            }
+        },
+        "Maps/arene de laboursol.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 29,
+            "viewCenter": {
+                "x": 857,
+                "y": 780
+            }
+        },
         "Maps/bike_shop_lumi.tmx": {
             "scale": 1,
             "selectedLayer": 30,
@@ -816,11 +840,11 @@
             }
         },
         "Maps/canal carpia.tmx": {
-            "scale": 0.25,
-            "selectedLayer": 8,
+            "scale": 1.5,
+            "selectedLayer": 33,
             "viewCenter": {
-                "x": 1704,
-                "y": 1468
+                "x": 1292.6666666666665,
+                "y": 262.33333333333326
             }
         },
         "Maps/comment editor test.tmx": {
@@ -832,11 +856,11 @@
             }
         },
         "Maps/grotte_gelume.tmx": {
-            "scale": 2,
-            "selectedLayer": 30,
+            "scale": 1.5,
+            "selectedLayer": 29,
             "viewCenter": {
-                "x": 1599.25,
-                "y": 1919.5
+                "x": 1090.6666666666665,
+                "y": 789.6666666666665
             }
         },
         "Maps/labo_abandonné.tmx": {
@@ -891,8 +915,8 @@
             "scale": 3,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1193.8333333333333,
-                "y": 2374.6666666666665
+                "x": 1205.5,
+                "y": 2216
             }
         },
         "Maps/lumi_interiors.tmx": {
@@ -1181,10 +1205,10 @@
         },
         "Maps/rm_55_grotte_rochtherme.tmx": {
             "scale": 2,
-            "selectedLayer": 2,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1361,
-                "y": 1281.75
+                "x": 1299.5,
+                "y": 1277.75
             }
         },
         "Maps/rm_56_verdentia.tmx": {
@@ -1343,11 +1367,11 @@
             }
         },
         "Maps/sylveria_caves.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 30,
             "viewCenter": {
-                "x": 1806.0606060606062,
-                "y": 790.9090909090909
+                "x": 2793.333333333333,
+                "y": 464.6666666666666
             }
         },
         "Maps/temporis_interiors.tmx": {
@@ -1383,11 +1407,11 @@
             }
         },
         "Maps/verdentia_interiors.tmx": {
-            "scale": 0.75,
+            "scale": 4,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1162.6666666666665,
-                "y": 658
+                "x": 584.125,
+                "y": 396.75
             }
         },
         "Maps/verdentia_pokecenter.tmx": {
@@ -1415,11 +1439,11 @@
             }
         },
         "Maps/whitesnakes_interiors_floor_0.tmx": {
-            "scale": 1,
+            "scale": 1.5,
             "selectedLayer": 28,
             "viewCenter": {
-                "x": 1935,
-                "y": 801
+                "x": 1797.6666666666665,
+                "y": 1052.6666666666665
             }
         },
         "Maps/whitesnakes_interiors_lab.tmx": {
@@ -1479,11 +1503,11 @@
             }
         },
         "Maps/zephyrion.tmx": {
-            "scale": 3,
+            "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 282,
-                "y": 886.6666666666665
+                "x": 300,
+                "y": 882
             }
         },
         "Maps/zephyrion_interiors.tmx": {
@@ -2032,28 +2056,22 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 50,
     "openFiles": [
-        "Maps/Sanctuaire du fisc.tmx",
-        "Maps/sylveria_caves.tmx",
-        "Maps/Pochette Album 3.tmx",
-        "Maps/Passage Courouca Red grass.tmx",
-        "Maps/zephyrion.tmx",
-        "Maps/Passage corouca.tmx",
-        "Maps/canal carpia.tmx"
+        "Maps/Laboursol.tmx"
     ],
     "project": "impotia.tiled-project",
     "recentFiles": [
-        "Maps/Passage Courouca Red grass.tmx",
-        "Maps/canal carpia.tmx",
+        "Maps/Laboursol.tmx",
+        "Maps/Ombroises.tmx",
+        "Maps/arene de laboursol pt2.tmx",
+        "Maps/arene de laboursol pt1.tmx",
+        "Maps/arene de laboursol.tmx",
+        "Maps/lumi_interior_offices.tmx",
+        "Maps/whitesnakes_interiors_floor_0.tmx",
+        "Maps/verdentia_interiors.tmx",
+        "Maps/Labo abandonné.tmx",
+        "Maps/Somegon.tmx",
         "Maps/Passage corouca.tmx",
-        "Maps/zephyrion.tmx",
-        "Maps/Pochette Album 3.tmx",
-        "Maps/sylveria_caves.tmx",
-        "Maps/Sanctuaire du fisc.tmx",
-        "Maps/Passage Courouca Red grass cave.tmx",
-        "Maps/Passage Liberte.tmx",
-        "Maps/Sanctuaire Oublie.tmx",
-        "Maps/Soladelle.tmx",
-        "Maps/rules_random_tiles.tmx"
+        "Maps/Teneris.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx"
