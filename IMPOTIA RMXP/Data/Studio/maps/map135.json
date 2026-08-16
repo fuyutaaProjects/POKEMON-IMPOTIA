@@ -1,0 +1,3542 @@
+{
+  "klass": "Map",
+  "id": 135,
+  "dbSymbol": "map135",
+  "stepsAverage": 30,
+  "bgm": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "mtime": 1786394462553,
+  "sha1": "2823cc82edfda5f2aa44c2dea50355d0f0fca127",
+  "tiledFilename": "labo arche canal carpia",
+  "tileMetadata": {
+    "width": 65,
+    "height": 20,
+    "tilesets": [
+      {
+        "firstGlobalId": 1,
+        "source": "../Tilesets/passages.tsx"
+      },
+      {
+        "firstGlobalId": 145,
+        "source": "../Tilesets/systemtags.tsx"
+      },
+      {
+        "firstGlobalId": 273,
+        "source": "../Tilesets/terrain_tag.tsx"
+      },
+      {
+        "firstGlobalId": 289,
+        "source": "../Tilesets/nature_basics.tsx"
+      },
+      {
+        "firstGlobalId": 10273,
+        "source": "../Tilesets/common_assets.tsx"
+      },
+      {
+        "firstGlobalId": 20257,
+        "source": "../Tilesets/terrain basics v2.tsx"
+      },
+      {
+        "firstGlobalId": 26023,
+        "source": "../Tilesets/animations.tsx"
+      },
+      {
+        "firstGlobalId": 41311,
+        "source": "../Tilesets/buildings.tsx"
+      },
+      {
+        "firstGlobalId": 51295,
+        "source": "../Tilesets/town specifics.tsx"
+      },
+      {
+        "firstGlobalId": 61279,
+        "source": "../Tilesets/random tiles.tsx"
+      },
+      {
+        "firstGlobalId": 67519,
+        "source": "../Tilesets/interiors.tsx"
+      }
+    ],
+    "tileByTileId": [
+      [
+        {
+          "globalId": 70953,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70954,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70329,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70795,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70796,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70797,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70328,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70643,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70644,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70645,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70330,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70955,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70956,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70957,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71005,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71006,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70381,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70847,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70848,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70849,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 72276,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70380,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70695,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70696,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70697,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 72124,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70382,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 72125,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71007,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 72126,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71008,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71009,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72339,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70327,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72332,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71972,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71057,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71972,
+          "transformId": 0
+        },
+        {
+          "globalId": 71058,
+          "transformId": 0
+        },
+        {
+          "globalId": 72129,
+          "transformId": 0
+        },
+        {
+          "globalId": 72129,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72432,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72129,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71972,
+          "transformId": 0
+        },
+        {
+          "globalId": 70433,
+          "transformId": 0
+        },
+        {
+          "globalId": 72130,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72130,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72130,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70899,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72334,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70900,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72017,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70901,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72328,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70432,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72329,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72330,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70747,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 70748,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72342,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70749,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72176,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70434,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72177,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71059,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72178,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71060,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71061,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71062,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70380,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 63494,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70381,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 63495,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70382,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 63496,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72391,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 70379,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72384,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71109,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72181,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72484,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72182,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72386,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71972,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72380,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72381,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72382,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72120,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72394,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72228,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72229,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72230,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71112,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 68729,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71113,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71114,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71057,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 70433,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 70431,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 2
+        },
+        {
+          "globalId": 72284,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71060,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 67524,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72024,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72017,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72288,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72172,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71164,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 68781,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71165,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71166,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 72336,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71113,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72224,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71216,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71217,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71218,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 63498,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 63499,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 63500,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72388,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 72024,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71164,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71166,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71972,
+          "transformId": 0
+        },
+        {
+          "passage": 1
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 71340,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 71341,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 71342,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72175,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 63618,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 63619,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "priority": 1
+        },
+        {
+          "globalId": 63620,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71392,
+          "transformId": 0
+        },
+        {
+          "systemTag": 417
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71393,
+          "transformId": 0
+        },
+        {
+          "systemTag": 417
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71394,
+          "transformId": 0
+        },
+        {
+          "systemTag": 417
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 72017,
+          "transformId": 0
+        },
+        {
+          "passage": 2
+        }
+      ],
+      [
+        {
+          "globalId": 63738,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 63739,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 63740,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 71444,
+          "transformId": 0
+        },
+        {
+          "systemTag": 417
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71445,
+          "transformId": 0
+        },
+        {
+          "systemTag": 417
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 71446,
+          "transformId": 0
+        },
+        {
+          "systemTag": 417
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 67524,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 63858,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 63859,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 63860,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 67524,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 68001,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 68002,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 68003,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 68053,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 68054,
+          "transformId": 0
+        },
+        {
+          "passage": 0
+        }
+      ],
+      [
+        {
+          "globalId": 68055,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ]
+    ],
+    "layerData": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        6
+      ],
+      [
+        6
+      ],
+      [
+        7
+      ],
+      [
+        8
+      ],
+      [
+        9
+      ],
+      [
+        10
+      ],
+      [
+        11
+      ],
+      [
+        12
+      ],
+      [
+        13
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        14
+      ],
+      [
+        15
+      ],
+      [
+        16
+      ],
+      [
+        17
+      ],
+      [
+        18
+      ],
+      [
+        19,
+        20
+      ],
+      [
+        21
+      ],
+      [
+        21
+      ],
+      [
+        22
+      ],
+      [
+        23
+      ],
+      [
+        24,
+        25
+      ],
+      [
+        26,
+        27
+      ],
+      [
+        28,
+        29
+      ],
+      [
+        30
+      ],
+      [
+        31
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0
+      ],
+      [
+        6
+      ],
+      [
+        2
+      ],
+      [
+        10
+      ],
+      [
+        6,
+        32
+      ],
+      [
+        2
+      ],
+      [
+        10
+      ],
+      [
+        6
+      ],
+      [
+        33
+      ],
+      [
+        6,
+        34
+      ],
+      [
+        2
+      ],
+      [
+        10
+      ],
+      [
+        11
+      ],
+      [
+        12
+      ],
+      [
+        13
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        35,
+        36
+      ],
+      [
+        37,
+        38,
+        39
+      ],
+      [
+        40,
+        41,
+        42
+      ],
+      [
+        35,
+        43,
+        44
+      ],
+      [
+        35,
+        45
+      ],
+      [
+        46,
+        47,
+        48
+      ],
+      [
+        46,
+        49,
+        50
+      ],
+      [
+        46,
+        49,
+        51
+      ],
+      [
+        46,
+        52
+      ],
+      [
+        46,
+        53,
+        54
+      ],
+      [
+        46,
+        55,
+        56
+      ],
+      [
+        46,
+        57,
+        58
+      ],
+      [
+        46,
+        59,
+        60
+      ],
+      [
+        61
+      ],
+      [
+        62
+      ],
+      [
+        63
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        14
+      ],
+      [
+        64,
+        65
+      ],
+      [
+        66,
+        67
+      ],
+      [
+        68,
+        69
+      ],
+      [
+        64,
+        70
+      ],
+      [
+        16
+      ],
+      [
+        26
+      ],
+      [
+        21
+      ],
+      [
+        71
+      ],
+      [
+        64,
+        72
+      ],
+      [
+        16
+      ],
+      [
+        26
+      ],
+      [
+        28
+      ],
+      [
+        30
+      ],
+      [
+        31
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        35,
+        73
+      ],
+      [
+        35,
+        74,
+        75
+      ],
+      [
+        35,
+        76
+      ],
+      [
+        35,
+        77
+      ],
+      [
+        78
+      ],
+      [
+        46,
+        79
+      ],
+      [
+        46,
+        80
+      ],
+      [
+        46,
+        81
+      ],
+      [
+        46,
+        82
+      ],
+      [
+        46,
+        83
+      ],
+      [
+        46,
+        84
+      ],
+      [
+        46,
+        85
+      ],
+      [
+        46,
+        86
+      ],
+      [
+        46,
+        87,
+        88
+      ],
+      [
+        46,
+        89
+      ],
+      [
+        90
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        35,
+        91
+      ],
+      [
+        35,
+        49
+      ],
+      [
+        35,
+        92
+      ],
+      [
+        35,
+        57
+      ],
+      [
+        35,
+        49
+      ],
+      [
+        35,
+        92
+      ],
+      [
+        35,
+        57
+      ],
+      [
+        35,
+        49
+      ],
+      [
+        35,
+        93,
+        94
+      ],
+      [
+        35,
+        49,
+        20
+      ],
+      [
+        35,
+        92
+      ],
+      [
+        35,
+        57,
+        20
+      ],
+      [
+        35,
+        59,
+        20
+      ],
+      [
+        35,
+        95
+      ],
+      [
+        62
+      ],
+      [
+        63
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        78
+      ],
+      [
+        97
+      ],
+      [
+        78
+      ],
+      [
+        97
+      ],
+      [
+        78
+      ],
+      [
+        98
+      ],
+      [
+        46,
+        99
+      ],
+      [
+        98
+      ],
+      [
+        46,
+        100
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        46,
+        101,
+        102
+      ],
+      [
+        46,
+        103
+      ],
+      [
+        46,
+        104
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        35,
+        73
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78,
+        105
+      ],
+      [
+        78,
+        48
+      ],
+      [
+        78
+      ],
+      [
+        78,
+        48
+      ],
+      [
+        78,
+        48
+      ],
+      [
+        35,
+        87
+      ],
+      [
+        35,
+        106
+      ],
+      [
+        90
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        46,
+        107
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        46,
+        108
+      ],
+      [
+        46,
+        109,
+        50
+      ],
+      [
+        46,
+        110,
+        51
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        78,
+        111
+      ],
+      [
+        97,
+        112
+      ],
+      [
+        78,
+        113
+      ],
+      [
+        78
+      ],
+      [
+        97
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        97
+      ],
+      [
+        35,
+        114
+      ],
+      [
+        35,
+        79
+      ],
+      [
+        97
+      ],
+      [
+        35,
+        79
+      ],
+      [
+        35,
+        79
+      ],
+      [
+        115,
+        116
+      ],
+      [
+        35,
+        103
+      ],
+      [
+        46,
+        117
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        118,
+        119
+      ],
+      [
+        118,
+        120
+      ],
+      [
+        118,
+        121
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        46,
+        122
+      ],
+      [
+        46,
+        80
+      ],
+      [
+        46,
+        81
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        78,
+        123
+      ],
+      [
+        78,
+        124
+      ],
+      [
+        78,
+        125
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78,
+        20
+      ],
+      [
+        78,
+        20
+      ],
+      [
+        78
+      ],
+      [
+        78,
+        20
+      ],
+      [
+        78,
+        20
+      ],
+      [
+        35,
+        108
+      ],
+      [
+        35,
+        109,
+        94
+      ],
+      [
+        35,
+        110
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        78
+      ],
+      [
+        97
+      ],
+      [
+        35,
+        126
+      ],
+      [
+        115,
+        127
+      ],
+      [
+        35,
+        128
+      ],
+      [
+        129
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        46,
+        99
+      ],
+      [
+        98
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        35,
+        130
+      ],
+      [
+        35,
+        131
+      ],
+      [
+        35,
+        132
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78,
+        48
+      ],
+      [
+        78,
+        48
+      ],
+      [
+        78
+      ],
+      [
+        78,
+        48
+      ],
+      [
+        78,
+        48
+      ],
+      [
+        78
+      ],
+      [
+        78,
+        105
+      ],
+      [
+        78
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        35,
+        133
+      ],
+      [
+        35,
+        134
+      ],
+      [
+        35,
+        135
+      ],
+      [
+        129
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        136,
+        137
+      ],
+      [
+        136,
+        138
+      ],
+      [
+        139
+      ],
+      [
+        78
+      ],
+      [
+        97
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        97
+      ],
+      [
+        35,
+        79
+      ],
+      [
+        35,
+        79
+      ],
+      [
+        97
+      ],
+      [
+        35,
+        79
+      ],
+      [
+        35,
+        79
+      ],
+      [
+        97
+      ],
+      [
+        35,
+        114
+      ],
+      [
+        78
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        140
+      ],
+      [
+        140
+      ],
+      [
+        140
+      ],
+      [
+        98,
+        88
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        98,
+        88
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        78
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        46,
+        102
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        46,
+        141
+      ],
+      [
+        46,
+        142
+      ],
+      [
+        46,
+        143
+      ],
+      [
+        98
+      ],
+      [
+        98
+      ],
+      [
+        46,
+        102
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        136,
+        144
+      ],
+      [
+        145
+      ],
+      [
+        136,
+        146
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [
+        96
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  }
+}
